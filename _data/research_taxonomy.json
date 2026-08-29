@@ -1,0 +1,86 @@
+[
+  {
+    "key": "materials_and_condensed_matter",
+    "label": "材料与凝聚态物理",
+    "categories": [
+      {
+        "id": "cond-mat.mtrl-sci",
+        "label": "材料科学"
+      },
+      {
+        "id": "cond-mat.mes-hall",
+        "label": "介观与纳米物理"
+      },
+      {
+        "id": "cond-mat.str-el",
+        "label": "强关联电子系统"
+      },
+      {
+        "id": "cond-mat.supr-con",
+        "label": "超导物理"
+      },
+      {
+        "id": "cond-mat.dis-nn",
+        "label": "无序与神经网络"
+      },
+      {
+        "id": "cond-mat.soft",
+        "label": "软凝聚态物质"
+      },
+      {
+        "id": "cond-mat.other",
+        "label": "其他凝聚态物理"
+      }
+    ]
+  },
+  {
+    "key": "electron_microscopy_and_instrumentation",
+    "label": "电子显微镜、探测器与电子光学",
+    "categories": [
+      {
+        "id": "physics.ins-det",
+        "label": "仪器与探测器"
+      },
+      {
+        "id": "physics.app-ph",
+        "label": "应用物理"
+      },
+      {
+        "id": "physics.optics",
+        "label": "光学与电子光学"
+      }
+    ]
+  },
+  {
+    "key": "atomic_scale_materials_and_simulation",
+    "label": "原子尺度材料、谱学与模拟",
+    "categories": [
+      {
+        "id": "physics.chem-ph",
+        "label": "化学物理"
+      },
+      {
+        "id": "physics.atm-clus",
+        "label": "原子与分子团簇"
+      },
+      {
+        "id": "physics.comp-ph",
+        "label": "计算物理"
+      }
+    ]
+  },
+  {
+    "key": "microscopy_data_analysis",
+    "label": "4D-STEM、断层成像及显微数据分析",
+    "categories": [
+      {
+        "id": "physics.data-an",
+        "label": "物理数据分析"
+      },
+      {
+        "id": "eess.IV",
+        "label": "图像与视频处理"
+      }
+    ]
+  }
+]

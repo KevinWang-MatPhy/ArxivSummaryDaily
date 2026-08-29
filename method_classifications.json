@@ -2458,7 +2458,985 @@
       "confidence": 0.95,
       "reason": "核心证据来自第一性原理计算揭示CoF2压磁性微观机制。",
       "retryable": false
+    },
+    "2608.27440v1": {
+      "paper_id": "2608.27440v1",
+      "source_hash": "2d6493e38e9405e4f47d878fe4510144265486cba3b9bdb9a4d0cb6fde8aa893",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为基于信息格点框架的理论解析推导，得出信息弹道扩展和Tracy-Widom标度的普适性结论。",
+      "retryable": false
+    },
+    "2608.27399v1": {
+      "paper_id": "2608.27399v1",
+      "source_hash": "93affb3d02ab549612dd76faf7f63490c86a58447e8aca13f4d4e845febf069a",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为在非齐次输运度量下证明 Lieb-Robinson 界的理论推导。",
+      "retryable": false
+    },
+    "2608.27385v1": {
+      "paper_id": "2608.27385v1",
+      "source_hash": "50f89f220de9b1619c677d727d5170061e661eee49cae63095c802240f3c1283",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据来自含时组态相互作用模拟，揭示 CTTS 状态的形成机制。",
+      "retryable": false
+    },
+    "2608.27372v1": {
+      "paper_id": "2608.27372v1",
+      "source_hash": "050411dac46a455e97db2ad79d8e0c461be9d859dfe20b6202ba2d5fdb824285",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为建立随机向量椭球拟合的精确相变理论和临界阈值的数学证明。",
+      "retryable": false
+    },
+    "2608.27352v1": {
+      "paper_id": "2608.27352v1",
+      "source_hash": "0e6c976635072996c19d8b910825d297ee149c621dcda89bcf96b2f1dc37a076",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据来自基于高斯过程回归的非参数多尺度计算模拟，捕获分子现象并与原子基准吻合。",
+      "retryable": false
+    },
+    "2608.27335v1": {
+      "paper_id": "2608.27335v1",
+      "source_hash": "6adb04b0204dd1229cd67e548e6e73864fe96ae8f984e62956d180e4bf25542a",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "核心证据为实验制备样品并实现记录低损耗微环谐振器及演示克尔光频梳。",
+      "retryable": false
+    },
+    "2608.27333v1": {
+      "paper_id": "2608.27333v1",
+      "source_hash": "7c4a51d385afca35885893bb5b3f22bb78061949019039fd91508c1fc6fa5095",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据来自量子核方法在理想及模拟硬件噪声下的分类计算评估。",
+      "retryable": false
+    },
+    "2608.27315v1": {
+      "paper_id": "2608.27315v1",
+      "source_hash": "89944cfa5e33f2831717591d45cf58232f3276d6fbbbe5110bc13950c6ab50ad",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "核心证据为对硅藻壳空间组织的统计分析和超均匀性特征的数值计算验证。",
+      "retryable": false
+    },
+    "2608.27306v1": {
+      "paper_id": "2608.27306v1",
+      "source_hash": "8c65d5b0c343efb5e9705715d49d5416499d1bd51beb128117fa420f3baa80d5",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为 Opticks GPU 加速光学光子模拟的计算性能评估，对比 GEANT4。",
+      "retryable": false
+    },
+    "2608.27264v1": {
+      "paper_id": "2608.27264v1",
+      "source_hash": "25ea60c74f958ebbffa66622c518a353a8ba04bc2ee8e6fee97607f448d1e535",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "核心证据为 BCM1F 探测器的实验设计、重建及在高 pileup 条件下的性能测试。",
+      "retryable": false
+    },
+    "2608.27250v1": {
+      "paper_id": "2608.27250v1",
+      "source_hash": "75ff62e50fc07bfae66f12ca509d746aea35a109a23721c61fdce9727d4ee292",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.8,
+      "reason": "主要涉及激发扩散动力学的理论分析，归因于二体碰撞近似失效的平均场解释。",
+      "retryable": false
+    },
+    "2608.27245v1": {
+      "paper_id": "2608.27245v1",
+      "source_hash": "a8ccdcd6da830745db82fb150e712b2f1c17fc7643033dba767788f45a1cb9be",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "核心证据明确来自分子动力学模拟，研究不对称离子动力学行为。",
+      "retryable": false
+    },
+    "2608.27198v1": {
+      "paper_id": "2608.27198v1",
+      "source_hash": "23e8b881f3eae623fe98ab93d9abf3559d315ab65be2d94c02fdb09b24cf5bda",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为提出并评估 KDG-SemNOMA 框架在数据集上的知识蒸馏和生成模型计算实验。",
+      "retryable": false
+    },
+    "2608.27157v1": {
+      "paper_id": "2608.27157v1",
+      "source_hash": "a4fff343750ec0d8f44929457fc873041c7c706c6a20e1612b3be6c5a5825d58",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "核心证据为利用 Franson 干涉仪对罗丹明 6G 进行的纠缠双光子吸收实验测量。",
+      "retryable": false
+    },
+    "2608.27119v1": {
+      "paper_id": "2608.27119v1",
+      "source_hash": "94b46227a4322e8ab85b7067c76131a52dd0699700b6aa6dd2d7835bb9043db0",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "核心证据结合激光多普勒测振仪实验检测与有限元模型模拟，实验验证了振型本征模式。",
+      "retryable": false
+    },
+    "2608.27112v1": {
+      "paper_id": "2608.27112v1",
+      "source_hash": "3c5b6b9bcb44bcc67aab532c92ea2819cde3cefb051739a78ba4178bff1561a2",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为对多电子狄拉克-库仑哈密顿量守恒量和量子数的理论检验与证明。",
+      "retryable": false
+    },
+    "2608.27069v1": {
+      "paper_id": "2608.27069v1",
+      "source_hash": "40a902042b30f7ad8bf1173cd124bf1c2350a9a728cb3c77e2eff334d8881dbc",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为开发三进制 FDTD 数值方法并通过理论分析证明其与 Yee 方案的等价性。",
+      "retryable": false
+    },
+    "2608.27051v1": {
+      "paper_id": "2608.27051v1",
+      "source_hash": "f6f9cb6168d2eaf9c39ea8247c596ab519f8a657aebe17845e0e86005f1350d8",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为提出 AnatoProto 深度学习框架并在 ACOUSLIC-AI 基准上进行的计算评估。",
+      "retryable": false
+    },
+    "2608.27050v1": {
+      "paper_id": "2608.27050v1",
+      "source_hash": "1f0b5ed674fc3d1fd75843a407580cfd83302795144c51088c3c1d3eb62f5c47",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "核心证据为全光纤振荡器的实验实现及自启动动力学的观测。",
+      "retryable": false
+    },
+    "2608.27015v1": {
+      "paper_id": "2608.27015v1",
+      "source_hash": "0ef243a60445c36b3209427af1e447b484f7b9b6ada3057f8f6bb7fb65773374",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "核心证据为激光驱动电子束偏转的理论研究，分析不同偏振场的耦合效应。",
+      "retryable": false
+    },
+    "2608.26985v1": {
+      "paper_id": "2608.26985v1",
+      "source_hash": "60bfda2cae86de5d43bedf9308c31c46d938aecd7fd95f8176fea3f308a2e8c6",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "这是一篇综述文章，总结腔孤子的历史、物理诠释及理论预测，侧重理论分析。",
+      "retryable": false
+    },
+    "2608.26946v1": {
+      "paper_id": "2608.26946v1",
+      "source_hash": "fed30fc0f5754d133e949bd720dc8c0145a214f27779ca2c0ffba690383fa459",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "核心证据为通过低温磁性和 Li NMR 谱学实验研究化合物的磁性和自旋动力学。",
+      "retryable": false
+    },
+    "2608.26910v1": {
+      "paper_id": "2608.26910v1",
+      "source_hash": "f3158808caf09573714054b4b2140b77bb09940c751dbbdff40f2740d7dae574",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "核心证据为利用孤子动力学实验产生超宽带光谱并解析配合物超快动力学的实验研究。",
+      "retryable": false
+    },
+    "2608.26891v1": {
+      "paper_id": "2608.26891v1",
+      "source_hash": "bf1e9df3d84a26767b11e6c754bff436e4335dbb0490794a96333e439b0149b5",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为提出 Sparse Delta Integration 数值方法并验证其计算加速效果。",
+      "retryable": false
+    },
+    "2608.26824v1": {
+      "paper_id": "2608.26824v1",
+      "source_hash": "f948e05e02c5c3bfbfe9e4488d89564cd62dc881a6ecfee98f4a00c96d243a38",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "核心证据为提出并证明 Fock 矩阵和非对角低秩 (ODLR) 性质的理论工作。",
+      "retryable": false
+    },
+    "2608.26815v1": {
+      "paper_id": "2608.26815v1",
+      "source_hash": "fd3d118e197da5ccf8fbe391578ea07949af7763d1042f127b494a298d1cab6d",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.8,
+      "reason": "核心证据涉及分裂同轴电缆介质的实验构建、测量及 Bloch 模式的理论/数值分析。",
+      "retryable": false
+    },
+    "2608.26776v1": {
+      "paper_id": "2608.26776v1",
+      "source_hash": "013ff0122f61e8598e72c24f987c00d8c94709d61cd00a495fa3b44406fcb651",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "核心证据为发展傍轴近似外电磁光束构建的微扰理论框架。",
+      "retryable": false
+    },
+    "2608.26764v1": {
+      "paper_id": "2608.26764v1",
+      "source_hash": "265532bdbc23b7876d219a05eeb00d39bf5b26aeebe1ead841c8e001e9da16fd",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为开发基于机器学习的神经重整化群架构并进行渗流模拟。",
+      "retryable": false
+    },
+    "2608.26711v1": {
+      "paper_id": "2608.26711v1",
+      "source_hash": "18fb00db3befc5d677ac3c82d0ae13184af74a6d6ba1af29b72428ac7e08f77a",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为开发 SnapPINN 物理信息神经网络从稀疏数据重建流场的计算方法。",
+      "retryable": false
+    },
+    "2608.26704v1": {
+      "paper_id": "2608.26704v1",
+      "source_hash": "c73a8e56503c87834f9bd2af4d8bd1eb40b5eb13af4beecb7065b33691986a64",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "核心证据为 AlGaN/GaN 传感器的制造、封装及在 HSX 仿星器中的现场实验部署。",
+      "retryable": false
+    },
+    "2608.26633v1": {
+      "paper_id": "2608.26633v1",
+      "source_hash": "a091bc6d2b68bd1e438ed67b216f9390419aa299654386e88395242eeee61850",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为基于因果性求和规则推导介质镜厚度下限的理论证明。",
+      "retryable": false
+    },
+    "2608.26616v1": {
+      "paper_id": "2608.26616v1",
+      "source_hash": "079e67924e999f569f45a0758f9e12440ef8dbfd2442f93ab6c71ac17307bfc7",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "核心证据为软 PDMS 球扭转接触的实验研究，观测大变形下的面积演化。",
+      "retryable": false
+    },
+    "2608.26605v1": {
+      "paper_id": "2608.26605v1",
+      "source_hash": "81db701dc4787a137d39f6a9b73a5e92820ff885625e87a4fe80cf8c7cfd93bc",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为提出 DP-JMRNet 深度展开网络并进行 SAR 数据重建的计算实验。",
+      "retryable": false
+    },
+    "2608.26562v1": {
+      "paper_id": "2608.26562v1",
+      "source_hash": "a8beb8bf86495b64de873805bfc19deb004a5fbc901582ac3a7a0d9623e0381d",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "theory"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "核心证据包含超越对称性的波散射线性关系理论推导，并通过同轴电缆实验验证。",
+      "retryable": false
+    },
+    "2608.26556v1": {
+      "paper_id": "2608.26556v1",
+      "source_hash": "0c4104f1a33de3b3c8f7ca5b3b671ca4b6a2167673bd8654c0a35d9f48500e3b",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "核心证据为研究循环 Transformer 动力学相选择和计算缩放的理论证明。",
+      "retryable": false
+    },
+    "2608.26547v1": {
+      "paper_id": "2608.26547v1",
+      "source_hash": "ce4c8103f4c279584f1d1c9f5d6213421ecf61de98181191dbbe7b94869b53af",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "核心证据为随机递归单纯复形渐近增长规律的数学理论证明。",
+      "retryable": false
+    },
+    "2608.26542v1": {
+      "paper_id": "2608.26542v1",
+      "source_hash": "b596f1d93ebded568b299bc7ad7db7fdd2c7aeab704bd41c8c838fe83edb67f3",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "核心证据为非晶硅探测器的实验滞后表征及多陷阱速率方程模型的拟合验证。",
+      "retryable": false
+    },
+    "2608.26466v1": {
+      "paper_id": "2608.26466v1",
+      "source_hash": "4a2936fb61c09c6abe417baebbd34f4b9a841beddf2a217149867ddedb65ff7e",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "核心证据为 HoloCMA 系统的实验开发，结合全息术和深度学习进行气溶胶测量。",
+      "retryable": false
+    },
+    "2608.26460v1": {
+      "paper_id": "2608.26460v1",
+      "source_hash": "667fe65f0c0b49180648905d424fa3fcd9d02c9297ef17a60580d198c96c9f02",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心证据为在统一数值框架下比较多种非局部颗粒流体连续介质模型的计算模拟。",
+      "retryable": false
+    },
+    "2608.26445v1": {
+      "paper_id": "2608.26445v1",
+      "source_hash": "24543f7c20da2b8d787d82d18ecae687123ec01f82f3f9d94c295b2b24171093",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "核心证据为基于时空调制的光场相位检索实验方法及其梯度优化算法验证。",
+      "retryable": false
+    },
+    "2608.26440v1": {
+      "paper_id": "2608.26440v1",
+      "source_hash": "2ac8e9535224362f741f36c0f41d36ca6dd6d9046ed00dd46d4e22a11007f451",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26381v1": {
+      "paper_id": "2608.26381v1",
+      "source_hash": "fdf2a04da64bf2e05109be210823390daa66a1a34b81709b60f642de2f2f7412",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26370v1": {
+      "paper_id": "2608.26370v1",
+      "source_hash": "4e8daef5b926fc531275c042c622fb0c0546f6ba81e30b4dedf06a9e6bbb173f",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26356v1": {
+      "paper_id": "2608.26356v1",
+      "source_hash": "8ab71150c3c51327c69b8be9ad823bc75f75db0ae1a6bb3e4609ffef7aaa5c6b",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26354v1": {
+      "paper_id": "2608.26354v1",
+      "source_hash": "b02a7360bc7023885bc47ef0132afbb41a90440fd5699ee23cd81b83ec7d05d7",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26289v1": {
+      "paper_id": "2608.26289v1",
+      "source_hash": "a3b45d58716a1ecfdb99907075d80dea42b3c5aaf4bf7bd1f6e44802babb3d76",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26279v1": {
+      "paper_id": "2608.26279v1",
+      "source_hash": "4b9f263d89e379bf9fe37b996a3a42c33f57da2606092233d9a88c9d0c788faa",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26033v1": {
+      "paper_id": "2608.26033v1",
+      "source_hash": "be40a7973ee0e637844f2e55befc1d23cfd0b15285b65c41321722784808b17b",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.26030v1": {
+      "paper_id": "2608.26030v1",
+      "source_hash": "0bee31c006bf5df86982c1ef5f9f73b102ffb7b5f0c5a2f68952a522dd9e6b08",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25951v1": {
+      "paper_id": "2608.25951v1",
+      "source_hash": "d713be81ac97e9b5ffac9ede10d472519233d7b0a1aded7ef151020fc719da3c",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25916v1": {
+      "paper_id": "2608.25916v1",
+      "source_hash": "1483ba369bde9c592673291932ef794ce2c8e3d634cb288afa93c036bf6e5f64",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25882v1": {
+      "paper_id": "2608.25882v1",
+      "source_hash": "dfb3a05ee3b2553e12651c55d548c7b143b3cb9ffc2b2bce651c9e038df7c142",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25848v1": {
+      "paper_id": "2608.25848v1",
+      "source_hash": "ca48d906b32ce7194b02d3db5ac3dd56776198c51adf87bbad26f0d0896f82cb",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25801v1": {
+      "paper_id": "2608.25801v1",
+      "source_hash": "7c1458ee1e426a52e65e74b2d77e19d5e5863a156ea3d0d01be7d8d5f973b2cc",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25751v1": {
+      "paper_id": "2608.25751v1",
+      "source_hash": "d9a516b51e78e17bb81838479ce3fc44754e0ba6ad34309c6fa264dbf0adb9f2",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25732v1": {
+      "paper_id": "2608.25732v1",
+      "source_hash": "5174905179f0937f7770a20b42d427313d6f3844760e25e7cc9e5b4e9c247d45",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25687v1": {
+      "paper_id": "2608.25687v1",
+      "source_hash": "34f2aa6ea6d8e4c76749f7c89ced83aae9af8e43905e722ab77ab09d8a7c24a1",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25669v1": {
+      "paper_id": "2608.25669v1",
+      "source_hash": "5244747bcfc911b0f83262882aad3c4f0a8cf3c1eeac7e916142276ee8f26a46",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25595v1": {
+      "paper_id": "2608.25595v1",
+      "source_hash": "9bf832f6578dde7e0cc785d2d75e6c668375deb2e9f936332f3e407217ade33e",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25176v1": {
+      "paper_id": "2608.25176v1",
+      "source_hash": "ee0122add2f01753ed986e5611c9cc34b38a6ce17dcdcd2f074fdb71843b13eb",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25127v1": {
+      "paper_id": "2608.25127v1",
+      "source_hash": "63dc4d588ac9d6ee8c2f4440fb4d05b9a4c0cb2bbca1e4c0c85ea65c629bf835",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25109v1": {
+      "paper_id": "2608.25109v1",
+      "source_hash": "6d535e44a23ac404b4bd3a17a0abdbdc7971006e341b1e81d4a3c948cd2b84b3",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.25040v1": {
+      "paper_id": "2608.25040v1",
+      "source_hash": "a0a0555207d26c8ef0242140518d5b64259df369be77cd8612963f72d41295fa",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.24872v1": {
+      "paper_id": "2608.24872v1",
+      "source_hash": "78110db98667b2f9e6b8591fffbbbe2408c33d2fa4c3d8f8f3b7b8b522fd25d4",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.24806v1": {
+      "paper_id": "2608.24806v1",
+      "source_hash": "04938fcb50e0018a503827b76be3b0a2bca7403894505651414149cf940be1f7",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.24164v1": {
+      "paper_id": "2608.24164v1",
+      "source_hash": "f3dff1d2fe95d228fd3f1da24e77e8387c0b397a15400ca4d2feaa1e92e094ef",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.24032v1": {
+      "paper_id": "2608.24032v1",
+      "source_hash": "0caccc63a6bc4ccbbedf7710dd35c76ac31a847ed26c7687a410c93adb3ba3f5",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.23707v1": {
+      "paper_id": "2608.23707v1",
+      "source_hash": "6d56bf6fb94e44cacdfbd854435d41807149b22484dc471cd8b1fec89b1722f5",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.23289v1": {
+      "paper_id": "2608.23289v1",
+      "source_hash": "cb4bd7d89246e9e56ba5e6c1a0e7e5a755eb50a8fcb02f37ac0fa3f5472b8996",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.22873v1": {
+      "paper_id": "2608.22873v1",
+      "source_hash": "6bc350f81e09e1492b031a83696141538f14e52e62db388c30e0bdeca0aa4c30",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.22515v1": {
+      "paper_id": "2608.22515v1",
+      "source_hash": "c56f105dd84be64dfd02f6f77573088bf80d9dc7f1328499ac87f0171e7712ba",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.22463v1": {
+      "paper_id": "2608.22463v1",
+      "source_hash": "c3f21a337b0f3b567622f5e3e13c707454049fc66ecf498a2b33824f5620de41",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.21795v1": {
+      "paper_id": "2608.21795v1",
+      "source_hash": "b020516d02f89cdea914d7c70891f9c6c60d0c3a660801af36c3d61ce769169e",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.21689v1": {
+      "paper_id": "2608.21689v1",
+      "source_hash": "09ee5926e4c52e09f68b7f75a87bb4e0a1f6430655d622de133505b9825423a0",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.21549v2": {
+      "paper_id": "2608.21549v2",
+      "source_hash": "d3d1316c46e1e3307282a30e5fb18fee1cb3257c41b5502e06dba4d762721319",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.20489v1": {
+      "paper_id": "2608.20489v1",
+      "source_hash": "7794996fe816464573853ce9849b3499a4583725a35f03f8b9232b58fcbcb3f9",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.19404v1": {
+      "paper_id": "2608.19404v1",
+      "source_hash": "01e7ebf705426e4c44289adc8efc4de1afa031f67fac31fb93c1bba22715b972",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.19180v1": {
+      "paper_id": "2608.19180v1",
+      "source_hash": "6ff1d93cb776f7a3ab2446dd60a548848e02bce39c4dc1b0a6f6f01461038abd",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.18472v1": {
+      "paper_id": "2608.18472v1",
+      "source_hash": "0faf60f639180f276a0bc048413743b5fd61970d16abab95c5b6d2df5d29cfe8",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.16593v1": {
+      "paper_id": "2608.16593v1",
+      "source_hash": "f6b3f337048e3c38da5155385f3382cfbf683de8d8486164334778c774eb3c30",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
+      "retryable": true
+    },
+    "2608.14739v2": {
+      "paper_id": "2608.14739v2",
+      "source_hash": "1bf0f918500085261e44a38dabcaffbd9699f026263710dc330aa2b488a702a9",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.92,
+      "reason": "研究通过对称性分析和理论论证探讨超原子概念的物理本质，核心证据源于形式化推导而非实验测量或数值模拟。",
+      "retryable": false
     }
   },
-  "updated_at": "2026-08-29T06:10:40.034113+00:00"
+  "updated_at": "2026-08-29T06:48:52.762162+00:00"
 }

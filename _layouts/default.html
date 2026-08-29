@@ -51,14 +51,21 @@
       .summary-controls input:focus, .summary-controls select:focus { border-color: var(--teal-700); box-shadow: 0 0 0 3px rgba(29,112,114,.13); }
       #archive-range-custom { width: 118px; }
       .filter-row { align-items: flex-start; } .filter-row > .filter-label { flex: 0 0 100%; }
-      .topic-filters, .method-filters, .category-filters, .paper-topic-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+      .topic-filters, .method-filters, .paper-topic-tags, .category-group-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
       .filter-button, .reset-button { min-height: 36px; padding: 7px 12px; color: #3a5059; font: inherit; font-size: .84rem; font-weight: 700; border: 1px solid #cad9d7; border-radius: 999px; background: #fff; cursor: pointer; transition: transform .15s ease, background .15s ease, border-color .15s ease; }
-      .filter-button:hover, .reset-button:hover { transform: translateY(-1px); border-color: var(--teal-700); }
+      .filter-button:hover:not(:disabled), .reset-button:hover { transform: translateY(-1px); border-color: var(--teal-700); }
       .filter-button.active, .filter-button.multi-active { color: #fff; border-color: var(--teal-700); background: var(--teal-700); }
+      .filter-button:disabled { color: #8a989c; border-color: #dce5e3; background: #f3f6f5; cursor: not-allowed; opacity: .72; }
+      .filter-count { display: inline-flex; justify-content: center; min-width: 1.45rem; padding: 1px 5px; margin-left: 5px; border-radius: 999px; color: inherit; font-size: .72rem; background: rgba(112,139,141,.14); }
+      .filter-button.active .filter-count, .filter-button.multi-active .filter-count { background: rgba(255,255,255,.2); }
       .reset-button { margin-left: auto; color: var(--teal-800); background: var(--teal-50); }
+      .taxonomy-coverage { margin: 4px 0 0; color: var(--muted); font-size: .78rem; }
       .advanced-filters { width: 100%; color: var(--muted); font-size: .85rem; }
       .advanced-filters summary { cursor: pointer; font-weight: 800; color: var(--teal-800); }
-      .advanced-filters .category-filters { margin-top: 10px; }
+      .advanced-filters .category-filters { display: grid; gap: 10px; margin-top: 12px; }
+      .category-all-filter { margin-bottom: 2px; }
+      .category-group { padding: 11px 12px 12px; border: 1px solid #e1eae8; border-radius: 12px; background: #f9fbfa; }
+      .category-group-title { margin: 0 0 8px; color: #53686f; font-size: .76rem; font-weight: 800; }
       .summary-day { margin: 0 0 34px; }
       .summary-day-header { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin: 0 0 14px; padding: 0 2px; }
       .summary-day-header h2 { margin: 0; font-size: 1.42rem; }
@@ -116,7 +123,7 @@
     </header>
     <main id="content" class="main-content" role="main">
       <section id="summary-controls" class="summary-controls" aria-labelledby="filter-title" hidden>
-        <div class="controls-heading"><h2 id="filter-title">研究筛选器</h2><p class="result-count" id="result-count" aria-live="polite"></p></div>
+        <div class="controls-heading"><div><h2 id="filter-title">研究筛选器</h2><p id="taxonomy-coverage" class="taxonomy-coverage"></p></div><p class="result-count" id="result-count" aria-live="polite"></p></div>
         <div id="paper-filter-row" class="summary-controls-row">
           <div class="control-field grow"><label for="paper-search">搜索论文</label><input id="paper-search" type="search" placeholder="输入标题、作者、研究目的或关键词"></div>
           <button id="reset-filters" class="reset-button" type="button">重置筛选</button>
@@ -129,68 +136,89 @@
         </div>
         <div id="topic-filter-row" class="summary-controls-row filter-row"><span class="filter-label">交叉研究主题</span><div id="topic-filters" class="topic-filters" role="group" aria-label="按研究主题筛选"></div></div>
         <div id="method-filter-row" class="summary-controls-row filter-row"><span class="filter-label">研究技术方法</span><div id="method-filters" class="method-filters" role="group" aria-label="按研究技术方法筛选"></div></div>
-        <div id="category-filter-row" class="summary-controls-row filter-row"><details class="advanced-filters"><summary>高级筛选：按 arXiv 原始分类</summary><div id="category-filters" class="category-filters" role="group" aria-label="按 arXiv 分类筛选"></div></details></div>
+        <div id="category-filter-row" class="summary-controls-row filter-row"><details class="advanced-filters"><summary>高级筛选：15 个 arXiv 原始分类</summary><div id="category-filters" class="category-filters" role="group" aria-label="按 arXiv 分类筛选"></div></details></div>
       </section>
       <section id="empty-state" class="empty-state" hidden><h2>没有匹配的论文</h2><p>尝试缩短关键词，或重置主题与分类筛选。</p></section>
       {{ content }}
       <footer class="site-footer"><span>ArXiv Summary Daily · AI 生成内容仅供研究线索参考</span><span>数据来源：arXiv · 部署于 GitHub Pages</span></footer>
     </main>
+    <script type="application/json" id="research-taxonomy-data">{% if site.data.research_taxonomy %}{{ site.data.research_taxonomy | jsonify }}{% else %}[]{% endif %}</script>
     <script>
       const summaryBlocks = Array.from(document.querySelectorAll('.paper-summary'));
       const daySections = Array.from(document.querySelectorAll('.summary-day'));
       const controls = document.getElementById('summary-controls');
       const emptyState = document.getElementById('empty-state');
       const resultCount = document.getElementById('result-count');
+      const taxonomyCoverage = document.getElementById('taxonomy-coverage');
       const paperSearch = document.getElementById('paper-search');
       const resetFilters = document.getElementById('reset-filters');
       const topicFilters = document.getElementById('topic-filters');
       const methodFilters = document.getElementById('method-filters');
       const categoryFilters = document.getElementById('category-filters');
       const archiveDataElement = document.getElementById('summary-archive-data');
+      const taxonomyDataElement = document.getElementById('research-taxonomy-data');
       const archiveRange = document.getElementById('archive-range');
       const archiveRangeCustom = document.getElementById('archive-range-custom');
       const archiveSort = document.getElementById('archive-sort');
       const archiveSelect = document.getElementById('archive-select');
-      const topicDefinitions = {
-        materials: { label: '材料与凝聚态', categories: ['cond-mat.mtrl-sci','cond-mat.mes-hall','cond-mat.str-el','cond-mat.supr-con','cond-mat.dis-nn','cond-mat.soft','cond-mat.other'] },
-        microscopy: { label: '显微仪器与成像', categories: ['physics.ins-det','physics.app-ph','physics.optics'] },
-        atomic: { label: '原子尺度材料与模拟', categories: ['physics.chem-ph','physics.atm-clus','physics.comp-ph'] },
-        data: { label: '显微数据分析', categories: ['physics.data-an','eess.IV'] }
-      };
-      const methodDefinitions = {
-        theory: '理论',
-        computation: '计算',
-        experiment: '实验'
-      };
+      const parseJsonData = (element, fallback) => { if (!element) return fallback; try { return JSON.parse(element.textContent); } catch (error) { console.warn('无法解析页面数据', error); return fallback; } };
+      const researchTaxonomy = parseJsonData(taxonomyDataElement, []);
+      const topicDefinitions = Object.fromEntries(researchTaxonomy.map((topic) => [topic.key, topic]));
+      const methodDefinitions = { theory: '理论', computation: '计算', experiment: '实验' };
+      const archiveEntries = parseJsonData(archiveDataElement, []);
       const selectedTopics = new Set(['ALL']);
       const selectedMethods = new Set(['ALL']);
       const selectedCategories = new Set(['ALL']);
-      const parseArchiveData = () => { if (!archiveDataElement) return []; try { return JSON.parse(archiveDataElement.textContent); } catch (error) { console.warn('无法解析归档数据', error); return []; } };
-      const archiveEntries = parseArchiveData();
       const normalizeCategories = (value) => (value || '').split(',').map((item) => item.trim()).filter(Boolean);
       const normalizeMethods = (value) => (value || '').split(',').map((item) => item.trim()).filter((item) => item && item !== 'unclassified');
       const blockCategories = (block) => normalizeCategories(block.dataset.categories);
-      const matchingTopics = (categories) => Object.entries(topicDefinitions).filter(([,topic]) => topic.categories.some((category) => categories.includes(category))).map(([key]) => key);
-      const createFilterButton = (label, value, container, selectedSet) => {
-        const button = document.createElement('button'); button.type = 'button'; button.className = 'filter-button'; button.textContent = label; button.dataset.value = value;
+      const matchingTopics = (categories) => researchTaxonomy.filter((topic) => topic.categories.some((category) => categories.includes(category.id))).map((topic) => topic.key);
+      const categoryCounts = new Map();
+      const topicCounts = new Map();
+      summaryBlocks.forEach((block) => {
+        blockCategories(block).forEach((category) => categoryCounts.set(category, (categoryCounts.get(category) || 0) + 1));
+        matchingTopics(blockCategories(block)).forEach((topic) => topicCounts.set(topic, (topicCounts.get(topic) || 0) + 1));
+      });
+      const createFilterButton = ({ label, value, container, selectedSet, count, scope = container, disabled = false }) => {
+        const button = document.createElement('button');
+        button.type = 'button'; button.className = 'filter-button'; button.dataset.value = value; button.disabled = disabled;
+        const labelNode = document.createElement('span'); labelNode.textContent = label; button.appendChild(labelNode);
+        if (Number.isFinite(count)) { const countNode = document.createElement('span'); countNode.className = 'filter-count'; countNode.textContent = count; button.appendChild(countNode); }
         button.setAttribute('aria-pressed', value === 'ALL' ? 'true' : 'false'); button.classList.toggle('active', value === 'ALL');
         button.addEventListener('click', () => {
           if (value === 'ALL') { selectedSet.clear(); selectedSet.add('ALL'); }
           else { selectedSet.delete('ALL'); selectedSet.has(value) ? selectedSet.delete(value) : selectedSet.add(value); if (!selectedSet.size) selectedSet.add('ALL'); }
-          Array.from(container.querySelectorAll('button')).forEach((item) => { const active = selectedSet.has(item.dataset.value); item.classList.toggle('active', active); item.classList.toggle('multi-active', active && item.dataset.value !== 'ALL'); item.setAttribute('aria-pressed', active ? 'true' : 'false'); });
+          Array.from(scope.querySelectorAll('button')).forEach((item) => { const active = selectedSet.has(item.dataset.value); item.classList.toggle('active', active); item.classList.toggle('multi-active', active && item.dataset.value !== 'ALL'); item.setAttribute('aria-pressed', active ? 'true' : 'false'); });
           applyAllFilters();
-        }); container.appendChild(button);
+        });
+        container.appendChild(button);
+        return button;
       };
       const decoratePapers = () => summaryBlocks.forEach((block) => {
         const topics = matchingTopics(blockCategories(block)); block.dataset.topics = topics.join(','); const meta = block.querySelector('.paper-summary-meta'); if (!meta || !topics.length) return;
         const tags = document.createElement('div'); tags.className = 'paper-topic-tags'; topics.forEach((key) => { const tag = document.createElement('span'); tag.className = 'paper-topic-tag'; tag.textContent = topicDefinitions[key].label; tags.appendChild(tag); }); meta.insertAdjacentElement('afterend', tags);
       });
       const buildFilters = () => {
-        if (!summaryBlocks.length) return; const available = new Set(); const availableMethods = new Set(); summaryBlocks.forEach((block) => { blockCategories(block).forEach((category) => available.add(category)); normalizeMethods(block.dataset.methods).forEach((method) => availableMethods.add(method)); });
-        createFilterButton('全部主题','ALL',topicFilters,selectedTopics); Object.entries(topicDefinitions).forEach(([key,topic]) => { if (topic.categories.some((category) => available.has(category))) createFilterButton(topic.label,key,topicFilters,selectedTopics); });
-        createFilterButton('全部方法','ALL',methodFilters,selectedMethods); Object.entries(methodDefinitions).forEach(([key,label]) => { if (availableMethods.has(key)) createFilterButton(label,key,methodFilters,selectedMethods); });
+        if (!summaryBlocks.length) return;
+        const availableMethods = new Set(); summaryBlocks.forEach((block) => normalizeMethods(block.dataset.methods).forEach((method) => availableMethods.add(method)));
+        createFilterButton({ label: '全部主题', value: 'ALL', container: topicFilters, selectedSet: selectedTopics, count: summaryBlocks.length });
+        researchTaxonomy.forEach((topic) => { const count = topicCounts.get(topic.key) || 0; createFilterButton({ label: topic.label, value: topic.key, container: topicFilters, selectedSet: selectedTopics, count, disabled: count === 0 }); });
+        createFilterButton({ label: '全部方法', value: 'ALL', container: methodFilters, selectedSet: selectedMethods, count: summaryBlocks.length });
+        Object.entries(methodDefinitions).forEach(([key,label]) => { if (availableMethods.has(key)) createFilterButton({ label, value: key, container: methodFilters, selectedSet: selectedMethods }); });
         document.getElementById('method-filter-row').hidden = availableMethods.size === 0;
-        createFilterButton('全部分类','ALL',categoryFilters,selectedCategories); Array.from(available).sort().forEach((category) => createFilterButton(category,category,categoryFilters,selectedCategories));
+        const allCategoryButton = document.createElement('div'); allCategoryButton.className = 'category-all-filter'; categoryFilters.appendChild(allCategoryButton);
+        createFilterButton({ label: '全部分类', value: 'ALL', container: allCategoryButton, selectedSet: selectedCategories, count: summaryBlocks.length, scope: categoryFilters });
+        researchTaxonomy.forEach((topic) => {
+          const group = document.createElement('section'); group.className = 'category-group';
+          const heading = document.createElement('h3'); heading.className = 'category-group-title'; heading.textContent = topic.label; group.appendChild(heading);
+          const buttons = document.createElement('div'); buttons.className = 'category-group-buttons'; group.appendChild(buttons);
+          topic.categories.forEach((category) => { const count = categoryCounts.get(category.id) || 0; createFilterButton({ label: `${category.id} · ${category.label}`, value: category.id, container: buttons, selectedSet: selectedCategories, count, scope: categoryFilters, disabled: count === 0 }); });
+          categoryFilters.appendChild(group);
+        });
+        const coveredTopics = researchTaxonomy.filter((topic) => (topicCounts.get(topic.key) || 0) > 0).length;
+        const allCategories = researchTaxonomy.flatMap((topic) => topic.categories);
+        const coveredCategories = allCategories.filter((category) => (categoryCounts.get(category.id) || 0) > 0).length;
+        taxonomyCoverage.textContent = `本期覆盖 ${coveredTopics}/${researchTaxonomy.length} 个主题 · ${coveredCategories}/${allCategories.length} 个 arXiv 分类`;
       };
       const getLatestDate = (entries) => entries.reduce((latest,entry) => { const date = new Date(entry.timestamp || entry.date); return !latest || date > latest ? date : latest; }, null);
       const getSelectedRangeDays = () => { if (archiveRangeCustom && archiveRangeCustom.value) { const value = Number(archiveRangeCustom.value); return Number.isNaN(value) ? null : value; } if (!archiveRange || archiveRange.value === 'all') return null; const value = Number(archiveRange.value); return Number.isNaN(value) ? null : value; };
