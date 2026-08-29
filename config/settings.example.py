@@ -32,9 +32,9 @@ QUERY = ""     # 搜索CATEGORIES中的所有文献
 # 语言模型API配置
 LLM_CONFIG = {
     'api_key': "YOUR_API_HERE",                                             # 在这里输入API密钥
-    'model': 'gemini-3-flash-preview',                                         # 模型名称
+    'model': 'agnes-2.5-flash',                                         # 模型名称
     # 'model': 'gemini-2.0-flash',
-    'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API基础URL
+    'api_url': "https://api.agnes-ai.cn/v1",   # API基础URL
     'temperature': 0.5,                                                     # 温度参数
     'max_output_tokens': 32648,                                             # 最大输出长度
     'top_p': 0.8,                                                           # Top P 参数
