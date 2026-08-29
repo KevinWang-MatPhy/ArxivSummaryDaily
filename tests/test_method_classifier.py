@@ -214,6 +214,9 @@ class TestMethodClassifier(unittest.TestCase):
             self.assertIn("const selectedMethods", layout)
             self.assertIn("site.data.research_taxonomy", layout)
             self.assertIn("disabled: count === 0", layout)
+            self.assertIn('id="filter-panel"', layout)
+            self.assertIn('class="filter-panel-summary"', layout)
+            self.assertIn('id="filter-panel-body"', layout)
             self.assertEqual(len(taxonomy), 4)
             self.assertEqual(
                 sum(len(topic["categories"]) for topic in taxonomy),
