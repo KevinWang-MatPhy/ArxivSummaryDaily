@@ -6,6 +6,12 @@ import os
 # arXiv API 搜索配置
 SEARCH_CONFIG = {
     'max_total_results': 200,         # 总共要获取的最大论文数量
+    'page_size': 100,                 # 每页请求数量，避免单次请求过大
+    'delay_seconds': 10,              # arXiv API 分页/内部重试的最小间隔
+    'num_retries': 5,                 # arXiv 客户端对 429/5xx 的内部重试次数
+    'workflow_retry_attempts': 3,     # 完整检索流程的最大尝试次数
+    'workflow_retry_delay': 60,       # 完整检索重试的初始等待秒数（指数退避）
+    'allow_stale_on_transient_error': True,  # 有历史摘要时允许上游限流降级为空更新
     'sort_by': 'SubmittedDate',       # 排序方式: Relevance, LastUpdatedDate, SubmittedDate
     'sort_order': 'Descending',       # 排序顺序: Ascending, Descending
     'include_cross_listed': True,     # 是否包含跨类别的论文

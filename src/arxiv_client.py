@@ -11,8 +11,16 @@ from config.settings import SEARCH_CONFIG, QUERY
 
 class ArxivClient:
     def __init__(self, config=None):
-        self.client = arxiv.Client()
         self.config = config or SEARCH_CONFIG
+        # GitHub-hosted runners share outbound IP addresses, so arXiv can
+        # occasionally answer with 429/5xx responses.  Keep the library-level
+        # retry policy explicit instead of relying on version-dependent
+        # defaults from the ``arxiv`` package.
+        self.client = arxiv.Client(
+            page_size=self.config.get('page_size', 100),
+            delay_seconds=self.config.get('delay_seconds', 10),
+            num_retries=self.config.get('num_retries', 5),
+        )
 
     def _safe_get_categories(self, paper: arxiv.Result) -> List[str]:
         """安全地获取论文分类"""

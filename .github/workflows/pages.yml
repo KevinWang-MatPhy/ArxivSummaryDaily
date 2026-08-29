@@ -6,6 +6,11 @@ on:
   # Or you can trigger it manually
   workflow_dispatch:
 
+# 避免手动运行与定时运行重叠，降低共享出口 IP 触发 arXiv 限流的概率。
+concurrency:
+  group: arxiv-pages
+  cancel-in-progress: false
+
 jobs:
   build:
     permissions:
