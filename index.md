@@ -543,11 +543,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 利用周期性幅度角调制将相位信息编码到时间强度谐波中，通过梯度优化算法从散斑图案中成功提取并补偿了从低频像差到高频畸变的相位失真。
 </section>
 
-<section class="paper-summary" data-categories="physics.comp-ph,physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.comp-ph,physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.comp-ph, physics.chem-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Automatic generation of exchange-correlation response kernels](http://arxiv.org/abs/2608.26440v1)
@@ -556,11 +556,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 该库可自动产生任意阶 xc 矩阵元（如 Fock 矩阵、轨道 Hessian、响应项），并已成功扩展到 Psi4 和 GPAW 中以实现 mGGA 和 GGA 响应功能。
 </section>
 
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.app-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Quantifying the effect of resonant amplitude and frequency of phononic material vibrations on the coupled fluid-structure interaction dynamics in separated aerodynamic flows](http://arxiv.org/abs/2608.26381v1)
@@ -569,11 +569,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 建立了 PM-FSI 耦合频率、升力和环量与结构化参数之间的线性/立方关系，并识别出取决于共振频率与涡脱落频率接近程度的不同 FSI  regimes。
 </section>
 
-<section class="paper-summary" data-categories="physics.optics,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.optics,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.60">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.optics, physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.60"><strong>研究方法:</strong> 计算 · 实验</span>
 </div>
 
 ### [Loss-tolerant hybrid metasurface mirror for reducing coating Brownian noise in precision optical cavities](http://arxiv.org/abs/2608.26370v1)
@@ -582,11 +582,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 该设计将吸收从裸超表面的 24 ppm 降至 7 ppm，并将 Brownian 噪声振幅谱密度相对于等效布拉格镜降低了 1.6 倍，同时提高了角度容差。
 </section>
 
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="theory,computation,experiment" data-primary-method="theory" data-method-confidence="0.85">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.comp-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算 · 实验</span>
 </div>
 
 ### [Apokamp-type Gas Discharge Phenomenon: Experimental and Theoretical Backgrounds](http://arxiv.org/abs/2608.26356v1)
@@ -595,11 +595,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 提出的时变理论模型解释了 apokamp 射流的垂直传播机制，模拟结果与实验中观察到的传播速度 (100-220 km/s) 和温度特征一致。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference](http://arxiv.org/abs/2608.26354v1)
@@ -608,11 +608,11 @@ title: ArXiv Summary Daily
 - **主要发现:** SKATR（基于 JEPA 预训练的 ViT）无需重训练即可从完全不同的流体动力学模拟器推断参数，在真实 SKA 噪声下仍保持准确性、信息量和校准度，优于从头训练的有监督基线。
 </section>
 
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Paleo-Detectors as a Novel Probe of Dark Matter-Nucleus Effective Interactions](http://arxiv.org/abs/2608.26289v1)
@@ -621,11 +621,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 对于 1-10 GeV/$c^2$ 的 DM 质量，古探测器预期灵敏度超过常规实验；对于更大质量，其灵敏度取决于读出示景和目标矿物，但整体具有竞争力。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.dis-nn</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Critical Properties and Glass Transitions in Randomly Coupled Fields](http://arxiv.org/abs/2608.26279v1)
@@ -634,11 +634,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 发现随机耦合矩阵产生了一系列高斯普适类，其临界指数由本征值密度在谱边缘的行为决定；在可解球面变体中，发现比热容在 $d>1$ 时发生跳跃，且关联在玻璃相中保持临界形式。
 </section>
 
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> eess.IV</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [UltraPIPS: Improving model perception in B-mode ultrasound with foundation models](http://arxiv.org/abs/2608.26033v1)
@@ -647,11 +647,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 证明超声 backbone 模型与下游任务性能的相关性高于自然图像或通用医疗模型，使用超声 backbone 优化 LPIPS 损失可在重建质量和真实感之间取得更强平衡。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.soft,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.soft,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.soft, physics.comp-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [A Scalable OpenLB LAMMPS Framework for Fully Resolved Simulations of Hindered Settling of Arbitrary Non-Spherical Particles](http://arxiv.org/abs/2608.26030v1)
@@ -660,11 +660,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 模拟了多达 10 万个立方体的受阻沉降，发现立方体形成明显的配位壳且无平行面接触，与球体的接触主导聚类形成对比；速度波动的关联长度随系统尺寸标度。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Landau Theory for Commensurate Charge-Density Waves Coupled to Uniform Lattice Deformation](http://arxiv.org/abs/2608.25951v1)
@@ -673,11 +673,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 提出振幅-应变自由能，表明 CDW 通过缓解 $Q\_C(\varepsilon)$ 与 $Q\_{IC}$ 之间的不匹配来诱导有限均匀应变，且不匹配在 CDW 和晶格间按刚度比分配，刚度越大晶格承担越多。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.soft</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Current fluctuations in a gas of active Ornstein-Uhlenbeck particles](http://arxiv.org/abs/2608.25916v1)
@@ -686,11 +686,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 发现活性系统在不同时间尺度上表现出扩散、超扩散和次扩散 regime，所有这些 regime 均由单个缩放累积量生成函数描述，且电流统计在大时间下仍保留对初始条件的依赖。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.soft, physics.chem-ph, physics.comp-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Residual semi-crystalline particles released during enzymatic degradation of plastics](http://arxiv.org/abs/2608.25882v1)
@@ -699,11 +699,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 方法预测 PET 废料的降解产物为松散连接的“蓬松”高表面积聚集体，并遵循连续尺寸分布的小团簇，为下游处理技术的选择提供了定量框架。
 </section>
 
-<section class="paper-summary" data-categories="physics.chem-ph,physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.chem-ph,physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.chem-ph, physics.atm-clus</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
 </div>
 
 ### [Core-valence double ionization of SF6 involving S2p, F1s and S1s inner shells](http://arxiv.org/abs/2608.25848v1)
@@ -712,11 +712,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 芯空穴显著重排分子轨道顺序，单态-三重态分裂随芯能级加深而减小，且 S2p 的分裂大于 S1s，理论计算与实验结果高度吻合。
 </section>
 
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.app-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Simultaneous Digital Communication and Deformation Sensing over a Single Stretchable Interconnect](http://arxiv.org/abs/2608.25801v1)
@@ -725,11 +725,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 通过应变诱导的可拉伸液态金属互连电阻变化对标准 UART 数字信号进行幅度调制，实现了无需额外传感元件的同时数字通信和自我变形传感。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.soft</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Lipid Hydrocarbon Tail Structure Governs Interfacial Anchoring and Stripe Morphology in Cholesteric Liquid Crystals](http://arxiv.org/abs/2608.25751v1)
@@ -738,11 +738,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 脂质酰基链结构通过影响局部相互作用、集体界面组织和流动性来调节胆甾醇锚定；DLPC 产生更规则的织构并促进螺旋解开，而 DOPC 显示出更大的形态异质性。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-26" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
 </div>
 
 ### [PCB-Integrated CoPt Micromagnets for Magnetophoresis](http://arxiv.org/abs/2608.25732v1)
@@ -751,11 +751,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 600 °C 退火后形成的有序 L1$\_0$ 相使面内磁矫顽力从 0.24T 提高至 1.4T，且在微流控通道中捕获磁性纳米颗粒的性能与有限元模型预测高度一致。
 </section>
 
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Signal formation and induction-gap optimization in a THGEM coupled to a resistive plate anode](http://arxiv.org/abs/2608.25687v1)
@@ -764,11 +764,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 确定了 0.2 mm 的最佳感应间隙，在此配置下使用 5.9 keV X 射线辐照时实现了约 56 $\mu$A 的峰值幅度和约 5 ns 的上升时间，并在宇宙线缪子探测中达到了约 6.0 ns 的时间分辨率。
 </section>
 
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-26" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.chem-ph</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Benchmark of Multi-Channel Dyson Equation and Algebraic Diagrammatic Construction Methods for molecules](http://arxiv.org/abs/2608.25669v1)
@@ -778,11 +778,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 戴森-ADC(3) 与非戴森-ADC(3) 之间存在约 0.1 eV 的偏差，质疑了非戴森近似的可靠性；同时发现屏蔽 (3,1)-MCDE 比未屏蔽版本精度更高。
 </section>
 
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-08-26" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-26</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Development and Commissioning of the Cryogenic Target Detectors for the Technical Run of the NUCLEUS Experiment](http://arxiv.org/abs/2608.25595v1)
@@ -791,11 +791,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 成功实现平均基线能量分辨率 $\overline\sigma\_{\mathrm{BL}} = (2.79 \pm 0.60)\,\mathrm{eV}$，最佳探测器达到 $(2.16 \pm 0.02\_{\mathrm{stat}})\,\mathrm{eV}$，超越了设计目标两倍，并验证了与外围 veto 探测器无串扰的稳定运行。
 </section>
 
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> eess.IV</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection](http://arxiv.org/abs/2608.25176v1)
@@ -804,11 +804,11 @@ title: ArXiv Summary Daily
 - **主要发现:** YOLOEZ 集成数据标注、训练和推理，无需编程即可实现高性能模型开发，并在多项检测指标上优于传统方法及现有现代计算机视觉工具。
 </section>
 
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.70">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> eess.IV</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.70"><strong>研究方法:</strong> 计算 · 理论</span>
 </div>
 
 ### [Learning spatially varying regularisation parameters of low regularity for image reconstruction](http://arxiv.org/abs/2608.25127v1)
@@ -817,11 +817,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 学习的权重通常具有低正则性，不仅能适应图像结构，还能适应特定噪声实现，从而显著提高边缘和细节保真度，为未来研究指明了方向。
 </section>
 
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> eess.IV</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Improving Cross-Site Whole-Heart Segmentation](http://arxiv.org/abs/2608.25109v1)
@@ -830,11 +830,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 结合 Bias Field + Bezier 外观增强的方法将 CT 平均 Dice 从 0.8350 提升至 0.9135，MRI 从 0.7695 提升至 0.7830，证明了站点驱动的外观增强是提升有限数据跨站点鲁棒性的实用策略。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-25" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Raman magnon spectroscopy of local interactions and ground state selection in $\mathrm{Sr\_2IrO\_4}$](http://arxiv.org/abs/2608.25040v1)
@@ -843,11 +843,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 压力虽不显著改变晶格，但增强了弱层间相互作用的变化，导致磁振模式位置依赖性和磁性异质性，表明拉曼活性磁振能放大 $\mu$eV 尺度的相互作用以影响基态选择。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Binary Hypothesis Testing: A Robust Framework Against the Look Elsewhere Effect](http://arxiv.org/abs/2608.24872v1)
@@ -856,11 +856,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 证明二元检验对 elsewhere 效应具有鲁棒性，而峰值搜索需要显式校正；在约 26 的试验因子下，峰值搜索的 $3\sigma$ 全局显著性对应于二元检验的约 $4\sigma$ 显著性。
 </section>
 
-<section class="paper-summary" data-categories="physics.optics,eess.IV,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation,microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.optics,eess.IV,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation,microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.75">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.optics, eess.IV, physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.75"><strong>研究方法:</strong> 计算 · 实验</span>
 </div>
 
 ### [Effects of Quantum Noise and Source Blurring on Dark-Field Signal Retrieval in X-ray Speckle-Based Imaging](http://arxiv.org/abs/2608.24806v1)
@@ -869,11 +869,11 @@ title: ArXiv Summary Daily
 - **主要发现:** LCS 算法在光子饥饿条件下因导数噪声放大导致线性度和灵敏度急剧下降；XST-XSVT 算法通过块状方差计算抑制随机噪声，保持稳定的基线和灵敏度，揭示了不同算法架构对硬件退化响应的根本差异。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-25" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Decoupling candidate dual AGN from chance superpositions in the GOTHIC survey via a deep-learning framework](http://arxiv.org/abs/2608.24164v1)
@@ -882,11 +882,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 最终模型验证精度达 0.919，召回率 0.905，剔除污染后获得约 $1.4\times10^4$ 至 $1.8\times10^4$ 个合理的 DAGN 候选体，大幅减少了误报并扩展了可研究样本。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-25" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-25" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-25</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Time-Dependent Tunneling in the Thin-Barrier Limit](http://arxiv.org/abs/2608.24032v1)
@@ -895,11 +895,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 在束缚粒子的共振情况下，隧穿概率随时间呈 $t^2$ 增长，而在非共振情况下呈线性增长，并计算了从准束缚态到连续体的时间依赖性隧穿波函数。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-24" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-24" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-24</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Hamiltonian Learning at Scale](http://arxiv.org/abs/2608.23707v1)
@@ -908,11 +908,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 成功将基于近似稳态的学习协议扩展至 $N=300$ 位点的混合场 Ising 模型自旋链，提供了关于误差如何影响哈密顿量学习过程的有价值见解及解析误差界。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-24" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-24" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.80">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-24</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.80"><strong>研究方法:</strong> 理论 · 计算</span>
 </div>
 
 ### [Quantum Geometry Driven Optical Responses in 1T-MX$\_2$ Monolayers: A Symmetry-Constrained Slater-Koster Tight-Binding Approach](http://arxiv.org/abs/2608.23289v1)
@@ -921,11 +921,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 原始单层具有有限的量子度量，主要贡献来自最高占据带的强杂化；验证了带间 $f$-求和规则，确立光谱权重可作为占据布洛赫态量子几何的实验探针。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-24" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-24" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-24</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Differentiable Parametric Simulation and Reconstruction Models in Parnassus](http://arxiv.org/abs/2608.22873v1)
@@ -934,11 +934,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 通过闭式测试成功恢复了生成参数，并完成了对 CMS 全模拟的首次拟合，证明了生成的模型具有可解释性、低成本且兼容 Python/GPU 流水线。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-23" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-23" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-23</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Interpretable statistical feature engineering for early disruption prediction in the short pulse ADITYA tokamak](http://arxiv.org/abs/2608.22515v1)
@@ -947,11 +947,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 基于决策树特征选择的随机森林分类器在 0-35 ms 窗口达到最大 ROC-AUC 0.87，证明精心设计的统计描述符可有效替代原始时间序列输入，实现实时破裂预测。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-23" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-23" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.75">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-23</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.75"><strong>研究方法:</strong> 理论 · 计算</span>
 </div>
 
 ### [Noise Effects on Ordinal Pattern Statistics via Majorization](http://arxiv.org/abs/2608.22463v1)
@@ -960,11 +960,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 提出了无需拟合过程即可量化观测噪声的方法，并通过古地磁记录分析证实了该方法在恢复低信噪比地球偶极子演化序列判别力方面的有效性。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-22" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-08-22" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.other</span>
   <span><strong>发布日期:</strong> 2026-08-22</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Nonreciprocal Control of the Goos--Hänchen Shift via the Barnett Effect in Cavity Magnomechanics](http://arxiv.org/abs/2608.21795v1)
@@ -973,11 +973,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 由于 Barnett 效应，磁子频率获得旋转诱导的频移，输出探针谱呈现 Fano 共振，且 GHS 对相反磁场方向不对称响应，为磁可重构微波光子器件提供了途径。
 </section>
 
-<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-21" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-21" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.atm-clus</span>
   <span><strong>发布日期:</strong> 2026-08-21</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
 </div>
 
 ### [Programmable Doppler real-space pattern formation in cold atoms](http://arxiv.org/abs/2608.21689v1)
@@ -986,11 +986,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 递归重复该过程可在实空间中倍增原子包数量，利用 ${}^{88}\mathrm{Sr}$ 参数成功演示了 8 包一维阵列和 64 包二维正方形阵列。
 </section>
 
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-21" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-08-21" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.75">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.data-an</span>
   <span><strong>发布日期:</strong> 2026-08-21</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.75"><strong>研究方法:</strong> 计算 · 理论</span>
 </div>
 
 ### [Probabilistic inference of surface parameters for Monin-Obukhov similarity theory](http://arxiv.org/abs/2608.21549v2)
@@ -999,11 +999,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 在数据稀疏条件下，贝叶斯推断方法相比最小二乘拟合显著降低了预测误差，并发现后验预测分布的连续排序概率评分降低了约 20-30%。
 </section>
 
-<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-20" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-20" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.atm-clus</span>
   <span><strong>发布日期:</strong> 2026-08-20</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Self-limiting electrostriction of a single ion in an ultracold polar gas: From mesoscopic ions to crystalline molecular rings](http://arxiv.org/abs/2608.20489v1)
@@ -1012,11 +1012,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 蒸发能随团簇尺寸呈现平台状依赖，反映同心分子环的序贯形成；分子间排斥和偶极几何导致自我限制的电致伸缩，形成介观分子离子而非传统配位结构。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.atm-clus,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.atm-clus,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.80">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.atm-clus, physics.chem-ph, physics.comp-ph</span>
   <span><strong>发布日期:</strong> 2026-08-19</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.80"><strong>研究方法:</strong> 计算 · 实验</span>
 </div>
 
 ### [Dynamic Ensembles of Phosphine-Stabilized Gold Nanoclusters](http://arxiv.org/abs/2608.19404v1)
@@ -1025,11 +1025,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 实验报告的晶体结构常对应次要亚稳态或瞬态构型而非主导有限温度结构；增加配体覆盖率会驱动金核从平面转向三维并加速异构化动力学。
 </section>
 
-<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.atm-clus</span>
   <span><strong>发布日期:</strong> 2026-08-19</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
 </div>
 
 ### [Electrostriction in a Bose-Einstein Condensate of Dipolar Molecules](http://arxiv.org/abs/2608.19180v1)
@@ -1038,11 +1038,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 观察到由各向异性偶极相互作用驱动的椭圆变形，实验结果与扩展 Gross-Pitaevskii 方程模型高度一致，并演示了通过动态改变微波场取向使分子 BEC 旋转。
 </section>
 
-<section class="paper-summary" data-categories="physics.atm-clus,physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="physics.atm-clus,physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-08-19" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> physics.atm-clus, physics.comp-ph</span>
   <span><strong>发布日期:</strong> 2026-08-19</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
 </div>
 
 ### [Unified Strong-Field Dynamics Simulations from Atoms to Heterostructures](http://arxiv.org/abs/2608.18472v1)
@@ -1051,11 +1051,11 @@ title: ArXiv Summary Daily
 - **主要发现:** 验证了静态本征求解器在 GaAs/AlGaAs 双量子阱中的指数衰减隧穿劈裂符合 WKB 理论，并在原子基准中准确复现了高次谐波产生谱，展示了优秀的强扩展效率。
 </section>
 
-<section class="paper-summary" data-categories="cond-mat.str-el,physics.atm-clus,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-17" markdown="1" data-methods="unclassified" data-primary-method="unclassified" data-method-confidence="0.00">
+<section class="paper-summary" data-categories="cond-mat.str-el,physics.atm-clus,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-08-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.str-el, physics.atm-clus, physics.chem-ph</span>
   <span><strong>发布日期:</strong> 2026-08-17</span>
-  <span class="paper-method-meta" data-primary-method="unclassified" title="分类置信度 0.00"><strong>研究方法:</strong> 未判定</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
 </div>
 
 ### [Evidence for cavity-induced metallic phase from entropic electron correlation effects](http://arxiv.org/abs/2608.16593v1)
@@ -1085,7 +1085,6 @@ title: ArXiv Summary Daily
 - 本报告由AI模型自动生成
 - 每篇论文的总结包含研究目的和主要发现
 - 如有错误或遗漏请以原文为准
-
 </section>
 
 <section class="summary-day" data-summary-date="2026-08-29" markdown="1">

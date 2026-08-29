@@ -2950,480 +2950,492 @@
       "source_hash": "2ac8e9535224362f741f36c0f41d36ca6dd6d9046ed00dd46d4e22a11007f451",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发符号微分库自动生成DFT响应核并集成至计算代码Psi4和GPAW。",
+      "retryable": false
     },
     "2608.26381v1": {
       "paper_id": "2608.26381v1",
       "source_hash": "fdf2a04da64bf2e05109be210823390daa66a1a34b81709b60f642de2f2f7412",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "通过数值模拟量化声子材料振动对流固耦合动力学的影响。",
+      "retryable": false
     },
     "2608.26370v1": {
       "paper_id": "2608.26370v1",
       "source_hash": "4e8daef5b926fc531275c042c622fb0c0546f6ba81e30b4dedf06a9e6bbb173f",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation",
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.6,
+      "reason": "主要展示理论设计性能指标，但未明确提供实验验证数据。",
+      "retryable": false
     },
     "2608.26356v1": {
       "paper_id": "2608.26356v1",
       "source_hash": "8ab71150c3c51327c69b8be9ad823bc75f75db0ae1a6bb3e4609ffef7aaa5c6b",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory",
+        "computation",
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "提出时变理论模型解释放电机制，并通过模拟与实验观测对比验证。",
+      "retryable": false
     },
     "2608.26354v1": {
       "paper_id": "2608.26354v1",
       "source_hash": "b02a7360bc7023885bc47ef0132afbb41a90440fd5699ee23cd81b83ec7d05d7",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用预训练视觉Transformer进行跨模拟器迁移学习和参数推断。",
+      "retryable": false
     },
     "2608.26289v1": {
       "paper_id": "2608.26289v1",
       "source_hash": "a3b45d58716a1ecfdb99907075d80dea42b3c5aaf4bf7bd1f6e44802babb3d76",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "综述性论文，基于NREFT框架评估古探测器对暗物质相互作用的敏感性。",
+      "retryable": false
     },
     "2608.26279v1": {
       "paper_id": "2608.26279v1",
       "source_hash": "4b9f263d89e379bf9fe37b996a3a42c33f57da2606092233d9a88c9d0c788faa",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究淬火随机相互作用标量场的临界性质，属于理论模型推导。",
+      "retryable": false
     },
     "2608.26033v1": {
       "paper_id": "2608.26033v1",
       "source_hash": "be40a7973ee0e637844f2e55befc1d23cfd0b15285b65c41321722784808b17b",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出基于深度学习基础模型的图像质量评估方法并进行数值验证。",
+      "retryable": false
     },
     "2608.26030v1": {
       "paper_id": "2608.26030v1",
       "source_hash": "0bee31c006bf5df86982c1ef5f9f73b102ffb7b5f0c5a2f68952a522dd9e6b08",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "基于OpenLB和LAMMPS开发可扩展的流固耦合数值模拟框架。",
+      "retryable": false
     },
     "2608.25951v1": {
       "paper_id": "2608.25951v1",
       "source_hash": "d713be81ac97e9b5ffac9ede10d472519233d7b0a1aded7ef151020fc719da3c",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "建立描述电荷密度波与晶格变形耦合的Landau理论模型。",
+      "retryable": false
     },
     "2608.25916v1": {
       "paper_id": "2608.25916v1",
       "source_hash": "1483ba369bde9c592673291932ef794ce2c8e3d634cb288afa93c036bf6e5f64",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "理论推导一维活性粒子气体的电流统计特性和缩放累积量生成函数。",
+      "retryable": false
     },
     "2608.25882v1": {
       "paper_id": "2608.25882v1",
       "source_hash": "dfb3a05ee3b2553e12651c55d548c7b143b3cb9ffc2b2bce651c9e038df7c142",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "建立数值方法预测酶促降解过程中残留颗粒的形态和分布。",
+      "retryable": false
     },
     "2608.25848v1": {
       "paper_id": "2608.25848v1",
       "source_hash": "ca48d906b32ce7194b02d3db5ac3dd56776198c51adf87bbad26f0d0896f82cb",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment",
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "测量SF6分子芯-价双电离电子谱，并与理论计算高度吻合。",
+      "retryable": false
     },
     "2608.25801v1": {
       "paper_id": "2608.25801v1",
       "source_hash": "7c1458ee1e426a52e65e74b2d77e19d5e5863a156ea3d0d01be7d8d5f973b2cc",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "制备并测试集成数字通信与变形传感的可拉伸液态金属互连器件。",
+      "retryable": false
     },
     "2608.25751v1": {
       "paper_id": "2608.25751v1",
       "source_hash": "d9a516b51e78e17bb81838479ce3fc44754e0ba6ad34309c6fa264dbf0adb9f2",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "通过磷脂单层实验比较饱和与不饱和链对胆甾醇液晶界面锚定的影响。",
+      "retryable": false
     },
     "2608.25732v1": {
       "paper_id": "2608.25732v1",
       "source_hash": "5174905179f0937f7770a20b42d427313d6f3844760e25e7cc9e5b4e9c247d45",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment",
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "制备CoPt微磁铁并进行磁表征，实验结果与有限元模型预测一致。",
+      "retryable": false
     },
     "2608.25687v1": {
       "paper_id": "2608.25687v1",
       "source_hash": "34f2aa6ea6d8e4c76749f7c89ced83aae9af8e43905e722ab77ab09d8a7c24a1",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "研究THGEM与电阻板阳极耦合的信号形成，并进行X射线和宇宙线缪子测量。",
+      "retryable": false
     },
     "2608.25669v1": {
       "paper_id": "2608.25669v1",
       "source_hash": "5244747bcfc911b0f83262882aad3c4f0a8cf3c1eeac7e916142276ee8f26a46",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "评估多通道戴森方程和代数图解构造方法的分子电离能计算精度。",
+      "retryable": false
     },
     "2608.25595v1": {
       "paper_id": "2608.25595v1",
       "source_hash": "9bf832f6578dde7e0cc785d2d75e6c668375deb2e9f936332f3e407217ade33e",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "开发、集成和调试低温靶探测器模块，验证能量分辨率和运行稳定性。",
+      "retryable": false
     },
     "2608.25176v1": {
       "paper_id": "2608.25176v1",
       "source_hash": "ee0122add2f01753ed986e5611c9cc34b38a6ce17dcdcd2f074fdb71843b13eb",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发基于YOLO的无需代码的深度学习缺陷检测工作流程并进行基准测试。",
+      "retryable": false
     },
     "2608.25127v1": {
       "paper_id": "2608.25127v1",
       "source_hash": "63dc4d588ac9d6ee8c2f4440fb4d05b9a4c0cb2bbca1e4c0c85ea65c629bf835",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation",
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.7,
+      "reason": "综述变分图像重建中正则化参数的学习属性，包含理论分析与数值讨论。",
+      "retryable": false
     },
     "2608.25109v1": {
       "paper_id": "2608.25109v1",
       "source_hash": "6d535e44a23ac404b4bd3a17a0abdbdc7971006e341b1e81d4a3c948cd2b84b3",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出基于深度学习的地形路由3D心脏分割方法并进行跨站点验证。",
+      "retryable": false
     },
     "2608.25040v1": {
       "paper_id": "2608.25040v1",
       "source_hash": "a0a0555207d26c8ef0242140518d5b64259df369be77cd8612963f72d41295fa",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "利用角分辨拉曼偏振光谱测量Sr2IrO4在压力下的声子和磁振模式。",
+      "retryable": false
     },
     "2608.24872v1": {
       "paper_id": "2608.24872v1",
       "source_hash": "78110db98667b2f9e6b8591fffbbbe2408c33d2fa4c3d8f8f3b7b8b522fd25d4",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "从统计学角度重新解释假设检验中的 elsewhere 效应，属于理论分析。",
+      "retryable": false
     },
     "2608.24806v1": {
       "paper_id": "2608.24806v1",
       "source_hash": "04938fcb50e0018a503827b76be3b0a2bca7403894505651414149cf940be1f7",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation",
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.75,
+      "reason": "系统评估X射线斑纹成像算法对噪声和模糊的响应，包含模拟和实验分析。",
+      "retryable": false
     },
     "2608.24164v1": {
       "paper_id": "2608.24164v1",
       "source_hash": "f3dff1d2fe95d228fd3f1da24e77e8387c0b397a15400ca4d2feaa1e92e094ef",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用YOLOv11深度学习框架从天文观测数据中分离活动星系核候选体。",
+      "retryable": false
     },
     "2608.24032v1": {
       "paper_id": "2608.24032v1",
       "source_hash": "0caccc63a6bc4ccbbedf7710dd35c76ac31a847ed26c7687a410c93adb3ba3f5",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "针对薄势垒量子隧穿问题开发微扰分析方法并推导时间依赖性解析解。",
+      "retryable": false
     },
     "2608.23707v1": {
       "paper_id": "2608.23707v1",
       "source_hash": "6d56bf6fb94e44cacdfbd854435d41807149b22484dc471cd8b1fec89b1722f5",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用张量网络技术大规模数值模拟哈密顿量学习协议的误差容忍度。",
+      "retryable": false
     },
     "2608.23289v1": {
       "paper_id": "2608.23289v1",
       "source_hash": "cb4bd7d89246e9e56ba5e6c1a0e7e5a755eb50a8fcb02f37ac0fa3f5472b8996",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory",
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.8,
+      "reason": "开发紧束缚模型建立量子几何与光响应联系，并验证求和规则。",
+      "retryable": false
     },
     "2608.22873v1": {
       "paper_id": "2608.22873v1",
       "source_hash": "6bc350f81e09e1492b031a83696141538f14e52e62db388c30e0bdeca0aa4c30",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发可微参数化模拟框架，通过梯度下降拟合CMS全模拟数据。",
+      "retryable": false
     },
     "2608.22515v1": {
       "paper_id": "2608.22515v1",
       "source_hash": "c56f105dd84be64dfd02f6f77573088bf80d9dc7f1328499ac87f0171e7712ba",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发机器学习框架用于托卡马克等离子体破裂的早期预测。",
+      "retryable": false
     },
     "2608.22463v1": {
       "paper_id": "2608.22463v1",
       "source_hash": "c3f21a337b0f3b567622f5e3e13c707454049fc66ecf498a2b33824f5620de41",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory",
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.75,
+      "reason": "提出基于优序理论的形式化噪声校正方法，并通过古地磁数据验证。",
+      "retryable": false
     },
     "2608.21795v1": {
       "paper_id": "2608.21795v1",
       "source_hash": "b020516d02f89cdea914d7c70891f9c6c60d0c3a660801af36c3d61ce769169e",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "提出腔体磁机械系统中非互易Goos-Hänchen位移的理论方案。",
+      "retryable": false
     },
     "2608.21689v1": {
       "paper_id": "2608.21689v1",
       "source_hash": "09ee5926e4c52e09f68b7f75a87bb4e0a1f6430655d622de133505b9825423a0",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "在冷原子实验中演示可编程拆分-停止协议形成实空间原子图案。",
+      "retryable": false
     },
     "2608.21549v2": {
       "paper_id": "2608.21549v2",
       "source_hash": "d3d1316c46e1e3307282a30e5fb18fee1cb3257c41b5502e06dba4d762721319",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation",
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.75,
+      "reason": "使用贝叶斯统计推断方法分析大气边界层表面参数不确定性。",
+      "retryable": false
     },
     "2608.20489v1": {
       "paper_id": "2608.20489v1",
       "source_hash": "7794996fe816464573853ce9849b3499a4583725a35f03f8b9232b58fcbcb3f9",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "数值模拟研究超冷极性气体中单离子周围分子自组装过程。",
+      "retryable": false
     },
     "2608.19404v1": {
       "paper_id": "2608.19404v1",
       "source_hash": "01e7ebf705426e4c44289adc8efc4de1afa031f67fac31fb93c1bba22715b972",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation",
+        "experiment"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.8,
+      "reason": "结合分子动力学模拟与马尔可夫状态模型探索金纳米团簇动力学。",
+      "retryable": false
     },
     "2608.19180v1": {
       "paper_id": "2608.19180v1",
       "source_hash": "6ff1d93cb776f7a3ab2446dd60a548848e02bce39c4dc1b0a6f6f01461038abd",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "experiment",
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "观察偶极分子BEC中的电致伸缩现象，实验结果与Gross-Pitaevskii模型一致。",
+      "retryable": false
     },
     "2608.18472v1": {
       "paper_id": "2608.18472v1",
       "source_hash": "0faf60f639180f276a0bc048413743b5fd61970d16abab95c5b6d2df5d29cfe8",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "computation"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发高性能开源框架进行强场量子动力学模拟并验证高次谐波产生。",
+      "retryable": false
     },
     "2608.16593v1": {
       "paper_id": "2608.16593v1",
       "source_hash": "f6b3f337048e3c38da5155385f3382cfbf683de8d8486164334778c774eb3c30",
       "classifier_version": 1,
       "methods": [
-        "unclassified"
+        "theory"
       ],
-      "primary_method": "unclassified",
-      "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2608.21549v1",
-      "retryable": true
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "推导关联能诱导极化率变化的解析表达式以解释腔体强耦合金属化机制。",
+      "retryable": false
     },
     "2608.14739v2": {
       "paper_id": "2608.14739v2",
@@ -3438,5 +3450,5 @@
       "retryable": false
     }
   },
-  "updated_at": "2026-08-29T06:48:52.762162+00:00"
+  "updated_at": "2026-08-29T07:45:09.532703+00:00"
 }
