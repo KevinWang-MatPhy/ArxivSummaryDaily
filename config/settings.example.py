@@ -17,13 +17,44 @@ SEARCH_CONFIG = {
     'search_mode': 'all'             # 搜索模式：'all'(任意关键词匹配), 'any'(所有关键词都要匹配)
 }
 
-# 固定搜索查询 - 领域
-CATEGORIES = [
-    "cond-mat.supr-con",  # 超导物理
-    "cond-mat.str-el",    # 强关联电子系统
-    "cond-mat.mtrl-sci",   # 材料科学
-    "cond-mat.mes-hall",  # 量子霍尔效应
-]
+# arXiv 分类按研究主题分组。arXiv 没有单独的“电子显微学”分类，相关论文
+# 通常分散在材料、凝聚态、仪器、应用物理、电子光学和数据分析等分类中。
+CATEGORY_GROUPS = {
+    # 材料与凝聚态物理核心分类
+    'materials_and_condensed_matter': [
+        "cond-mat.mtrl-sci",  # 材料科学
+        "cond-mat.mes-hall",  # 介观与纳米物理、电子输运
+        "cond-mat.str-el",    # 强关联电子系统
+        "cond-mat.supr-con",  # 超导物理
+        "cond-mat.dis-nn",    # 无序、缺陷与非均匀体系
+        "cond-mat.soft",      # 软物质与复杂材料
+        "cond-mat.other",     # 其他凝聚态交叉研究
+    ],
+    # 电子显微镜、探测器和电子光学相关方法
+    'electron_microscopy_and_instrumentation': [
+        "physics.ins-det",    # 仪器与探测器：显微镜、相机、谱仪
+        "physics.app-ph",     # 应用物理：显微表征与原位实验
+        "physics.optics",     # 电子光学、相位恢复与叠层成像
+    ],
+    # 原子尺度材料、谱学和多尺度模拟
+    'atomic_scale_materials_and_simulation': [
+        "physics.chem-ph",    # 化学物理、EELS/EDS 相关谱学
+        "physics.atm-clus",   # 原子、分子团簇和纳米结构
+        "physics.comp-ph",    # 计算物理与显微图像/衍射模拟
+    ],
+    # 4D-STEM、电子断层成像和显微数据分析
+    'microscopy_data_analysis': [
+        "physics.data-an",    # 物理数据分析与机器学习
+        "eess.IV",            # 图像重建、去噪和逆问题
+    ],
+}
+
+# 保持现有客户端需要的扁平列表格式，并按分组定义顺序去重。
+CATEGORIES = list(dict.fromkeys(
+    category
+    for group in CATEGORY_GROUPS.values()
+    for category in group
+))
 
 # 搜索查询配置，用OR或用AND连接关键词，或者没有关键词也可以留空
 # QUERY = "nickelate OR cuprate"   # 搜索包含关键词nickelate或cuprate,并且在CATEGORIES中的所有文献
@@ -41,6 +72,17 @@ LLM_CONFIG = {
     'retry_count': 3,             # API 调用失败时的重试次数
     'retry_delay': 2,             # 重试间隔（秒）
     'timeout': 300,               # API 请求超时时间（秒）
+}
+
+# 研究技术方法分类配置：对已生成的中文摘要进行理论/计算/实验多标签分类。
+METHOD_CLASSIFICATION_CONFIG = {
+    'enabled': True,
+    'batch_size': 40,             # 单次分类的论文数量
+    'confidence_threshold': 0.60, # 低于阈值时标记为“未判定”
+    'response_retries': 2,        # JSON 格式或枚举校验失败时的修复次数
+    'max_tokens': 4096,
+    'model': os.getenv('METHOD_CLASSIFICATION_MODEL') or None,
+    'backfill_existing': True,    # 自动补分类数据目录中的历史摘要
 }
 
 # 输出配置

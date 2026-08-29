@@ -34,7 +34,6 @@ ENV/
 
 # Project specific
 data/
-tests/
 *.log
 .DS_Store
 */.DS_Store

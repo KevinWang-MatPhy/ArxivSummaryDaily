@@ -138,8 +138,13 @@ title: {title}
             print(f"找到 {len(sorted_files)} 个摘要文件，正在组合到index.md...")
             combined_content = self._build_combined_summary_content(sorted_files)
             
-            # 添加归档链接
-            archive_link = f"[查看所有摘要归档](archive.md) | 更新日期: {today}\n\n"
+            # 添加归档入口和更新时间
+            archive_link = (
+                '<nav class="archive-bar" aria-label="摘要归档">'
+                '<a href="archive.html">查看全部摘要归档 →</a>'
+                f'<span>最近更新：{today}</span>'
+                '</nav>\n\n'
+            )
             archive_data = self._build_archive_data(sorted_files)
             archive_payload = f'<script type="application/json" id="summary-archive-data">{archive_data}</script>\n\n'
             
@@ -159,7 +164,11 @@ title: {title}
         else:
             # 如果没有找到文件，创建一个简单的index.md
             print("未找到摘要文件，创建空的index.md")
-            default_content = "[查看所有摘要归档](archive.md)\n\n# ArXiv Summary Daily\n\nNo summaries available yet.\n"
+            default_content = (
+                '<nav class="archive-bar"><a href="archive.html">查看全部摘要归档 →</a></nav>\n\n'
+                '<section class="empty-state"><h1>暂无研究摘要</h1>'
+                '<p>新的 arXiv 论文摘要将在下一次自动任务完成后显示。</p></section>\n'
+            )
             full_content = self.DEFAULT_FRONT_MATTER.format(title="ArXiv Summary Daily") + default_content
             
             with open(index_path, 'w', encoding='utf-8') as f:
@@ -169,7 +178,14 @@ title: {title}
 
     def _build_combined_summary_content(self, sorted_files):
         """组合所有摘要文件的内容用于首页展示"""
-        combined_sections = ["# ArXiv Summary Daily\n", '<div id="summary-list" markdown="1">\n']
+        combined_sections = [
+            '<section class="feed-intro">\n'
+            '<div><p class="section-kicker">Latest research digest</p>'
+            '<h1>最新研究摘要</h1>'
+            '<p>聚焦电子显微学、原子尺度材料、凝聚态物理与计算成像的每日研究进展。</p>'
+            '</div></section>\n\n',
+            '<div id="summary-list" markdown="1">\n'
+        ]
 
         for file_path in sorted_files:
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -183,11 +199,16 @@ title: {title}
             summary_content = self._strip_primary_heading(summary_content)
             file_date = self._get_summary_datetime(file_path).strftime('%Y-%m-%d')
             summary_link = f"{file_path.stem}.html"
-            summary_header = f"## {file_date} 摘要\n\n[查看该日摘要文件]({summary_link})\n\n"
+            summary_header = (
+                '<header class="summary-day-header">'
+                f'<h2>{file_date} 研究摘要</h2>'
+                f'<a href="{summary_link}">打开当日独立页面 →</a>'
+                '</header>\n\n'
+            )
             summary_wrapper = (
                 f'<section class="summary-day" data-summary-date="{file_date}" markdown="1">\n'
                 f"{summary_header}{summary_content}\n"
-                "</section>\n\n---\n\n"
+                "</section>\n\n"
             )
             combined_sections.append(summary_wrapper)
 
@@ -215,7 +236,12 @@ title: {title}
         print(f"创建归档页面: {archive_path}")
         
         # 准备内容
-        header = "[返回首页](index.md)\n\n# ArXiv 摘要归档\n\n以下是所有可用的ArXiv摘要文件，按日期排序（最新在前）：\n\n"
+        header = (
+            '<nav class="archive-bar"><a href="index.html">← 返回最新摘要</a></nav>\n\n'
+            '<section class="archive-heading"><p class="section-kicker">Archive</p>'
+            '<h1>ArXiv 摘要归档</h1>'
+            '<p>按日期浏览所有已生成的研究摘要，最新内容排列在前。</p></section>\n\n'
+        )
         archive_data = self._build_archive_data(sorted_files)
         archive_payload = f'<script type="application/json" id="summary-archive-data">{archive_data}</script>\n\n'
         content = self.DEFAULT_FRONT_MATTER.format(title="ArXiv Summary 归档") + header + archive_payload

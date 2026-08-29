@@ -11,6 +11,7 @@ setup(
     entry_points={
         'console_scripts': [
             'arxivsummary=src.cli:main',
+            'arxivclassify=src.classify_cli:main',
             'arxivsite=src.site_manager:main',  # 添加新的命令行入口点
         ],
     },

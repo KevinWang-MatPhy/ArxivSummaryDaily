@@ -67,6 +67,14 @@ jobs:
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL || 'https://api.agnes-ai.cn/v1' }}
           LLM_MODEL: ${{ vars.LLM_MODEL || 'agnes-2.5-flash' }}
         run: arxivsummary
+
+      - name: Classify research methods
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL || 'https://api.agnes-ai.cn/v1' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'agnes-2.5-flash' }}
+          METHOD_CLASSIFICATION_MODEL: ${{ vars.METHOD_CLASSIFICATION_MODEL || '' }}
+        run: arxivclassify --data-dir ./data
       
       # Use site_manager to manage the site
       - name: Generate site

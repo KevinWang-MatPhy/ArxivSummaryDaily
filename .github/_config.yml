@@ -1,8 +1,9 @@
 # 使用GitHub Pages默认主题 - Cayman
 theme: jekyll-theme-cayman
 title: ArXiv Summary Daily
-description: "每日自动检索和总结arXiv论文的工具，使用AI生成论文摘要。\n本页面的搜索领域固定为凝聚态超导-强关联-材料物理-介观纳米四个领域。"
-author: dong-zehao
+lang: zh-CN
+description: "聚焦电子显微学、材料科学与凝聚态物理交叉研究的 arXiv 每日中文摘要。"
+author: KevinWang-MatPhy
 
 kramdown:
   input: GFM
