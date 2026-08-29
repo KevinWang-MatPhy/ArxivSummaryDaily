@@ -23,7 +23,8 @@
 
 - 搜索分类 (CATEGORIES)
 - 搜索关键词 (QUERY)
-- AI 模型的 API 密钥 (LLM_CONFIG中的api_key参数) - **注意：** 如果使用 GitHub Actions，建议通过 Secrets 配置 API 密钥。
+- AI 模型的 API 密钥（环境变量 `LLM_API_KEY`，对应 `LLM_CONFIG` 中的 `api_key`）- **注意：** 如果使用 GitHub Actions，建议通过 Secrets 配置 API 密钥。
+- OpenAI 兼容接口配置：默认接入 Agnes 2.5 Flash，Base URL 为 `https://api.agnes-ai.cn/v1`，模型名为 `agnes-2.5-flash`。
 - 其他搜索参数 (SEARCH_CONFIG)
 - 输出配置 (OUTPUT_DIR): 设置存放AI summary的文件路径 (本地运行时使用)
 
@@ -50,6 +51,7 @@
     *   在你的 GitHub 仓库页面，进入 `Settings` -> `Secrets and variables` -> `Actions`。
     *   点击 `New repository secret`。
     *   创建一个名为 `LLM_API_KEY` 的 Secret，其值为你的 AI 模型 API 密钥。工作流将自动读取这个 Secret。
+    *   如需覆盖默认接口或模型，可在 Actions 的 Variables 中设置 `LLM_BASE_URL` 和 `LLM_MODEL`。
 3.  **(可选) 修改配置**:
     *   如果你想更改搜索的分类或关键词，请直接修改仓库中的 `config/settings.example.py` 文件并提交。工作流将使用最新提交的配置。
     *   *注意：* 不要在 `settings.example.py` 中直接写入 API 密钥，应始终使用 GitHub Secrets。
@@ -87,7 +89,18 @@ pip install -e .
 
 ### 配置
 
-参考前面的配置方法，这里需要将 `config/settings.example.py` 改名为 `config/settings.py`，以便在其中存储你的api密钥等敏感信息。
+参考前面的配置方法，将 `config/settings.example.py` 复制为 `config/settings.py`。推荐通过环境变量提供密钥，不要把真实密钥写入仓库：
+
+```bash
+export LLM_API_KEY="你的 Agnes API Key"
+# 以下两项已有默认值，通常无需设置
+export LLM_BASE_URL="https://api.agnes-ai.cn/v1"
+export LLM_MODEL="agnes-2.5-flash"
+```
+
+程序使用 OpenAI 兼容的 Chat Completions 协议，请求地址为
+`$LLM_BASE_URL/chat/completions`，并通过 `Authorization: Bearer $LLM_API_KEY`
+认证。接口参数可参考 [Agnes 2.5 Flash 官方文档](https://www.agnes-ai.cn/zh-Hans/docs/agnes-25-flash)。
 
 ### 使用
 运行主程序：
@@ -114,4 +127,3 @@ arxivsummary
 ## 输出 (本地运行)
 
 - 论文总结保存在 `OUTPUT_DIR/summary_yyyyMMdd_hhmmss.md`
-

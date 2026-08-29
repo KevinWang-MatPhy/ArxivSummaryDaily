@@ -1,8 +1,6 @@
 """
 论文总结模块 - 使用大语言模型API生成论文摘要
 """
-import os
-import json
 import re
 from typing import List, Dict, Any, Optional
 from pathlib import Path
@@ -14,18 +12,30 @@ import html
 from config.settings import LLM_CONFIG, CATEGORIES
 
 class ModelClient:
-    """语言模型API客户端"""
+    """OpenAI Chat Completions 兼容 API 客户端。"""
     
     def __init__(self, api_key: str, model: Optional[str] = None):
+        if not api_key or api_key == "YOUR_API_HERE":
+            raise ValueError("未配置 LLM API Key，请设置环境变量 LLM_API_KEY")
+
         self.api_key = api_key
         self.model = model or LLM_CONFIG['model']
-        self.api_url = f"{LLM_CONFIG['api_url']}/{self.model}:generateContent"
+        # 新配置使用 OpenAI 风格的 base_url；同时兼容旧版的 api_url。
+        configured_url = LLM_CONFIG.get('base_url') or LLM_CONFIG.get('api_url')
+        if not configured_url:
+            raise ValueError("LLM_CONFIG 中缺少 base_url")
+        configured_url = configured_url.rstrip('/')
+        if configured_url.endswith('/chat/completions'):
+            self.api_url = configured_url
+        else:
+            self.api_url = f"{configured_url}/chat/completions"
         self.timeout = LLM_CONFIG.get('timeout', 30)
         
     def _create_headers(self) -> Dict[str, str]:
         """创建请求头"""
         return {
-            "Content-Type": "application/json"
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
         }
     
     def _create_request_body(
@@ -35,21 +45,20 @@ class ModelClient:
         max_tokens: Optional[int] = None
     ) -> Dict[str, Any]:
         """创建请求体"""
-        # 将最后一条消息作为提示词
-        prompt = messages[-1]["content"]
-        
+        if not messages:
+            raise ValueError("messages 不能为空")
+
         return {
-            "contents": [{
-                "parts": [{
-                    "text": prompt
-                }]
-            }],
-            "generationConfig": {
-                "temperature": temperature or LLM_CONFIG['temperature'],
-                "maxOutputTokens": max_tokens or LLM_CONFIG['max_output_tokens'],
-                "topP": LLM_CONFIG['top_p'],
-                "topK": LLM_CONFIG['top_k']
-            }
+            "model": self.model,
+            "messages": messages,
+            "temperature": (
+                temperature if temperature is not None else LLM_CONFIG['temperature']
+            ),
+            "top_p": LLM_CONFIG['top_p'],
+            "max_tokens": (
+                max_tokens if max_tokens is not None
+                else LLM_CONFIG['max_output_tokens']
+            ),
         }
     
     def chat_completion(
@@ -65,31 +74,23 @@ class ModelClient:
         for attempt in range(LLM_CONFIG['retry_count']):
             try:
                 response = requests.post(
-                    f"{self.api_url}?key={self.api_key}",
+                    self.api_url,
                     headers=headers,
                     json=data,
                     timeout=self.timeout
                 )
                 
                 if response.status_code != 200:
-                    raise Exception(f"API 调用失败: {response.text}")
+                    raise RuntimeError(
+                        f"API 调用失败（HTTP {response.status_code}）: {response.text}"
+                    )
                     
                 result = response.json()
-                
-                return {
-                    "choices": [{
-                        "message": {
-                            "role": "assistant",
-                            "content": result["candidates"][0]["content"]["parts"][0]["text"]
-                        },
-                        "finish_reason": "stop"
-                    }],
-                    "usage": {
-                        "prompt_tokens": 0,
-                        "completion_tokens": 0,
-                        "total_tokens": 0
-                    }
-                }
+                try:
+                    result["choices"][0]["message"]["content"]
+                except (KeyError, IndexError, TypeError) as exc:
+                    raise RuntimeError(f"API 返回了无法识别的响应格式: {result}") from exc
+                return result
             except requests.Timeout:
                 print(f"请求超时（{self.timeout}秒），正在重试...")
                 if attempt == LLM_CONFIG['retry_count'] - 1:

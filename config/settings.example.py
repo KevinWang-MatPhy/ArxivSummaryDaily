@@ -1,6 +1,7 @@
 """
 ArXiv API 配置文件
 """
+import os
 
 # arXiv API 搜索配置
 SEARCH_CONFIG = {
@@ -31,17 +32,15 @@ QUERY = ""     # 搜索CATEGORIES中的所有文献
 
 # 语言模型API配置
 LLM_CONFIG = {
-    'api_key': "YOUR_API_HERE",                                             # 在这里输入API密钥
-    'model': 'agnes-2.5-flash',                                         # 模型名称
-    # 'model': 'gemini-2.0-flash',
-    'api_url': "https://api.agnes-ai.cn/v1/chat/completions",   # API基础URL
-    'temperature': 0.5,                                                     # 温度参数
-    'max_output_tokens': 32648,                                             # 最大输出长度
-    'top_p': 0.8,                                                           # Top P 参数
-    'top_k': 40,                                                            # Top K 参数
-    'retry_count': 3,                                                       # API调用失败时的重试次数
-    'retry_delay': 2,                                                       # 重试间隔（秒）
-    'timeout': 300,                                                          # API请求超时时间（秒）
+    'api_key': os.getenv('LLM_API_KEY', 'YOUR_API_HERE'),
+    'base_url': os.getenv('LLM_BASE_URL', 'https://api.agnes-ai.cn/v1'),
+    'model': os.getenv('LLM_MODEL', 'agnes-2.5-flash'),
+    'temperature': 0.5,           # 温度参数
+    'max_output_tokens': 32648,   # 对应 Chat Completions 的 max_tokens
+    'top_p': 0.8,                 # Top P 参数
+    'retry_count': 3,             # API 调用失败时的重试次数
+    'retry_delay': 2,             # 重试间隔（秒）
+    'timeout': 300,               # API 请求超时时间（秒）
 }
 
 # 输出配置
