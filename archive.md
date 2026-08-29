@@ -3,11 +3,9 @@ layout: default
 title: ArXiv Summary 归档
 ---
 
-[返回首页](index.md)
+<nav class="archive-bar"><a href="index.html">← 返回最新摘要</a></nav>
 
-# ArXiv 摘要归档
-
-以下是所有可用的ArXiv摘要文件，按日期排序（最新在前）：
+<section class="archive-heading"><p class="section-kicker">Archive</p><h1>ArXiv 摘要归档</h1><p>按日期浏览所有已生成的研究摘要，最新内容排列在前。</p></section>
 
 <script type="application/json" id="summary-archive-data">[{"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
 
