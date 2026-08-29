@@ -5,7 +5,10 @@ import os
 
 # arXiv API 搜索配置
 SEARCH_CONFIG = {
-    'max_total_results': 200,         # 总共要获取的最大论文数量
+    'max_total_results': 120,         # 去重后单次摘要的全局论文上限
+    'max_results_per_category': 8,    # 15 个分类各自最多选择的论文数
+    'scan_results_per_category': 25,  # 每类扫描数量，用于跨周末追踪增量
+    'seen_entry_ids_limit': 10000,    # 状态文件中最多保留的历史论文 ID
     'page_size': 100,                 # 每页请求数量，避免单次请求过大
     'delay_seconds': 10,              # arXiv API 分页/内部重试的最小间隔
     'num_retries': 5,                 # arXiv 客户端对 429/5xx 的内部重试次数
@@ -23,36 +26,59 @@ SEARCH_CONFIG = {
     'search_mode': 'all'             # 搜索模式：'all'(任意关键词匹配), 'any'(所有关键词都要匹配)
 }
 
-# arXiv 分类按研究主题分组。arXiv 没有单独的“电子显微学”分类，相关论文
-# 通常分散在材料、凝聚态、仪器、应用物理、电子光学和数据分析等分类中。
+# 研究主题是检索、摘要元数据和网页筛选共同使用的唯一分类定义。
+# arXiv 没有单独的“电子显微学”分类，因此以 15 个相关分类构建四个主题。
+RESEARCH_TOPICS = [
+    {
+        'key': 'materials_and_condensed_matter',
+        'label': '材料与凝聚态物理',
+        'categories': [
+            {'id': 'cond-mat.mtrl-sci', 'label': '材料科学'},
+            {'id': 'cond-mat.mes-hall', 'label': '介观与纳米物理'},
+            {'id': 'cond-mat.str-el', 'label': '强关联电子系统'},
+            {'id': 'cond-mat.supr-con', 'label': '超导物理'},
+            {'id': 'cond-mat.dis-nn', 'label': '无序与神经网络'},
+            {'id': 'cond-mat.soft', 'label': '软凝聚态物质'},
+            {'id': 'cond-mat.other', 'label': '其他凝聚态物理'},
+        ],
+    },
+    {
+        'key': 'electron_microscopy_and_instrumentation',
+        'label': '电子显微镜、探测器与电子光学',
+        'categories': [
+            {'id': 'physics.ins-det', 'label': '仪器与探测器'},
+            {'id': 'physics.app-ph', 'label': '应用物理'},
+            {'id': 'physics.optics', 'label': '光学与电子光学'},
+        ],
+    },
+    {
+        'key': 'atomic_scale_materials_and_simulation',
+        'label': '原子尺度材料、谱学与模拟',
+        'categories': [
+            {'id': 'physics.chem-ph', 'label': '化学物理'},
+            {'id': 'physics.atm-clus', 'label': '原子与分子团簇'},
+            {'id': 'physics.comp-ph', 'label': '计算物理'},
+        ],
+    },
+    {
+        'key': 'microscopy_data_analysis',
+        'label': '4D-STEM、断层成像及显微数据分析',
+        'categories': [
+            {'id': 'physics.data-an', 'label': '物理数据分析'},
+            {'id': 'eess.IV', 'label': '图像与视频处理'},
+        ],
+    },
+]
+
 CATEGORY_GROUPS = {
-    # 材料与凝聚态物理核心分类
-    'materials_and_condensed_matter': [
-        "cond-mat.mtrl-sci",  # 材料科学
-        "cond-mat.mes-hall",  # 介观与纳米物理、电子输运
-        "cond-mat.str-el",    # 强关联电子系统
-        "cond-mat.supr-con",  # 超导物理
-        "cond-mat.dis-nn",    # 无序、缺陷与非均匀体系
-        "cond-mat.soft",      # 软物质与复杂材料
-        "cond-mat.other",     # 其他凝聚态交叉研究
-    ],
-    # 电子显微镜、探测器和电子光学相关方法
-    'electron_microscopy_and_instrumentation': [
-        "physics.ins-det",    # 仪器与探测器：显微镜、相机、谱仪
-        "physics.app-ph",     # 应用物理：显微表征与原位实验
-        "physics.optics",     # 电子光学、相位恢复与叠层成像
-    ],
-    # 原子尺度材料、谱学和多尺度模拟
-    'atomic_scale_materials_and_simulation': [
-        "physics.chem-ph",    # 化学物理、EELS/EDS 相关谱学
-        "physics.atm-clus",   # 原子、分子团簇和纳米结构
-        "physics.comp-ph",    # 计算物理与显微图像/衍射模拟
-    ],
-    # 4D-STEM、电子断层成像和显微数据分析
-    'microscopy_data_analysis': [
-        "physics.data-an",    # 物理数据分析与机器学习
-        "eess.IV",            # 图像重建、去噪和逆问题
-    ],
+    topic['key']: [category['id'] for category in topic['categories']]
+    for topic in RESEARCH_TOPICS
+}
+
+CATEGORY_LABELS = {
+    category['id']: category['label']
+    for topic in RESEARCH_TOPICS
+    for category in topic['categories']
 }
 
 # 保持现有客户端需要的扁平列表格式，并按分组定义顺序去重。

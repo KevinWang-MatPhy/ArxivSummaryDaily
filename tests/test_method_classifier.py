@@ -13,7 +13,7 @@ from src.site_manager import SiteManager
 
 SAMPLE_SUMMARY = """# Arxiv论文总结报告
 
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.ins-det" data-published="2026-08-29" markdown="1">
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.ins-det" data-topics="materials_and_condensed_matter,electron_microscopy_and_instrumentation" data-published="2026-08-29" markdown="1">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.ins-det</span>
   <span><strong>发布日期:</strong> 2026-08-29</span>
@@ -140,6 +140,11 @@ class TestMethodClassifier(unittest.TestCase):
             self.assertEqual(first["classified"], 1)
             self.assertEqual(second["reused"], 1)
             self.assertIn('data-methods="experiment,computation"', classified_content)
+            self.assertIn(
+                'data-topics="materials_and_condensed_matter,'
+                'electron_microscopy_and_instrumentation"',
+                classified_content,
+            )
             self.assertIn('data-primary-method="experiment"', classified_content)
             self.assertIn("<strong>研究方法:</strong> 实验 · 计算", classified_content)
             self.assertEqual(
@@ -198,10 +203,31 @@ class TestMethodClassifier(unittest.TestCase):
             layout = (data_dir / "_layouts" / "default.html").read_text(
                 encoding="utf-8"
             )
+            taxonomy = json.loads(
+                (data_dir / "_data" / "research_taxonomy.json").read_text(
+                    encoding="utf-8"
+                )
+            )
             self.assertIn('data-methods="experiment,computation"', index)
             self.assertIn("<strong>研究方法:</strong> 实验 · 计算", index)
             self.assertIn('id="method-filter-row"', layout)
             self.assertIn("const selectedMethods", layout)
+            self.assertIn("site.data.research_taxonomy", layout)
+            self.assertIn("disabled: count === 0", layout)
+            self.assertEqual(len(taxonomy), 4)
+            self.assertEqual(
+                sum(len(topic["categories"]) for topic in taxonomy),
+                15,
+            )
+            self.assertEqual(
+                [topic["label"] for topic in taxonomy],
+                [
+                    "材料与凝聚态物理",
+                    "电子显微镜、探测器与电子光学",
+                    "原子尺度材料、谱学与模拟",
+                    "4D-STEM、断层成像及显微数据分析",
+                ],
+            )
 
 
 if __name__ == "__main__":

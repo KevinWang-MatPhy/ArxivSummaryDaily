@@ -22,7 +22,7 @@ if "config.settings" not in sys.modules:
     sys.modules["config.settings"] = settings
     spec.loader.exec_module(settings)
 
-from src.paper_summarizer import ModelClient
+from src.paper_summarizer import ModelClient, PaperSummarizer
 
 
 class TestAgnesClient(unittest.TestCase):
@@ -75,6 +75,21 @@ class TestAgnesClient(unittest.TestCase):
         client = ModelClient("test-api-key")
         with self.assertRaisesRegex(ValueError, "messages 不能为空"):
             client.chat_completion([])
+
+    def test_summary_blocks_include_shared_topic_metadata(self):
+        summarizer = PaperSummarizer("test-api-key")
+        paper = {
+            "published": "2026-08-29T08:00:00+00:00",
+            "categories": ["cond-mat.mtrl-sci", "physics.ins-det"],
+        }
+
+        result = summarizer._format_summary_sections([paper], ["### Test"])
+
+        self.assertIn(
+            'data-topics="materials_and_condensed_matter,'
+            'electron_microscopy_and_instrumentation"',
+            result,
+        )
 
 
 if __name__ == "__main__":

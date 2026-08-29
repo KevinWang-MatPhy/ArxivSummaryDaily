@@ -10,6 +10,8 @@ import os
 import subprocess
 import json
 
+from .taxonomy import taxonomy_payload
+
 class SiteManager:
     """ArXiv摘要网站管理器，处理文件清理、索引和归档页面生成"""
     
@@ -279,6 +281,17 @@ title: {title}
                 "timestamp": file_datetime.isoformat()
             })
         return json.dumps(archive_entries, ensure_ascii=False)
+
+    def _write_taxonomy_data(self):
+        """写入 Jekyll 数据文件，供所有页面共享四主题/十五分类定义。"""
+        taxonomy_dir = self.data_dir / "_data"
+        taxonomy_dir.mkdir(exist_ok=True)
+        taxonomy_path = taxonomy_dir / "research_taxonomy.json"
+        taxonomy_path.write_text(
+            json.dumps(taxonomy_payload(), ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        return taxonomy_path
     
     def ensure_file_has_front_matter(self, file_path, title):
         """确保文件有Jekyll前置元数据，没有则添加
@@ -333,7 +346,10 @@ title: {title}
                 with open(index_path, 'w', encoding='utf-8') as f:
                     f.write(self.DEFAULT_FRONT_MATTER.format(title=title) + main_content)
         
-        # 4. 复制layout配置
+        # 4. 生成统一的主题和 arXiv 分类数据
+        self._write_taxonomy_data()
+
+        # 5. 复制layout配置
         layouts_dir = self.data_dir / "_layouts"
         mathjax_src = self.github_dir / "_layouts" / "default.html"
         if mathjax_src.exists():
@@ -341,7 +357,7 @@ title: {title}
             mathjax_dest = layouts_dir / "default.html"
             shutil.copy2(mathjax_src, mathjax_dest)
         
-        # 5. 复制 mathjax.html 文件
+        # 6. 复制 mathjax.html 文件
         includes_dir = self.data_dir / "_includes"
         includes_src = self.github_dir / "_includes" / "mathjax.html"
         if includes_src.exists():
@@ -349,7 +365,7 @@ title: {title}
             includes_dest = includes_dir / "mathjax.html"
             shutil.copy2(includes_src, includes_dest)
         
-        # 6. 复制logo图片
+        # 7. 复制logo图片
         img_dir = self.data_dir / "img"
         img_dir.mkdir(exist_ok=True)
         
@@ -361,7 +377,7 @@ title: {title}
         else:
             print(f"警告：未找到logo文件 {logo_src}")
         
-        # 7. 删除可能存在的.nojekyll文件，因为我们希望使用Jekyll
+        # 8. 删除可能存在的.nojekyll文件，因为我们希望使用Jekyll
         nojekyll_path = self.data_dir / ".nojekyll"
         if nojekyll_path.exists():
             nojekyll_path.unlink()

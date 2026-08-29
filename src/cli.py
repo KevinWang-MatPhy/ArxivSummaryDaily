@@ -71,11 +71,12 @@ def main(argv=None, sleep_func=time.sleep):
                 last_run_file=last_run_file
             )
             if not papers:
+                arxiv_client.save_last_run_info(
+                    last_run_file=last_run_file,
+                    total_results=0,
+                )
                 print("未找到符合条件的论文")
                 return
-
-            # 记录最新文章ID用于在摘要成功后保存
-            latest_entry_id = papers[0]['entry_id'] if papers else None
 
             # 生成摘要
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -88,10 +89,12 @@ def main(argv=None, sleep_func=time.sleep):
             else:
                 raise RuntimeError("摘要生成失败，停止此次运行。")
 
-            # 只有在摘要成功生成后才保存最新文章ID
-            if latest_entry_id and last_run_file:
-                arxiv_client.save_last_run_info(latest_entry_id, last_run_file, len(papers))
-                print(f"摘要成功生成，已更新运行记录。下次运行将从最新文章 ID 开始: {latest_entry_id}")
+            # 只有在摘要成功生成后才提交各分类游标和去重状态。
+            arxiv_client.save_last_run_info(
+                last_run_file=last_run_file,
+                total_results=len(papers),
+            )
+            print("摘要成功生成，已更新各 arXiv 分类的增量运行记录。")
             return
         except Exception as e:
             print(f"运行过程中发生错误: {e}")

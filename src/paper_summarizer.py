@@ -10,6 +10,7 @@ from datetime import datetime
 import pytz
 import html
 from config.settings import LLM_CONFIG, CATEGORIES
+from .taxonomy import topic_keys_for_categories
 
 class ModelClient:
     """OpenAI Chat Completions 兼容 API 客户端。"""
@@ -278,8 +279,11 @@ arXiv链接：{paper['entry_id']}
             filtered_categories = [cat for cat in categories if cat in allowed_categories]
             categories_label = ", ".join(filtered_categories) if filtered_categories else "未分类"
             categories_attr = html.escape(",".join(filtered_categories))
+            topics_attr = html.escape(
+                ",".join(topic_keys_for_categories(filtered_categories))
+            )
             published_date = paper.get('published', '')[:10]
-            block = f"""<section class="paper-summary" data-categories="{categories_attr}" data-published="{published_date}" markdown="1">
+            block = f"""<section class="paper-summary" data-categories="{categories_attr}" data-topics="{topics_attr}" data-published="{published_date}" markdown="1">
 <div class="paper-summary-meta">
   <span><strong>分类:</strong> {categories_label}</span>
   <span><strong>发布日期:</strong> {published_date}</span>
