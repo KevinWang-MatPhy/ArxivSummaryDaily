@@ -3,7 +3,7 @@ layout: default
 title: ArXiv Summary Daily
 ---
 
-<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-08-29</span></nav>
+<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-08-30</span></nav>
 
 <script type="application/json" id="summary-archive-data">[{"filename": "summary_20260829_064455.md", "date": "2026-08-29", "timestamp": "2026-08-29T06:44:55"}, {"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
 

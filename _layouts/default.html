@@ -38,9 +38,18 @@
       .section-kicker { margin: 0 0 4px !important; color: var(--teal-700) !important; font-size: .74rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
       .archive-bar { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 12px 16px; margin-bottom: 18px; color: var(--muted); font-size: .9rem; border: 1px solid var(--line); border-radius: var(--radius-md); background: rgba(255,255,255,.72); }
       .archive-bar a { font-weight: 800; text-decoration: none; }
-      .summary-controls { position: sticky; z-index: 5; top: 12px; padding: 20px; margin: 0 0 28px; border: 1px solid var(--line); border-radius: var(--radius-lg); background: rgba(255,255,255,.96); box-shadow: var(--shadow); backdrop-filter: blur(12px); }
-      .controls-heading { display: flex; justify-content: space-between; gap: 18px; align-items: center; margin-bottom: 14px; }
-      .controls-heading h2 { margin: 0; font-size: 1.22rem; }
+      .summary-controls { position: sticky; z-index: 5; top: 12px; padding: 0; margin: 0 0 28px; overflow: clip; border: 1px solid var(--line); border-radius: var(--radius-lg); background: rgba(255,255,255,.96); box-shadow: var(--shadow); backdrop-filter: blur(12px); }
+      .filter-panel-summary { display: flex; justify-content: space-between; gap: 18px; align-items: center; padding: 17px 20px; list-style: none; cursor: pointer; user-select: none; transition: background .15s ease; }
+      .filter-panel-summary::-webkit-details-marker { display: none; }
+      .filter-panel-summary:hover { background: var(--teal-50); }
+      .filter-panel-summary:focus-visible { outline: 3px solid rgba(29,112,114,.22); outline-offset: -3px; }
+      .filter-panel-title h2 { margin: 0; font-size: 1.22rem; }
+      .filter-panel-status { display: flex; align-items: center; justify-content: flex-end; gap: 14px; }
+      .filter-toggle-label { display: inline-flex; align-items: center; gap: 7px; color: var(--teal-800); font-size: .8rem; font-weight: 800; white-space: nowrap; }
+      .filter-chevron { width: 8px; height: 8px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg); transition: transform .2s ease; }
+      .filter-panel[open] .filter-chevron { transform: rotate(225deg); }
+      .filter-panel[open] .filter-when-closed, .filter-panel:not([open]) .filter-when-open { display: none; }
+      .filter-panel-body { padding: 0 20px 20px; border-top: 1px solid #e7eeec; }
       .result-count { margin: 0; color: var(--muted); font-size: .88rem; }
       .result-count strong { color: var(--teal-950); font-size: 1.05rem; }
       .summary-controls-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; margin-top: 13px; }
@@ -92,8 +101,9 @@
       @media (max-width: 760px) {
         .page-header { padding: 22px 18px; } .header-inner { grid-template-columns: 1fr; } .header-actions { justify-content: flex-start; }
         .brand-mark { width: 48px; height: 48px; border-radius: 13px; } .main-content { padding: 22px 14px 42px; }
-        .feed-intro { display: block; } .summary-controls { position: static; padding: 16px; border-radius: 15px; }
-        .controls-heading { align-items: flex-start; } .control-field, .control-field.grow { flex: 1 1 100%; }
+        .feed-intro { display: block; } .summary-controls { position: static; border-radius: 15px; }
+        .filter-panel-summary { align-items: flex-start; gap: 8px; padding: 15px 16px; } .filter-panel-title { min-width: 0; } .filter-panel-status { display: grid; justify-items: end; gap: 5px; } .filter-panel-status .result-count { font-size: .78rem; white-space: nowrap; } .filter-panel-body { padding: 0 16px 16px; }
+        .control-field, .control-field.grow { flex: 1 1 100%; }
         #archive-range-custom { width: 100%; } .reset-button { width: 100%; margin-left: 0; }
         .paper-summary { padding: 18px 17px; border-radius: 14px; } .summary-day-header { align-items: flex-start; }
         .site-footer { display: block; }
@@ -123,20 +133,27 @@
     </header>
     <main id="content" class="main-content" role="main">
       <section id="summary-controls" class="summary-controls" aria-labelledby="filter-title" hidden>
-        <div class="controls-heading"><div><h2 id="filter-title">研究筛选器</h2><p id="taxonomy-coverage" class="taxonomy-coverage"></p></div><p class="result-count" id="result-count" aria-live="polite"></p></div>
-        <div id="paper-filter-row" class="summary-controls-row">
-          <div class="control-field grow"><label for="paper-search">搜索论文</label><input id="paper-search" type="search" placeholder="输入标题、作者、研究目的或关键词"></div>
-          <button id="reset-filters" class="reset-button" type="button">重置筛选</button>
-        </div>
-        <div id="archive-filter-row" class="summary-controls-row">
-          <div class="control-field"><label for="archive-range">时间范围</label><select id="archive-range"><option value="1" selected>最近 1 天</option><option value="7">最近 7 天</option><option value="14">最近 14 天</option><option value="30">最近 30 天</option><option value="60">最近 60 天</option><option value="all">全部</option></select></div>
-          <div class="control-field"><label for="archive-range-custom">自定义天数</label><input id="archive-range-custom" type="number" min="1" placeholder="例如 21"></div>
-          <div class="control-field"><label for="archive-sort">日期排序</label><select id="archive-sort"><option value="desc" selected>从新到旧</option><option value="asc">从旧到新</option></select></div>
-          <div class="control-field grow"><label for="archive-select">跳转到摘要日期</label><select id="archive-select"><option value="">请选择日期</option></select></div>
-        </div>
-        <div id="topic-filter-row" class="summary-controls-row filter-row"><span class="filter-label">交叉研究主题</span><div id="topic-filters" class="topic-filters" role="group" aria-label="按研究主题筛选"></div></div>
-        <div id="method-filter-row" class="summary-controls-row filter-row"><span class="filter-label">研究技术方法</span><div id="method-filters" class="method-filters" role="group" aria-label="按研究技术方法筛选"></div></div>
-        <div id="category-filter-row" class="summary-controls-row filter-row"><details class="advanced-filters"><summary>高级筛选：15 个 arXiv 原始分类</summary><div id="category-filters" class="category-filters" role="group" aria-label="按 arXiv 分类筛选"></div></details></div>
+        <details id="filter-panel" class="filter-panel" open>
+          <summary class="filter-panel-summary" aria-controls="filter-panel-body">
+            <div class="filter-panel-title"><h2 id="filter-title">研究筛选器</h2><p id="taxonomy-coverage" class="taxonomy-coverage"></p></div>
+            <div class="filter-panel-status"><p class="result-count" id="result-count" aria-live="polite"></p><span class="filter-toggle-label"><span class="filter-when-open">收起筛选</span><span class="filter-when-closed">展开筛选</span><span class="filter-chevron" aria-hidden="true"></span></span></div>
+          </summary>
+          <div id="filter-panel-body" class="filter-panel-body">
+            <div id="paper-filter-row" class="summary-controls-row">
+              <div class="control-field grow"><label for="paper-search">搜索论文</label><input id="paper-search" type="search" placeholder="输入标题、作者、研究目的或关键词"></div>
+              <button id="reset-filters" class="reset-button" type="button">重置筛选</button>
+            </div>
+            <div id="archive-filter-row" class="summary-controls-row">
+              <div class="control-field"><label for="archive-range">时间范围</label><select id="archive-range"><option value="1" selected>最近 1 天</option><option value="7">最近 7 天</option><option value="14">最近 14 天</option><option value="30">最近 30 天</option><option value="60">最近 60 天</option><option value="all">全部</option></select></div>
+              <div class="control-field"><label for="archive-range-custom">自定义天数</label><input id="archive-range-custom" type="number" min="1" placeholder="例如 21"></div>
+              <div class="control-field"><label for="archive-sort">日期排序</label><select id="archive-sort"><option value="desc" selected>从新到旧</option><option value="asc">从旧到新</option></select></div>
+              <div class="control-field grow"><label for="archive-select">跳转到摘要日期</label><select id="archive-select"><option value="">请选择日期</option></select></div>
+            </div>
+            <div id="topic-filter-row" class="summary-controls-row filter-row"><span class="filter-label">交叉研究主题</span><div id="topic-filters" class="topic-filters" role="group" aria-label="按研究主题筛选"></div></div>
+            <div id="method-filter-row" class="summary-controls-row filter-row"><span class="filter-label">研究技术方法</span><div id="method-filters" class="method-filters" role="group" aria-label="按研究技术方法筛选"></div></div>
+            <div id="category-filter-row" class="summary-controls-row filter-row"><details class="advanced-filters"><summary>高级筛选：15 个 arXiv 原始分类</summary><div id="category-filters" class="category-filters" role="group" aria-label="按 arXiv 分类筛选"></div></details></div>
+          </div>
+        </details>
       </section>
       <section id="empty-state" class="empty-state" hidden><h2>没有匹配的论文</h2><p>尝试缩短关键词，或重置主题与分类筛选。</p></section>
       {{ content }}
