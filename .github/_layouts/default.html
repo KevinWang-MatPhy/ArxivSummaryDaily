@@ -50,6 +50,7 @@
       .filter-panel[open] .filter-chevron { transform: rotate(225deg); }
       .filter-panel[open] .filter-when-closed, .filter-panel:not([open]) .filter-when-open { display: none; }
       .filter-panel-body { padding: 0 20px 20px; border-top: 1px solid #e7eeec; }
+      .filter-panel-body:focus-visible { outline: 3px solid rgba(29,112,114,.22); outline-offset: -3px; }
       .result-count { margin: 0; color: var(--muted); font-size: .88rem; }
       .result-count strong { color: var(--teal-950); font-size: 1.05rem; }
       .summary-controls-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; margin-top: 13px; }
@@ -98,6 +99,14 @@
       .archive-heading { margin-bottom: 24px; } .archive-heading h1 { margin-bottom: 6px; } .archive-heading p { color: var(--muted); }
       .main-content > ul { padding: 18px 22px 18px 42px; border: 1px solid var(--line); border-radius: var(--radius-md); background: #fff; }
       .site-footer { display: flex; justify-content: space-between; gap: 16px; padding-top: 24px; margin-top: 42px; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--line); }
+      @media (min-width: 761px) {
+        .filter-panel[open] { display: grid; grid-template-rows: auto minmax(0,1fr); max-height: calc(100dvh - 26px); }
+        .filter-panel-body { min-height: 0; max-height: calc(100dvh - 120px); overflow-y: auto; overscroll-behavior-y: contain; scrollbar-color: #9dbbb7 transparent; scrollbar-gutter: stable; scrollbar-width: thin; }
+        .filter-panel-body::-webkit-scrollbar { width: 9px; }
+        .filter-panel-body::-webkit-scrollbar-track { background: transparent; }
+        .filter-panel-body::-webkit-scrollbar-thumb { border: 2px solid transparent; border-radius: 999px; background: #9dbbb7; background-clip: padding-box; }
+        .filter-panel-body::-webkit-scrollbar-thumb:hover { background: var(--teal-700); background-clip: padding-box; }
+      }
       @media (max-width: 760px) {
         .page-header { padding: 22px 18px; } .header-inner { grid-template-columns: 1fr; } .header-actions { justify-content: flex-start; }
         .brand-mark { width: 48px; height: 48px; border-radius: 13px; } .main-content { padding: 22px 14px 42px; }
@@ -138,7 +147,7 @@
             <div class="filter-panel-title"><h2 id="filter-title">研究筛选器</h2><p id="taxonomy-coverage" class="taxonomy-coverage"></p></div>
             <div class="filter-panel-status"><p class="result-count" id="result-count" aria-live="polite"></p><span class="filter-toggle-label"><span class="filter-when-open">收起筛选</span><span class="filter-when-closed">展开筛选</span><span class="filter-chevron" aria-hidden="true"></span></span></div>
           </summary>
-          <div id="filter-panel-body" class="filter-panel-body">
+          <div id="filter-panel-body" class="filter-panel-body" tabindex="0" aria-label="筛选条件">
             <div id="paper-filter-row" class="summary-controls-row">
               <div class="control-field grow"><label for="paper-search">搜索论文</label><input id="paper-search" type="search" placeholder="输入标题、作者、研究目的或关键词"></div>
               <button id="reset-filters" class="reset-button" type="button">重置筛选</button>

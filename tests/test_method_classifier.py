@@ -217,6 +217,10 @@ class TestMethodClassifier(unittest.TestCase):
             self.assertIn('id="filter-panel"', layout)
             self.assertIn('class="filter-panel-summary"', layout)
             self.assertIn('id="filter-panel-body"', layout)
+            self.assertIn("overflow-y: auto", layout)
+            self.assertIn("max-height: calc(100dvh - 120px)", layout)
+            self.assertIn("overscroll-behavior-y: contain", layout)
+            self.assertIn('aria-label="筛选条件"', layout)
             self.assertEqual(len(taxonomy), 4)
             self.assertEqual(
                 sum(len(topic["categories"]) for topic in taxonomy),
