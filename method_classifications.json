@@ -12231,7 +12231,165 @@
       "confidence": 0.95,
       "reason": "利用生成式机器学习模型加速物理模拟，核心证据来自算法开发与仿真性能验证。",
       "retryable": false
+    },
+    "2609.13086v1": {
+      "paper_id": "2609.13086v1",
+      "source_hash": "eb891b242217cbbdf08fdf47a57427f0e73d5438ef791f749623d9302d13c657",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "摘要明确指出通过声学平台实验演示和验证了异常点BIC。",
+      "retryable": false
+    },
+    "2609.13020v1": {
+      "paper_id": "2609.13020v1",
+      "source_hash": "e182d01a9d858933fe3638b9b2a6a3cdff5b1f9e877ae65c83e3a97c3ee62180",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "核心方法是开发动态重力沉积框架以重建多孔介质，属于数值模拟和图像重建。",
+      "retryable": false
+    },
+    "2609.12862v1": {
+      "paper_id": "2609.12862v1",
+      "source_hash": "2bb135acf6b0a52c4a720f98f6b327107d0d466ceb1f428f04e04732cb9df0f0",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.88,
+      "reason": "研究旨在揭示普适性机制和标度无关动力学，基于临界点标度分析。",
+      "retryable": false
+    },
+    "2609.12689v1": {
+      "paper_id": "2609.12689v1",
+      "source_hash": "240b93ef1b987b827eef7c8b2b8086acfbe50b3d55c51baf39562815b9dde70f",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.92,
+      "reason": "提出并验证随机矩阵Ansatz，通过形式化推导揭示深层热化的微观机制。",
+      "retryable": false
+    },
+    "2609.12665v1": {
+      "paper_id": "2609.12665v1",
+      "source_hash": "4e00d503a4c0a6ac872942d1172d3998834ab04021a6f0a84b79febc446d7297",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "通过构建不同的势能截断模型进行对比分析，属于计算模拟研究。",
+      "retryable": false
+    },
+    "2609.12529v1": {
+      "paper_id": "2609.12529v1",
+      "source_hash": "f3da07481c8326ee5a06c0bae2d6cea4626743a1328c07524ddc4314ba6c3a53",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "实验实现了铁电栅极对二维磁性材料磁电阻的非易失性调控并测量其效率。",
+      "retryable": false
+    },
+    "2609.12479v1": {
+      "paper_id": "2609.12479v1",
+      "source_hash": "10ab1b07aeb7819100c0c040d10149a0503a4b7dd0597aab542803e0882f199c",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "研究基于有限粘性理论与模拟数据进行对比，核心证据来自数值模拟。",
+      "retryable": false
+    },
+    "2609.12458v1": {
+      "paper_id": "2609.12458v1",
+      "source_hash": "9f4d9557dc2c6220f6581a7cc56c2c636d894c1125622407c0b17f0539404027",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "通过宽场磁成像实验观测缺陷磁场并重构缺陷位置，验证检测方法。",
+      "retryable": false
+    },
+    "2609.12344v1": {
+      "paper_id": "2609.12344v1",
+      "source_hash": "bc7a3edbf31c87c2ae87ac4fef9fb669b80b3f1140e806bc8bcde08e0dd40adc",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "提出对流换热拓扑优化方法并通过模拟验证其在层流和湍流下的性能提升。",
+      "retryable": false
+    },
+    "2609.12166v1": {
+      "paper_id": "2609.12166v1",
+      "source_hash": "d195a2b28a1465ca5b6a4754aac64361e6458990fd7794d249be023adc84c26c",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.98,
+      "reason": "标题明确标注为第一性原理研究，核心证据来自DFT计算。",
+      "retryable": false
+    },
+    "2609.12079v1": {
+      "paper_id": "2609.12079v1",
+      "source_hash": "2712439b8fe45f2cce76a83aba5bcccd35f221d6274be1fc51be25811c9303af",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.88,
+      "reason": "虽然包含解析推导，但在Fashion-MNIST上的验证及相图观察主要依赖计算分析。",
+      "retryable": false
+    },
+    "2609.12066v1": {
+      "paper_id": "2609.12066v1",
+      "source_hash": "14b669daf4f7ee838ef2bd79a52830badab278ced97aabe00a87f0bc8931162f",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "在开放Rabi模型框架下分析退相干对超辐射临界性的影响，属于理论推导。",
+      "retryable": false
+    },
+    "2609.12048v1": {
+      "paper_id": "2609.12048v1",
+      "source_hash": "056834942d4d637955316c012bb540f1f7ddca4acd7abd52b5ed22b576fd17aa",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "使用Landau-Zener描述和绝热协议理论分析量子态转移的保真度。",
+      "retryable": false
     }
   },
-  "updated_at": "2026-09-14T07:16:00.526435+00:00"
+  "updated_at": "2026-09-14T09:09:39.859148+00:00"
 }
