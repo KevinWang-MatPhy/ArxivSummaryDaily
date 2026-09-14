@@ -30,8 +30,8 @@
       "timestamp": "2026-09-11T07:51:29.318515"
     },
     "physics.ins-det": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.11868v1",
-      "timestamp": "2026-09-11T07:51:49.184380"
+      "latest_entry_id": "http://arxiv.org/abs/2609.12799v1",
+      "timestamp": "2026-09-14T06:59:23.671211"
     },
     "physics.app-ph": {
       "latest_entry_id": "http://arxiv.org/abs/2609.11887v1",
@@ -1057,8 +1057,13 @@
     "2609.11874v1",
     "2609.11881v1",
     "2609.11887v1",
-    "2609.11927v1"
+    "2609.11927v1",
+    "2609.12054v1",
+    "2609.12184v1",
+    "2609.12430v1",
+    "2609.12796v1",
+    "2609.12799v1"
   ],
-  "timestamp": "2026-09-11T07:55:41.943144",
-  "total_results": 71
+  "timestamp": "2026-09-14T07:15:40.015819",
+  "total_results": 5
 }

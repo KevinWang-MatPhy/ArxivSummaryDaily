@@ -12170,7 +12170,68 @@
       "confidence": 0.93,
       "reason": "研究涡旋和非磁性杂质诱导准粒子态量子干涉影响热电响应的理论分析。",
       "retryable": false
+    },
+    "2609.12799v1": {
+      "paper_id": "2609.12799v1",
+      "source_hash": "1b4c216efe9495fd2f352fe4b21d4b5e0602afbcb0e829eadbfc531e9304bd58",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "报告了探测器样品的地面调试与性能测试结果，核心证据来自实际测量数据。",
+      "retryable": false
+    },
+    "2609.12796v1": {
+      "paper_id": "2609.12796v1",
+      "source_hash": "f927d71ca3ac17c05a5d186e52d094eee3a28c3824e1cb1b0545d10cc33a1763",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "涉及磁控溅射实验制备多层镜及反射率验证，同时包含LLM智能体的计算控制流程。",
+      "retryable": false
+    },
+    "2609.12430v1": {
+      "paper_id": "2609.12430v1",
+      "source_hash": "5945d3e81477eeda167c139e4952763517615d933ce71bb2b9f1adbcfff2a21b",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "开发了读出系统并完成了与探测器的集成测试，核心证据来自硬件性能实验。",
+      "retryable": false
+    },
+    "2609.12184v1": {
+      "paper_id": "2609.12184v1",
+      "source_hash": "c9b2321de2a84d17ae7638abfe6a1c0bce91900d61cd5ff5aa4ca4a2dea73fc4",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "基于TCAD模拟开发自动化校准工作流，核心证据来自数值仿真与模型拟合优化。",
+      "retryable": false
+    },
+    "2609.12054v1": {
+      "paper_id": "2609.12054v1",
+      "source_hash": "23562c787cc26dd090fbc3b87ace313b107aaf973864f07a8af7c0aa7bcf9161",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用生成式机器学习模型加速物理模拟，核心证据来自算法开发与仿真性能验证。",
+      "retryable": false
     }
   },
-  "updated_at": "2026-09-11T07:56:37.939486+00:00"
+  "updated_at": "2026-09-14T07:16:00.526435+00:00"
 }

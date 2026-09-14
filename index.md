@@ -3,14 +3,102 @@ layout: default
 title: ArXiv Summary Daily
 ---
 
-<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-09-11</span></nav>
+<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-09-14</span></nav>
 
-<script type="application/json" id="summary-archive-data">[{"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}, {"filename": "summary_20260904_074804.md", "date": "2026-09-04", "timestamp": "2026-09-04T07:48:04"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260902_074312.md", "date": "2026-09-02", "timestamp": "2026-09-02T07:43:12"}, {"filename": "summary_20260903_075220.md", "date": "2026-09-03", "timestamp": "2026-09-03T07:52:20"}, {"filename": "summary_20260901_082336.md", "date": "2026-09-01", "timestamp": "2026-09-01T08:23:36"}, {"filename": "summary_20260829_064455.md", "date": "2026-08-29", "timestamp": "2026-08-29T06:44:55"}, {"filename": "summary_20260831_092551.md", "date": "2026-08-31", "timestamp": "2026-08-31T09:25:51"}, {"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
+<script type="application/json" id="summary-archive-data">[{"filename": "summary_20260914_071528.md", "date": "2026-09-14", "timestamp": "2026-09-14T07:15:28"}, {"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}, {"filename": "summary_20260904_074804.md", "date": "2026-09-04", "timestamp": "2026-09-04T07:48:04"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260902_074312.md", "date": "2026-09-02", "timestamp": "2026-09-02T07:43:12"}, {"filename": "summary_20260903_075220.md", "date": "2026-09-03", "timestamp": "2026-09-03T07:52:20"}, {"filename": "summary_20260901_082336.md", "date": "2026-09-01", "timestamp": "2026-09-01T08:23:36"}, {"filename": "summary_20260829_064455.md", "date": "2026-08-29", "timestamp": "2026-08-29T06:44:55"}, {"filename": "summary_20260831_092551.md", "date": "2026-08-31", "timestamp": "2026-08-31T09:25:51"}, {"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
 
 <section class="feed-intro">
 <div><p class="section-kicker">Latest research digest</p><h1>最新研究摘要</h1><p>聚焦电子显微学、原子尺度材料、凝聚态物理与计算成像的每日研究进展。</p></div></section>
 
 <div id="summary-list" markdown="1">
+<section class="summary-day" data-summary-date="2026-09-14" markdown="1">
+<header class="summary-day-header"><h2>2026-09-14 研究摘要</h2><a href="summary_20260914_071528.html">打开当日独立页面 →</a></header>
+
+## 基本信息
+- 生成时间：2026-09-14 15:15:40
+- 使用模型：agnes-2.5-flash
+- 论文数量：5 篇
+
+---
+
+## 论文总结
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-11" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-11</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Surface Commissioning and Performance of the sMDT Muon Chambers for the ATLAS HL-LHC Upgrade](http://arxiv.org/abs/2609.12799v1)
+- **作者:** Jiajin Ge, Elena Voevodina, Hubert Kroha, Tatiana Azaryan, Kwok Ching Cheung, Tiesheng Dai, Edward Diehl, Claudio Ferretti, Yuxiang Guo, Oliver Kortner, Chihao Li, Chun Kit Lo, Nick Meier, Emmett Salzer, Can Suslu, Cecilia Vanesa Imthurn, Samuel Hugo Venetianer, Curtis Weaverdyck, Chuanshun Wei, Bastian Michael Wesely, Ruslan Yakubovych, Bing Zhou, Junjie Zhu, Jörg Zimmermann
+- **研究目的:** 报告 ATLAS 实验在 CERN 完成的 102 个新型小直径漂移管 (sMDT) 室的地面调试与性能测试结果，以支持 HL-LHC 升级。
+- **主要发现:** 所有探测器均满足设计要求，气体泄漏率低于规定极限的 5 倍，暗电流极低（约 0.2 nA），平均探测效率达到 99%，空间分辨率为 $82~\mu\mathrm{m}$，仅 0.1\% 以下的漂移管存在故障。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.ins-det" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-11" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-11</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Agent-authored deposition recipes for X-ray multilayer mirrors: schema-bound LLM control of a magnetron sputtering system with reflectivity-verified outcomes](http://arxiv.org/abs/2609.12796v1)
+- **作者:** Oleksiy V. Penkov, Haoyu Fu, Yueying Zhan, Pengyuan Wu, Jiong Jin
+- **研究目的:** 探索利用大语言模型 (LLM) 智能体自主编写磁控溅射沉积配方，以高精度制备 X 射线多层镜的结构与控制流程。
+- **主要发现:** LLM 智能体生成的 Ru/C 多层镜周期误差通过反馈迭代从 20\% 降至 0.79\%，验证了在严格架构约束下使用 LLM 控制精密制造系统的可行性。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-11" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-11</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [An integrated readout system for parallel-plate avalanche counter and multi-wire drift chamber at HIAF-HIRIBL](http://arxiv.org/abs/2609.12430v1)
+- **作者:** E. Q. Liu, T. S. Huang, Z. X. Ma, Z. P. Sun, L. Li, H. J. Ong, H. Wang, S. Terashima, L. M Duan, H. R Yang, Y. Qian, F. S. Shi, Y. N. Song, B. H. Sun, X. D. Xu, J. W. Yan, Z. C. Zhang
+- **研究目的:** 开发一种高度集成的多通道前端读出系统 FEAM-256，用于中国散裂中子源高刚度放射性束流线上游的平行板雪崩计数器 (PPAC) 和多丝漂移室 (MWDC)。
+- **主要发现:** FEAM-256 系统实现了 PPAC 320 $\mu$m 和 MWDC 424 $\mu$m 的本征位置分辨率，并成功集成至 HIRIBL 数据采集基础设施中。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-10" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-10</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors](http://arxiv.org/abs/2609.12184v1)
+- **作者:** Gyujun Jeong, Junmo Lee, Sungwon Cho, Woohyun Hwang, Kwangyou Seo, Suhwan Lim, Wanki Kim, Daewon Ha, Rishi Ranade, Kihang Youn, Ram Cherukuri, Yiyi Wang, Asif Khan, Shimeng Yu
+- **研究目的:** 提出一种基于智能体的 TCAD 校准工作流，以自动化并优化氧化物半导体晶体管（特别是 In-W-O 器件）的工艺敏感模型参数提取过程。
+- **主要发现:** 该智能体工作流通过五次迭代校正，使多指标器件目标函数 $J$ 降低了 14.3$\times$，实现了跨偏置和几何条件的模型可迁移性，显著优于传统局部拟合方法。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-10" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-10</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Fast BIB simulation at a future Muon Collider with generative machine learning](http://arxiv.org/abs/2609.12054v1)
+- **作者:** Radha Mastandrea, Shiyu Peng, Benjamin Rosser, Matt LeBlanc
+- **研究目的:** 针对未来缪子对撞机中计算成本极高的束流感应背景 (BIB) 模拟问题，开发基于生成式机器学习的快速 BIB 仿真模型。
+- **主要发现:** 开发的两类神经网络架构（表格扩散模型和圆形样条流模型）生成的 BIB 数据与全仿真结果高度吻合，且模拟速度提升了超过一个数量级，大幅降低了计算资源需求。
+
+---
+</section>
+
+---
+
+## 生成说明
+- 本报告由AI模型自动生成
+- 每篇论文的总结包含研究目的和主要发现
+- 如有错误或遗漏请以原文为准
+
+</section>
+
 <section class="summary-day" data-summary-date="2026-09-11" markdown="1">
 <header class="summary-day-header"><h2>2026-09-11 研究摘要</h2><a href="summary_20260911_075302.html">打开当日独立页面 →</a></header>
 
@@ -955,7 +1043,6 @@ title: ArXiv Summary Daily
 - 本报告由AI模型自动生成
 - 每篇论文的总结包含研究目的和主要发现
 - 如有错误或遗漏请以原文为准
-
 </section>
 
 <section class="summary-day" data-summary-date="2026-09-10" markdown="1">
