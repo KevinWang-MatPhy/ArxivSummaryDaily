@@ -12389,7 +12389,412 @@
       "confidence": 0.85,
       "reason": "使用Landau-Zener描述和绝热协议理论分析量子态转移的保真度。",
       "retryable": false
+    },
+    "2609.15966v1": {
+      "paper_id": "2609.15966v1",
+      "source_hash": "5ffe3a374f7110f2dd290fadc995a46fd4332050d3e5fa33b08f2176516b56bf",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究有限偏置下的电荷电流、散粒噪声及Fano因子，基于量子力学干涉理论推导Majorana束缚态的签名。",
+      "retryable": false
+    },
+    "2609.15920v1": {
+      "paper_id": "2609.15920v1",
+      "source_hash": "7ba66efde9c395801d12a5e02f2b14cdbe9e63ca5a21237827384ba279bea8e7",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "通过比较不同细菌（大肠杆菌、沙门氏菌等）在流体中的上游游泳行为，观察鞭毛排列对运动机制的影响。",
+      "retryable": false
+    },
+    "2609.15914v1": {
+      "paper_id": "2609.15914v1",
+      "source_hash": "5ef9135fb2662553eeda984b5b106b533edfa76a45f163f232f3f6eb91194432",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "theory",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "摘要明确指出包含实验、理论和数值研究，通过快速旋转夹具驱动屈曲条带来观察动态snapping阈值。",
+      "retryable": false
+    },
+    "2609.15898v1": {
+      "paper_id": "2609.15898v1",
+      "source_hash": "82e1056b7bfac72f153740b899ee057821ef7e9f052cc22ece88d83cd171f6c2",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "使用基于Psiformer Ansatz的神经网络变分蒙卡（NN-VMC）方法计算过渡金属氢化物的键解离能。",
+      "retryable": false
+    },
+    "2609.15897v1": {
+      "paper_id": "2609.15897v1",
+      "source_hash": "b83a68fd6c10769d26281ed801af0ecc145c7ea57ff5e5bd043a4ae44b4944b5",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "这是一篇综述文章，旨在连接控制理论、最优输运、概率推理等领域的概念框架和形式化联系。",
+      "retryable": false
+    },
+    "2609.15860v1": {
+      "paper_id": "2609.15860v1",
+      "source_hash": "67194a83212abffc098244f8be71871ac581fdbd451ffa99db0235aaa5c77d89",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "对^{28}Si/SiGe自旋量子比特进行退相干测量（T_2^*和CPMG相干时间），实验探究残余噪声来源。",
+      "retryable": false
+    },
+    "2609.15846v1": {
+      "paper_id": "2609.15846v1",
+      "source_hash": "243567055001ce8041f314cc4680353fdcdc9a2806c90136483ce1cbd3491f32",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "使用Geant4蒙特卡罗模拟评估加速器缪子照相术的可行性及缪子通量。",
+      "retryable": false
+    },
+    "2609.15845v1": {
+      "paper_id": "2609.15845v1",
+      "source_hash": "2a0f48f280aa5654af50b7e0a1fca3f9ee324564742aa739a85b72a8ab598a07",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过求解逆广义Kohn-Sham问题，从高精度从头算密度获取交换关联势能和能量，属于DFT计算方法。",
+      "retryable": false
+    },
+    "2609.15839v1": {
+      "paper_id": "2609.15839v1",
+      "source_hash": "b97df891491f6c7c5f9c174bd4f57551d7d7e52d8beb03d6214365d07881c2c8",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "建立描述策略分布演化的动力学理论，分析活性布朗粒子群体的集体适应动力学。",
+      "retryable": false
+    },
+    "2609.15835v1": {
+      "paper_id": "2609.15835v1",
+      "source_hash": "b36d313957daa4d75d47b44e4089aec54b89c2787141ea6824b81d0ce3a9ac4e",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.8,
+      "reason": "构建分块模块化灰箱模型并基于台架实验数据进行验证，核心在于模型构建与损耗分解的计算分析。",
+      "retryable": false
+    },
+    "2609.15777v1": {
+      "paper_id": "2609.15777v1",
+      "source_hash": "8a34c9e5d7d0f0c465cb9bdfc8d5f10dcb9cac6ff3371b6855210f3846926dbb",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "通过逆向工程实验数据拟合DFT泛函参数，系统评估和改进密度泛函理论预测自旋交叉转变温度的准确性。",
+      "retryable": false
+    },
+    "2609.15646v1": {
+      "paper_id": "2609.15646v1",
+      "source_hash": "7265c105550f34891f859413382b738df5445da9779d615209776b8bdc161ade",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "从氢键网络韧性角度推导液态水稳定性的单一无参数分子准则，属于理论推导和概念统一。",
+      "retryable": false
+    },
+    "2609.15619v1": {
+      "paper_id": "2609.15619v1",
+      "source_hash": "05492e3546557d71f23a1c1810992046322e754aeb5d88dc7173c3dbb326af35",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用Micromagnetic模拟研究交叉椭圆MTJ自由层的尺寸和长宽比对开关及剩余态景观的控制。",
+      "retryable": false
+    },
+    "2609.15441v1": {
+      "paper_id": "2609.15441v1",
+      "source_hash": "12231671e609f8471b65facfcaa485629c54fc828d57db2cc6cdafd81e772bde",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "使用离散元法（DEM）模拟楔形料斗中的颗粒流，并结合标度关系理论推导质量流率表达式。",
+      "retryable": false
+    },
+    "2609.15432v1": {
+      "paper_id": "2609.15432v1",
+      "source_hash": "a27ae3e188db26e084c85f2090b15b5beff52eea7404ceef1a87247e1b1a0942",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "探索利用单条件训练的神经求解器输出响应空间，实现参数化偏微分方程的快速数值解恢复。",
+      "retryable": false
+    },
+    "2609.15429v1": {
+      "paper_id": "2609.15429v1",
+      "source_hash": "fa8742bb0ed2b63fc1bbde9025b259602b17e973053f4ad4094dfab18a141052",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "研究近表面热spike对氧化镓辐射硬化的影响，通常基于分子动力学或级联模拟计算位移损伤。",
+      "retryable": false
+    },
+    "2609.15428v1": {
+      "paper_id": "2609.15428v1",
+      "source_hash": "d1ac0c6280ceebdca6977d5aa7fc71164e7fd694ab5831a1b49cc76f9b1aa42c",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "建立基于Voronoi拓扑电荷分布香农熵的信息论框架，证明精确的熵平衡律和拓扑电荷求和规则。",
+      "retryable": false
+    },
+    "2609.15405v1": {
+      "paper_id": "2609.15405v1",
+      "source_hash": "f40c943ae4ee426852b1a04f764ce86e27362864142363ce3f4cc762e5a9eab1",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "提出对称性约束的相互作用势框架，并通过分子动力学模拟展示其在丙氨酸螺旋中的应用。",
+      "retryable": false
+    },
+    "2609.15402v1": {
+      "paper_id": "2609.15402v1",
+      "source_hash": "02156b37072b9fdaaf107b9b773f92f1cc0a6a0ec78201c4f08c76ca9b573765",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究环面上活性群集的拓扑声传播，推导Jackiw-Rebbi畴壁和Callias指标定理保护的手性边缘激发。",
+      "retryable": false
+    },
+    "2609.15398v1": {
+      "paper_id": "2609.15398v1",
+      "source_hash": "47670cb24deaaec5c8155836b6ef14d1f96793378453582fe4cefa4ea68f0cbc",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出在非适配边界网格中施加强Dirichlet边界条件的数值算法，并在有限元法和等几何分析中验证收敛性。",
+      "retryable": false
+    },
+    "2609.15380v1": {
+      "paper_id": "2609.15380v1",
+      "source_hash": "87c2f5eb923b622e78ce3e53a820189a0a35f192ae6196283728b33950d23950",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "展示活性活塞通过周期性压缩提取功的原理，涉及理论分析和活性物质的建模。",
+      "retryable": false
+    },
+    "2609.15259v1": {
+      "paper_id": "2609.15259v1",
+      "source_hash": "352bf4497c358a9f79fa60d10f6165f81faf63a8f5cd6671fee9e7e1782bd4b8",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究BKT型相变中的拓扑激发特性，证明BSCF特征性质在对称性偏离下的体现，属于理论物理分析。",
+      "retryable": false
+    },
+    "2609.14928v1": {
+      "paper_id": "2609.14928v1",
+      "source_hash": "b9655d69759199ce8b04ba9382a74269d26908a4028e30ea1080f8740b610ed4",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "构建自动化实验平台并进行ZIF-8合成演示，通过实验发现并复现粒径分布对溶液 dispensing 速度的依赖。",
+      "retryable": false
+    },
+    "2609.14853v1": {
+      "paper_id": "2609.14853v1",
+      "source_hash": "880846a552989922ce4fa67832148cf129065c65a487ec121ac7a472ec2cdf62",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "使用ERA5气象数据集进行解析公式推导，评估风对赤道空间电梯的影响。",
+      "retryable": false
+    },
+    "2609.14731v1": {
+      "paper_id": "2609.14731v1",
+      "source_hash": "0a0b5048e64e8132453cedb60b20189244ca883811a1012c36633a5f347c3324",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "报告和研究稀土正铁酸盐中观察到的巨大磁场诱导晶格应变，属于磁学性质的实际测量。",
+      "retryable": false
+    },
+    "2609.14720v1": {
+      "paper_id": "2609.14720v1",
+      "source_hash": "d19c16f0a199877740ec18c156affb2c121686dbc3bb95b6dfd7b2298e7ff978",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "通过形貌和阳离子工程合成铁氧体纳米颗粒，并在卵巢癌肿瘤模拟模型中测试其诊疗性能。",
+      "retryable": false
+    },
+    "2609.14661v1": {
+      "paper_id": "2609.14661v1",
+      "source_hash": "b817c0e8b35f56719a5b2b756baa01cb8627168579261ff15e001e80a3c6b2e8",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.85,
+      "reason": "设计液氮杜瓦并实验监测液氮消耗，同时校准热模型，最终进行HTS-SQUID器件测量。",
+      "retryable": false
+    },
+    "2609.14468v1": {
+      "paper_id": "2609.14468v1",
+      "source_hash": "900f2c6a9a1cd279fea141f8de7ced1c46132eea7bbb853872eace16f67f0b55",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "基于三维限域理论解释超薄金属中量子限域引起的巨大二阶非线性光学效应机制。",
+      "retryable": false
+    },
+    "2609.14396v1": {
+      "paper_id": "2609.14396v1",
+      "source_hash": "ea05728cea4b7a129c21f8031a6e49b81a582d8e274c6d530d496d3f4f7b3255",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出混合光管理结构并通过光-电-热耦合模拟优化薄膜硅太阳能电池的设计参数。",
+      "retryable": false
+    },
+    "2609.14296v1": {
+      "paper_id": "2609.14296v1",
+      "source_hash": "1cae8ae1fc0f5830e0a992d75c9658f51924045c10e45fa1efac26c9b19ca661",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究AdS/BCFT中混合边界条件下的全息Casimir效应，应用全息g定理进行理论证明。",
+      "retryable": false
+    },
+    "2609.14020v1": {
+      "paper_id": "2609.14020v1",
+      "source_hash": "bbf3bc05f2d61ededd5350e603c80682153e2a91554d9434eb714aad4ab45534",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "表征BAUSCIA高频引力波天线，实验验证谐振器热噪声主导地位及SQUID反作用消除。",
+      "retryable": false
+    },
+    "2609.13724v1": {
+      "paper_id": "2609.13724v1",
+      "source_hash": "7b4611fa3997ab677d81f80a392ca85fef086d455f3092dab4c9cc34b15c5fc5",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "利用拉格朗日框架分析折纸结构的多元稳定性，通过降维切片探索高维构型空间的拓扑转变。",
+      "retryable": false
+    },
+    "2609.13474v1": {
+      "paper_id": "2609.13474v1",
+      "source_hash": "cd39aa8fa960c47ebf791675f9c80025a021f925be53bfc3693e6960c1adf259",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "从微观可积哈密顿量推导长波magnon色散，研究畴壁波前传播和弹道扩散交叉的理论机制。",
+      "retryable": false
     }
   },
-  "updated_at": "2026-09-14T09:09:39.859148+00:00"
+  "updated_at": "2026-09-15T09:02:55.279942+00:00"
 }

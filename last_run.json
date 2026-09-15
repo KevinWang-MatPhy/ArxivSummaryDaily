@@ -22,20 +22,20 @@
       "timestamp": "2026-09-14T08:48:47.911262"
     },
     "cond-mat.soft": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.11705v1",
-      "timestamp": "2026-09-11T07:51:18.888703"
+      "latest_entry_id": "http://arxiv.org/abs/2609.15920v1",
+      "timestamp": "2026-09-15T08:38:58.101914"
     },
     "cond-mat.other": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.11868v1",
-      "timestamp": "2026-09-11T07:51:29.318515"
+      "latest_entry_id": "http://arxiv.org/abs/2609.15966v1",
+      "timestamp": "2026-09-15T08:40:58.804907"
     },
     "physics.ins-det": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.12799v1",
-      "timestamp": "2026-09-14T08:54:07.928051"
+      "latest_entry_id": "http://arxiv.org/abs/2609.15846v1",
+      "timestamp": "2026-09-15T08:42:49.235538"
     },
     "physics.app-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.13086v1",
-      "timestamp": "2026-09-14T08:56:52.980175"
+      "latest_entry_id": "http://arxiv.org/abs/2609.15860v1",
+      "timestamp": "2026-09-15T08:43:11.247464"
     },
     "physics.optics": {
       "latest_entry_id": "http://arxiv.org/abs/2609.11858v1",
@@ -50,8 +50,8 @@
       "timestamp": "2026-09-11T07:52:30.711463"
     },
     "physics.comp-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.11868v1",
-      "timestamp": "2026-09-11T07:52:41.032180"
+      "latest_entry_id": "http://arxiv.org/abs/2609.15898v1",
+      "timestamp": "2026-09-15T08:56:51.553422"
     },
     "physics.data-an": {
       "latest_entry_id": "http://arxiv.org/abs/2609.11874v1",
@@ -1075,8 +1075,41 @@
     "2609.12799v1",
     "2609.12862v1",
     "2609.13020v1",
-    "2609.13086v1"
+    "2609.13086v1",
+    "2609.13474v1",
+    "2609.13724v1",
+    "2609.14020v1",
+    "2609.14296v1",
+    "2609.14396v1",
+    "2609.14468v1",
+    "2609.14661v1",
+    "2609.14720v1",
+    "2609.14731v1",
+    "2609.14853v1",
+    "2609.14928v1",
+    "2609.15259v1",
+    "2609.15380v1",
+    "2609.15398v1",
+    "2609.15402v1",
+    "2609.15405v1",
+    "2609.15428v1",
+    "2609.15429v1",
+    "2609.15432v1",
+    "2609.15441v1",
+    "2609.15619v1",
+    "2609.15646v1",
+    "2609.15777v1",
+    "2609.15835v1",
+    "2609.15839v1",
+    "2609.15845v1",
+    "2609.15846v1",
+    "2609.15860v1",
+    "2609.15897v1",
+    "2609.15898v1",
+    "2609.15914v1",
+    "2609.15920v1",
+    "2609.15966v1"
   ],
-  "timestamp": "2026-09-14T09:09:30.048352",
-  "total_results": 13
+  "timestamp": "2026-09-15T09:02:33.463156",
+  "total_results": 33
 }
