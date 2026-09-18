@@ -3,14 +3,1261 @@ layout: default
 title: ArXiv Summary Daily
 ---
 
-<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-09-17</span></nav>
+<nav class="archive-bar" aria-label="摘要归档"><a href="archive.html">查看全部摘要归档 →</a><span>最近更新：2026-09-18</span></nav>
 
-<script type="application/json" id="summary-archive-data">[{"filename": "summary_20260917_082750.md", "date": "2026-09-17", "timestamp": "2026-09-17T08:27:50"}, {"filename": "summary_20260916_082151.md", "date": "2026-09-16", "timestamp": "2026-09-16T08:21:51"}, {"filename": "summary_20260914_090905.md", "date": "2026-09-14", "timestamp": "2026-09-14T09:09:05"}, {"filename": "summary_20260914_071528.md", "date": "2026-09-14", "timestamp": "2026-09-14T07:15:28"}, {"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260915_090110.md", "date": "2026-09-15", "timestamp": "2026-09-15T09:01:10"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}, {"filename": "summary_20260904_074804.md", "date": "2026-09-04", "timestamp": "2026-09-04T07:48:04"}, {"filename": "summary_20260902_074312.md", "date": "2026-09-02", "timestamp": "2026-09-02T07:43:12"}, {"filename": "summary_20260903_075220.md", "date": "2026-09-03", "timestamp": "2026-09-03T07:52:20"}, {"filename": "summary_20260831_092551.md", "date": "2026-08-31", "timestamp": "2026-08-31T09:25:51"}, {"filename": "summary_20260901_082336.md", "date": "2026-09-01", "timestamp": "2026-09-01T08:23:36"}, {"filename": "summary_20260829_064455.md", "date": "2026-08-29", "timestamp": "2026-08-29T06:44:55"}, {"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
+<script type="application/json" id="summary-archive-data">[{"filename": "summary_20260918_080251.md", "date": "2026-09-18", "timestamp": "2026-09-18T08:02:51"}, {"filename": "summary_20260917_082750.md", "date": "2026-09-17", "timestamp": "2026-09-17T08:27:50"}, {"filename": "summary_20260914_090905.md", "date": "2026-09-14", "timestamp": "2026-09-14T09:09:05"}, {"filename": "summary_20260914_071528.md", "date": "2026-09-14", "timestamp": "2026-09-14T07:15:28"}, {"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260916_082151.md", "date": "2026-09-16", "timestamp": "2026-09-16T08:21:51"}, {"filename": "summary_20260915_090110.md", "date": "2026-09-15", "timestamp": "2026-09-15T09:01:10"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260902_074312.md", "date": "2026-09-02", "timestamp": "2026-09-02T07:43:12"}, {"filename": "summary_20260903_075220.md", "date": "2026-09-03", "timestamp": "2026-09-03T07:52:20"}, {"filename": "summary_20260904_074804.md", "date": "2026-09-04", "timestamp": "2026-09-04T07:48:04"}, {"filename": "summary_20260831_092551.md", "date": "2026-08-31", "timestamp": "2026-08-31T09:25:51"}, {"filename": "summary_20260901_082336.md", "date": "2026-09-01", "timestamp": "2026-09-01T08:23:36"}, {"filename": "summary_20260829_064455.md", "date": "2026-08-29", "timestamp": "2026-08-29T06:44:55"}, {"filename": "summary_20260829_023929.md", "date": "2026-08-29", "timestamp": "2026-08-29T02:39:29"}]</script>
 
 <section class="feed-intro">
 <div><p class="section-kicker">Latest research digest</p><h1>最新研究摘要</h1><p>聚焦电子显微学、原子尺度材料、凝聚态物理与计算成像的每日研究进展。</p></div></section>
 
 <div id="summary-list" markdown="1">
+<section class="summary-day" data-summary-date="2026-09-18" markdown="1">
+<header class="summary-day-header"><h2>2026-09-18 研究摘要</h2><a href="summary_20260918_080251.html">打开当日独立页面 →</a></header>
+
+## 基本信息
+- 生成时间：2026-09-18 16:06:24
+- 使用模型：agnes-2.5-flash
+- 论文数量：94 篇
+
+---
+
+## 论文总结
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?](http://arxiv.org/abs/2609.20814v1)
+- **作者:** Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi, Sicheng He, Shaowu Pan
+- **研究目的:** 探究不同分布偏移分量如何影响预训练对神经网络偏微分方程（PDE）代理模型在几何或物理变化后微调时的增益。
+- **主要发现:** 预训练的价值取决于目标数据预算、目标数据覆盖率以及源域与目标域在建模物理上的差异；在低样本数时，保持相同物理模型比引入过渡建模更能从预训练中受益，但随着样本增加，优势顺序会反转。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts](http://arxiv.org/abs/2609.20813v1)
+- **作者:** Hanyu Xue
+- **研究目的:** 澄清广义对称性、拓扑激发、对称性反常及其统计性质之间关系的潜在误解，建立更可靠的理论框架。
+- **主要发现:** 拓扑激发的跳跃算子在对称性变换下是对称的（即与对称变换对易），这一条件在适当假设下建立了统计性质与反常之间的一一对应关系，而非通过截断对称变换算子的边界缺陷图像。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Locally optimized variational evolution for quantum many-body systems](http://arxiv.org/abs/2609.20802v1)
+- **作者:** Carolin Wille, Max Marvell, Lauren Stewart, Max Murphy, Vinul Wimalaweera, Lesley Gover, Andrew G. Green
+- **研究目的:** 提出一种基于局域约化密度矩阵的变分时间演化原理，以利用热化系统中局部可观测量不继承全局波函数指数复杂性的特性。
+- **主要发现:** 提出的基于局域优化矩阵乘积态的算法保留了相干短时间动力学，同时在后期利用热化带来的简化，并在Quantinuum H2和IBM Heron处理器上成功恢复了对应的特征局域动力学。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Disorder on the hyperbolic square lattice I: Anderson delocalization and absolutely continuous spectrum](http://arxiv.org/abs/2609.20798v1)
+- **作者:** Simon Becker, Izak Oltman
+- **研究目的:** 研究双曲格点上的安德森模型，证明弱无序下绝对连续谱的存在及奇异谱的缺失。
+- **主要发现:** 证明了在弱无序下，确定性正测度集合上存在绝对连续谱且无奇异谱；对于截断柯西分布和控制扰动，在某些区间内得到纯绝对连续谱。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Competing routes to spontaneous flow in confined active nematics](http://arxiv.org/abs/2609.20786v1)
+- **作者:** Rahil N. Valani, Vedad Dzanic, Sumesh P. Thampi, Julia M. Yeomans
+- **研究目的:** 解析受限活性向列型液晶中自发流动的起始机制，特别是长波长模态与有限波长模态之间的竞争。
+- **主要发现:** 流动 onset 由两种竞争的失稳模式控制：导致单向流动的长波长模态和产生横向涡旋的有限波长不稳定性；在某些参数范围内，有限波长不稳定性先于单向流动发生，确立了波长选择是活性向列型液晶自发流动起始的内禀特征。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges](http://arxiv.org/abs/2609.20777v1)
+- **作者:** Georgiy K. Lavrov, Eduard G. Nikonov
+- **作者:** Georgiy K. Lavrov, Eduard G. Nikonov
+- **研究目的:** 寻找限制在圆盘中的 $N=60, 61, 92, 99$ 个排斥库仑电荷的经典汤姆森问题的改进全局最小构型。
+- **主要发现:** 结合退火分子动力学和固定边界启发式方法，获得了能量更低的全局最小候选构型，并确认了特定 $N$ 值下的对称性，这些结果在多独立运行中高度可重现。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Coherent and ultra-low-power EDSR with a flopping-mode spin qubit in germanium](http://arxiv.org/abs/2609.20775v1)
+- **作者:** Alexei Orekhov, Wonjin Jang, Pan Zhang, Konstantinos Tsoukalas, Fabian Oppliger, Franco De Palma, Elena Acinapura, Younghun Ryu, Inga Seidler, Lisa Sommer, Leonardo Massai, Felix J. Schupp, Matthias Mergenthaler, Stefano Bosco, Patrick Harvey-Collard, Pasquale Scarlino
+- **研究目的:** 演示锗中翻转模式（flopping-mode）自旋量子比特的相干性及超低功率电偶极自旋共振（EDSR）操控。
+- **主要发现:** 在仅 -52 dBm 的驱动功率下实现了高达 99.76% 的单量子比特门保真度，同时保持了长的相干时间，证明了翻转模式 EDSR 支持超低功率、高保真度的单量子比特操作，有利于可扩展的空穴自旋架构。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Spacetime Dynamics of Altermagnetic Magnons](http://arxiv.org/abs/2609.20767v1)
+- **作者:** Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
+- **研究目的:** 探索通过实空间局域自旋激发的扩散来区分交替磁性（altermagnetism）与传统铁磁性和反铁磁性的动力学指纹。
+- **主要发现:** 有限次近邻耦合 $J\_2$ 导致方向依赖的磁子群速度和能带分裂，产生具有内部十字形结构的传播模式；改变 $J\_2$ 符号可旋转各向异性空间图案，确立了时空动力学作为交替磁性磁子的互补探测手段。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Engineering Weak Universality with Quantum Dots](http://arxiv.org/abs/2609.20755v1)
+- **作者:** Warre Missiaen, Michael Wimmer, Natalia Chepiga
+- **研究目的:** 提出利用量子点架构实现具有连续变化临界指数的量子 Ashkin-Teller 和 XYZ/八顶点模型的方案。
+- **主要发现:** 通过共振器介导和直接库仑相互作用分别实现这些模型，展示了微观参数对临界指数的控制能力；对于实验 realistic 参数，临界指数的变化预测远超测量不确定性，可在短链中解析连续变化临界行为。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Scaling and Condensation of Dry Active Matter Around Circular Obstacles](http://arxiv.org/abs/2609.20743v1)
+- **作者:** Felipe P. S. Júnior, F. Q. Potiguar, Jorge L. C. Domingos, W. P. Ferreira
+- **研究目的:** 研究干燥活性物质涡旋的质量空间范围随系统尺寸的标度行为，特别是在热力学极限下的行为。
+- **主要发现:** 发现了两种不同的标度 regime：低密度下涡旋局域化且特性饱和；超过临界密度后，涡旋质量随粒子总数广延增长，空间尺寸随系统尺寸线性标度，表明出现了障碍物稳定的凝聚态。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Active Hydrodynamics Couples Polymer Organization, Shape Fluctuations, and Motility in Deformable Droplets](http://arxiv.org/abs/2609.20730v1)
+- **作者:** Ritu Raj, P. B. Sunil Kumar
+- **研究目的:** 研究软变形液滴内半柔性活性聚合物的主动水动力学如何耦合内部组织、形状波动和运动性。
+- **主要发现:** 展缩型（extensile）活性促进平行排列和持久直线运动，而收缩型（contractile）活性导致垂直组织和长寿命的近弹道运动；活动产生的流动强烈耦合到可变形界面，选择性增强低阶球谐模式，显著影响液滴运动性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data](http://arxiv.org/abs/2609.20693v1)
+- **作者:** Kacper Cybiński, Björn van Zwol, James Enouen, Guillaume Bornet, Thierry Lahaye, Antoine Browaeys, Antoine Georges, Anna Dawid
+- **研究目的:** 开发一种可解释的卷积神经网络架构，用于从含噪的实验量子模拟器数据中检测物态相变并揭示其物理特性。
+- **主要发现:** 提出的 TetrisCNN 能够学习以自旋关联函数表示的稀疏可解释潜在表示，不仅检测到二维 Ising 和 XY 量子模拟器的相变，还将决策边界表达为由实验可测量自旋关联函数构成的符号公式。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Volumetric Evanescent Edge Coupling for Fiber-to-Chip Optical I/O](http://arxiv.org/abs/2609.20686v1)
+- **作者:** Hamdy Elshehaby, Omar Bakheet, Mohamed A. Swillam, Mohamed Elkabbash
+- **研究目的:** 引入一种体积边缘耦合技术，实现光纤到芯片的多通道光学互连，克服传统边缘耦合通道受限的问题。
+- **主要发现:** 设计的基于全内反射倏逝耦合的三维结构芯片边缘实现了 88% 的峰值耦合效率和 86.45 nm 的 1-dB 带宽，且具有宽松的垂直对准容差，为多芯光纤接口提供了可行路径。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Phase transitions in non-Hermitian spherical integrals](http://arxiv.org/abs/2609.20685v1)
+- **作者:** Pierre Bousseyroux, Marc Potters
+- **研究目的:** 研究非厄米随机矩阵约束球面积分的大 $N$ 渐近行为，分析从离域到局域相的转变。
+- **主要发现:** 在离域区，渐近行为由非厄米变换 $\mathcal R\_1$ 和 $\mathcal R\_2$ 控制；在鞍点水平上，约束积分表现出由移位矩阵的最大奇异值及其左右奇异向量重叠控制的向局域区的转变。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Molecular Geometry Understanding Has Unintendedly Emerged in Frontier Large Language Models](http://arxiv.org/abs/2609.20666v1)
+- **作者:** Gregorii A. Semakin, Timofey V. Losev, Ilya V. Prolomov, Stepan N. Ostarkov, Igor V. Alabugin, Michael G. Medvedev
+- **研究目的:** 测试前沿大语言模型是否意外获得了理解分子三维结构和推理其稳定性的能力。
+- **主要发现:** 2025年7月后发布的多个前沿模型（如 GPT-5.6 Sol, Kimi K3, Gemini 3.6 Flash）在构象稳定性排序任务中表现出竞争性精度，这种能力意外地从科学语言训练中涌现，并与科学、编码和抽象推理基准表现强相关。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A Gaussian process coarse-grained potential for Na-montmorillonite](http://arxiv.org/abs/2609.20645v1)
+- **作者:** Yalda Pedram, Yaoting Zhang, Laurent Brochard, Chang Seok Kim, Laurent Karim Béland
+- **研究目的:** 开发一种适用于钠蒙脱石（Na-MMT）的粗粒化势函数，以捕捉水合诱导的势能面复杂性。
+- **主要发现:** 开发的结合了 Morse 相互作用和高斯过程回归校正的表格势函数，能够捕获 3-W 水合最小值并在不同几何和层电荷变体间迁移，成功再现了 3-W 到 1-W 的转变、孔隙结构演化及扩散系数，与实验测量一致。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [First-principles theory of phonon renormalization from nonlinear electron-phonon interactions](http://arxiv.org/abs/2609.20639v1)
+- **作者:** Florian Kluibenschedl, Matthew Houtput, Jacques Tempere, Cesare Franchini, Mikhail Lemeshko, Ragheed Alhyder
+- **研究目的:** 从第一性原理出发，研究非线性电子-声子相互作用对声子谱重整化的影响。
+- **主要发现:** 非线性过程（单电子-双声子）在整个布里渊区重整化声子，且具有显著的溫度依赖性，与局限于布里渊区中心的线性贡献截然不同；这一行为在 KTaO$\_3$ 中比 LiF 中更明显，为非线性电子-声子耦合提供了清晰的实验签名。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Synthetic Fingerprints for Children Under Four: Generation and Biometric Evaluation](http://arxiv.org/abs/2609.20621v1)
+- **作者:** Faheem Ahmad, Ajan Ahmed, Mst Rumana Sumi, Stephanie Schuckers, Masudul Imtiaz
+- **研究目的:** 评估和选择从少量儿童指纹数据集生成的合成指纹，以支持纵向身份识别研究。
+- **主要发现:** 经过严格的生物质量、相似性和多样性评估协议，从 32,000 个候选者中筛选出 1,985 个高质量合成指纹；结果表明合成儿童指纹可支持受控研究使用，但结论需针对特定的匹配器和测量方法。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Spin-Lattice Dynamics and Interactions in Magnonic Spinels](http://arxiv.org/abs/2609.20618v1)
+- **作者:** Hari Paudyal, Yuri Suzuki, Michael E. Flatté, Durga Paudyal
+- **研究目的:** 理解尖晶石铁氧体中的自旋-晶格相互作用，以最小化磁阻尼并理解自旋动力学。
+- **主要发现:** 特定位点的 Al/Li 有序驱动了亚铁磁绝缘态，淬火了费米能级处的态密度；第一性原理计算揭示了集体声学模与子格选择性光学模，低频磁子与声学声子模的相交导致了强杂化，为低损耗技术提供了途径。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [A Simplified Model for Linear Mode Coupling in Multimode Fibers with Experimental Assessment](http://arxiv.org/abs/2609.20617v1)
+- **作者:** Paolo Carniello, Filipe M. Ferreira, Fabio A. Barbosa, Ming-Jun Li, Norbert Hanik
+- **研究目的:** 提出一种计算效率更高的阶跃折射率多模光纤线性耦合代理模型，并通过实验验证。
+- **主要发现:** 提出的模型仅通过一个可测量参数即可调节，数值和实验基准测试（在 90 偏振模光纤上）表明其比现有模型更具计算效率且准确性相当。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides](http://arxiv.org/abs/2609.20616v1)
+- **作者:** Yogendra Limbu, Michael E. Flatté, Durga Paudyal
+- **研究目的:** 研究从块体到单层的 Cr$\_2$O$\_3$ 的自旋哈密顿建模，验证其稳定性及磁子-声子动力学。
+- **主要发现:** 证明了单层和双层 Cr$\_2$O$\_3$ 尽管带隙系统变窄，但仍保持反铁磁半导体基态，而非此前预测的半金属铁磁相；相交的磁子和声子支导致强杂化，确立了低维 Cr$\_2$O$\_3$ 作为量子自旋电子学的理想平台。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Quantum Battery Enhancement via Degenerate Optical Parametric Amplifier and Common Reservoirs](http://arxiv.org/abs/2609.20613v1)
+- **作者:** Y. Y. Yang, H. N. Liu, Gangcheng Wang, T. Z. Luan, H. Z. Shen
+- **研究目的:** 研究由简并参量放大器（DOPA）驱动并与一个或多个共同浴共享的不可逆量子电池的能量和充电功率增强机制。
+- **主要发现:** 在稳定阈值下，DOPA 的非线性增益和泵浦相位可有效控制充电动力学，增强电池能量和平均充电功率；优化耗散耦合不对称性可进一步提高存储能量，该策略对单共同浴和双共同浴配置均有效。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Lyapunov-controlled thermalization: an exact real-time example](http://arxiv.org/abs/2609.20597v1)
+- **作者:** Jonas Loy, Jan C. Louw
+- **研究目的:** 通过大 $N$ 大 $q$ SYK 猝灭协议，研究热化后状态中隐藏的非平衡记忆及其衰减机制。
+- **主要发现:** 尽管所有后猝灭费米子关联函数都是热化的，但第二次反向猝灭揭示了连接第一次猝灭前时间的隐藏记忆；该非平衡（NEQ）见证量的衰减率即为李雅普诺夫指数 $\lambda\_L$，表明 $\lambda\_L$ 设定了状态变得与吉布斯态无法区分的时间尺度。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding](http://arxiv.org/abs/2609.20586v1)
+- **作者:** Zhikun Zhou, Kunyu Peng, Runyi Yang, Junhao Cai, Di Wen, Ruiping Liu, Danda Pani Paudel, Yi Zhou, Luc Van Gool, Kailun Yang
+- **研究目的:** 解决多智能体环境下，基于高斯 splatting 的协同指代表达场景理解问题，特别是跨智能体地图融合后的几何对齐和语义兼容。
+- **主要发现:** 提出的 CoRef-GS 框架通过跨智能体对齐模块和对视角相关的掩码关系图，在仿真中将旋转误差从 2.58° 降至 0.15°，在真实世界中将指代 mIoU 从 52.6% 提升至 68.8%，并发布了双足机器人基准数据集 CoQuad-Ref。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [OmniMimic: Dynamics-completed Motion Augmentation for Multi-style Omnidirectional Quadruped Locomotion](http://arxiv.org/abs/2609.20566v1)
+- **作者:** Sheng Wu, Guoqiang Zhao, Zhe Yang, Fei Teng, Zhikun Zhou, Yanlin Yang, Zheng Fang, Hong Zheng, Yaonan Wang, Kailun Yang
+- **研究目的:** 将方向有限的动物示范转化为具有多种步态的全向四足机器人策略，解决反向、侧向和转向命令缺乏风格一致监督的问题。
+- **主要发现:** OmniMimic 通过时序反转、约束动力学补全和矢状面反射构建运动增强，相比 APEX 基线，在前向和后向参考速度下的平均足部位置 RMSE 降低了 12.9%，在均匀笛卡尔命令网格上的速度跟踪 RMSE 降低了 63.1%。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [High-order correlations and ultrafast Wigner negativities in bright-squeezed-vacuum-driven high-harmonic generation](http://arxiv.org/abs/2609.20559v1)
+- **作者:** Sebastián de-la-Peña, Heiko Appel, Marcelo F. Ciappina, Ofer Neufeld, Angel Rubio
+- **研究目的:** 建立强光场驱动的强场量子电动力学（QED）动态的全量子框架，以研究明亮压缩真空驱动的高次谐波产生（HHG）。
+- **主要发现:** 压缩真空驱动产生的谐波具有与相干激发截然不同的二阶和三阶光子关联；受驱发射器的反作用强烈重塑入射压缩场，产生演化时间尺度为阿秒级的显著 Wigner 函数负值。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment,theory,computation" data-primary-method="experiment" data-method-confidence="0.80">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.80"><strong>研究方法:</strong> 实验 · 理论 · 计算</span>
+</div>
+
+### [Mineral Detection of Neutrinos and Dark Matter 2026 Proceedings](http://arxiv.org/abs/2609.20552v1)
+- **作者:** Alexey Elykov, Patrick Stengel, Natsue Abe 等
+- **研究目的:** 汇编 MDvDM'26 会议的进展，展示矿物探测器在理论、计算和实验方面的最新研究。
+- **主要发现:** 矿物探测器利用天然和合成晶体记录核反冲引起的微观损伤特征，结合现代显微技术读取；古晶体（古探测器）可记录地质时间尺度的核反冲，用于研究宇宙线、暗物质及恒星中微子，国际社区正逐步攻克实现该概念的技术挑战。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Path-Integrated Polarization Rotation Signatures in Subsea Networks: Cable Geometry Effects in 2023 Turkey Earthquakes](http://arxiv.org/abs/2609.20527v1)
+- **作者:** Mohammad M. Hosseini, Miquel Masanas, Giuseppe Parisi, Wesley Braga Melo, Alberto Marullo, Danilo Decaroli, Sergei K. Turitsyn, Antonio Napoli
+- **研究目的:** 分析 2023 年土耳其地震期间商业相干转发器流出的偏振数据，揭示地震特征和电缆几何结构对光学偏振响应的影响。
+- **主要发现:** 地震特征和电缆几何结构从根本上控制了光学偏振响应，为设计基于光纤的地震传感系统提供了详细解释的第一步。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters](http://arxiv.org/abs/2609.20526v1)
+- **作者:** Zhosan I. A., Lomachuk Yu. V., Maltsev D. A., Moiseev I. A., Andreev O. Yu
+- **研究目的:** 利用相对论嵌入团簇的多组态方法研究候选交替磁性材料 $\mathrm{RuO\_2}$ 的局域电子结构。
+- **主要发现:** 尽管 $\mathrm{Ru}$ 位点的形式局域对称性为正交 $D\_{2h}$，但计算出的 $4d$ 轨道能谱及分裂模式更接近高对称性的四方 $D\_{4h}$，保持了强准简并；这种对称性还原被轨道准简并抑制，自然解释了为何体相 $\mathrm{RuO\_2}$ 实验中未观察到交替磁性，而应变薄膜中却存在。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Noise-Robust Quantum State Characterization for Remote State Preparation with Deep Learning](http://arxiv.org/abs/2609.20523v1)
+- **作者:** Bo Tang, Zixuan Liao, Hao Li, Yilin Yang, Jiani Lei, Zengya Li, Jing Qiu, Zhaohui Dong, Zhengyang Mao, Yuanhua Li, Yuanlin Zheng, Xianfeng Chen
+- **研究目的:** 提出一种基于 Transformer 的量子态表征器（TQSC），以在复杂噪声环境下准确估计远程态制备（RSP）的目标态。
+- **主要发现:** TQSC 模型在复杂散射和动态高斯噪声下实现了超过 99.999% 的平均估计器-目标态保真度，并将 MNIST 图像传输任务中的解码误码率从 50.34% 降低至零，为动态噪声下的量子信息处理提供了鲁棒方案。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Truncated automatic sparse differentiation for machine learning interatomic potentials](http://arxiv.org/abs/2609.20510v1)
+- **作者:** Marcel F. Langer, Adrian Hill, Michele Ceriotti
+- **研究目的:** 利用机器学习原子间势能（MLIP）的空间稀疏性，开发截断自动稀疏微分（ASD）方法来高效计算高阶导数（如 Hessian）。
+- **主要发现:** 截断 ASD 通过丢弃远距离原子间的小但非零 Hessian 条目，实现了数量级的加速，同时对预测观测量几乎没有影响，使得大系统的 Hessian 计算成为可能。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.soft" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Collective Ion Dynamics from Finite-Volume Fluctuations in Model Explicit-Solvent Electrolytes](http://arxiv.org/abs/2609.20503v1)
+- **作者:** Jeongmin Kim
+- **研究目的:** 通过有限体积涨落框架推断显式溶剂电解质中集体离子扩散，解析波数与集体场的混合影响。
+- **主要发现:** 离子数涨落在弹道与平台区之间的增长看似理想，实则是负结构贡献和正动力学过量贡献相互补偿的结果；耦合离子数-溶剂弛豫揭示了大部分隐藏在总响应中的符号重新分布，耦合场描述减少了高浓度下的差异。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Unconstrained compact lattice QED$\_{2+1}$ coupled to phonons: Gauss sectors, orthogonal semimetal, and deconfined criticality](http://arxiv.org/abs/2609.20502v1)
+- **作者:** João C. Inácio, Fakher F. Assaad
+- **研究目的:** 研究无约束紧凑格点 QED$\_{2+1}$ 与键声子耦合系统中的物理 Gauss  sector 的涌现及其与禁闭和对称性破缺的关系。
+- **主要发现:** 识别出一种正交半金属（OSM）相，其中费米子失去规范电荷形成 Dirac 液体；施加 Gauss 定律后，紧定性允许携带反铁磁（AFM）和价键固体（VBS）量子数的单极子激发，OSM 相的不稳定性导致 AFM 或 VBS 序，且 OSM 到 AFM/VBS 的相变与解禁闭量子临界性一致。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$\_3$ Thin Films](http://arxiv.org/abs/2609.20486v1)
+- **作者:** S. Jöhr, A. Carta, J. Moreno, A. Suter, Z. Salman, A. Panda, J. Spring, G. De Luca, J. Herrero-Martin, B. Mundet, C. Piamonteze, M. Gabay, C. Ederer, M. Gibert
+- **研究目的:** 探索应变对反铁磁半导体/金属氧化物 SrCrO$\_3$ 薄膜电学和磁学性质的影响。
+- **主要发现:** 高质量 SrCrO$\_3$ 薄膜在低应变下表现为抗铁磁金属基态；随着拉应变或压应变的增加，诱导金属-绝缘体转变，而磁转变 onset 温度保持不变；电阻率翘起和载流子类型转变与应变相关，暗示了复杂的应变依赖能带结构。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [How durable are high-performance racing shoes?](http://arxiv.org/abs/2609.20485v1)
+- **作者:** Jeremy A. McCulloch, Ellen Kuhl
+- **研究目的:** 表征精英级跑鞋中底泡沫在不同部位及使用 300 英里前后的机械性能变化。
+- **主要发现:** 尽管经历了 300 英里的实际使用，泡沫在所有三种加载模式（拉伸、压缩、剪切）和鞋的所有区域仍保持其机械响应；能量回馈率基本不变（85-93%），但存在强烈的区域差异（脚趾比脚跟的刚度低 38-51%）和拉伸-压缩泊松比不对称性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Collective Charge-\(2e\) Bosonic Excitations in Charge-Ordered Systems](http://arxiv.org/abs/2609.20472v1)
+- **作者:** Ping Tang
+- **研究目的:** 在有效电荷赝自旋模型框架下， formulate 电荷序的集体激发准粒子图像。
+- **主要发现:** 揭示了两种携带相反量化电荷 $\pm 2e$ 的玻色子准粒子分支，命名为“双电荷子”（bichargons）；温度梯度驱动双电荷子扩散产生电荷 Seebeck 响应，交流电场可参数化产生相干双电荷子对支持直流漂移电流，建立了电荷序系统中新的玻色子电荷载体类别。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.dis-nn,cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.dis-nn, cond-mat.mtrl-sci, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Disorder-induced modulation of the nonlinear Hall effect in Weyl semimetals](http://arxiv.org/abs/2609.20471v1)
+- **作者:** Juan A. Cañas, Daniel A. Bonilla, A. Martín-Ruiz
+- **研究目的:** 在半经典玻尔兹曼框架下研究杂质散射对外尔半金属非线性霍尔响应的影响。
+- **主要发现:** 对于标量无序，非线性霍尔响应由贝里曲率关联的异常速度决定，需要能量不等价的外尔节点；极化磁杂质导致弛豫时间出现手性依赖的各向异性修正，从而改变非线性霍尔电导率张量结构并产生二次谐波电流，尽管该贡献通常比主导的各向同性响应小几个数量级。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Correlation-Free Transition Path Sampling through Shooting Point Generation Guided by Committor Learning](http://arxiv.org/abs/2609.20461v1)
+- **作者:** Maximilian Negedly, Sebastian Falkner, Alessandro Coretti, Christoph Dellago
+- **研究目的:** 开发一种无需预设反应坐标、能生成无相关过渡路径的采样算法。
+- **主要发现:** 提出的 GenAIMMD 算法迭代地学习理想反应坐标（commitor）并训练条件玻尔兹曼生成器，实现了无相关且完全并行的路径采样；在二维玩具模型和高维聚合物系统中的基准测试显示其性能显著优于标准过渡路径采样（TPS）。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Coplanar Lateral Gating MoS2 on SrTiO3: A Unified Platform for Classical and Quantum Devices](http://arxiv.org/abs/2609.20426v1)
+- **作者:** Prasad Muragesh, Manav Murali, Venkatesha Modur Ramachandra, Madhu Thalakulam
+- **研究目的:** 演示基于 SrTiO$\_3$ 衬底的平面侧栅极 MoS$\_2$ 场效应晶体管架构，以增强栅极耦合并减少界面 disorder。
+- **主要发现:** 平面几何消除了单独的栅极绝缘层，减少了界面无序；利用 SrTiO$\_3$ 的量子顺电特性，冷却时介电常数增加增强了栅极耦合，导致阈值电压和亚阈值摆幅降低，为低功耗二维电子学和低温量子器件提供了有前景的平台。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield](http://arxiv.org/abs/2609.20387v1)
+- **作者:** Gayatri, Mehdi Arfaoui, Debashish Das, Mateusz Raczyński, Marta Bilska, Piotr Tatarczak, Aleksandra Krystyna Dąbrowska, Tomasz Kazimierczuk, Takashi Taniguchi, Kenji Watanabe, Piotr Kossacki, Andrzej Wysmołek, Saroj Kumar Nayak, Adam Babiński, Johannes Binder, Maciej R. Molas, Arka Karmakar
+- **研究目的:** 研究通过极低的拉伸应变调控范德华异质结构中的激子动力学和层间能量转移，以增强光致发光量子产率。
+- **主要发现:** 在 ReS$\_2$/MoSe$\_2$ 异质结上施加仅 0.1% 的双轴拉伸应变，通过高效的激子漏斗效应和增强的跃迁偶极矩，实现了相对光致发光量子产率 8 倍的增强；第一性原理计算排除了光学干涉作为主导机制。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [FOSY: Segmental Backbone Assignment in Intrinsically Disordered Proteins](http://arxiv.org/abs/2609.20384v1)
+- **作者:** Dmitry M. Lesovoy, Tatiana Agback, Panagiota S. Georgoulia, Irena Matecko-Burmann, Bjorn M. Burmann, Vladislav Y. Orekhov
+- **研究目的:** 提出一种针对内在无序蛋白（IDP）的片段主链共振分配策略，以解决严重谱重叠和序列相关性缺失的问题。
+- **主要发现:** 开发的 FOSY 方法通过频率选择性极化转移，将高维实验转化为灵敏且易解释的二维谱，同时保留高维相关性信息；成功完成了人 Tau 蛋白 441 个残基中缺失的 G302-K311 片段的分配，提供了快速表征功能重要片段的效率手段。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Predictive Structure to Thermal Conductivity Modeling Framework for BEOL Interconnect Stacks in Advanced Technology Nodes Enabled by Extensive Layer Resolved Thermal Measurements](http://arxiv.org/abs/2609.20379v1)
+- **作者:** Zifeng Huang, Yiyang Sun, Tianyu Jia, Runsheng Wang, Zhe Cheng
+- **研究目的:** 建立基于层分辨热测量的后道互连（BEOL）栈结构感知热导率建模框架。
+- **主要发现:** 通过时间域热反射法测量了 40 多个层分辨热导率数据点，建立了可泛化的经验结构-热导率关系；结合基于有效介质理论的层内三维热导率分布模型，实现了先进互连堆栈和 3D IC 的可预测热分析。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A Computational Method to Simulate Electrostatic Actuation in Polycatenated Architected Materials](http://arxiv.org/abs/2609.20373v1)
+- **作者:** Mateus Maciel Vivaldi, Alexandre F. Fonseca
+- **研究目的:** 提出并验证一种计算框架，以模拟带静电荷的聚猫环架构材料（PAMs）的结构、动力学和力学响应。
+- **主要发现:** 该方法成功复现了实验中的静电驱动效应，揭示静电荷可实现可逆的流体-固体转变，并提供估算静电刚度的手段；充电后刚度提升高达七倍，扩展了 PAMs 的设计空间。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory,experiment" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 实验</span>
+</div>
+
+### [Inferring interactions between active particles using harmonic traps](http://arxiv.org/abs/2609.20371v1)
+- **作者:** Arnaud Compagnie, Joscha Mecke, Ivo Buttinoni, Hartmut Löwen
+- **研究目的:** 通过光学镊子囚禁的活性 Janus 粒子的稳态概率分布，推断粒子间的相互作用力和力矩。
+- **主要发现:** 推导了携带成对渗透相互作用特征的稳态概率分布，该方法无需知道粒子取向即可从位置配置中推断相互作用力和力矩，适用于更广泛的相互作用类型。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Superconductivity in Pb2-xBixPd Single Crystals](http://arxiv.org/abs/2609.20364v1)
+- **作者:** S. Srivastava, R. P. Singh
+- **研究目的:** 研究 Pb/Bi 混合对拓扑超导体候选材料 Pb$\_2$Pd 和 $\beta$-Bi$\_2$Pd 中超导性质的影响。
+- **主要发现:** 随着 Bi 含量增加，材料发生从非对称空间群（$I4/mcm$）到层状结构（$I4/mmm$）的结构相变；在所有掺杂范围内，超导样品均表现为弱耦合 II 型超导体，具有各向同性的 s 波超导能隙。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Three-dimensional vector waves in time-variant materials, with applications in time-reversed focusing and Green's function retrieval](http://arxiv.org/abs/2609.20357v1)
+- **作者:** Kees Wapenaar, Dirk-Jan van Manen
+- **研究目的:** 建立时间变化材料中三维电磁和弹性波矢量波传播的统一波动方程。
+- **主要发现:** 利用该方程的对称性建立了净场动量密度守恒和因果与非因果格林函数之间的互易关系，并由此推导出了时间变化材料中经典时间反转聚焦和格林函数检索的对应形式。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Divergent Solid-state Conversion Pathways in Evaporated All-perovskite Tandem Solar Cells](http://arxiv.org/abs/2609.20326v1)
+- **作者:** Huagui Lai, Amber Wright, Nick Huber, Niels Uythoven, Federico De Giorgi, Jincheng Luo, Tristan Sachsenweger, Sunil B. Shivarudraiah, Chih-Jen Shih, Wolfgang Tress, Fan Fu
+- **研究目的:** 阐明 sequentially evaporated 全钙钛矿叠层太阳能电池中宽禁带和窄禁带前驱体堆叠的固态转化机制。
+- **主要发现:** 揭示了发散的固态转化机制：宽禁带堆栈中 FA 穿透无机模板且 Br/I 重分布先于三维钙钛矿形成；窄禁带堆栈中早期形成富 Pb 相限制了 FA 进一步渗透；基于此开发了带隙 1.26-1.96 eV 的吸收层，实现了 19.2% 的光电转换效率的首个蒸发全钙钛矿叠层电池。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Unifying Image Quality Assessment Datasets: MOSAIQ-500K and MOSAIQ-Bench](http://arxiv.org/abs/2609.20247v1)
+- **作者:** Wenbo Yang, Zhongling Wang, Jialu Xu, Jinghan Zhou, Zhou Wang
+- **研究目的:** 统一不同主观协议和评分尺度的图像质量评估（IQA）数据集，构建具有感知对齐分数的数据集和基准。
+- **主要发现:** 利用新主观实验的评分作为锚点，将 23 个 IQA 数据集的分数映射到公共质量尺度上，构建了包含 50 多万图像的 MOSAIQ-500K；提出的 MOSAIQ-Bench 揭示了 intra- 和 inter-dataset 性能之间的巨大差距，证明了感知对齐分数在训练更泛化的 IQA 模型中的优势。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Plasmons in twisted bilayer graphene across dispersive and flat bands](http://arxiv.org/abs/2609.20158v1)
+- **作者:** Antonio Palamara, Michele Pisarra, Antonello Sindona
+- **研究目的:** 使用含时密度泛函理论探索扭曲双层石墨烯在色散带和准平坦带 regimes 下的动态介电响应。
+- **主要发现:** 在大角度色散带中保留了狄拉克色散和本征 $\pi$ 等离激元；在\_MAGIC\_角准平坦带中，部分占据产生无明确介电零点的低能等离激元-like 激发，并识别出由准平坦流形与邻近高密度态区域间跃迁支持的 distinct 带间等离激元。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Energy Harvesting for Self-Powered Microsystems: A Critical Review of Materials, Power Management, and System Integration](http://arxiv.org/abs/2609.20157v1)
+- **作者:** Lyuye Lin, Feng Zhifu, Ermanno Miele, Giuseppe Cantarella, Elena Degoli, Diego Angeli, Lethy Krishnan Jagadamma, Feng Gao, Michele Magno, Ivano Eligio Castelli, Tommaso Ongarello, Chunbo Liu, Roman Krahne, Denis Garoli, Remo Proietti Zaccaria
+- **研究目的:** 批判性综述能量收集技术（包括 TENGs、压电/热释电换能器、室内光伏、RF rectennas 及其混合集成）在自供电微系统中的应用进展。
+- **主要发现:** 强调了液体-固体 TENGs、非线性压电振荡器、机器学习加速材料发现以及超小型电容器退化等突破；特别指出了超出材料层面的系统级瓶颈，如超低电压冷启动电源管理集成电路（PMIC）、混合能源的阻抗匹配挑战以及薄层电池在真实环境下的持久退化问题。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Characterization of spatially inhomogeneous chirp in ultrashort multielectron beams via femtosecond hole burning](http://arxiv.org/abs/2609.20141v1)
+- **作者:** Yuichi Tachibana, Yuya Morimoto
+- **研究目的:** 通过结合光子诱导近场电子显微镜 (PINEM) 效应产生的光谱烧孔与角分辨能量分析，表征具有显著空间电荷效应的多电子超短脉冲中的空间非均匀时间-能量结构。
+- **主要发现:** 在 37-keV、每脉冲多达 17 个电子的脉冲中观察到时间和能量关联，发现能散和啁啾率在整个光束中分别变化高达 100% 和 40%，强调了具有空间或角分辨率的多电子脉冲表征的重要性。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A heterogeneous and vectorized sequence for the HL-LHC full tracking reconstruction of the CMS experiment](http://arxiv.org/abs/2609.20135v1)
+- **作者:** Emmanouil Vourliotis
+- **研究目的:** 提出一种针对 CMS 实验 HL-LHC 阶段 2 在线事件重建和离线追踪主要迭代的新型混合与向量化追踪序列基线策略。
+- **主要发现:** 该策略结合了针对 GPU 并行优化的 Patatrack 和 LST 算法以及针对 CPU 优化的 mkFit 算法，有效应对了 HL-LHC 的高计算挑战，降低了计算资源需求并提升了物理探测能力。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Frequency Attraction and Repulsion in Lasers with Complex Mutual Coupling](http://arxiv.org/abs/2609.20132v1)
+- **作者:** Amit Pando, Tomer Hacohen, Eran Bernstein, Victor Shelukin, Asher Friesem, Nir Davidson
+- **研究目的:** 实验研究具有耗散和色散成分的复相互耦合下的激光同步现象。
+- **主要发现:** 发现复耦合可诱导频率吸引和排斥，这与常见的耦合振荡器模型不同，且这些频率偏移可显著增强多激光阵列的全局同步。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Commissioning and Performance of the Time-of-Flight Detector for the T2K Neutrino Oscillation Experiment](http://arxiv.org/abs/2609.20117v1)
+- **作者:** C. Alt, L. Amziane, N. Baudis, A. Blanchet, S. Bordoni, T. H. Bui, F. Cadoux, P. Collard, M. El Baz, Y. Favre, L. Giannessi, G. Ha, C. Jesús-Valls, V. S. Kasturi, A. Klustová, A. Korzenev, T. A. Le, T. Lux, A. D. Nguyen, D. T. Nguyen, H. Nguyen, S. Samani, F. Sánchez, M. Ta, T. Thaiduc, E. Villa
+- **研究目的:** 展示 T2K ND280 升级中飞行时间 (ToF) 探测器的设计、建造、集成、调试及性能。
+- **主要发现:** 单棒时间分辨率达到约 130 ps（单棒测量）和 $169 \pm 1$ ps（原位宇宙射线校准），成功解析了 T2K 束流的八束团结构，确认了与触发和数据采集系统的同步。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Effects of Sequence Timing on the Spatio-Temporal Properties of 3D BOLD fMRI: A Formal Framework and Analysis](http://arxiv.org/abs/2609.20105v1)
+- **作者:** Samuel Bianchi, Klaas P. Pruessmann
+- **研究目的:** 建立一个形式化框架，以建模序列定时对 3D BOLD fMRI 数据特性的影响。
+- **主要发现:** 高空间频率的 BOLD 信号受定时影响更大，虽然总方差可能降低，但时空保真度会逐渐丧失，且 3D 序列对生理噪声更敏感可能是由于序列定时对热噪声的阻尼作用强于生理波动。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mtrl-sci, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Type-I superconductivity in a quasi-2D topologically nontrivial YbBi$\_2$](http://arxiv.org/abs/2609.20093v1)
+- **作者:** Karolina Górnicka, Sudip Malick, Joanna Bławat, Michał Modrzejewski, Hanna Świątek, Michał J. Winiarski, Federico Mazzola, Ivana Vobornik, Chiara Bigi, Jacob Cook, Brenden R. Ortiz, Andrew F. May, Andrzej P. Kądzielawa, John Singleton, Bartlomiej Wiendlocha, Tomasz Klimczuk
+- **研究目的:** 报道具有非平凡电子拓扑的层状稀土化合物 YbBi$\_2$ 中的本征超导特性。
+- **主要发现:** YbBi$\_2$ 在 $T\_c \sim 0.9$ K 以下表现出 I 型超导性，量子振荡揭示了极轻的载流子（回旋质量为 0.07 $m\_e$）和非零 Berry 相位，确立了其作为拓扑非平凡环境中超导研究的独特计量平台。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Highly uniform first-electron position in qubit arrays fabricated on dedicated QSOI(R) 300mm commercial platform](http://arxiv.org/abs/2609.20043v1)
+- **作者:** Johan Pelloux-Prayer, Elise Prin, Giselle A. Elbaz, Pierre-Louis Julliard, Amaryllis Comiti, Clément Nguyen, Sylvain Martin, Patrick Torresani, Renan Lethiecq, Carlos Augusto Suarez Segovia, Franck Arnaud, Etienne Nowak, Tristan Meunier, Bruna Cardoso Paz
+- **研究目的:** 报告基于 28nm FD-SOI 平台开发的兼容 300mm CMOS 制造的量子硅绝缘体 (QSOI) 技术的进展。
+- **主要发现:** QSOI 技术显著降低了器件变异性，在亚 2K 温度下实现了 69% 的首个电子电荷检测产率，且 377 个量子点的首个电子位置分散仅为 $\pm 35$ mV。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [When higher-order interactions matter: reducibility, parsimony, and microscopic organization](http://arxiv.org/abs/2609.20039v1)
+- **作者:** Alex Arenas, Federico Battiston, Andrea Gabrielli
+- **研究目的:** 探讨当系统可通过群体相互作用组织时，何时能在基于图的形式系统中忠实地表示，并评估简化的充分性。
+- **主要发现:** 形式可表示性不足以作为模型选择标准，当群体结构携带相关的微观信息时，高阶表示可能是最直接、可解释且简约的描述，用于理解微观组织如何产生宏观行为和功能。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe](http://arxiv.org/abs/2609.20019v1)
+- **作者:** Nguyen Tran Gia Bao, Thang Bach Phan, Vu Thi Hanh Thu, Nguyen Tuan Hung
+- **研究目的:** 结合 DFT、SSCHA 和玻尔兹曼输运计算，研究单层 SnSe 中非谐声子重整化对热电优值 (PF) 和点缺陷容忍度的影响。
+- **主要发现:** 在动态稳定的 $\alpha$-SnSe 中，SSCHA 重整化了有限温度声子但不改变 n 型输运定性图像；Se 空位产生的电子-缺陷散射弱于 Sn 空位，且 n 型输运比 p 型更具缺陷容忍度。
+</section>
+
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.atm-clus</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Hydrogen isotope mixing entropy in ammonia clusters](http://arxiv.org/abs/2609.19901v1)
+- **作者:** Klavs Hansen, Åke Andersson, Johannes Reichegger, Siegfried Kollotzek, Paul Scheier
+- **研究目的:** 通过测量部分氘代质子化氨团簇的蒸发分支比，确定同位素混合熵。
+- **主要发现:** 蒸发分支比仅取决于簇中的氘摩尔分数，证明了质子和氘的随机分布，由此确定的熵完全是氘-质子混合熵，并估算了四种同位素的绝对离解能。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Generic thermodynamics of condensates with extremely small superfluid density ---Application to UTe$\_2$ and hidden second phase transition---](http://arxiv.org/abs/2609.19834v1)
+- **作者:** Kazushige Machida
+- **研究目的:** 基于 UTe$\_2$ 的实验发现，理论上探索具有小超流密度的凝聚体的热力学特征。
+- **主要发现:** 识别出 UTe$\_2$ 中由自旋向上库珀对组成的隐藏超导相 $A\_2$，并证明其在 $H$-$T$-$P$ 相空间中遵循非幺正自旋三重态配对对称性 $^3B\_{3u}$ 的通用物理起源。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier](http://arxiv.org/abs/2609.19833v1)
+- **作者:** Miao Liu, Jianghao Jin, Tenglong Lu, Jianguo Si, Yin Shi, Sheng Meng, Weihua Wang
+- **作者:** 无（论文摘要未明确列出单一作者，此处根据格式要求保留原信息或视情况处理，原文未提供具体作者列表，暂略或标注为待补充，但根据指令需保留作者字段，由于原文未给出，我将基于常见情况留空或根据标题推断，但严格遵循原文，原文确实未列出作者，故此处留空或注明未提供。*修正：仔细查看输入，论文62确实没有列出作者名单，只有标题和链接。我将按此如实输出，作者栏留空或标注为未提供*。）
+- **研究目的:** 综合调查主流 DFT 软件、计算成本与可信度以及现有计算数据库的覆盖范围，制定无机计算材料数据库的发展路线图。
+- **主要发现:** 基态结构和能量学等领域已达到常规生产水平，而 NMR/EPR 参数、热导率等九类性质仍缺乏系统性数据库，建议通过短期巩固、中期加速工作流和长期机器学力场来征服这一前沿。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="theory,experiment" data-primary-method="theory" data-method-confidence="0.80">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.80"><strong>研究方法:</strong> 理论 · 实验</span>
+</div>
+
+### [Exergy-Anergy Representation of Turomachine Performance Characteristics](http://arxiv.org/abs/2609.19816v1)
+- **作者:** Tihomir Varchev, Yiwen Yuan, Tobias Schateikis, Stephan Staudacher
+- **研究目的:** 提出描述涡轮机械组件中㶲 (exergy) 和反㶲 (anergy) 变化的新型性能地图。
+- **主要发现:** 新地图的参数定义对压气机和涡轮一致且兼容单位压力比，可在标准测试台上获得或从现有地图无损转换，并清晰区分不同的运行工况。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Spontaneous filament formation and network self-assembly via active phase separation](http://arxiv.org/abs/2609.19800v1)
+- **作者:** Elena Lucas, Varun Venkatesh, Amin Doostmohammadi
+- **研究目的:** 引入主动模型 H$^{-}$ 以研究过阻尼流体动力学极限下的非平衡相分离。
+- **主要发现:** 该模型产生了具有增强连接性和 arrested coarsening 的丝状网络，孤立丝线因自发弯曲产生的曲率驱动自推进并碰撞组装成渗透网络。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Video Based Assessment of Surgical Skills Using Frozen Pretrained Video Foundation Models](http://arxiv.org/abs/2609.19772v1)
+- **作者:** Sangrock Lee, FNU Rahul, Suvranu De
+- **研究目的:** 介绍 VBA-Net+，一种使用冻结预训练视频基础模型作为特征提取器的视频仅 FLS 技能评估框架。
+- **主要发现:** 冻结的视频编码器管道在连续分数预测和通过/未通过分类上均优于帧级 SimCLR 基线，分别在缝合和模式切割任务中达到了 $R^2$=0.6367/0.9261 和 AUC=0.9073/0.9906。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [HyperAMS-Net: Adaptive Multi-Scale Spatial Hypergraph Network for Brain Disorder Classification](http://arxiv.org/abs/2609.19755v1)
+- **作者:** Proloy Kumar Mondal, Md Kamran Hussin Chowdhury, Hoi Leong Lee
+- **研究目的:** 提出 HyperAMS-Net，一个用于脑疾病分类的深度神经网络框架，整合自适应多尺度卷积和超图注意力。
+- **主要发现:** HyperAMS-Net 在 ABIDE、REST-meta-MDD 和 ADNI 三个基准数据集上取得了最先进 (SOTA) 的性能，消融研究表明超图注意力组件贡献最大。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [The segmentation ceiling: why explicit left-ventricular masks do not improve learned ejection-fraction regression](http://arxiv.org/abs/2609.19730v1)
+- **作者:** Farshid Farhadi Khouzani, Paul La Plante, Bryar Mustafa Shareef, Laxmi Gewali
+- **研究目的:** 定量评估显式左心室分割掩码对心室射血分数 (EF) 回归预测的影响。
+- **主要发现:** 引入了“分割天花板”概念，指出当前分割器的精度 (约 14% 误差) 高于改善 EF 预测所需的阈值 (约 10% 误差)，因此注入分割信息未能超越原始视频基线，泛化能力的提升才是关键。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Vortex-mediated spin current injection into two-dimensional superconductor NbSe2](http://arxiv.org/abs/2609.19727v1)
+- **作者:** Meng Yang, Xiaolong Yin, Jingjing Liu, Yifeng Chen, Qinwu Gao, Hongxing Zhu, Danni Huang, Lang Chen, Shuo-Ying Yang, Junxue Li
+- **研究目的:** 实验验证涡旋介导的自旋电流注入到二维超导体 NbSe$\_2$ 中。
+- **主要发现:** 在 NbSe$\_2$/LAFO 双层结构中观察到显著的热电峰值，其符号与单层 NbSe$\_2$ 中的常规涡旋 Nernst 信号相反，证实了自旋电流注入仅在 NbSe$\_2$ 的涡旋液体相中发生。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="theory,experiment" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, cond-mat.mtrl-sci, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 实验</span>
+</div>
+
+### [Voltage-Current-Emission Framework of Time-Resolved Electroluminescence](http://arxiv.org/abs/2609.19723v1)
+- **作者:** Hui Bao, Longjia Wu, Yanan Guo, Jianchang Yan, Ying Wang, Haizheng Zhong
+- **研究目的:** 开发电压-电流-发光框架以定量描述时间分辨电致发光过程。
+- **主要发现:** 该框架从脉冲电压输入到注入电流再到电致发光输出，能够定量解释不同 LED 器件的特性并模拟载流子动力学，具有跨材料和结构的普适性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Superconductivity at the metal-insulator phase boundary in a bulk nickelate at ambient pressure](http://arxiv.org/abs/2609.19686v1)
+- **作者:** Hyo-Bin Ahn, Xinglong Chen, Hong Zheng, Yu Zhang, Ramakanta Chapai, Yu Li, Arashdeep S. Thind, Robert F. Klie, Michael R. Norman, Ulrich Welp, J. F. Mitchell, Daniel Phelan
+- **研究目的:** 报道块状镍酸盐 (La$\_{1-x}$Pr$\_x$)$\_4$Ni$\_3$O$\_8$ 和 (La$\_{1-x}$Y$\_x$)$\_4$Ni$\_3$O$\_8$ 在常压下的超导迹象。
+- **主要发现:** 超导性出现在金属-电荷条纹相边界附近的狭窄窗口内，呈现非渗透性特征，暗示丝状超导性，且 spacer 层体积是关键的设计参数。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Design and characterization of large-size monolithic layers of 3D-segmented plastic scintillator](http://arxiv.org/abs/2609.19684v1)
+- **作者:** Jon Berisha, Xingyu Zhao, Andrey Boyarintsev, Sebastien Cap, Diogo Di Calafiori, Maksim Kiktev, Umut Kose, Anzhelika Kuzmina, Natalia Leskina, André Rubbia, Tetiana Sibilieva, Tim Weber, Davide Sgalaberna
+- **研究目的:** 开发并表征用于吨级探测器的 48x48 光学隔离塑料闪烁体单体层。
+- **主要发现:** 证明了将数千个 9x9x9 mm$^3$ 立方体精确粘合为大单体层的技术是可行的，能够满足未来中微子探测器和采样量热仪的要求。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Crystallographic imperfections and exotic superconductivity of UBe$\_{13}$](http://arxiv.org/abs/2609.19678v1)
+- **作者:** Andreas Leithe-Jasper, Markus König, Yusei Shimizu, Konstantin Semeniuk, Primož Koželj, Mitja Krnel, Paul Simon, Wilder Carrillo-Cabrera, Nazar Zaremba, Marcel Naumann, Ulrich Burkhardt, Thomas Doert, Yurii Prots, Alfred Amon, Elena Gati, Matthias Vojta, Yuri Grin, Elena Hassinger, Eteri Svanidze
+- **研究目的:** 使用微结构技术研究无铝 UBe$\_{13}$ 晶体中微小缺陷对临界温度和临界场的影响。
+- **主要发现:** 微小缺陷对临界参数有巨大影响，支持其非常规超导特性，推测这与铀的氧化态对晶体环境的敏感性有关。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Proposing, never assigning: fair allocation of control-room shifts in experimental particle physics collaborations from ranked wishes under institutional quotas](http://arxiv.org/abs/2609.19658v1)
+- **作者:** Kamal Benslama
+- **研究目的:** 描述一种在机构配额下基于排名愿望公平分配实验粒子物理合作组控制室轮班座位的方法。
+- **主要发现:** 该方法仅提出分配方案供接受或拒绝，并通过独立检查器验证规则，在合成协作组中实现了高座位分配率和高满意度，且无任何规则被打破。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Sensitivity of Nucleation Thermodynamics and Kinetics to the Treatment of Long-Range Interactions](http://arxiv.org/abs/2609.19646v1)
+- **作者:** Fernanda Sulantay Vargas, Kimia Sinaeian, Amir Haji-Akbari
+- **研究目的:** 量化势能截断对 Lennard-Jones 系统熔化热力学、同质晶核形成动力学及计算成本的影响。
+- **主要发现:** 截断半径的变化导致成核率变化约十个数量级，源于化学势差的改变；提出了基于经典成核理论的框架以推断全势极限下的成核率。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Viscoelastocapillary extensional De-Oh or VE-DeOh stringiness of unentangled polymer solutions](http://arxiv.org/abs/2609.19624v1)
+- **作者:** Louis B. Edano, Vivek Sharma
+- **研究目的:** 建立描述无缠结聚合物溶液“成丝性” (stringiness) 的定量框架。
+- **主要发现:** 通过扩展 Ohnesorge-Deborah ($Oh\_E-De\_E$) 图比较不同溶液的成丝性，发现成丝性的增加与稳态终端扩展粘度和扩展松弛时间相关。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Hydrogen Reorganization in Hot Dense Ammonia](http://arxiv.org/abs/2609.19605v1)
+- **作者:** Yu Tao, Jingyi Liu, Li Lei
+- **研究目的:** 通过激光加热金刚石对顶砧实验观察热密氨中的氢重组及新离子相的形成。
+- **主要发现:** 在 150 GPa 和 1000 K 以上，透明离子氨转变为不透明相，识别出理论预测的离子 $P4\_12\_12$ 相 NH$\_7$，其由 NH$\_4^+$、H$^-$ 和 H$\_2$ 单元组成。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Efficient tensorized evaluation of permutation invariant polynomials for representing potential energy surfaces](http://arxiv.org/abs/2609.19584v1)
+- **作者:** Junhong Li, Kaisheng Song, Hua Guo, Jun Li
+- **研究目的:** 引入 JaxPIP，一个基于 JAX 的实现，将置换不变多项式 (PIP) 的评估重构为张量化的线性代数运算。
+- **主要发现:** 该方法避免了递归因式分解导致的深层计算图，实现了高效的 GPU 加速批量评估，支持准经典轨迹、路径积分分子动力学等大规模系综模拟。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-17" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mtrl-sci, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Universality of the $1/9$ Magnetization Plateau and Quantum-Disordered States in the Kagome Family $\mathrm{Cs\_8AB\_3Ti\_{12}F\_{48}}$ ($A=\mathrm{Rb},\mathrm{Li}$; $B=\mathrm{K},\mathrm{Na}$)](http://arxiv.org/abs/2609.19572v1)
+- **作者:** Prena Chaudhary, Asiri Thennakoon, Tommy Park, Hanru Wang, Leshan Zhao, Laurel Winter, Neil Herrison, Christina Hoffmann, Junghong H. He, Harald O. Jeschke, Hiroyuki Nojiri, Akira Matsuo, Koichi Kindo, Miwako Takahashi, Yukio Noda, Taku J. Sato, Shiyan Li, Hiroaki Ueda, Gia-Wei Chern, Seung-Hun Lee
+- **研究目的:** 研究化学压力对钛基 Kagome 家族材料中分数磁化平台的影响。
+- **主要发现:** 膨胀的化合物中 robust $1/9$ 平台的存在与压缩化合物中缺失形成对比，表明 $1/9$ 和 $1/3$ 平台未必有共同的微观起源，$1/9$ 平台可能是 frustrated spin-1/2 Kagome 磁性的普遍特征。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-17" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-17</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Mollified-sharp decomposition: a probabilistic regularization of parametric POD for shock-bearing flows](http://arxiv.org/abs/2609.19532v1)
+- **作者:** Oliver T. Schmidt
+- **研究目的:** 引入软磨-锐化分解，一种对参数化降阶模型中移动激波进行概率正则化的方法。
+- **主要发现:** 该方法将快照精确分解为正则化软磨场和局部锐化修正，在跨音速翼型数据测试中，相对误差降低了约 31-33%，同时改善了激波位置的预测。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-16" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Wake interactions drive synchronized vortex merging in a hovering quadcopter](http://arxiv.org/abs/2609.19507v1)
+- **作者:** Elias S. Pratschke, Claus C. Wolf, Daniel Schanz, Andreas Schröder, Oliver T. Schmidt
+- **研究目的:** 识别和表征悬停全尺寸四轴飞行器中个体旋翼涡流同步频率并发生合并事件的现象。
+- **主要发现:** 全局同步的涡流合并表现为转子频带下方的不可公度频率谱峰，这是由所有四个旋翼尾迹参与的间歇性非次谐波涡流合并过程驱动的。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-16" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Giant Resonant Reflection Gain from Injection-Induced Quenching in a Tunnel Diode](http://arxiv.org/abs/2609.19494v1)
+- **作者:** Darmindra Arumugam, Jack Bush, Brook Feyissa
+- **研究目的:** 演示自维持隧道二极管振荡器中的巨大谐振反射增益。
+- **主要发现:** 弱谐振射频注入驱动系统从宽带自由运行态过渡到相位局域窄带反射载波，实现了相对于注入信号 83.1 dB 的反射增强，源于同步诱导的相位涨落淬灭。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-16" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Pairing symmetry and superconductivity from long-range Coulomb interactions in the extended t-t'-t''-Jz model for cuprates](http://arxiv.org/abs/2609.19490v1)
+- **作者:** U. A. Diaz-Reynoso, F. Mireles
+- **研究目的:** 调查扩展的二维 $t$-$t'$-$t''$-$J\_z$ 模型的基态相图中配对对称性。
+- **主要发现:** 主导配对对称性敏感依赖于跳参 $t'$ 和 $t''$ 的符号和大小；排斥库仑相互作用促使空穴对逃离条纹畴，并驱动欠掺杂区间的重入超导行为。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-16" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.96">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.96"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Surface-condition-mediated supercooling of the A-B transition in confined superfluid helium-3](http://arxiv.org/abs/2609.19471v1)
+- **作者:** Daksh Malhotra, Aymar Muhikira, Alexander J. Shook, John P. Davis
+- **研究目的:** 研究表面预处理对受限 $^3$He 中 A-B 相变动力学的调制作用。
+- **主要发现:** 在内部表面预镀 ~4 原子层 $^4$He 后，观察到 A-B 相变温度的明显滞后和随机变化，表明表面制备可定性修改受限 $^3$He 中的一阶相变动力学。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-16" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [DFT GGA based datasets for H$\_2$O potential energy surfaces, permanent moment and polarizability tensors](http://arxiv.org/abs/2609.19469v1)
+- **作者:** Anoop Ajaya Kumar Nair, Elvar Örn Jónsson
+- **研究目的:** 提供基于 GGA 的 H$\_2$O 势能面、永久矩和极化率张量的数据集。
+- **主要发现:** 使用 PBE、RPBE 和 BLYP 泛函计算了 10,000 个单体构型以及 n-H$\_2$O (n=2-6) 团簇和 AIMD 液态水轨迹数据，为验证经典和机器学习水模型提供了全面的数据支持。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-16" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.94"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Agentic AI for Density-Functional Development: Revisiting r2SCAN](http://arxiv.org/abs/2609.19419v1)
+- **作者:** Santosh Adhikari, Kelsey A. Parker, Etinosa Osaro, Swagata Roy, Dario Rocca
+- **研究目的:** 演示使用大语言模型辅助搜索和优化基于能带的 r2SCAN 修订版 (r2SCAN+)。
+- **主要发现:** 在不调拟合真实键合系统的前提下，r2SCAN+ 将 24 种固体的能带间隙平均绝对误差从 1.26 eV 降至 0.96 eV，展示了代理搜索在密度泛函开发中的有效性。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det,physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-16" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.97">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det, physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.97"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Observing and evading quantum back-action on a kilogram-scale oscillator](http://arxiv.org/abs/2609.19317v1)
+- **作者:** Begüm Kabagöz, Eric Oelker, Dhruva Ganapathy, Nergis Mavalvala, Vivishek Sudhir, Vladimir Bossilkov, Joseph Betzweiser, Valery V. Frolov, Anamaria Effler, Adam Mullavey, Lisa Barsotti, Evan D. Hall, Peter Fritschel, R. Abbott, I. Abouelfettouh, R. X. Adhikari, A. Ananyeva, S. Appert, S. K. Apple, K. Arai, N. Aritomi, S. M. Aston, M. Ball, S. W. Ballmer, D. Barker, B. K. Berger, D. Bhattacharjee, G. Billingsley, S. Biscans, C. D. Blair, N. Bode, E. Bonilla, A. Branch, A. F. Brooks, D. D. Brown, J. Bryant, C. Cahillane, A. Calafat, S. R. Callos, H. Cao, E. Capote, F. Clara, J. Collins, C. M. Compton, G. Connolly, R. Cottingham, D. C. Coyne, R. Crouch, J. Csizmazia, A. Cumming, L. P. Dartez, D. Davis, N. Demos, E. Dohmen, K. L. Dooley, J. C. Driggers, S. E. Dwyer, A. Ejlli, T. Etzel, M. Evans, J. Feicht, R. Frey, W. Frischhertz, M. Fuentes-Garcia, P. Fulda, M. Fyffe, B. Gateley, T. Gayer, J. A. Giaime, K. D. Giardina, J. Glanzer, E. Goetz, R. Goetz, A. W. Goodwin-Jones, S. Gras, C. Gray, D. Griffith, H. Grote, T. Guidry, J. Gurs, J. Hanks, J. Hanson, M. C. Heintze, A. F. Helmling-Cornell, N. A. Holland, D. Hoyland, H. Y. Huang, Y. Inoue, A. L. James, A. Jamies, R. Jaume, A. Jennings, W. Jia, D. H. Jones, S. Karat, S. Karki, M. Kasprzack, K. Kawabe, N. Kijbunchoo, P. J. King, J. S. Kissel, K. Komori, A. Kontos, R. Kumar, K. Kuns, M. Landry, B. Lantz, M. Laxen, K. Lee, M. Lesovsky, F. Llamas Villarreal, M. Lormand, H. A. Loughlin, R. Macas, M. MacInnis, C. N. Makarem, B. Mannix, G. L. Mansell, R. M. Martin, K. Mason, F. Matichard, N. Maxwell, G. McCarroll, R. McCarthy, D. E. McClelland, S. McCormick, T. McRae, F. Mera, E. L. Merilh, J. R. Mérou, F. Meylahn, R. Mittleman, D. Moraru, G. Moreno, M. Nakano, T. J. N. Nelson, A. Neunzert, J. Notte, J. Oberling, T. O'Hanlon, R. Oram, C. Osthelder, D. J. Ottaway, H. Overmier, W. Parker, O. Patane, A. Pele, H. Pham, M. Pirello, J. Pullin, V. Quetschke, K. E. Ramirez, K. Ransom, J. Reyes, J. W. Richardson, M. Robinson, J. G. Rollins, C. L. Romel, J. H. Romie, M. P. Ross, B. I. Rotimi, K. Ryan, T. Sadecki, A. Sanchez, E. J. Sanchez, L. E. Sanchez, R. L. Savage, D. Schaetzl, M. G. Schiworski, R. Schnabel, R. M. S. Schofield, E. Schwartz, D. Sellers, T. Shaffer, R. W. Short, D. Sigg, B. J. J. Slagmolen, C. Soike, S. Soni, V. Srivastava, L. Sun, D. B. Tanner, M. Thomas, P. Thomas, K. A. Thorne, M. R. Todd, C. I. Torrie, G. Traylor, A. S. Ubhi, G. Vajente, J. Vanosky, A. Vecchio, P. J. Veitch, A. M. Vibhute, E. R. G. von Reis, J. Warner, B. Weaver, R. Weiss, C. Whittle, B. Willke, C. C. Wipf, J. L. Wright, V. A. Xu, H. Yamamoto, L. Zhang, M. E. Zucker
+- **研究目的:** 在 LIGO 的 40-kg 镜系统中观察并规避量子反作用。
+- **主要发现:** 通过工程化进入暗端口的光量子态，在共振附近产生阻抗抗和反作用的相关性，部分抵消了其贡献，使观测到的运动减少了约 47%，实现了宏观光机械系统中的量子反作用规避。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-16" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Momentum-dependent precessional and nutational spin pumping in a honeycomb antiferromagnet](http://arxiv.org/abs/2609.19289v1)
+- **作者:** Suman Mukherjee, Subhadip Ghosh, Ritwik Mondal
+- **研究目的:** 研究在蜂窝状反铁磁体中考虑自旋惯性的动量分辨自旋泵浦。
+- **主要发现:** 进动自旋流和章动自旋流在布里渊区展现出互补的动量依赖性；章动自旋泵浦电流对惯性弛豫时间 $\eta$ 高度敏感，且在 $\eta$ 较小时呈 $1/\eta^3$ 依赖关系。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-16" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Learning-Induced Dynamical Transition in Recurrent Neural Networks](http://arxiv.org/abs/2609.19288v1)
+- **作者:** Varun Vaidya
+- **研究目的:** 开发非平衡动态平均场理论以描述循环神经网络在学习过程中的动力学相变。
+- **主要发现:** 慢速反馈驱动的学习过程产生演化的有效反馈强度，驱动网络从混沌动力学过渡到由 DMFT 解分歧定义的稳定动力学。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-16" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Double descent is the principle of least action](http://arxiv.org/abs/2609.19076v2)
+- **作者:** Congzhou M Sha
+- **研究目的:** 用统计力学解释双下降现象。
+- **主要发现:** 训练轨迹被视为在能量景观中的粒子扩散，根据能均分定理，在固定训练损失下增加参数量会降低温度并使 Boltzmann 分布趋向驻点路径，从而等效增加了权重正则化。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-16" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-16</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Binning-Independent Bayesian Analysis of Time-Dependent Perturbed Angular Distribution data](http://arxiv.org/abs/2609.19227v1)
+- **作者:** Franziskus von Spee
+- **研究目的:** 提出一种新的时间相关微扰角分布数据分析方法，避免时间数据分箱。
+- **主要发现:** 基于条件概率构建似然函数，在贝叶斯框架下计算目标 $g$ 因子的后验概率密度，对于低统计量数据集比传统分箱方法更可靠。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Unsupervised Machine Learning of the Contact Process](http://arxiv.org/abs/2609.16506v2)
+- **作者:** L. T. Brito, G. A. Alves, F. W. S. Lima, A. Macedo-Filho, R. S. Ferreira, T. F. A. Alves
+- **研究目的:** 调查无监督机器学习方法如何表征接触过程中活性-吸收相变。
+- **主要发现:** 通过添加符号反转配置解决正定数据的 PCA 中心化问题，并采用异方差高斯先验改进 VAE，成功恢复了临界点附近的序参量和有限尺寸缩放行为。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.94"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Timbre Analysis of the Hulusi, a Southwestern Chinese Free-Reed Instrument, using Machine Learning](http://arxiv.org/abs/2609.17612v1)
+- **作者:** Yang Xia, Rolf Bader
+- **研究目的:** 使用机器学习模型分析葫芦丝的音色特征并聚类不同音高。
+- **主要发现:** 频谱重心、尖锐度和分形相关维度是形成音高聚类的三个Psychoacoustic特征，其中分形相关维度对音高聚类效果最好，且最高音域的混沌性最低。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Sharp Bounds on the Mean Efficiency of a Fluctuating Machine](http://arxiv.org/abs/2609.15443v2)
+- **作者:** Badr Farih
+- **研究目的:** 确定波动机器 exergetic 效率平均值的 Sharp 界。
+- **主要发现:** 推导出不依赖分布假设的效率均值上下界，下界源于 Jensen 不等式，上界由间歇可逆定律达到，并建立了精度-效率前沿。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-12" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.96">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-12</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.96"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Task-preserving neural segmentation of overlapping shocks and vortex cores in compressible flows](http://arxiv.org/abs/2609.17593v1)
+- **作者:** Ehsan Roohi
+- **研究目的:** 提出一种任务保持公式以同时对重叠的激波和涡核进行分割。
+- **主要发现:** 通过共享编码器配合独立解码器和适配器，在保持激波检测精度的同时显著提高了涡核的 Dice 重叠得分 (0.83 vs 0.08)，并验证了比特级相等性。
+
+---
+</section>
+
+---
+
+## 生成说明
+- 本报告由AI模型自动生成
+- 每篇论文的总结包含研究目的和主要发现
+- 如有错误或遗漏请以原文为准
+
+</section>
+
 <section class="summary-day" data-summary-date="2026-09-17" markdown="1">
 <header class="summary-day-header"><h2>2026-09-17 研究摘要</h2><a href="summary_20260917_082750.html">打开当日独立页面 →</a></header>
 
@@ -1009,1226 +2256,6 @@ title: ArXiv Summary Daily
 - **作者:** Oliver Breach
 - **研究目的:** 发展一维无限随机固定点(IRFP)临界态上投影测量诱导纠缠的理论。
 - **主要发现:** 在随机XXZ链和随机横向场伊辛模型中，证明测量诱导纠缠以通用指数 $(3-\sqrt{5})/2$ 随距离幂律衰减，且建立该纠缠所需的最小测量数服从通用标度形式；当仅进行有限密度测量时，临界态的临界指数要么保持不变要么完全破坏临界性，表明IRFPs是研究测量对临界态影响的解析可处理领域。
-
----
-</section>
-
----
-
-## 生成说明
-- 本报告由AI模型自动生成
-- 每篇论文的总结包含研究目的和主要发现
-- 如有错误或遗漏请以原文为准
-
-</section>
-
-<section class="summary-day" data-summary-date="2026-09-16" markdown="1">
-<header class="summary-day-header"><h2>2026-09-16 研究摘要</h2><a href="summary_20260916_082151.html">打开当日独立页面 →</a></header>
-
-## 基本信息
-- 生成时间：2026-09-16 16:24:40
-- 使用模型：agnes-2.5-flash
-- 论文数量：92 篇
-
----
-
-## 论文总结
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Coupling spherical p-spin systems](http://arxiv.org/abs/2609.17522v1)
-- **作者:** Riccardo Cipolloni, Leticia F. Cugliandolo
-- **研究目的:** 研究通过/site-independent耦合连接多个球面p自旋系统时的联合演化、交叉关联及可能的共同老化尺度。
-- **主要发现:** 推导了多子系统的时间相关方程，发现强耦合下两系统间存在共同的有效温度，且该温度随无序相关性增强而升高；弱耦合下则出现部分平衡的两个老化 regime。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes](http://arxiv.org/abs/2609.17514v1)
-- **作者:** Konstantin V. Pinigin
-- **研究目的:** 利用分子动力学模拟和维里应力分析，将磷脂双分子层的面积压缩模量分解为不同分子基团及其相互作用的贡献。
-- **主要发现:** 烃链提供了约70%的正贡献，水-脂质相互作用贡献约30%，而单层内的头基与头基-链相互作用几乎相互抵消；单层间的直接相互作用仅贡献约3%，表明弹性响应近似可加。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [The chemistry of embrittlement: How hydrogen dwindles cohesion in iron during fracture](http://arxiv.org/abs/2609.17508v1)
-- **作者:** Aleksei Egorov
-- **研究目的:** 探索氢在铁断裂过程中如何影响键强度并降低断面间的内聚能，以揭示钢氢致脆化的化学机制。
-- **主要发现:** 揭示了静电排斥在氢削弱铁原子间内聚作用中的核心角色，阐明了氢导致材料脆化的微观物理化学原因。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation](http://arxiv.org/abs/2609.17504v1)
-- **作者:** Anis Attiaoui, Sebastien Koelling, Lu Luo, Simone Assali, Oussama Moutanabbir
-- **研究目的:** 探究超薄氧化物盖子对SiGeSn合金热稳定性的影响，特别是如何通过抑制表面介导的降解来提高其耐热性。
-- **主要发现:** 氧化物盖子通过动力学抑制Sn与自由表面的交换，显著减少了相分离、空洞形成和组分变化；相比未加盖样品，接触电阻率降低了25倍，证实表面Sn传输是主要降解途径。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Visualizing Berry curvature in a Floquet-Chern insulator](http://arxiv.org/abs/2609.17500v1)
-- **作者:** Younsik Kim, Rishi Acharya, Hannah E. Aguirre, Lucca Figari, Daniel P. Shoemaker, Fahad Mahmood
-- **研究目的:** 使用圆二色性时间分辨角分辨光电子能谱（Tr-ARPES）直接绘制Floquet-Bloch态的诱导贝里曲率。
-- **主要发现:** 成功观测到了在Floquet间隙处交替符号的贝里曲率特征，其分布与周期性驱动狄拉克哈密顿量的计算结果一致；诱导的贝里曲率和Floquet狄拉克间隙比副本强度衰减更快。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Hysteresis and trap emission in dc-biased integrated lithium niobate electro-optic modulators](http://arxiv.org/abs/2609.17489v1)
-- **作者:** Matthew Yeh, CJ Xin, Donald Witt, David R. Barton, Evelyn L. Hu, Marko Lončar
-- **研究目的:** 研究铌酸锂电光调制器在直流偏压下产生的迟滞现象及其物理机制，并探索恢复方法。
-- **主要发现:** 发现电光迟滞可通过零偏压或反向偏压逆转，短时空下的漂移现象可由接触结附近的电荷捕获动力学解释；设计了主动复位协议，可恢复响应幅度并部分恢复漂移时间尺度。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for the Visible Band](http://arxiv.org/abs/2609.17480v1)
-- **作者:** Kishor Kumar Mandal, Lekshmi Eswaramoorthy, Parul Sharma, Anuj Kumar Singh, Brijesh Kumar, Tanmay Gupta, Venu Gopal Achanta, Anshuman Kumar
-- **研究目的:** 开发一种无拼接、金刚石划片的可用于可见光波段的氮化硅光子集成电路平台，以实现倏逝场的全程可及性。
-- **主要发现:** 通过移动台电子束光刻实现了5 mm芯片上的连续曝光，消除了 stitching 引起的散射损耗；金刚石划片获得了垂直度误差小于2°的光滑端面，产率达到80%，为可扩展的可见光-近红外量子和经典电路奠定了基础。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory](http://arxiv.org/abs/2609.17477v1)
-- **作者:** Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata, Kazushi Mimura
-- **研究目的:** 分析非对称偏置对稠密联想记忆绝对容量的影响，特别是在Krotov-Hopfield单点准则下。
-- **主要发现:** 对于多项式相互作用阶数 $n\geq4$，固定偏置 $q<1/2$ 时的容量标度低于无偏置情况（$O(N^{n/2})$ 或 $O(N^{(n+1)/2})$ 对比 $O(N^{n-1}/\ln N)$）；在 $q \approx 1/2$ 附近存在由偏置诱导的交叉现象，且活动依赖性控制势可恢复无偏置容量。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Designing Homogeneous Ti-Nb-Fe-Sn $\beta$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy](http://arxiv.org/abs/2609.17476v1)
-- **作者:** João Felipe Queiroz Rodrigues, Kristína Bartha, Mariano Casas-Luna, Gilberto Vicente Prandi, Márcio Sangali, Kateřina Ficková, Jiří Kozlík, Michaela Šlapáková, Martin Koller, Adam Strnad, Josef Stráský, Miloš Janeček, Rubens Caram
-- **研究目的:** 采用预合金粉末混合策略，通过激光粉末床熔融（PBF-LB）制备化学成分均匀的 Ti-Nb-Fe-Sn $\beta$ 钛合金。
-- **主要发现:** 使用预合金母合金粉体结合重熔和热处理工艺，成功制备出低孔隙率、成分均匀且为单一 $\beta$ 相的合金；随着Nb含量增加和Fe含量降低，硬度和屈服强度下降，杨氏模量维持在63-81 GPa的低位区间。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [Fast, optimal readout of a tethered optomechanical pressure sensor](http://arxiv.org/abs/2609.17452v1)
-- **作者:** Stephen R. Chen, Yiliang Bao, John R. Lawall, Jason J. Gorman, Daniel S. Barker
-- **研究目的:** 开发一种快速读取悬挂式光机械压力传感器机械环降（ring-down）信号的方法，以提高测量速率并降低不确定性。
-- **主要发现:** 提出了基于克拉美-罗界（Cramér-Rao bound）的最优测量速率策略；在低压下，使用最优测量速率可实现比传统等待热机械噪声底限快10倍的测量速度，或降低3倍的测量不确定性，使传感器速率可比拟商用压力计。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Bridging high-Q and Kerr-nonlinear photonics using modal phase matching](http://arxiv.org/abs/2609.17444v1)
-- **作者:** Jordan R. Stone, Saleha Fatema, Christopher V. Poulton, Michael G. Wood, Gordon A. Keeler, Kartik Srinivasan
-- **研究目的:** 利用模相位匹配（modal phase matching）打破高Q值与色散工程在传统克尔微腔几何结构之间的权衡限制。
-- **主要发现:** 在160-nm厚氮化硅平台上设计了高Q值（> $10^7$）微腔，实现了20%转换效率的克尔光学参量振荡，并在600-1400 nm范围内实现了无间隔波长调谐，证明了模相位匹配能有效解耦Q值与色散，扩展了非线性光子器件的设计空间。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Nonlinear electron-phonon interactions from first principles](http://arxiv.org/abs/2609.17433v1)
-- **作者:** Zhenbang Dai, Feliciano Giustino
-- **研究目的:** 建立一种从头算方法，用于计算任意阶的非线性电子-声子相互作用，以填补高阶耦合计算框架的空白。
-- **主要发现:** 提出了一种结合单元电子波函数计算和超胞声子微扰的方法，计算了金刚石、氟化锂和石墨中的二阶电子-声子耦合矩阵元；证明二阶耦合对于定量准确预测极化子形成能和跳跃势垒至关重要。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Analytical Channel Modeling and Stability Aware Optimization of Optical Inter Satellite Links](http://arxiv.org/abs/2609.17431v1)
-- **作者:** Hossein Safi, Ziheng Wang, Stijn Mast, Harald Haas, Iman Tavakkolnia
-- **研究目的:** 建立含指向抖动的星间光学链路（OISL）闭合形式统计信道模型，以研究终端稳定性对链路性能的影响。
-- **主要发现:** 推导出信道增益分布、中断概率和遍历容量的解析表达式；发现中断概率由稳定性较差的终端主导，而遍历容量惩罚取决于两端终端的联合稳定性，为光束参数选择和指向跟踪要求提供了设计准则。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory](http://arxiv.org/abs/2609.17385v1)
-- **作者:** Rodrigo A. Mendes, Zachary W. Windom, Ajith Perera, Roberto L. A. Haiduke, Rodney J. Bartlett
-- **研究目的:** 评估不同KS-DFT泛函在重现自旋密度矩及超精细耦合常数（HFCCs）方面相对于CCSD理论的准确性。
-- **主要发现:** 大多数泛函在核附近区域与CCSD自旋密度存在显著偏差，尽管部分泛函在形成全局自旋密度时存在误差抵消；QTP00泛函在全局自旋密度和HFCCs的复现上表现最佳，同时也验证了PBE0和TPSS族泛函的有效性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Exact solutions of nonreciprocal Su-Schrieffer-Heeger model with domain walls](http://arxiv.org/abs/2609.17378v1)
-- **作者:** Tong Wang, Mengjie Yang, Flore K. Kunst
-- **研究目的:** 研究具有非互易性的Su-Schrieffer-Heeger（SSH）模型中畴壁物理，推导开放边界条件下本征态的解析解。
-- **主要发现:** 识别出两种不同的界面几何结构，导出了复数波数和波函数的闭合量化条件；除传统皮肤模和拓扑零模外，畴壁还产生了脱离体连续谱的附加局域态，并推广至二维 Lieb 晶格展示了可调谐的聚能机制。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Characterization of IBEX LmAPD detectors at CEA for future low-noise NIR astronomy instruments](http://arxiv.org/abs/2609.17371v1)
-- **作者:** Jean Le Graët, Vincent Affatato, Marion Baumann, Olivier Boulade, Cyrille Delisle, Eloy Hernandez, Christian Ketchazo, Frederic Lemmel, Vincent Moreau, Salima Mouzali, Thibault Pichon, François Visticot
-- **研究目的:** 在CEA对IBEX线性模式雪崩光电二极管（LmAPD）探测器进行首次电光表征，评估其在近红外天文观测中的潜力。
-- **主要发现:** 在80 K下测得IBEX探测器在8V像素偏置下的信噪比优于Euclid型H2RG；测得转化增益对应27 fF电容，量子效率为46%，过剩噪声因子为1.15，证明其作为未来超低通量近红外仪器探测器的前景。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Bound-State Engineered Quantum Batteries Against Decoherence](http://arxiv.org/abs/2609.17367v1)
-- **作者:** J. L. Li, C. Cui, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, H. Z. Shen
-- **研究目的:** 利用系统-环境束缚态的形成机制来抑制退相干，从而解决量子电池自放电和老化的问题。
-- **主要发现:** 发现存在一个可调的相图，通过调节原子本征频率和耦合强度可在零、一、两个束缚态之间切换；双束缚态状态下电池能量演化为持久周期振荡，实现了无损储能和按需提取，有效消除了老化现象。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.other,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.other, physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors](http://arxiv.org/abs/2609.17352v1)
-- **作者:** Marcin Jastrzebski, Shang Yu, Raj B. Patel, Oleksandr Kyriienko
-- **研究目的:** 引入自适应关系学习框架，利用光子处理器访问多实例量子数据中的成对及高阶关系。
-- **主要发现:** 该框架结合全局测量（SWAP/CYCLE测试）和局部浅层可训练变换，在连续变量光学子系统中实现了完美的测试准确率（$n=2$时），相比非自适应影子估计方法使用了少两个数量级的采样次数，避免了影子估计成本随 $n$ 快速增长的问题。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Spatially-resolved methane decomposition in a short glow discharge: insights into suprathermal hydrogen and radical chemistry](http://arxiv.org/abs/2609.17345v1)
-- **作者:** Shurik Yatom
-- **研究目的:** 通过空间分辨映射研究短直流辉光放电中甲烷分解的化学过程，特别是超热氢原子和自由基的化学行为。
-- **主要发现:** 发现甲烷初级解离局限于阴极鞘层（< 4 mm），而聚合主要发生在鞘层-负辉光边界（4-6 mm）；识别出两组超热氢原子种群（~110 eV 和 ~17.5 eV），并通过非平衡条件证实了空间分离的解离与聚合区。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Local energetic coupling enhances the expressivity of chemical computation](http://arxiv.org/abs/2609.17339v1)
-- **作者:** Marco Tuccio, Jason W. Rocks, Joshua E. Goldford
-- **研究目的:** 通过逆向设计热力学一致的化学反应网络，探究控制化学系统计算表达能力的物理化学特征。
-- **主要发现:** 发现内部热力学驱动力（能够打破细致平衡）是稳态计算表达能力最强的单一资源；网络大小与拟合复杂非线性多项式的能力呈对数缩放关系，且表达能力主要由反应数量预测。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Integrated quantum-secured cryptographic memory in customizable single nanodiamonds](http://arxiv.org/abs/2609.17329v1)
-- **作者:** Tongtong Zhang, Jiaqi Li, Zhiqin Chu
-- **研究目的:** 在单个纳米金刚石中集成高维数据编码与多尺度物理加密，实现硬件级的绝对信息安全。
-- **主要发现:** 通过精确的电子束辐照实现单纳米颗粒缺陷工程，支持确定性三十六进制数据写入；该定制存储层与宏观空间PUF及原子尺度量子指纹不可分割地融合，消除了分离硬件的安全漏洞，提供了防篡改内存的基础。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays](http://arxiv.org/abs/2609.17313v1)
-- **作者:** Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen
-- **研究目的:** 研究辐射原子阵列中例外拓扑在强厄米场下的稳定性及其与晶格几何、光锥奇异性之间的相互作用。
-- **主要发现:** 在二维亚波长原子阵列中，沿连续方形到三角形变形，体相经过例外区域时，增加磁场仅使例外点趋向光锥而非消除；皮肤定位响应呈现非单调性，中间场强驱动双极皮肤定位，强场抑制边界定位，确立了超越传统强场极限的工程化途径。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [The sharp CFL condition of the piecewise constant sparse grid discontinuous Galerkin method for high-dimensional transport equations](http://arxiv.org/abs/2609.17312v1)
-- **作者:** Juntao Huang
-- **研究目的:** 确立分段常数稀疏网格间断伽辽金（DG）方法在高维输运方程中的sharp CFL条件。
-- **主要发现:** 证明该方案 $L^2$ 稳定的充要条件为 $\Delta t \leq h/\max\_{\ell}\|c\_\ell\|$，相比全网格迎风方案允许的时间步长扩大了 $(\sum \|c\_\ell\|)/(\max \|c\_\ell\|)$ 倍（各向同性时最大为 $d$ 倍）；证明了充分性依赖于多尺度Haar分解的投影泄漏恒等式。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon](http://arxiv.org/abs/2609.17305v1)
-- **作者:** Cicera M. V. de Araújo, Isaac de M. Félix, Willian F. Radel, Raphael B. de Oliveira, Guilherme da S. L. Fabris, Douglas S. Galvão, Marcelo L. Pereira Junior
-- **研究目的:** 从原子尺度表征合成的吡嗪型氮掺杂多孔扶手椅石墨烯纳米带（GNR），分离孔洞形成与氮掺杂对各项性能的不同作用。
-- **主要发现:** 孔洞形成主要控制机械和热响应（打开带隙、降低刚度和热导率），而氮取代主要控制电子和光学性质（选择性窄化导带、红移吸收边）；有效声子平均自由程约9.9 nm，接近合成限制长度，处于弹道-扩散交叉区。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Bridging powder and multi-crystal diffraction with basis-adaptive texture tomography](http://arxiv.org/abs/2609.17299v1)
-- **作者:** Martin Sæbye Carøe, Mads Allerup Carlsen, Felix Tristan Frankus, Adam André William Cretton, Michela La Bella, Innokentiy Kantor, Mads Ry Vogel Jørgensen, Henning Friis Poulsen, Jakob Sauer Jørgensen, Nils Axel Henningsson
-- **研究目的:** 提出基于基自适应的织构层析成像，以桥接粉末衍射和多晶衍射之间的中间状态，提高角分辨率。
-- **主要发现:** 利用峰值索引得到的候选取向替代均匀取向网格，实现了更高的角分辨率；模拟和实验（变形铝）表明，该方法能更好地分辨晶界和亚晶界，并降低晶内取向误差，适用于具有强织构或复杂孪晶组织的材料。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Quantum-Inspired Trainable and Parameter-Efficient Tensor Networks for Image Inpainting](http://arxiv.org/abs/2609.17298v1)
-- **作者:** Shiwen An, Konstantinos Slavakis
-- **研究目的:** 引入量子启发的张量网络电路作为图像修复的可训练变换，重点解决计算成本和参数效率问题。
-- **主要发现:** 提出的对角量子傅里叶变换（QFT）松弛是可逆的，计算成本为 $O(N^2 \log N)$，无需显式相干性惩罚即可保持最小相干性；数值测试表明，学习到的模型在参数远少于大型幺正架构的情况下，性能匹配且优于固定变换。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [Self-balancing luminescence kinetics of charged excitons in WS$\_2$ monolayer](http://arxiv.org/abs/2609.17289v1)
-- **作者:** A. I. Veretennikov, A. I. Galimov, M. M. Glazov, T. V. Shubina
-- **研究目的:** 研究WS$\_2$单层中带电激子（暗/亮三激子、带电双激子）发射动力学的相互协调机制。
-- **主要发现:** 发现这些态形成一个单一相互作用系综；暗三激子在200-300 ps时间尺度上对亮三激子有长寿命贡献，且暗态的补充促进了带电双激子的强光致发光；建立的自洽速率方程模型很好地重现了动力学的时间温度依赖性。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [PyExoCross 2.0: A Python Framework for LTE and non-LTE Spectra, Cross Sections, and Spectroscopic Post-processing of Atomic and Molecular Line Lists](http://arxiv.org/abs/2609.17273v1)
-- **作者:** Jingxin Zhang, Sergei N. Yurchenko, Jonathan Tennyson
-- **研究目的:** 发布PyExoCross 2.0版本，增强对非局部热动平衡（non-LTE）光谱的处理能力及数据库兼容性。
-- **主要发现:** 新增了对non-LTE计算的支持（包括双温模型和用户定义的处理方式），扩展了数据库兼容性（ExoMolHR, ExoAtom），并引入了GPU加速；统一了命令行接口和Python API，提高了工作流程的灵活性和可复现性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.ins-det" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [A transfer-rod-mounted rotatable sample holder enabling a compact modular vacuum system for ion-beam milling, oblique magnetron sputtering, and co-sputtering](http://arxiv.org/abs/2609.17220v1)
-- **作者:** Tiago de Oliveira Schneider, Folke Kaiser, Andreas Semrad, Peter Kießlich, Markus Meinert
-- **研究目的:** 开发一种新型多功能样品支架概念，集成于紧凑模块化真空系统中，以实现离子束铣削、斜入射磁控溅射和共溅射。
-- **主要发现:** 样品支架直接安装在转移杆上，无需交接，通过轴向运动、旋转和独立基板旋转实现多种沉积几何；集成的屏蔽板兼具快门和源屏蔽功能；验证实验成功制备了具有各向异性的Ta/CoFeB双层膜和符合Nordheim关系的Au-Ag合金。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Field Angular Momentum Transformation as a Resolution Criterion for Microsphere-assisted microscopy](http://arxiv.org/abs/2609.17214v1)
-- **作者:** Bekirov Arlen
-- **研究目的:** 提出基于场角动量变换的定量评估框架，以确立微球辅助显微镜的空间分辨率极限。
-- **主要发现:** 证明微球对非相干点源的分辨率根本由激发的Mie模数量决定，并通过源场角动量平方与总粒子场角动量平方的比值来定义空间分辨率极限；解析结果与数值模拟及经典极限吻合良好。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Latent kinetic Ising models of neural spike trains](http://arxiv.org/abs/2609.17213v1)
-- **作者:** Davide Ghio, David Saad
-- **研究目的:** 引入SpiKIsing潜在变量模型，从神经 Spike 序列中推断有向有效相互作用，分离集体网络动态与单神经元历史效应。
-- **主要发现:** SpiKIsing 使用离散时间非对称动力学伊辛模型描述集体活动，连续时间历史依赖点过程生成Spike；变分平均场期望最大化方案实现了潜活动、网络耦合和发射参数的联合推断；在合成数据和漏积分放电网络生成的Spike中成功恢复了稀疏连接结构和兴奋/抑制分类。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl](http://arxiv.org/abs/2609.17208v1)
-- **作者:** Tamazouzt Chennit, Arno Annys, Songge Li, Nicolas Gauquelin, Hoelen L. Lalandec Robert, Jo Verbeeck
-- **研究目的:** 以NaCl为模型，研究束诱导结构演变及在低剂量区通过4D-STEM恢复有用结构信息的极限。
-- **主要发现:** NaCl在高电子剂量下形成沿{100}晶面的正方形空心孔；在低剂量区，每帧130 e-A$^{-2}$时可追踪结构退化，而在32 e-A$^{-2}$时仍能恢复原子级空间信息，证明剂量高效的4D-STEM结合riCoM成像可扩展敏感离子材料的成像范围。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Preparation-protocol-dependent quantum Mpemba dynamics in a magnetically tunable graphene nanotorus qubit](http://arxiv.org/abs/2609.17176v1)
-- **作者:** J. Furtado
-- **研究目的:** 研究石墨烯纳米环量子比特中量子Mpemba效应的强度如何依赖于初始状态的制备协议。
-- **主要发现:** 裸Gibbs制备产生强烈的异常松弛（$M\_B \to 1$），而驱动稳态制备几乎完全抑制该效应；刘维尔模分析揭示，对比源于制备依赖的模权重而非衰减率层级的变化，确定了态制备作为弯曲石墨烯量子比特中异常量子松弛控制参数的作用。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Reaction dynamics in non-Markovian systems with non-monotonically decaying memory](http://arxiv.org/abs/2609.17140v1)
-- **作者:** Artur Bakaev, Otto Geburtig, Benjamin A. Dalton, Roland R. Netz
-- **研究目的:** 分析具有指数衰减振荡摩擦记忆核的非马尔可夫势垒穿越动力学及其对反应动力学的影响。
-- **主要发现:** 识别出三个标度 regime：两个 regime 中平均首次通过时间 $\tau\_{\mathrm{MFP}}$ 分别随记忆核衰减时间 $\tau\_{\mathrm{o}}$ 四次方和线性标度，第三个 regime 中 $\tau\_{\mathrm{MFP}}$ 随振荡周期 $\tau\_\varphi$ 四次方标度。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [From Foundation Embeddings to Cropland Maps: Label Efficiency, Temporal Transferability and Independent Human Validation](http://arxiv.org/abs/2609.17138v1)
-- **作者:** Mohammad Ammar Mughees, Giovanni Montefoschi, Zhongxin Chen, Maria Antonia Brovelli
-- **研究目的:** 评估AlphaEarth基础模型嵌入在无需微调情况下用于美国缅因州耕地映射的标签效率和时间可迁移性。
-- **主要发现:** 轻量级分类器达到93.7%总体准确率和90.8%平衡准确率；60,000个平衡标签像素的效果接近全量860万像素；跨年份迁移（2018-2023）保持高精度；与盲审双人共识相比，该方法准确度（95.3%）优于CDL参考产品（91.7%）。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Floquet Theory and Average Hamiltonian Theory Revisited: Equivalence, Convergence and Applications to NMR](http://arxiv.org/abs/2609.17121v1)
-- **作者:** Antonia J. Bock, Matthias Ernst, Götz S. Uhrig
-- **研究目的:** 重新审视Floquet理论与平均哈密顿理论的数学等价性、收敛性及其在NMR中的应用。
-- **主要发现:** 确认Floquet-Magnus展开是证明两者等价性的关键；建议采用避免显式积分的计算方案，并给出前四阶展开；指出Floquet-Van Vleck方法（包含有效哈密顿量和踢算符）在数值鲁棒性和准确性（比平均哈密顿理论高约三倍）方面更具优势。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Large-scale NMR simulation on a trapped-ion quantum computer](http://arxiv.org/abs/2609.17102v1)
-- **作者:** Pascal Stadler, Alec Owens, Etienne Granet, David Muñoz Ramo, Michael Marthaler
-- **研究目的:** 在陷 Ion 量子计算机上演示大规模数字NMR模拟，以处理经典难以解决的分子。
-- **主要发现:** 在Quantinuum System Model H2上实现了对1,2-di-tert-butyl-diphosphane的端到端NMR模拟；通过硬件高效缩减将有效21自旋模型进行Trotterized实时演化，并结合定制误差抑制；重建的液态质子NMR谱与经典参考计算一致，并复现了之前量子硬件演示未能捕捉的关键谱学特征。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [StainBridge: Stain-Aware Pairwise Registration of Serial Renal Biopsy Whole-Slide Images Across Structural and Immunohistochemical Stains](http://arxiv.org/abs/2609.17090v1)
-- **作者:** Ellen Wei, Bohang Jiang, Yanfan Zhu, Daniel Reisenbüchler, Kenji Ikemura, Steven Salvatore, Surya Seshan, Thangamani Muthukumar, Mert R. Sabuncu, Yihe Yang, Ruining Deng
-- **研究目的:** 开发StainBridge框架，用于肾活检切片中结构染色与免疫组化（IHC）染色之间的成对配准。
-- **主要发现:** StainBridge结合预处理（染色分解、强度归一化、组织掩模）与XFeat初始化及四种非线性后端；DeeperHistReg给出了最佳的地标精度并配准了最多的图像对，包括所有结构-IHC对；预处理显著提高了ConvexAdam和FireANTs的精度。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [La substitution studies on the heavy-fermion superconductor CeRh$\_2$As$\_2$](http://arxiv.org/abs/2609.17080v1)
-- **作者:** Sushma Lakshmi Ravi Sankar, Manuel Brando, Jochen Wosnitza, Seunghyun Khim
-- **研究目的:** 研究La取代对重费米子超导体CeRh$\_2$As$\_2$低温相（包括非常规超导相I）的影响。
-- **主要发现:** La取代导致晶格膨胀（等效负压力），抑制Kondo能标；$T\_c$和$T\_0$在$x>0.05$时迅速降至0.1 K以下，这种在中等负压力下$T\_c$的快速下降出乎意料，但与取代引起的无序导致强对打破效应一致，暗示相I具有巡游起源。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring](http://arxiv.org/abs/2609.17069v1)
-- **作者:** Sourav Karmakar, Santanu K. Maiti
-- **研究目的:** 利用自洽Bogoliubov-de Gennes形式，研究一维混合环中超导邻近效应中二聚化与准周期性的相互作用。
-- **主要发现:** 对于AAH模型，准周期势增强诱导序参量的空间涨落并抑制其幅度；对于SSH链，弱二聚化引入深入正常区的振荡调制，强二聚化限制振荡；在SSH-AAH组合模型中，二聚化决定振荡行为和穿透深度，而准周期势增强空间不均匀性并进一步降低幅度。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,physics.data-an" data-topics="materials\_and\_condensed\_matter,microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Development of a Physics-Informed Neural Framework, MEOWN, for Rapid Prediction of Muon Stopping Sites in Crystalline Materials, for understanding Quantum Magnet employing Muon Spectroscopy](http://arxiv.org/abs/2609.17063v1)
-- **作者:** A. Pandey, K. Sharma, S. Ghosh, G. Roy, T. Basu
-- **研究目的:** 开发MEOWN框架，结合极化未扰动静电势（P-UEP）模型与机器学习，快速预测晶体材料中的μ子停泊位点。
-- **主要发现:** MEOWN 明确纳入静电相互作用、电子屏蔽、极化效应和零点运动；在MnSi、CoF$\_2$等基准材料上的验证显示预测结果与DFT+$\mu$高度一致；能在几分钟内预测平衡停泊位点，相比传统DFT计算实现了显著加速。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Adding slow magnetoacoustic mode to the HLL-type multi-state approximate Riemann solution](http://arxiv.org/abs/2609.17049v1)
-- **作者:** Fan Zhang, Stefaan Poedts, Andrea Lani
-- **研究目的:** 提出新的多态HLL型近似黎曼解策略，允许Riemann扇区内的介质可压缩，从而包含慢磁声波模式。
-- **主要发现:** 通过估计慢磁声波速度和纵向流速，并遵循守恒律和Rankine-Hugoniot跳跃关系计算中间态；有限体积法数值模拟显示，新方案比经典HLLD方案扩散性更低，特别是在慢模波上，解析所有波系所需的网格单元数减少了一个数量级。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Trajectory Statistics Govern Mechanical Power Transfer in Active Baths](http://arxiv.org/abs/2609.17047v1)
-- **作者:** Chul-Ung Woo, Jiwon Choi, Heiko Rieger
-- **研究目的:** 揭示主动浴中自由浴粒子的轨迹统计如何决定被动探针的力学响应和功率转移。
-- **主要发现:** 建立了轨迹-响应关系，将浴动力学与波矢加权分离；证明主动Ornstein-Uhlenbeck粒子在所有维度以及$d\geq2$维度的完全重置run-and-tumble粒子中禁止正功率转移，而一维run-and-tumble粒子和二维主动布朗粒子存在正功率转移模式；该响应预测了阻力反转和自发探针运动。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [NaFeP: first pairing prediction for an unmade 111 iron phosphide, and the pnictogen-height rule inside one compound](http://arxiv.org/abs/2609.17028v1)
-- **作者:** Reinaldo Inácio
-- **研究目的:** 应用物理判决器对未合成的111型铁磷化物NaFeP进行配对预测，并在一化合物内部验证pnictogen高度规则。
-- **主要发现:** 判决器返回参数磁性DFT基态和s$\pm$能隙；基于d+p基组的计算预测其为近节点s$\pm$超导体，处于规则的LiFeP一侧；在一化合物内重现了高度规则的要素：第三个空穴口袋、嵌套矢量切换至(1/2,1/2,0)、单调趋近Stoner不稳定性及s$\pm$与d通道的高度简并。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Odd slip at chiral active surfaces](http://arxiv.org/abs/2609.17005v1)
-- **作者:** Yuto Yosaka, Andrej Vilfan
-- **研究目的:** 研究手性活性表面上的奇滑移现象及其对动量传输和有效粘度的影响。
-- **主要发现:** 奇滑移表现为垂直于施加剪切应力的速度分量，产生于具有持续能量输入和定义手性的表面；虽然奇滑移本身无耗散，但维持它需要能量；悬浮在常规牛顿流体中的具有奇滑移的颗粒表现出奇粘度，为超出当前微观模型的奇粘度涌现提供了新的最小机制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators](http://arxiv.org/abs/2609.17001v1)
-- **作者:** Debashree Chowdhury
-- **研究目的:** 研究六方扭曲拓扑绝缘体（TI）与d波交替反铁磁体邻近耦合下的非线性霍尔效应。
-- **主要发现:** 邻近耦合通过C$\_{3v}$扭曲与d波自旋分裂的相互作用打破空间镜面对称，使贝里曲率偶极非零；但在电荷中性附近，量子几何偶极成为非线性霍尔响应的唯一驱动因素；旋转交替反铁磁取向角 $\phi$ 可连续调节量子几何偶极并引起符号反转，在 $\phi=0$ 附近达到峰值。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Design and Simulation Study of the Hadronic Calorimeter for the EicC Zero Degree Calorimeter](http://arxiv.org/abs/2609.16985v1)
-- **作者:** Maiyu Wang, Yuan Li, Hao Wang, Xikun Sun, Zixiang Zhou, Yutie Liang, Weizhi Xiong, Ye Tian, Ting Lin
-- **研究目的:** 设计并模拟EicC零度 kalorimeter (ZDC) 的强子量 calorimeter，以支持核心核子自旋和三维成像物理计划。
-- **主要发现:** 优化的 spaghetti calorimeter (SPACAL) 架构对中子探测表现出优异性能：能量分辨率为 $33.42\%/\sqrt{E/\mathrm{GeV}} + 1.47\%$，时间分辨率约500 ps，优于目标规格；全系统模拟实现亚厘米横向位置分辨率，光子-中子分离准确率超过99%。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Nonlinear filtering stabilizations for the quasi-geostrophic equations](http://arxiv.org/abs/2609.16983v1)
-- **作者:** Lander Besabe, Sachin Kumar, Annalisa Quaini
-- **研究目的:** 提出EFS（演化-滤波-松弛）算法，通过非线性滤波和松弛步骤改善准地球动力学方程（QGE）粗网格模拟的准确性和稳定性。
-- **主要发现:** EFS算法可解释为具有额外耗散的扰动QGE问题的分裂方案；数值结果显示，EFS方法和非线性Bardina正则化均显著提高了无LES模型的粗网格模拟精度和稳定性；在地中海真实几何测试中，基于反卷积指示函数的EFS方法在准确性、稳定性和计算效率之间达到了最佳平衡。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Synchronization of PLC Subsystems with the Timing Distribution System at the European XFEL](http://arxiv.org/abs/2609.16965v1)
-- **作者:** Dmytro Levit, Bruno Fernandes, Peter Zalden, Tobias Freyermuth, Navid Mashayekh, Patrick Gessler
-- **研究目的:** 开发基于FPGA SoC EtherCAT的接口，将工业PLC子系统同步到欧洲 XFEL 的定时分配系统，实现纳秒级同步。
-- **主要发现:** 提出了一种基于MicroTCA的FPGA SoC EtherCAT解决方案，使用分布式时钟实现纳秒级同步，并以确定性方式提供束流相关信息，解决了传统UART/NTP接口仅能实现毫秒级同步的限制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Probabilistic Deep Learning Framework for Phase Transformation Forecasting aided by In Situ High temperature Microscopy](http://arxiv.org/abs/2609.16940v1)
-- **作者:** Ioannis Kouroudis, Niki Balestrieri, Stefan Rotzsche, Niccolo Radice, Peter Mayr, Alessio Gagliardi
-- **研究目的:** 引入概率深度学习框架，统一原位高温显微镜图像的压缩、时序预测和微观结构预报任务。
-- **主要发现:** 使用beta-VAE压缩初始表面图像，结合温度历史输入时序融合变压器（TFT）产生Widmanstatten铁素体比例的分位数预报；并行使用高斯过程预测最终比例并校正预报平衡水平；在S235钢的五个冷却制度下验证了方法的有效性和显著准确性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Nonlocal Magic across the Many-Body Localization Crossover](http://arxiv.org/abs/2609.16935v1)
-- **作者:** Shan-Zhong Li, Zhi Li
-- **研究目的:** 使用最小相对非局域魔法 (NLM) 来表征随机场 XXZ 链中从遍历态到多体局域化 (MBL) 的交叉过程。
-- **主要发现:** NLM 揭示了纠缠结构的谱重组，其标度行为与纠缠熵截然不同；在弱到中间无序 regime 下 NLM 呈现尺寸增强的高原状，而在深 MBL regime 下均值和中位数 NLM 分别随无序强度 $W$ 近似按 $W^{-1}$ 和 $W^{-2}$ 衰减。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Propulsion of magnetic domain walls via elastic damping in magnetostrictive materials](http://arxiv.org/abs/2609.16904v1)
-- **作者:** Miguel Moreno, Rocio Yanes, Luis Lopez-Diaz
-- **研究目的:** 调查磁致伸缩材料中弹性形变及其对场驱动畴壁动力学的反作用，通过全耦合微观磁性-弹动力学框架进行分析。
-- **主要发现:** 机械阻尼充当非磁耗散通道，即使在纯 Gilbert 阻尼为零 ($\alpha=0$) 的情况下也能维持畴壁的平移运动；这种效应可映射为有效 magnetoelastic Gilbert 阻尼参数 $\alpha\_\text{me}$，由畴壁核内的局部应力梯度产生的推进力所平衡。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Bayesian inference in active microrheology with wall and particle-particle interactions](http://arxiv.org/abs/2609.16903v1)
-- **作者:** Parajal Rai, Michelle M. A. Spanjaards, Ye Wang, Patrick D. Anderson, Nick O. Jaensson
-- **研究目的:** 提出一种贝叶斯推断框架，将探针附近的壁面和粒子间流体动力学相互作用纳入简化的解析模型，以提高活性微流变学参数反演的准确性。
-- **主要发现:** 考虑相互作用显著提高了参数反演的准确性；在壁面附近，斜向强迫允许从单次实验联合识别材料参数和壁面距离；该框架还能区分非线性粘弹性下的模型不足以及探针尺寸与异质性尺度相当时的模量空间变化。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Portable Vector NV-Diamond Magnetometer for Shot-Noise-Limited, Drift-Free Operation in Unshielded Environments](http://arxiv.org/abs/2609.16901v1)
-- **作者:** Annirudh K P, Vinayak Rane, Shradha Atakar, Sanika Joshi, Maheshwar Mangat, Jay Gharat, Siddharth Tallur, Kasturi Saha
-- **研究目的:** 开发一种集成数字架构，以实现氮空位 (NV) 金刚石磁强计在不同时间尺度上的稳定性，解决高频激光噪声和长期增益/偏移漂移问题。
-- **主要发现:** 动态差分读取抑制了相关激光噪声，二阶导数洛伦兹线型跟踪校正了增益变化，磁本征矢量变换消除了温度诱导的偏置波动，从而在无屏蔽环境下实现了匹配散粒噪声极限的稳定性，并将长期漂移抑制了十倍。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [An energy stable and accuracy-preserving finite volume scheme based on the SAV method with application to wall-distance computation](http://arxiv.org/abs/2609.16885v1)
-- **作者:** Xiaorui Xu, Qian Wang
-- **研究目的:** 提出一种结合标量辅助变量 (SAV) 方法的半隐式二阶有限体积格式，用于求解壁面距离计算中的伪时间 Eikonal 方程。
-- **主要发现:** 该格式在零边界条件下具有无条件能量稳定性，允许大时间步计算；离散化矩阵构成 M-矩阵，保证解的严格非负性；数值实验表明该格式在复杂几何配置下能达到设计精度且相对误差低于 3\%。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Enskog kinetic theory in a model of confined granular mixtures. Heat flux and some applications](http://arxiv.org/abs/2609.16868v1)
-- **作者:** David González Méndez, Vicente Garzó Puertos
-- **作者:** David González Méndez, Vicente Garzzo Puertos
-- **研究目的:** 基于 $\Delta$-模型和 Enskog 动力学理论，确定稠密二元颗粒混合物的热流输运系数（Dufour 和热导率系数），并研究其线性稳定性及 Onsager 倒易关系的违反情况。
-- **主要发现:** 有限密度效应对输运性质有显著影响；齐次稳态 (HSS) 在探索的参数空间内线性稳定，未发现不稳定的横向或纵向流体动力模式；研究量化了受限稠密颗粒混合物中 Onsager 倒易关系的违反程度。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [A Data-free Universal Prior over Syntactic Structures](http://arxiv.org/abs/2609.16854v1)
-- **作者:** Fermín Moscoso del Prado Martín
-- **研究目的:** 检验句法结构的概率分布是否可以在不依赖特定语言数据的情况下产生，通过构建一个认知动机的小增量语言生成模型来研究。
-- **主要发现:** 从渐进集成单词的网络生长模型中涌现出一个无数据的句法结构通用先验；该先验无需拟合参数即可赋予已观测句法结构更高的概率，并在 138 种语言中显示出与语料库估计概率的正相关性，表明部分句法概率结构独立于语言特异性统计学习而产生。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Can Deep Learning Achieve Cross-Physics Mapping?](http://arxiv.org/abs/2609.16853v1)
-- **作者:** Pengfei Zhu, Julien Lecompagnon, Mathias Ziegler
-- **研究目的:** 通过引入跨物理映射 (CPM) 算子学习框架，探讨深度学习是否能在共享潜空间中将一种物理场（如扩散场）映射到另一种根本不同的物理场（如波场）。
-- **主要发现:** 深度学习可以在共享潜流形上建立不同物理模式间的有用映射，但存在强烈的方向不对称性：扩散到波的映射因丢失相位信息而更具挑战性，而波到扩散的映射更稳定；神经网络算子通常优于传统卷积基线。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,physics.app-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, physics.app-ph, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Generation of pure spin currents via nonadiabatic quantum pumping in an antiferromagnetic chain](http://arxiv.org/abs/2609.16819v1)
-- **作者:** Leila Eslami, Fatemeh Bourbour, Somaieh Ahmadi, Santanu K. Maiti
-- **研究目的:** 研究在时间依赖势驱动的抗铁磁链中通过量子自旋泵浦在无外部偏置下产生和控制纯自旋电流的可能性。
-- **主要发现:** 在非绝热 regime 下，能量量子的吸收和发射过程激活，导致自旋向上和向下电流显著差异；通过调节化学势可以控制自旋电流的大小和方向，且可在电荷电流几乎消失的同时维持可观的自旋电流，实现了近乎纯的自旋泵浦。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and infrared and Raman spectra calculations](http://arxiv.org/abs/2609.16802v1)
-- **作者:** Xudong Zhu, Junhong Li, Gan Jin, Zheng Guan, Lixin He
-- **研究目的:** 开发一个开源 Python 工具包 ZStar，用于自动化计算极化、Born 有效电荷 (BEC)、声子、介电响应以及红外和拉曼光谱。
-- **主要发现:** ZStar 支持所有维度材料（体晶体、二维、一维及分子）的计算，通过统一的对称适应有限位移框架提高了计算效率，并利用 ABACUS+PYATB 路径复用电子哈密顿量以实现高效的拉曼计算，实现了跨维度的极化和振动光谱的高效自动化探索。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.data-an,physics.ins-det" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.data-an, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [SpectraFit XPS: a free, browser-based application for X-ray photoelectron spectroscopy peak fitting and quantification](http://arxiv.org/abs/2609.16789v1)
-- **作者:** Yongsup Park
-- **研究目的:** 开发一个完全在浏览器中运行的免费 Web 应用程序 SpectraFit XPS，用于 X 射线光电子能谱 (XPS) 数据的峰值拟合和定量分析。
-- **主要发现:** 该应用结合了交互式拟合引擎、多种真实线型和背景模型，支持 ISO 14976 文件格式，定量分析管道在 30 个案例回归套件中精确复现了参考值，且所有数据处理均在用户本地完成，保障了数据隐私。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Noise2Noise Revisited: Training Pair Distributions Dominate Loss Choice in Self-Supervised Denoising](http://arxiv.org/abs/2609.16788v1)
-- **作者:** Dingyan Shang, Zhenyu Xu, Youting Wang, Bonan Shen, Bowen Liu
-- **研究目的:** 重新审视 Noise2Noise (N2N) 中 L1 损失优于 L2 损失的原因，测试参数稀疏性和群体最优值重合等假设。
-- **主要发现:** L1 损失的优越性主要源于优化动力学（有界影响梯度）而非参数稀疏性；训练对的分布比损失函数的选择更能决定归纳偏置；在真实相机噪声上，使用与目标噪声分布匹配的训练对所带来的增益远大于更换损失函数。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics, physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Singly resonant InGaP microresonators for efficient, low-threshold second-order nonlinear optics](http://arxiv.org/abs/2609.16718v1)
-- **作者:** Yiming Pang, Xuefeng Li, Lucas Wang, Lillian Thiel, Melissa A. Guidry, Joshua E. Castro, Max Meunier, Nergis Mavalvala, John E. Bowers, Galan Moody
-- **研究目的:** 开发一种单谐振 InGaP 绝缘体上微谐振器，以克服单谐振器件在传统上因牺牲非线性效率而难以同时实现高效率和稳健性的权衡。
-- **主要发现:** 利用 InGaP 的大 $\chi^{(2)}$ 非线性和高品质因子，实现了高效的倍频产生、宽带量子频率梳生成和低阈值参量振荡，其非线性性能媲美甚至超过双谐振系统，为低功耗、宽带和非线性量子光子学开辟了新途径。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Cyclotron-Frequency Stability via Single-Ion Fluorescence in a Penning Trap with a Cryogen-Free Superconducting Magnet](http://arxiv.org/abs/2609.16713v1)
-- **作者:** Anna Schupeta, David Yousaf, Manuel Almagro, Manuel Hurtado, José M. Palomino, Joaquín Berrocal, Michael Block, Christoph E. Düllmann, Daniel Rodríguez
-- **研究目的:** 通过单激光冷却钙离子的回旋频率测量，调查使用无低温超导磁体的彭宁阱的磁场稳定性。
-- **主要发现:** 脉冲光学方法测得长期磁场漂移率为 $-3.07(32)\times10^{-9} \text{ h}^{-1}$，与液氦超导磁体相当；FD-FT-ICR 技术实现了秒级时间尺度上的直接回旋频率测定，展示了高分辨率探测磁场波动的能力。
-</section>
-
-<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.atm-clus</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [Electron scattering from polar hydrides using relativistic optical potential method](http://arxiv.org/abs/2609.16650v1)
-- **作者:** Sudhanshu Arya, Bobby Antony
-- **研究目的:** 将相对论球对称复光学势方法扩展至具有永久偶极矩的极性分子，研究电子与 benchmark 极性氢化物 ($\rm H\_2O$, $\rm H\_2S$, $\rm NH\_3$, $\rm PH\_3$) 的散射。
-- **主要发现:** 通过旋转分辨的一阶 Born 贡献恢复了长程各向异性偶极相互作用，计算得出的弹性、非弹性和总散射截面在宽能量范围内与实验趋势良好吻合，特别是在高能区，证明了该方法在保持低成本的同时适用于极性分子。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Total-energy-assisted Tight-binding Method Based on Density Functional Theory - Design Principles toward Transferability and Extrapolation](http://arxiv.org/abs/2609.16649v1)
-- **作者:** Takeo Fujiwara, Yoshiro Nohara, Susumu Yamamoto
-- **研究目的:** 在局部密度近似下扩展基于总能量的紧束缚方法 (TE-TB)，引入三个参数以显式捕捉局部堆积效应，从而提高方法的迁移性和外推能力。
-- **主要发现:** 对结晶硅的基准测试（金刚石结构稳定性、单空位、(001) 表面）表明，新的三参数 TE-TB 设计哲学具有高迁移性和可靠性，边界条件的施加有助于改善泛函的物理性质。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Weak ferromagnetism in the square-lattice Heisenberg $J\_1$-$J\_2$-$J\_2^\prime$ model with easy-axis single-ion anisotropy](http://arxiv.org/abs/2609.16593v1)
-- **作者:** Bin-Zhou Mi, Qiang Gu
-- **研究目的:** 系统研究具有易轴单离子各向异性 $D$ 的方格子海森堡 $J\_1$-$J\_2$-$J\_2^\prime$ 模型的磁性 properties，特别是有限温度下的净磁化强度。
-- **主要发现:** 发现净磁化强度在有限温度下不为零，表现出温度依赖的弱铁磁性；$J\_2 \neq J\_2^\prime$ 是有限温度下弱铁磁性的主要因素，而 $D$ 提供了二维长程磁有序的背景；$\|J\_2-J\_2^\prime\|$ 越大，最大净磁化强度和临界温度越高。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, physics.chem-ph, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Hartree-Fock Density-Matrix Renormalization Group for Very Long Chains](http://arxiv.org/abs/2609.16587v1)
-- **作者:** Steven R. White
-- **研究目的:** 将哈特里-福克 (HF) 公式化为密度矩阵重整化群 (DMRG) 扫描，以在普通台式机上处理具有长程相互作用的极长链系统。
-- **主要发现:** 通过分别压缩占据态和长程相互作用，将每一步扫描简化为小型局部 Fock 问题；成功在约两小时内收敛了包含 100,000 个电子和 1.8 百万空间基函数的链，证明了 DMRG 压缩使得带有长程 Hartree 和交换作用的巨大 HF 计算在普通计算机上变得可行。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Adsorbing Boundaries Stratify the Kinetics of Confined Colloidal Phase Separation](http://arxiv.org/abs/2609.16583v1)
-- **作者:** Kui Lin, Haiming Lu
-- **研究目的:** 通过流体粒子动力学模拟和自由排水布朗动力学，比较吸附边界如何重塑受限胶体相分离中质量输运与机械松弛的耦合。
-- **主要发现:** 吸附边界不均匀地减缓粗化过程，而是将网络分层为空间不同的动力学 regime；中心区域遵循 poroelastic 松弛 ($L \sim t^{1/2}$)，而吸附区遵循有效律 ($L \sim t^{1/3}$)；局部自相似的中心粗化与不同的边界动力学共存，阻止了单一动态标度长度的存在。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Orbital-resolved superexchange and topological magnon bands in MXene Fe$\_2$C](http://arxiv.org/abs/2609.16530v1)
-- **作者:** Qiang Gao, Wei Wang, Shaojin Qi, Guimei Shi, Anbang Guo, Xin Jin, Chen Shen, Xing-Qiu Chen
-- **研究目的:** 计算 MXene Fe$\_2$C 的自旋波色散关系，探索其磁子能带的拓扑性质及超交换机制。
-- **主要发现:** 由于两层 Fe 子晶格的交错堆叠，层间交换耦合 lifted 了铁磁磁子模式的简并，在 $K$ 点发现狄拉克点；铁磁超交换耦合由 Fe 的 d 轨道通过桥接 C 原子的正交 p 轨道之间的虚跳跃介导，建立了轨道分辨的各向异性超交换与磁子带拓扑之间的直接联系。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Unsupervised Machine Learning of the Contact Process](http://arxiv.org/abs/2609.16506v1)
-- **作者:** L. T. Brito, G. A. Alves, F. W. S. Lima, A. Macedo-Filho, R. S. Ferreira, T. F. A. Alves
-- **研究目的:** 调查无监督机器学习方法（PCA 和 VAE）在表征一维和二维接触过程主动-吸收相变中的应用，解决正定构型带来的挑战。
-- **主要发现:** 标准 PCA 中心化失败，但通过增加符号反转构型创建平衡数据集后，主成分可恢复序参量；VAE 采用异方差高斯先验可改善有限尺寸标度；结果表明机器学习在相变问题中的成功依赖于算法对系统物理结构和内在约束的适配。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Extensible membranes in inviscid flow: aerodynamics and singular limits](http://arxiv.org/abs/2609.16484v1)
-- **作者:** Yu Jun Loo, Silas Alben
-- **研究目的:** 发展一个二维无粘模型，研究具有连续涡脱落的可延伸膜的气动特性及其在零弯曲刚性下的奇异极限行为。
-- **主要发现:** 膜的顺应性在启动期间通过延迟前缘涡脱落增强升力，随后主要放大力的振荡；释放后缘产生内在退化，导致张力在自由端点消失并驱动快速尖端 snapping；拉伸模量的降低会导致周期性颤振失稳，暗示周期到混沌颤振转变 underlying 的同宿缠绕。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-15</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Entropy-driven transitions between extended integer and fractional quantum Hall regimes](http://arxiv.org/abs/2609.16483v1)
-- **作者:** Kyung-Su Kim, Steven A. Kivelson
-- **研究目的:** 分析由 Goldstone 模式或软能隙模式的熵驱动的有限温度相变，解释 Extended 量子霍尔态之间的竞争。
-- **主要发现:** 在 moiré 菱面体石墨烯中，分数量子反常霍尔态中的软磁振子为观察到的从扩展整数量子霍尔到分数量子霍尔 regime 的热演化提供了合理的块体机制，展示了熵如何驱动不同量子霍尔态之间的首阶热跃迁。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Analytical solutions to the non-equilibrium Green's functions in large-$q$ SYK models](http://arxiv.org/abs/2609.16438v1)
-- **作者:** Jan C. Louw
-- **研究目的:** 为非对易 $q/2$-体 SYK 哈密顿量之间的淬灭提供所有时间块的格林函数的解析解。
-- **主要发现:** 获得了闭形式的时间块格林函数，提取了淬灭前后能量之间的简单关系及精确温度更新规则；通过 Cauchy-Schwarz 不等式证明封闭系统的加热不可避免，从而几何地涌现出第二定律。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Soft thermal diodes: grafted polymers provide a highly tunable thermal rectification](http://arxiv.org/abs/2609.16371v1)
-- **作者:** Claudio Pastorino, Alejandro Monastra, Florencia Carusela
-- **研究目的:** 通过分子动力学模拟探索一端壁面涂覆接枝聚合物的纳米腔中两相流体的热整流特性。
-- **主要发现:** 对于刚性和全柔性聚合物，在广泛的腔体填充度下均观察到显著的热二极管效应；热整流特性可通过流体填充度、聚合物性质和流体-聚合物亲和力进行微调，且该系统沿平行于壁面方向易于扩展到宏观尺寸而不影响热整流效果。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Hidden kinetic correlations control collective phases of entropy-conditioned histories](http://arxiv.org/abs/2609.16355v1)
-- **作者:** Abhishek Chowdhury
-- **研究目的:** 研究在完整熵产生加权下，具有相同可见路径分布和平均耗散的局部马尔可夫模型是否表现出不同的集体相。
-- **主要发现:** 可见构型调制隐藏驱动循环，动能相关性转化为相互作用；即使熵方差匹配，周期性二值模型也能保留相反的相；对于守恒粒子，第四累积量是检测临界敏感性的第一个量；结果确定了聚合热力学观测中被遗漏的动能信息。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Probing proximity-induced superconductivity in bilayer graphene using gate-defined quantum dots](http://arxiv.org/abs/2609.16320v1)
-- **作者:** Philipp Schmidt, Mathies Funke, Till Tenger, Katarina Stanojević, Hubert Dulisch, Kenji Watanabe, Takashi Taniguchi, Fabian Hassler, Christian Volk, Szabolcs Csonka, Christoph Stampfer
-- **研究目的:** 利用门控量子点作为局部光谱探针，研究 NbSe$\_2$ 邻近化双层石墨烯 (BLG) 中的 proximity-induced 超导间隙及其演化。
-- **主要发现:** 观察到高达 $80\,\mathrm{\mu eV}$ 的邻近诱导超导间隙，且局部态密度在超过 1 $\mu$m 的距离内保持抑制，表明通过高弹道 BLG 通道的超导邻近效应；这展示了 BLG-超导体杂化平台在结合量子点与超导电性方面的可控性。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Semantic-Aware Neural Video Codec for Error-Resilient Low-Latency Transmission](http://arxiv.org/abs/2609.16279v1)
-- **作者:** Matin Mortaheb, Homa Esfahanizadeh, Jinfeng Du, Harish Viswanathan
-- **研究目的:** 提出一种语义感知多级神经视频编码方法，用于在不可靠信道上的鲁棒低延迟视频传输。
-- **主要发现:** 通过将编码表示分区为不同语义重要性的数据包并分配优先级，结合无帧间依赖的纠错熵模型，显著提高了对抗数据包擦除的鲁棒性；系统在次要区域实现优雅降级，同时更好地保留任务相关的视觉内容。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Current - voltage characteristics in magnetic field for layered superconductor with intrinsic pinning of Josephson vortices](http://arxiv.org/abs/2609.16277v1)
-- **作者:** T. B. Charikova, V. N. Neverov, M. R. Popov, S. D. Popov, N. G. Shelushinina, A. A. Ivanov
-- **研究目的:** 测量层状高温超导体 Nd$\_{2-x}$Ce$\_x$CuO$\_4$ 外延薄膜中 Josephson 涡旋在正交电磁场下的横向电压，分析本征钉扎效应。
-- **主要发现:** 确立了对比 Abrikosov 涡旋幂律依赖的 Josephson 涡旋临界去钉扎电流 $j\_c(B)$ 的指数依赖关系；观察到磁场去钉扎后涡旋蠕变 regime 的开始，并在 crossover 场 $B\_f$ 处演变为 flux-flow regime。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires](http://arxiv.org/abs/2609.16199v1)
-- **作者:** Shreyan Mitra, Mohammadreza Narimani, Parastoo Farajpoor
-- **研究目的:** 发布一个开放的图像数据集，用于开发和评估卫星图像中活跃火分割的深度学习算法。
-- **主要发现:** 包含来自 25 次加州野火的 2,148 个图像-掩码对，覆盖 2020 年至 2026 年；数据集包含细粒度的活跃火标签（占 0.0766\% 网格单元）和独立的测试集审查，支持罕见类分割和跨火事件迁移的研究。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware](http://arxiv.org/abs/2609.16172v1)
-- **作者:** Mara Lieberegts, Ye Wang
-- **研究目的:** 评估二维 (2D) 材料在面向 CMOS 兼容可扩展量子硬件中的应用机会和局限性。
-- **主要发现:** 2D 材料的原子级薄晶体和范德华界面有望解决制造过程中引入的化学残留、结构无序和非均匀界面等问题，但需要评估相关工艺是否能有效转移到量子芯片上，以实现 qubit 相干性的提升。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Multisource Remote Sensing and Geospatial Analysis of Vineyard Wildfire Impacts and Resilience: The 2019 Kincade Fire](http://arxiv.org/abs/2609.16168v1)
-- **作者:** Parastoo Farajpoor, Mahla Ardebili Pour, Mohammad Bagher Ghiasi, Mohammadreza Narimani
-- **研究目的:** 利用多源遥感数据和分析葡萄园在 2019 年 Kincade 野火中的影响和韧性。
-- **主要发现:** 葡萄园像素的 dNBR 显著低于野生植被，但这并未证明普遍的防火带效应；条件分析显示葡萄园分数与 dNBR 正相关；所有 mapped 葡萄园均 intersected overhead smoke，且内部葡萄园的绿色恢复率较低，表明低即时光谱影响并不意味着完整的韧性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Noise-induced classical phases in optimally-unraveled random quantum circuits](http://arxiv.org/abs/2609.16160v1)
-- **作者:** Lorenzo Fioroni, Filippo Ferrari, Emanuele Tirrito
-- **研究目的:** 研究掺杂非 Clifford 相位旋转并受局部噪声影响的随机 Clifford 电路的经典可模拟性。
-- **主要发现:** 通过优化随机 unraveling 识别出噪声诱导的经典相，其中动力学可由 Clifford 操作完全解纠缠；这些相的存在依赖于噪声模型和解纠缠方式，但在平均密度矩阵描述中消失，表明经典性的涌现取决于探测它的测量方案。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.80">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.80"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates](http://arxiv.org/abs/2609.16143v1)
-- **作者:** C. Alexander Baum, Jun Zhan, Congcong Le, Ronny Thomale, Xianxin Wu
-- **研究目的:** 调查电子-声子耦合 (EPC) 对三层镍酸盐磁性和超导性的影响，特别是平面外氧呼吸模式的作用。
-- **主要发现:** 识别出具有显著 EPC 的平面外氧呼吸模式，其在三层间的相对相位产生模式选择性增强或抑制自旋密度波序和 $s\_\pm$ 波超导；这种选择性源于 screening-mediated 自旋-声子相互作用，产生的负同位素系数与实验定性一致。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [A deep dive into Tollmien-Schlichting wave control via passive wall deformations: The battle between local and downstream stabilization, lessons learned, and implications for phononic subsurfaces](http://arxiv.org/abs/2609.16144v1)
-- **作者:** H. Yousef, H. Hassan, I. Roy, T. Toki, C. Scalo, M. Nouh
-- **研究目的:** 深入调查通过被动壁面变形控制 Tollmien-Schlichting (TS) 波的机制，特别是局部稳定与下游稳定之间的竞争。
-- **主要发现:** 揭示了流场与弹性壁面相互作用沿流向平移的关键阈值，当超过该阈值时控制效果完全反转；概念化了一种二维声子亚表面，其针对法向和流向的非成比例响应可实现局部和下游稳定的结合。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Optical and magnetic signatures of drive-enhanced coherence in phase-disordered superconducting bilayers](http://arxiv.org/abs/2609.16137v1)
-- **作者:** Duilio De Santis, Sambuddha Chattopadhyay, Marios H. Michael, Andrea Cavalleri, Gil Refael, Patrick A. Lee, Eugene A. Demler
-- **研究目的:** 研究周期调制的超流刚度对相位无序超导体双层系统（如 YBCO）的光学和磁性 signatures 的影响。
-- **主要发现:** 层对称驱动和层反对称驱动均能增强层平均相关联和类超导光学电导率，但只有层对称驱动加强了相对相位锁定和反流响应；因此，增强的 $1/\omega$ 光学电导率本身并不暗示增强的磁屏蔽，为驱动 YBCO 提供了对称性诊断依据。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Goal-Oriented Communications for Physical AI: Design and Testbed](http://arxiv.org/abs/2609.15895v1)
-- **作者:** Shutong Chen, Wenkai Zhang, Adnan Aijaz, Miao Guo, Yansha Deng
-- **研究目的:** 开发并验证用于 Physical AI 的端到端目标导向通信 (GoC) 测试床，评估传输语义表示的有效性。
-- **主要发现:** 在 5G 测试床上，传输 3D 边界框、2D 场景图和 3D 场景图等语义表示的 GoC 框架，相比传统原始图像传输，将任务完成时间减少了高达 52.6\%，任务成功概率提高了 45\%，验证了 GoC 在实际 Physical AI 部署中的有效性。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Sharp Bounds on the Mean Efficiency of a Fluctuating Machine](http://arxiv.org/abs/2609.15443v1)
-- **作者:** Badr Farih
-- **研究目的:** 推导波动机器 exergetic 效率比 $\eta=W/(W+T\_0S)$ 的均值界限，仅基于能量预算。
-- **主要发现:** 建立了尖锐的下界和上界；下界由 Jensen 不等式给出，表明波动耗散总是使平均效率高于确定性值；上界由间歇可逆定律达到，并与热力学不确定性关系联系起来，将效率上限转化为精度-效率前沿。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.80">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-14</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.80"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Online local learning for generative thermodynamic computing](http://arxiv.org/abs/2609.15439v1)
-- **作者:** Huilin Wang, Weibing Deng
-- **研究目的:** 开发一种用于生成热力学计算机的在线局部学习方法，通过在每个积分步骤应用局部更新来训练系统。
-- **主要发现:** 在线训练和轨迹批处理训练在固定噪路径上达到相似的验证损失；在线训练模型释放的平均热量更少；更新时机、噪声结构和精度对生成热力学计算有重要影响，且存储训练耦合所需的精度远低于训练期间的确定性更新分辨率。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-13" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-13</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Information-Loss Location Estimation and Curvature-Scale Analysis of Physical Measurements: A Gaussian, Cauchy, and Logistic Neutron-Lifetime Benchmark](http://arxiv.org/abs/2609.14793v1)
-- **作者:** Victor V. Golovko
-- **研究目的:** 开发一种两步位置-尺度分析方法，用于分析底层分布未知的重复物理测量，并以中子寿命数据为基准进行测试。
-- **主要发现:** 提出了基于 Kullback-Leibler 信息损失平稳性的位置得分和 Steiner 曲率规则定义的比例；应用于 21 次中子寿命测量汇编，得到高斯、柯西和逻辑斯蒂位置估计值分别为 878.689 s、881.164 s 和 882.835 s。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-12" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-12</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Finite Asimov Sample Construction in Unbinned Neural Simulation-Based Inference](http://arxiv.org/abs/2609.14136v1)
-- **作者:** Rafael Coelho Lopes de Sa, Jay Sandesara
-- **研究目的:** 在基于神经网络的模拟推断中，构造有限的加权参考样本以近似无 binning Asimov 数据集，用于预期灵敏度计算。
-- **主要发现:** 对于五维可观测空间的玩具示例，仅由 256 个加权参考事件组成的 Asimov 数据集即可很好地复现使用两百万模拟参考事件获得的预期检验统计量扫描，显著减少了所需的模拟样本量。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-12" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-12</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.85"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Finite-Mask Gaussian-Process Reconstruction on a Periodic Sensor Ring: Mask-Geometry Dependence, Fourier-Mode Coupling, and Posterior Trace](http://arxiv.org/abs/2609.14007v1)
-- **作者:** Jun Tsuzurugi
-- **研究目的:** 分析有限周期传感器环上任意观测掩码对高斯过程重构的后验协方差、傅里叶模式耦合和后验迹的影响。
-- **主要发现:** 对于任意掩码，后验精度矩阵的非对角项是掩码实现的有限傅里叶分量，耦合了模式；具有相同不可用通道分数的掩码可能因几何形状不同而具有不同的归一化后验迹；这为风扇或压缩机导管中故障传感器的分析提供了有限维参考计算。
 
 ---
 </section>
@@ -3456,6 +3483,1225 @@ title: ArXiv Summary Daily
 </div>
 
 
+</section>
+
+---
+
+## 生成说明
+- 本报告由AI模型自动生成
+- 每篇论文的总结包含研究目的和主要发现
+- 如有错误或遗漏请以原文为准
+</section>
+
+<section class="summary-day" data-summary-date="2026-09-16" markdown="1">
+<header class="summary-day-header"><h2>2026-09-16 研究摘要</h2><a href="summary_20260916_082151.html">打开当日独立页面 →</a></header>
+
+## 基本信息
+- 生成时间：2026-09-16 16:24:40
+- 使用模型：agnes-2.5-flash
+- 论文数量：92 篇
+
+---
+
+## 论文总结
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Coupling spherical p-spin systems](http://arxiv.org/abs/2609.17522v1)
+- **作者:** Riccardo Cipolloni, Leticia F. Cugliandolo
+- **研究目的:** 研究通过/site-independent耦合连接多个球面p自旋系统时的联合演化、交叉关联及可能的共同老化尺度。
+- **主要发现:** 推导了多子系统的时间相关方程，发现强耦合下两系统间存在共同的有效温度，且该温度随无序相关性增强而升高；弱耦合下则出现部分平衡的两个老化 regime。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes](http://arxiv.org/abs/2609.17514v1)
+- **作者:** Konstantin V. Pinigin
+- **研究目的:** 利用分子动力学模拟和维里应力分析，将磷脂双分子层的面积压缩模量分解为不同分子基团及其相互作用的贡献。
+- **主要发现:** 烃链提供了约70%的正贡献，水-脂质相互作用贡献约30%，而单层内的头基与头基-链相互作用几乎相互抵消；单层间的直接相互作用仅贡献约3%，表明弹性响应近似可加。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [The chemistry of embrittlement: How hydrogen dwindles cohesion in iron during fracture](http://arxiv.org/abs/2609.17508v1)
+- **作者:** Aleksei Egorov
+- **研究目的:** 探索氢在铁断裂过程中如何影响键强度并降低断面间的内聚能，以揭示钢氢致脆化的化学机制。
+- **主要发现:** 揭示了静电排斥在氢削弱铁原子间内聚作用中的核心角色，阐明了氢导致材料脆化的微观物理化学原因。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation](http://arxiv.org/abs/2609.17504v1)
+- **作者:** Anis Attiaoui, Sebastien Koelling, Lu Luo, Simone Assali, Oussama Moutanabbir
+- **研究目的:** 探究超薄氧化物盖子对SiGeSn合金热稳定性的影响，特别是如何通过抑制表面介导的降解来提高其耐热性。
+- **主要发现:** 氧化物盖子通过动力学抑制Sn与自由表面的交换，显著减少了相分离、空洞形成和组分变化；相比未加盖样品，接触电阻率降低了25倍，证实表面Sn传输是主要降解途径。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Visualizing Berry curvature in a Floquet-Chern insulator](http://arxiv.org/abs/2609.17500v1)
+- **作者:** Younsik Kim, Rishi Acharya, Hannah E. Aguirre, Lucca Figari, Daniel P. Shoemaker, Fahad Mahmood
+- **研究目的:** 使用圆二色性时间分辨角分辨光电子能谱（Tr-ARPES）直接绘制Floquet-Bloch态的诱导贝里曲率。
+- **主要发现:** 成功观测到了在Floquet间隙处交替符号的贝里曲率特征，其分布与周期性驱动狄拉克哈密顿量的计算结果一致；诱导的贝里曲率和Floquet狄拉克间隙比副本强度衰减更快。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Hysteresis and trap emission in dc-biased integrated lithium niobate electro-optic modulators](http://arxiv.org/abs/2609.17489v1)
+- **作者:** Matthew Yeh, CJ Xin, Donald Witt, David R. Barton, Evelyn L. Hu, Marko Lončar
+- **研究目的:** 研究铌酸锂电光调制器在直流偏压下产生的迟滞现象及其物理机制，并探索恢复方法。
+- **主要发现:** 发现电光迟滞可通过零偏压或反向偏压逆转，短时空下的漂移现象可由接触结附近的电荷捕获动力学解释；设计了主动复位协议，可恢复响应幅度并部分恢复漂移时间尺度。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for the Visible Band](http://arxiv.org/abs/2609.17480v1)
+- **作者:** Kishor Kumar Mandal, Lekshmi Eswaramoorthy, Parul Sharma, Anuj Kumar Singh, Brijesh Kumar, Tanmay Gupta, Venu Gopal Achanta, Anshuman Kumar
+- **研究目的:** 开发一种无拼接、金刚石划片的可用于可见光波段的氮化硅光子集成电路平台，以实现倏逝场的全程可及性。
+- **主要发现:** 通过移动台电子束光刻实现了5 mm芯片上的连续曝光，消除了 stitching 引起的散射损耗；金刚石划片获得了垂直度误差小于2°的光滑端面，产率达到80%，为可扩展的可见光-近红外量子和经典电路奠定了基础。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory](http://arxiv.org/abs/2609.17477v1)
+- **作者:** Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata, Kazushi Mimura
+- **研究目的:** 分析非对称偏置对稠密联想记忆绝对容量的影响，特别是在Krotov-Hopfield单点准则下。
+- **主要发现:** 对于多项式相互作用阶数 $n\geq4$，固定偏置 $q<1/2$ 时的容量标度低于无偏置情况（$O(N^{n/2})$ 或 $O(N^{(n+1)/2})$ 对比 $O(N^{n-1}/\ln N)$）；在 $q \approx 1/2$ 附近存在由偏置诱导的交叉现象，且活动依赖性控制势可恢复无偏置容量。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Designing Homogeneous Ti-Nb-Fe-Sn $\beta$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy](http://arxiv.org/abs/2609.17476v1)
+- **作者:** João Felipe Queiroz Rodrigues, Kristína Bartha, Mariano Casas-Luna, Gilberto Vicente Prandi, Márcio Sangali, Kateřina Ficková, Jiří Kozlík, Michaela Šlapáková, Martin Koller, Adam Strnad, Josef Stráský, Miloš Janeček, Rubens Caram
+- **研究目的:** 采用预合金粉末混合策略，通过激光粉末床熔融（PBF-LB）制备化学成分均匀的 Ti-Nb-Fe-Sn $\beta$ 钛合金。
+- **主要发现:** 使用预合金母合金粉体结合重熔和热处理工艺，成功制备出低孔隙率、成分均匀且为单一 $\beta$ 相的合金；随着Nb含量增加和Fe含量降低，硬度和屈服强度下降，杨氏模量维持在63-81 GPa的低位区间。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Fast, optimal readout of a tethered optomechanical pressure sensor](http://arxiv.org/abs/2609.17452v1)
+- **作者:** Stephen R. Chen, Yiliang Bao, John R. Lawall, Jason J. Gorman, Daniel S. Barker
+- **研究目的:** 开发一种快速读取悬挂式光机械压力传感器机械环降（ring-down）信号的方法，以提高测量速率并降低不确定性。
+- **主要发现:** 提出了基于克拉美-罗界（Cramér-Rao bound）的最优测量速率策略；在低压下，使用最优测量速率可实现比传统等待热机械噪声底限快10倍的测量速度，或降低3倍的测量不确定性，使传感器速率可比拟商用压力计。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Bridging high-Q and Kerr-nonlinear photonics using modal phase matching](http://arxiv.org/abs/2609.17444v1)
+- **作者:** Jordan R. Stone, Saleha Fatema, Christopher V. Poulton, Michael G. Wood, Gordon A. Keeler, Kartik Srinivasan
+- **研究目的:** 利用模相位匹配（modal phase matching）打破高Q值与色散工程在传统克尔微腔几何结构之间的权衡限制。
+- **主要发现:** 在160-nm厚氮化硅平台上设计了高Q值（> $10^7$）微腔，实现了20%转换效率的克尔光学参量振荡，并在600-1400 nm范围内实现了无间隔波长调谐，证明了模相位匹配能有效解耦Q值与色散，扩展了非线性光子器件的设计空间。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Nonlinear electron-phonon interactions from first principles](http://arxiv.org/abs/2609.17433v1)
+- **作者:** Zhenbang Dai, Feliciano Giustino
+- **研究目的:** 建立一种从头算方法，用于计算任意阶的非线性电子-声子相互作用，以填补高阶耦合计算框架的空白。
+- **主要发现:** 提出了一种结合单元电子波函数计算和超胞声子微扰的方法，计算了金刚石、氟化锂和石墨中的二阶电子-声子耦合矩阵元；证明二阶耦合对于定量准确预测极化子形成能和跳跃势垒至关重要。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Analytical Channel Modeling and Stability Aware Optimization of Optical Inter Satellite Links](http://arxiv.org/abs/2609.17431v1)
+- **作者:** Hossein Safi, Ziheng Wang, Stijn Mast, Harald Haas, Iman Tavakkolnia
+- **研究目的:** 建立含指向抖动的星间光学链路（OISL）闭合形式统计信道模型，以研究终端稳定性对链路性能的影响。
+- **主要发现:** 推导出信道增益分布、中断概率和遍历容量的解析表达式；发现中断概率由稳定性较差的终端主导，而遍历容量惩罚取决于两端终端的联合稳定性，为光束参数选择和指向跟踪要求提供了设计准则。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory](http://arxiv.org/abs/2609.17385v1)
+- **作者:** Rodrigo A. Mendes, Zachary W. Windom, Ajith Perera, Roberto L. A. Haiduke, Rodney J. Bartlett
+- **研究目的:** 评估不同KS-DFT泛函在重现自旋密度矩及超精细耦合常数（HFCCs）方面相对于CCSD理论的准确性。
+- **主要发现:** 大多数泛函在核附近区域与CCSD自旋密度存在显著偏差，尽管部分泛函在形成全局自旋密度时存在误差抵消；QTP00泛函在全局自旋密度和HFCCs的复现上表现最佳，同时也验证了PBE0和TPSS族泛函的有效性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Exact solutions of nonreciprocal Su-Schrieffer-Heeger model with domain walls](http://arxiv.org/abs/2609.17378v1)
+- **作者:** Tong Wang, Mengjie Yang, Flore K. Kunst
+- **研究目的:** 研究具有非互易性的Su-Schrieffer-Heeger（SSH）模型中畴壁物理，推导开放边界条件下本征态的解析解。
+- **主要发现:** 识别出两种不同的界面几何结构，导出了复数波数和波函数的闭合量化条件；除传统皮肤模和拓扑零模外，畴壁还产生了脱离体连续谱的附加局域态，并推广至二维 Lieb 晶格展示了可调谐的聚能机制。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Characterization of IBEX LmAPD detectors at CEA for future low-noise NIR astronomy instruments](http://arxiv.org/abs/2609.17371v1)
+- **作者:** Jean Le Graët, Vincent Affatato, Marion Baumann, Olivier Boulade, Cyrille Delisle, Eloy Hernandez, Christian Ketchazo, Frederic Lemmel, Vincent Moreau, Salima Mouzali, Thibault Pichon, François Visticot
+- **研究目的:** 在CEA对IBEX线性模式雪崩光电二极管（LmAPD）探测器进行首次电光表征，评估其在近红外天文观测中的潜力。
+- **主要发现:** 在80 K下测得IBEX探测器在8V像素偏置下的信噪比优于Euclid型H2RG；测得转化增益对应27 fF电容，量子效率为46%，过剩噪声因子为1.15，证明其作为未来超低通量近红外仪器探测器的前景。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Bound-State Engineered Quantum Batteries Against Decoherence](http://arxiv.org/abs/2609.17367v1)
+- **作者:** J. L. Li, C. Cui, W. Y. Hu, Cheng Shang, Yan-Hui Zhou, H. Z. Shen
+- **研究目的:** 利用系统-环境束缚态的形成机制来抑制退相干，从而解决量子电池自放电和老化的问题。
+- **主要发现:** 发现存在一个可调的相图，通过调节原子本征频率和耦合强度可在零、一、两个束缚态之间切换；双束缚态状态下电池能量演化为持久周期振荡，实现了无损储能和按需提取，有效消除了老化现象。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.other,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.other, physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors](http://arxiv.org/abs/2609.17352v1)
+- **作者:** Marcin Jastrzebski, Shang Yu, Raj B. Patel, Oleksandr Kyriienko
+- **研究目的:** 引入自适应关系学习框架，利用光子处理器访问多实例量子数据中的成对及高阶关系。
+- **主要发现:** 该框架结合全局测量（SWAP/CYCLE测试）和局部浅层可训练变换，在连续变量光学子系统中实现了完美的测试准确率（$n=2$时），相比非自适应影子估计方法使用了少两个数量级的采样次数，避免了影子估计成本随 $n$ 快速增长的问题。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Spatially-resolved methane decomposition in a short glow discharge: insights into suprathermal hydrogen and radical chemistry](http://arxiv.org/abs/2609.17345v1)
+- **作者:** Shurik Yatom
+- **研究目的:** 通过空间分辨映射研究短直流辉光放电中甲烷分解的化学过程，特别是超热氢原子和自由基的化学行为。
+- **主要发现:** 发现甲烷初级解离局限于阴极鞘层（< 4 mm），而聚合主要发生在鞘层-负辉光边界（4-6 mm）；识别出两组超热氢原子种群（~110 eV 和 ~17.5 eV），并通过非平衡条件证实了空间分离的解离与聚合区。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Local energetic coupling enhances the expressivity of chemical computation](http://arxiv.org/abs/2609.17339v1)
+- **作者:** Marco Tuccio, Jason W. Rocks, Joshua E. Goldford
+- **研究目的:** 通过逆向设计热力学一致的化学反应网络，探究控制化学系统计算表达能力的物理化学特征。
+- **主要发现:** 发现内部热力学驱动力（能够打破细致平衡）是稳态计算表达能力最强的单一资源；网络大小与拟合复杂非线性多项式的能力呈对数缩放关系，且表达能力主要由反应数量预测。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Integrated quantum-secured cryptographic memory in customizable single nanodiamonds](http://arxiv.org/abs/2609.17329v1)
+- **作者:** Tongtong Zhang, Jiaqi Li, Zhiqin Chu
+- **研究目的:** 在单个纳米金刚石中集成高维数据编码与多尺度物理加密，实现硬件级的绝对信息安全。
+- **主要发现:** 通过精确的电子束辐照实现单纳米颗粒缺陷工程，支持确定性三十六进制数据写入；该定制存储层与宏观空间PUF及原子尺度量子指纹不可分割地融合，消除了分离硬件的安全漏洞，提供了防篡改内存的基础。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays](http://arxiv.org/abs/2609.17313v1)
+- **作者:** Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen
+- **研究目的:** 研究辐射原子阵列中例外拓扑在强厄米场下的稳定性及其与晶格几何、光锥奇异性之间的相互作用。
+- **主要发现:** 在二维亚波长原子阵列中，沿连续方形到三角形变形，体相经过例外区域时，增加磁场仅使例外点趋向光锥而非消除；皮肤定位响应呈现非单调性，中间场强驱动双极皮肤定位，强场抑制边界定位，确立了超越传统强场极限的工程化途径。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [The sharp CFL condition of the piecewise constant sparse grid discontinuous Galerkin method for high-dimensional transport equations](http://arxiv.org/abs/2609.17312v1)
+- **作者:** Juntao Huang
+- **研究目的:** 确立分段常数稀疏网格间断伽辽金（DG）方法在高维输运方程中的sharp CFL条件。
+- **主要发现:** 证明该方案 $L^2$ 稳定的充要条件为 $\Delta t \leq h/\max\_{\ell}\|c\_\ell\|$，相比全网格迎风方案允许的时间步长扩大了 $(\sum \|c\_\ell\|)/(\max \|c\_\ell\|)$ 倍（各向同性时最大为 $d$ 倍）；证明了充分性依赖于多尺度Haar分解的投影泄漏恒等式。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon](http://arxiv.org/abs/2609.17305v1)
+- **作者:** Cicera M. V. de Araújo, Isaac de M. Félix, Willian F. Radel, Raphael B. de Oliveira, Guilherme da S. L. Fabris, Douglas S. Galvão, Marcelo L. Pereira Junior
+- **研究目的:** 从原子尺度表征合成的吡嗪型氮掺杂多孔扶手椅石墨烯纳米带（GNR），分离孔洞形成与氮掺杂对各项性能的不同作用。
+- **主要发现:** 孔洞形成主要控制机械和热响应（打开带隙、降低刚度和热导率），而氮取代主要控制电子和光学性质（选择性窄化导带、红移吸收边）；有效声子平均自由程约9.9 nm，接近合成限制长度，处于弹道-扩散交叉区。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Bridging powder and multi-crystal diffraction with basis-adaptive texture tomography](http://arxiv.org/abs/2609.17299v1)
+- **作者:** Martin Sæbye Carøe, Mads Allerup Carlsen, Felix Tristan Frankus, Adam André William Cretton, Michela La Bella, Innokentiy Kantor, Mads Ry Vogel Jørgensen, Henning Friis Poulsen, Jakob Sauer Jørgensen, Nils Axel Henningsson
+- **研究目的:** 提出基于基自适应的织构层析成像，以桥接粉末衍射和多晶衍射之间的中间状态，提高角分辨率。
+- **主要发现:** 利用峰值索引得到的候选取向替代均匀取向网格，实现了更高的角分辨率；模拟和实验（变形铝）表明，该方法能更好地分辨晶界和亚晶界，并降低晶内取向误差，适用于具有强织构或复杂孪晶组织的材料。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Quantum-Inspired Trainable and Parameter-Efficient Tensor Networks for Image Inpainting](http://arxiv.org/abs/2609.17298v1)
+- **作者:** Shiwen An, Konstantinos Slavakis
+- **研究目的:** 引入量子启发的张量网络电路作为图像修复的可训练变换，重点解决计算成本和参数效率问题。
+- **主要发现:** 提出的对角量子傅里叶变换（QFT）松弛是可逆的，计算成本为 $O(N^2 \log N)$，无需显式相干性惩罚即可保持最小相干性；数值测试表明，学习到的模型在参数远少于大型幺正架构的情况下，性能匹配且优于固定变换。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Self-balancing luminescence kinetics of charged excitons in WS$\_2$ monolayer](http://arxiv.org/abs/2609.17289v1)
+- **作者:** A. I. Veretennikov, A. I. Galimov, M. M. Glazov, T. V. Shubina
+- **研究目的:** 研究WS$\_2$单层中带电激子（暗/亮三激子、带电双激子）发射动力学的相互协调机制。
+- **主要发现:** 发现这些态形成一个单一相互作用系综；暗三激子在200-300 ps时间尺度上对亮三激子有长寿命贡献，且暗态的补充促进了带电双激子的强光致发光；建立的自洽速率方程模型很好地重现了动力学的时间温度依赖性。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [PyExoCross 2.0: A Python Framework for LTE and non-LTE Spectra, Cross Sections, and Spectroscopic Post-processing of Atomic and Molecular Line Lists](http://arxiv.org/abs/2609.17273v1)
+- **作者:** Jingxin Zhang, Sergei N. Yurchenko, Jonathan Tennyson
+- **研究目的:** 发布PyExoCross 2.0版本，增强对非局部热动平衡（non-LTE）光谱的处理能力及数据库兼容性。
+- **主要发现:** 新增了对non-LTE计算的支持（包括双温模型和用户定义的处理方式），扩展了数据库兼容性（ExoMolHR, ExoAtom），并引入了GPU加速；统一了命令行接口和Python API，提高了工作流程的灵活性和可复现性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.ins-det" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [A transfer-rod-mounted rotatable sample holder enabling a compact modular vacuum system for ion-beam milling, oblique magnetron sputtering, and co-sputtering](http://arxiv.org/abs/2609.17220v1)
+- **作者:** Tiago de Oliveira Schneider, Folke Kaiser, Andreas Semrad, Peter Kießlich, Markus Meinert
+- **研究目的:** 开发一种新型多功能样品支架概念，集成于紧凑模块化真空系统中，以实现离子束铣削、斜入射磁控溅射和共溅射。
+- **主要发现:** 样品支架直接安装在转移杆上，无需交接，通过轴向运动、旋转和独立基板旋转实现多种沉积几何；集成的屏蔽板兼具快门和源屏蔽功能；验证实验成功制备了具有各向异性的Ta/CoFeB双层膜和符合Nordheim关系的Au-Ag合金。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Field Angular Momentum Transformation as a Resolution Criterion for Microsphere-assisted microscopy](http://arxiv.org/abs/2609.17214v1)
+- **作者:** Bekirov Arlen
+- **研究目的:** 提出基于场角动量变换的定量评估框架，以确立微球辅助显微镜的空间分辨率极限。
+- **主要发现:** 证明微球对非相干点源的分辨率根本由激发的Mie模数量决定，并通过源场角动量平方与总粒子场角动量平方的比值来定义空间分辨率极限；解析结果与数值模拟及经典极限吻合良好。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Latent kinetic Ising models of neural spike trains](http://arxiv.org/abs/2609.17213v1)
+- **作者:** Davide Ghio, David Saad
+- **研究目的:** 引入SpiKIsing潜在变量模型，从神经 Spike 序列中推断有向有效相互作用，分离集体网络动态与单神经元历史效应。
+- **主要发现:** SpiKIsing 使用离散时间非对称动力学伊辛模型描述集体活动，连续时间历史依赖点过程生成Spike；变分平均场期望最大化方案实现了潜活动、网络耦合和发射参数的联合推断；在合成数据和漏积分放电网络生成的Spike中成功恢复了稀疏连接结构和兴奋/抑制分类。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl](http://arxiv.org/abs/2609.17208v1)
+- **作者:** Tamazouzt Chennit, Arno Annys, Songge Li, Nicolas Gauquelin, Hoelen L. Lalandec Robert, Jo Verbeeck
+- **研究目的:** 以NaCl为模型，研究束诱导结构演变及在低剂量区通过4D-STEM恢复有用结构信息的极限。
+- **主要发现:** NaCl在高电子剂量下形成沿{100}晶面的正方形空心孔；在低剂量区，每帧130 e-A$^{-2}$时可追踪结构退化，而在32 e-A$^{-2}$时仍能恢复原子级空间信息，证明剂量高效的4D-STEM结合riCoM成像可扩展敏感离子材料的成像范围。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Preparation-protocol-dependent quantum Mpemba dynamics in a magnetically tunable graphene nanotorus qubit](http://arxiv.org/abs/2609.17176v1)
+- **作者:** J. Furtado
+- **研究目的:** 研究石墨烯纳米环量子比特中量子Mpemba效应的强度如何依赖于初始状态的制备协议。
+- **主要发现:** 裸Gibbs制备产生强烈的异常松弛（$M\_B \to 1$），而驱动稳态制备几乎完全抑制该效应；刘维尔模分析揭示，对比源于制备依赖的模权重而非衰减率层级的变化，确定了态制备作为弯曲石墨烯量子比特中异常量子松弛控制参数的作用。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Reaction dynamics in non-Markovian systems with non-monotonically decaying memory](http://arxiv.org/abs/2609.17140v1)
+- **作者:** Artur Bakaev, Otto Geburtig, Benjamin A. Dalton, Roland R. Netz
+- **研究目的:** 分析具有指数衰减振荡摩擦记忆核的非马尔可夫势垒穿越动力学及其对反应动力学的影响。
+- **主要发现:** 识别出三个标度 regime：两个 regime 中平均首次通过时间 $\tau\_{\mathrm{MFP}}$ 分别随记忆核衰减时间 $\tau\_{\mathrm{o}}$ 四次方和线性标度，第三个 regime 中 $\tau\_{\mathrm{MFP}}$ 随振荡周期 $\tau\_\varphi$ 四次方标度。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [From Foundation Embeddings to Cropland Maps: Label Efficiency, Temporal Transferability and Independent Human Validation](http://arxiv.org/abs/2609.17138v1)
+- **作者:** Mohammad Ammar Mughees, Giovanni Montefoschi, Zhongxin Chen, Maria Antonia Brovelli
+- **研究目的:** 评估AlphaEarth基础模型嵌入在无需微调情况下用于美国缅因州耕地映射的标签效率和时间可迁移性。
+- **主要发现:** 轻量级分类器达到93.7%总体准确率和90.8%平衡准确率；60,000个平衡标签像素的效果接近全量860万像素；跨年份迁移（2018-2023）保持高精度；与盲审双人共识相比，该方法准确度（95.3%）优于CDL参考产品（91.7%）。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Floquet Theory and Average Hamiltonian Theory Revisited: Equivalence, Convergence and Applications to NMR](http://arxiv.org/abs/2609.17121v1)
+- **作者:** Antonia J. Bock, Matthias Ernst, Götz S. Uhrig
+- **研究目的:** 重新审视Floquet理论与平均哈密顿理论的数学等价性、收敛性及其在NMR中的应用。
+- **主要发现:** 确认Floquet-Magnus展开是证明两者等价性的关键；建议采用避免显式积分的计算方案，并给出前四阶展开；指出Floquet-Van Vleck方法（包含有效哈密顿量和踢算符）在数值鲁棒性和准确性（比平均哈密顿理论高约三倍）方面更具优势。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Large-scale NMR simulation on a trapped-ion quantum computer](http://arxiv.org/abs/2609.17102v1)
+- **作者:** Pascal Stadler, Alec Owens, Etienne Granet, David Muñoz Ramo, Michael Marthaler
+- **研究目的:** 在陷 Ion 量子计算机上演示大规模数字NMR模拟，以处理经典难以解决的分子。
+- **主要发现:** 在Quantinuum System Model H2上实现了对1,2-di-tert-butyl-diphosphane的端到端NMR模拟；通过硬件高效缩减将有效21自旋模型进行Trotterized实时演化，并结合定制误差抑制；重建的液态质子NMR谱与经典参考计算一致，并复现了之前量子硬件演示未能捕捉的关键谱学特征。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.98"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [StainBridge: Stain-Aware Pairwise Registration of Serial Renal Biopsy Whole-Slide Images Across Structural and Immunohistochemical Stains](http://arxiv.org/abs/2609.17090v1)
+- **作者:** Ellen Wei, Bohang Jiang, Yanfan Zhu, Daniel Reisenbüchler, Kenji Ikemura, Steven Salvatore, Surya Seshan, Thangamani Muthukumar, Mert R. Sabuncu, Yihe Yang, Ruining Deng
+- **研究目的:** 开发StainBridge框架，用于肾活检切片中结构染色与免疫组化（IHC）染色之间的成对配准。
+- **主要发现:** StainBridge结合预处理（染色分解、强度归一化、组织掩模）与XFeat初始化及四种非线性后端；DeeperHistReg给出了最佳的地标精度并配准了最多的图像对，包括所有结构-IHC对；预处理显著提高了ConvexAdam和FireANTs的精度。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [La substitution studies on the heavy-fermion superconductor CeRh$\_2$As$\_2$](http://arxiv.org/abs/2609.17080v1)
+- **作者:** Sushma Lakshmi Ravi Sankar, Manuel Brando, Jochen Wosnitza, Seunghyun Khim
+- **研究目的:** 研究La取代对重费米子超导体CeRh$\_2$As$\_2$低温相（包括非常规超导相I）的影响。
+- **主要发现:** La取代导致晶格膨胀（等效负压力），抑制Kondo能标；$T\_c$和$T\_0$在$x>0.05$时迅速降至0.1 K以下，这种在中等负压力下$T\_c$的快速下降出乎意料，但与取代引起的无序导致强对打破效应一致，暗示相I具有巡游起源。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring](http://arxiv.org/abs/2609.17069v1)
+- **作者:** Sourav Karmakar, Santanu K. Maiti
+- **研究目的:** 利用自洽Bogoliubov-de Gennes形式，研究一维混合环中超导邻近效应中二聚化与准周期性的相互作用。
+- **主要发现:** 对于AAH模型，准周期势增强诱导序参量的空间涨落并抑制其幅度；对于SSH链，弱二聚化引入深入正常区的振荡调制，强二聚化限制振荡；在SSH-AAH组合模型中，二聚化决定振荡行为和穿透深度，而准周期势增强空间不均匀性并进一步降低幅度。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,physics.data-an" data-topics="materials\_and\_condensed\_matter,microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Development of a Physics-Informed Neural Framework, MEOWN, for Rapid Prediction of Muon Stopping Sites in Crystalline Materials, for understanding Quantum Magnet employing Muon Spectroscopy](http://arxiv.org/abs/2609.17063v1)
+- **作者:** A. Pandey, K. Sharma, S. Ghosh, G. Roy, T. Basu
+- **研究目的:** 开发MEOWN框架，结合极化未扰动静电势（P-UEP）模型与机器学习，快速预测晶体材料中的μ子停泊位点。
+- **主要发现:** MEOWN 明确纳入静电相互作用、电子屏蔽、极化效应和零点运动；在MnSi、CoF$\_2$等基准材料上的验证显示预测结果与DFT+$\mu$高度一致；能在几分钟内预测平衡停泊位点，相比传统DFT计算实现了显著加速。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Adding slow magnetoacoustic mode to the HLL-type multi-state approximate Riemann solution](http://arxiv.org/abs/2609.17049v1)
+- **作者:** Fan Zhang, Stefaan Poedts, Andrea Lani
+- **研究目的:** 提出新的多态HLL型近似黎曼解策略，允许Riemann扇区内的介质可压缩，从而包含慢磁声波模式。
+- **主要发现:** 通过估计慢磁声波速度和纵向流速，并遵循守恒律和Rankine-Hugoniot跳跃关系计算中间态；有限体积法数值模拟显示，新方案比经典HLLD方案扩散性更低，特别是在慢模波上，解析所有波系所需的网格单元数减少了一个数量级。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Trajectory Statistics Govern Mechanical Power Transfer in Active Baths](http://arxiv.org/abs/2609.17047v1)
+- **作者:** Chul-Ung Woo, Jiwon Choi, Heiko Rieger
+- **研究目的:** 揭示主动浴中自由浴粒子的轨迹统计如何决定被动探针的力学响应和功率转移。
+- **主要发现:** 建立了轨迹-响应关系，将浴动力学与波矢加权分离；证明主动Ornstein-Uhlenbeck粒子在所有维度以及$d\geq2$维度的完全重置run-and-tumble粒子中禁止正功率转移，而一维run-and-tumble粒子和二维主动布朗粒子存在正功率转移模式；该响应预测了阻力反转和自发探针运动。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [NaFeP: first pairing prediction for an unmade 111 iron phosphide, and the pnictogen-height rule inside one compound](http://arxiv.org/abs/2609.17028v1)
+- **作者:** Reinaldo Inácio
+- **研究目的:** 应用物理判决器对未合成的111型铁磷化物NaFeP进行配对预测，并在一化合物内部验证pnictogen高度规则。
+- **主要发现:** 判决器返回参数磁性DFT基态和s$\pm$能隙；基于d+p基组的计算预测其为近节点s$\pm$超导体，处于规则的LiFeP一侧；在一化合物内重现了高度规则的要素：第三个空穴口袋、嵌套矢量切换至(1/2,1/2,0)、单调趋近Stoner不稳定性及s$\pm$与d通道的高度简并。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Odd slip at chiral active surfaces](http://arxiv.org/abs/2609.17005v1)
+- **作者:** Yuto Yosaka, Andrej Vilfan
+- **研究目的:** 研究手性活性表面上的奇滑移现象及其对动量传输和有效粘度的影响。
+- **主要发现:** 奇滑移表现为垂直于施加剪切应力的速度分量，产生于具有持续能量输入和定义手性的表面；虽然奇滑移本身无耗散，但维持它需要能量；悬浮在常规牛顿流体中的具有奇滑移的颗粒表现出奇粘度，为超出当前微观模型的奇粘度涌现提供了新的最小机制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators](http://arxiv.org/abs/2609.17001v1)
+- **作者:** Debashree Chowdhury
+- **研究目的:** 研究六方扭曲拓扑绝缘体（TI）与d波交替反铁磁体邻近耦合下的非线性霍尔效应。
+- **主要发现:** 邻近耦合通过C$\_{3v}$扭曲与d波自旋分裂的相互作用打破空间镜面对称，使贝里曲率偶极非零；但在电荷中性附近，量子几何偶极成为非线性霍尔响应的唯一驱动因素；旋转交替反铁磁取向角 $\phi$ 可连续调节量子几何偶极并引起符号反转，在 $\phi=0$ 附近达到峰值。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Design and Simulation Study of the Hadronic Calorimeter for the EicC Zero Degree Calorimeter](http://arxiv.org/abs/2609.16985v1)
+- **作者:** Maiyu Wang, Yuan Li, Hao Wang, Xikun Sun, Zixiang Zhou, Yutie Liang, Weizhi Xiong, Ye Tian, Ting Lin
+- **研究目的:** 设计并模拟EicC零度 kalorimeter (ZDC) 的强子量 calorimeter，以支持核心核子自旋和三维成像物理计划。
+- **主要发现:** 优化的 spaghetti calorimeter (SPACAL) 架构对中子探测表现出优异性能：能量分辨率为 $33.42\%/\sqrt{E/\mathrm{GeV}} + 1.47\%$，时间分辨率约500 ps，优于目标规格；全系统模拟实现亚厘米横向位置分辨率，光子-中子分离准确率超过99%。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Nonlinear filtering stabilizations for the quasi-geostrophic equations](http://arxiv.org/abs/2609.16983v1)
+- **作者:** Lander Besabe, Sachin Kumar, Annalisa Quaini
+- **研究目的:** 提出EFS（演化-滤波-松弛）算法，通过非线性滤波和松弛步骤改善准地球动力学方程（QGE）粗网格模拟的准确性和稳定性。
+- **主要发现:** EFS算法可解释为具有额外耗散的扰动QGE问题的分裂方案；数值结果显示，EFS方法和非线性Bardina正则化均显著提高了无LES模型的粗网格模拟精度和稳定性；在地中海真实几何测试中，基于反卷积指示函数的EFS方法在准确性、稳定性和计算效率之间达到了最佳平衡。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Synchronization of PLC Subsystems with the Timing Distribution System at the European XFEL](http://arxiv.org/abs/2609.16965v1)
+- **作者:** Dmytro Levit, Bruno Fernandes, Peter Zalden, Tobias Freyermuth, Navid Mashayekh, Patrick Gessler
+- **研究目的:** 开发基于FPGA SoC EtherCAT的接口，将工业PLC子系统同步到欧洲 XFEL 的定时分配系统，实现纳秒级同步。
+- **主要发现:** 提出了一种基于MicroTCA的FPGA SoC EtherCAT解决方案，使用分布式时钟实现纳秒级同步，并以确定性方式提供束流相关信息，解决了传统UART/NTP接口仅能实现毫秒级同步的限制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Probabilistic Deep Learning Framework for Phase Transformation Forecasting aided by In Situ High temperature Microscopy](http://arxiv.org/abs/2609.16940v1)
+- **作者:** Ioannis Kouroudis, Niki Balestrieri, Stefan Rotzsche, Niccolo Radice, Peter Mayr, Alessio Gagliardi
+- **研究目的:** 引入概率深度学习框架，统一原位高温显微镜图像的压缩、时序预测和微观结构预报任务。
+- **主要发现:** 使用beta-VAE压缩初始表面图像，结合温度历史输入时序融合变压器（TFT）产生Widmanstatten铁素体比例的分位数预报；并行使用高斯过程预测最终比例并校正预报平衡水平；在S235钢的五个冷却制度下验证了方法的有效性和显著准确性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Nonlocal Magic across the Many-Body Localization Crossover](http://arxiv.org/abs/2609.16935v1)
+- **作者:** Shan-Zhong Li, Zhi Li
+- **研究目的:** 使用最小相对非局域魔法 (NLM) 来表征随机场 XXZ 链中从遍历态到多体局域化 (MBL) 的交叉过程。
+- **主要发现:** NLM 揭示了纠缠结构的谱重组，其标度行为与纠缠熵截然不同；在弱到中间无序 regime 下 NLM 呈现尺寸增强的高原状，而在深 MBL regime 下均值和中位数 NLM 分别随无序强度 $W$ 近似按 $W^{-1}$ 和 $W^{-2}$ 衰减。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Propulsion of magnetic domain walls via elastic damping in magnetostrictive materials](http://arxiv.org/abs/2609.16904v1)
+- **作者:** Miguel Moreno, Rocio Yanes, Luis Lopez-Diaz
+- **研究目的:** 调查磁致伸缩材料中弹性形变及其对场驱动畴壁动力学的反作用，通过全耦合微观磁性-弹动力学框架进行分析。
+- **主要发现:** 机械阻尼充当非磁耗散通道，即使在纯 Gilbert 阻尼为零 ($\alpha=0$) 的情况下也能维持畴壁的平移运动；这种效应可映射为有效 magnetoelastic Gilbert 阻尼参数 $\alpha\_\text{me}$，由畴壁核内的局部应力梯度产生的推进力所平衡。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Bayesian inference in active microrheology with wall and particle-particle interactions](http://arxiv.org/abs/2609.16903v1)
+- **作者:** Parajal Rai, Michelle M. A. Spanjaards, Ye Wang, Patrick D. Anderson, Nick O. Jaensson
+- **研究目的:** 提出一种贝叶斯推断框架，将探针附近的壁面和粒子间流体动力学相互作用纳入简化的解析模型，以提高活性微流变学参数反演的准确性。
+- **主要发现:** 考虑相互作用显著提高了参数反演的准确性；在壁面附近，斜向强迫允许从单次实验联合识别材料参数和壁面距离；该框架还能区分非线性粘弹性下的模型不足以及探针尺寸与异质性尺度相当时的模量空间变化。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Portable Vector NV-Diamond Magnetometer for Shot-Noise-Limited, Drift-Free Operation in Unshielded Environments](http://arxiv.org/abs/2609.16901v1)
+- **作者:** Annirudh K P, Vinayak Rane, Shradha Atakar, Sanika Joshi, Maheshwar Mangat, Jay Gharat, Siddharth Tallur, Kasturi Saha
+- **研究目的:** 开发一种集成数字架构，以实现氮空位 (NV) 金刚石磁强计在不同时间尺度上的稳定性，解决高频激光噪声和长期增益/偏移漂移问题。
+- **主要发现:** 动态差分读取抑制了相关激光噪声，二阶导数洛伦兹线型跟踪校正了增益变化，磁本征矢量变换消除了温度诱导的偏置波动，从而在无屏蔽环境下实现了匹配散粒噪声极限的稳定性，并将长期漂移抑制了十倍。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [An energy stable and accuracy-preserving finite volume scheme based on the SAV method with application to wall-distance computation](http://arxiv.org/abs/2609.16885v1)
+- **作者:** Xiaorui Xu, Qian Wang
+- **研究目的:** 提出一种结合标量辅助变量 (SAV) 方法的半隐式二阶有限体积格式，用于求解壁面距离计算中的伪时间 Eikonal 方程。
+- **主要发现:** 该格式在零边界条件下具有无条件能量稳定性，允许大时间步计算；离散化矩阵构成 M-矩阵，保证解的严格非负性；数值实验表明该格式在复杂几何配置下能达到设计精度且相对误差低于 3\%。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Enskog kinetic theory in a model of confined granular mixtures. Heat flux and some applications](http://arxiv.org/abs/2609.16868v1)
+- **作者:** David González Méndez, Vicente Garzó Puertos
+- **作者:** David González Méndez, Vicente Garzzo Puertos
+- **研究目的:** 基于 $\Delta$-模型和 Enskog 动力学理论，确定稠密二元颗粒混合物的热流输运系数（Dufour 和热导率系数），并研究其线性稳定性及 Onsager 倒易关系的违反情况。
+- **主要发现:** 有限密度效应对输运性质有显著影响；齐次稳态 (HSS) 在探索的参数空间内线性稳定，未发现不稳定的横向或纵向流体动力模式；研究量化了受限稠密颗粒混合物中 Onsager 倒易关系的违反程度。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [A Data-free Universal Prior over Syntactic Structures](http://arxiv.org/abs/2609.16854v1)
+- **作者:** Fermín Moscoso del Prado Martín
+- **研究目的:** 检验句法结构的概率分布是否可以在不依赖特定语言数据的情况下产生，通过构建一个认知动机的小增量语言生成模型来研究。
+- **主要发现:** 从渐进集成单词的网络生长模型中涌现出一个无数据的句法结构通用先验；该先验无需拟合参数即可赋予已观测句法结构更高的概率，并在 138 种语言中显示出与语料库估计概率的正相关性，表明部分句法概率结构独立于语言特异性统计学习而产生。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Can Deep Learning Achieve Cross-Physics Mapping?](http://arxiv.org/abs/2609.16853v1)
+- **作者:** Pengfei Zhu, Julien Lecompagnon, Mathias Ziegler
+- **研究目的:** 通过引入跨物理映射 (CPM) 算子学习框架，探讨深度学习是否能在共享潜空间中将一种物理场（如扩散场）映射到另一种根本不同的物理场（如波场）。
+- **主要发现:** 深度学习可以在共享潜流形上建立不同物理模式间的有用映射，但存在强烈的方向不对称性：扩散到波的映射因丢失相位信息而更具挑战性，而波到扩散的映射更稳定；神经网络算子通常优于传统卷积基线。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,physics.app-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, physics.app-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Generation of pure spin currents via nonadiabatic quantum pumping in an antiferromagnetic chain](http://arxiv.org/abs/2609.16819v1)
+- **作者:** Leila Eslami, Fatemeh Bourbour, Somaieh Ahmadi, Santanu K. Maiti
+- **研究目的:** 研究在时间依赖势驱动的抗铁磁链中通过量子自旋泵浦在无外部偏置下产生和控制纯自旋电流的可能性。
+- **主要发现:** 在非绝热 regime 下，能量量子的吸收和发射过程激活，导致自旋向上和向下电流显著差异；通过调节化学势可以控制自旋电流的大小和方向，且可在电荷电流几乎消失的同时维持可观的自旋电流，实现了近乎纯的自旋泵浦。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and infrared and Raman spectra calculations](http://arxiv.org/abs/2609.16802v1)
+- **作者:** Xudong Zhu, Junhong Li, Gan Jin, Zheng Guan, Lixin He
+- **研究目的:** 开发一个开源 Python 工具包 ZStar，用于自动化计算极化、Born 有效电荷 (BEC)、声子、介电响应以及红外和拉曼光谱。
+- **主要发现:** ZStar 支持所有维度材料（体晶体、二维、一维及分子）的计算，通过统一的对称适应有限位移框架提高了计算效率，并利用 ABACUS+PYATB 路径复用电子哈密顿量以实现高效的拉曼计算，实现了跨维度的极化和振动光谱的高效自动化探索。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.data-an,physics.ins-det" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.data-an, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [SpectraFit XPS: a free, browser-based application for X-ray photoelectron spectroscopy peak fitting and quantification](http://arxiv.org/abs/2609.16789v1)
+- **作者:** Yongsup Park
+- **研究目的:** 开发一个完全在浏览器中运行的免费 Web 应用程序 SpectraFit XPS，用于 X 射线光电子能谱 (XPS) 数据的峰值拟合和定量分析。
+- **主要发现:** 该应用结合了交互式拟合引擎、多种真实线型和背景模型，支持 ISO 14976 文件格式，定量分析管道在 30 个案例回归套件中精确复现了参考值，且所有数据处理均在用户本地完成，保障了数据隐私。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Noise2Noise Revisited: Training Pair Distributions Dominate Loss Choice in Self-Supervised Denoising](http://arxiv.org/abs/2609.16788v1)
+- **作者:** Dingyan Shang, Zhenyu Xu, Youting Wang, Bonan Shen, Bowen Liu
+- **研究目的:** 重新审视 Noise2Noise (N2N) 中 L1 损失优于 L2 损失的原因，测试参数稀疏性和群体最优值重合等假设。
+- **主要发现:** L1 损失的优越性主要源于优化动力学（有界影响梯度）而非参数稀疏性；训练对的分布比损失函数的选择更能决定归纳偏置；在真实相机噪声上，使用与目标噪声分布匹配的训练对所带来的增益远大于更换损失函数。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Singly resonant InGaP microresonators for efficient, low-threshold second-order nonlinear optics](http://arxiv.org/abs/2609.16718v1)
+- **作者:** Yiming Pang, Xuefeng Li, Lucas Wang, Lillian Thiel, Melissa A. Guidry, Joshua E. Castro, Max Meunier, Nergis Mavalvala, John E. Bowers, Galan Moody
+- **研究目的:** 开发一种单谐振 InGaP 绝缘体上微谐振器，以克服单谐振器件在传统上因牺牲非线性效率而难以同时实现高效率和稳健性的权衡。
+- **主要发现:** 利用 InGaP 的大 $\chi^{(2)}$ 非线性和高品质因子，实现了高效的倍频产生、宽带量子频率梳生成和低阈值参量振荡，其非线性性能媲美甚至超过双谐振系统，为低功耗、宽带和非线性量子光子学开辟了新途径。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-15" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Cyclotron-Frequency Stability via Single-Ion Fluorescence in a Penning Trap with a Cryogen-Free Superconducting Magnet](http://arxiv.org/abs/2609.16713v1)
+- **作者:** Anna Schupeta, David Yousaf, Manuel Almagro, Manuel Hurtado, José M. Palomino, Joaquín Berrocal, Michael Block, Christoph E. Düllmann, Daniel Rodríguez
+- **研究目的:** 通过单激光冷却钙离子的回旋频率测量，调查使用无低温超导磁体的彭宁阱的磁场稳定性。
+- **主要发现:** 脉冲光学方法测得长期磁场漂移率为 $-3.07(32)\times10^{-9} \text{ h}^{-1}$，与液氦超导磁体相当；FD-FT-ICR 技术实现了秒级时间尺度上的直接回旋频率测定，展示了高分辨率探测磁场波动的能力。
+</section>
+
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.atm-clus</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Electron scattering from polar hydrides using relativistic optical potential method](http://arxiv.org/abs/2609.16650v1)
+- **作者:** Sudhanshu Arya, Bobby Antony
+- **研究目的:** 将相对论球对称复光学势方法扩展至具有永久偶极矩的极性分子，研究电子与 benchmark 极性氢化物 ($\rm H\_2O$, $\rm H\_2S$, $\rm NH\_3$, $\rm PH\_3$) 的散射。
+- **主要发现:** 通过旋转分辨的一阶 Born 贡献恢复了长程各向异性偶极相互作用，计算得出的弹性、非弹性和总散射截面在宽能量范围内与实验趋势良好吻合，特别是在高能区，证明了该方法在保持低成本的同时适用于极性分子。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Total-energy-assisted Tight-binding Method Based on Density Functional Theory - Design Principles toward Transferability and Extrapolation](http://arxiv.org/abs/2609.16649v1)
+- **作者:** Takeo Fujiwara, Yoshiro Nohara, Susumu Yamamoto
+- **研究目的:** 在局部密度近似下扩展基于总能量的紧束缚方法 (TE-TB)，引入三个参数以显式捕捉局部堆积效应，从而提高方法的迁移性和外推能力。
+- **主要发现:** 对结晶硅的基准测试（金刚石结构稳定性、单空位、(001) 表面）表明，新的三参数 TE-TB 设计哲学具有高迁移性和可靠性，边界条件的施加有助于改善泛函的物理性质。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Weak ferromagnetism in the square-lattice Heisenberg $J\_1$-$J\_2$-$J\_2^\prime$ model with easy-axis single-ion anisotropy](http://arxiv.org/abs/2609.16593v1)
+- **作者:** Bin-Zhou Mi, Qiang Gu
+- **研究目的:** 系统研究具有易轴单离子各向异性 $D$ 的方格子海森堡 $J\_1$-$J\_2$-$J\_2^\prime$ 模型的磁性 properties，特别是有限温度下的净磁化强度。
+- **主要发现:** 发现净磁化强度在有限温度下不为零，表现出温度依赖的弱铁磁性；$J\_2 \neq J\_2^\prime$ 是有限温度下弱铁磁性的主要因素，而 $D$ 提供了二维长程磁有序的背景；$\|J\_2-J\_2^\prime\|$ 越大，最大净磁化强度和临界温度越高。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, physics.chem-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Hartree-Fock Density-Matrix Renormalization Group for Very Long Chains](http://arxiv.org/abs/2609.16587v1)
+- **作者:** Steven R. White
+- **研究目的:** 将哈特里-福克 (HF) 公式化为密度矩阵重整化群 (DMRG) 扫描，以在普通台式机上处理具有长程相互作用的极长链系统。
+- **主要发现:** 通过分别压缩占据态和长程相互作用，将每一步扫描简化为小型局部 Fock 问题；成功在约两小时内收敛了包含 100,000 个电子和 1.8 百万空间基函数的链，证明了 DMRG 压缩使得带有长程 Hartree 和交换作用的巨大 HF 计算在普通计算机上变得可行。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Adsorbing Boundaries Stratify the Kinetics of Confined Colloidal Phase Separation](http://arxiv.org/abs/2609.16583v1)
+- **作者:** Kui Lin, Haiming Lu
+- **研究目的:** 通过流体粒子动力学模拟和自由排水布朗动力学，比较吸附边界如何重塑受限胶体相分离中质量输运与机械松弛的耦合。
+- **主要发现:** 吸附边界不均匀地减缓粗化过程，而是将网络分层为空间不同的动力学 regime；中心区域遵循 poroelastic 松弛 ($L \sim t^{1/2}$)，而吸附区遵循有效律 ($L \sim t^{1/3}$)；局部自相似的中心粗化与不同的边界动力学共存，阻止了单一动态标度长度的存在。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-15" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Orbital-resolved superexchange and topological magnon bands in MXene Fe$\_2$C](http://arxiv.org/abs/2609.16530v1)
+- **作者:** Qiang Gao, Wei Wang, Shaojin Qi, Guimei Shi, Anbang Guo, Xin Jin, Chen Shen, Xing-Qiu Chen
+- **研究目的:** 计算 MXene Fe$\_2$C 的自旋波色散关系，探索其磁子能带的拓扑性质及超交换机制。
+- **主要发现:** 由于两层 Fe 子晶格的交错堆叠，层间交换耦合 lifted 了铁磁磁子模式的简并，在 $K$ 点发现狄拉克点；铁磁超交换耦合由 Fe 的 d 轨道通过桥接 C 原子的正交 p 轨道之间的虚跳跃介导，建立了轨道分辨的各向异性超交换与磁子带拓扑之间的直接联系。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Unsupervised Machine Learning of the Contact Process](http://arxiv.org/abs/2609.16506v1)
+- **作者:** L. T. Brito, G. A. Alves, F. W. S. Lima, A. Macedo-Filho, R. S. Ferreira, T. F. A. Alves
+- **研究目的:** 调查无监督机器学习方法（PCA 和 VAE）在表征一维和二维接触过程主动-吸收相变中的应用，解决正定构型带来的挑战。
+- **主要发现:** 标准 PCA 中心化失败，但通过增加符号反转构型创建平衡数据集后，主成分可恢复序参量；VAE 采用异方差高斯先验可改善有限尺寸标度；结果表明机器学习在相变问题中的成功依赖于算法对系统物理结构和内在约束的适配。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Extensible membranes in inviscid flow: aerodynamics and singular limits](http://arxiv.org/abs/2609.16484v1)
+- **作者:** Yu Jun Loo, Silas Alben
+- **研究目的:** 发展一个二维无粘模型，研究具有连续涡脱落的可延伸膜的气动特性及其在零弯曲刚性下的奇异极限行为。
+- **主要发现:** 膜的顺应性在启动期间通过延迟前缘涡脱落增强升力，随后主要放大力的振荡；释放后缘产生内在退化，导致张力在自由端点消失并驱动快速尖端 snapping；拉伸模量的降低会导致周期性颤振失稳，暗示周期到混沌颤振转变 underlying 的同宿缠绕。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-15" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-15</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Entropy-driven transitions between extended integer and fractional quantum Hall regimes](http://arxiv.org/abs/2609.16483v1)
+- **作者:** Kyung-Su Kim, Steven A. Kivelson
+- **研究目的:** 分析由 Goldstone 模式或软能隙模式的熵驱动的有限温度相变，解释 Extended 量子霍尔态之间的竞争。
+- **主要发现:** 在 moiré 菱面体石墨烯中，分数量子反常霍尔态中的软磁振子为观察到的从扩展整数量子霍尔到分数量子霍尔 regime 的热演化提供了合理的块体机制，展示了熵如何驱动不同量子霍尔态之间的首阶热跃迁。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Analytical solutions to the non-equilibrium Green's functions in large-$q$ SYK models](http://arxiv.org/abs/2609.16438v1)
+- **作者:** Jan C. Louw
+- **研究目的:** 为非对易 $q/2$-体 SYK 哈密顿量之间的淬灭提供所有时间块的格林函数的解析解。
+- **主要发现:** 获得了闭形式的时间块格林函数，提取了淬灭前后能量之间的简单关系及精确温度更新规则；通过 Cauchy-Schwarz 不等式证明封闭系统的加热不可避免，从而几何地涌现出第二定律。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Soft thermal diodes: grafted polymers provide a highly tunable thermal rectification](http://arxiv.org/abs/2609.16371v1)
+- **作者:** Claudio Pastorino, Alejandro Monastra, Florencia Carusela
+- **研究目的:** 通过分子动力学模拟探索一端壁面涂覆接枝聚合物的纳米腔中两相流体的热整流特性。
+- **主要发现:** 对于刚性和全柔性聚合物，在广泛的腔体填充度下均观察到显著的热二极管效应；热整流特性可通过流体填充度、聚合物性质和流体-聚合物亲和力进行微调，且该系统沿平行于壁面方向易于扩展到宏观尺寸而不影响热整流效果。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Hidden kinetic correlations control collective phases of entropy-conditioned histories](http://arxiv.org/abs/2609.16355v1)
+- **作者:** Abhishek Chowdhury
+- **研究目的:** 研究在完整熵产生加权下，具有相同可见路径分布和平均耗散的局部马尔可夫模型是否表现出不同的集体相。
+- **主要发现:** 可见构型调制隐藏驱动循环，动能相关性转化为相互作用；即使熵方差匹配，周期性二值模型也能保留相反的相；对于守恒粒子，第四累积量是检测临界敏感性的第一个量；结果确定了聚合热力学观测中被遗漏的动能信息。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Probing proximity-induced superconductivity in bilayer graphene using gate-defined quantum dots](http://arxiv.org/abs/2609.16320v1)
+- **作者:** Philipp Schmidt, Mathies Funke, Till Tenger, Katarina Stanojević, Hubert Dulisch, Kenji Watanabe, Takashi Taniguchi, Fabian Hassler, Christian Volk, Szabolcs Csonka, Christoph Stampfer
+- **研究目的:** 利用门控量子点作为局部光谱探针，研究 NbSe$\_2$ 邻近化双层石墨烯 (BLG) 中的 proximity-induced 超导间隙及其演化。
+- **主要发现:** 观察到高达 $80\,\mathrm{\mu eV}$ 的邻近诱导超导间隙，且局部态密度在超过 1 $\mu$m 的距离内保持抑制，表明通过高弹道 BLG 通道的超导邻近效应；这展示了 BLG-超导体杂化平台在结合量子点与超导电性方面的可控性。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Semantic-Aware Neural Video Codec for Error-Resilient Low-Latency Transmission](http://arxiv.org/abs/2609.16279v1)
+- **作者:** Matin Mortaheb, Homa Esfahanizadeh, Jinfeng Du, Harish Viswanathan
+- **研究目的:** 提出一种语义感知多级神经视频编码方法，用于在不可靠信道上的鲁棒低延迟视频传输。
+- **主要发现:** 通过将编码表示分区为不同语义重要性的数据包并分配优先级，结合无帧间依赖的纠错熵模型，显著提高了对抗数据包擦除的鲁棒性；系统在次要区域实现优雅降级，同时更好地保留任务相关的视觉内容。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Current - voltage characteristics in magnetic field for layered superconductor with intrinsic pinning of Josephson vortices](http://arxiv.org/abs/2609.16277v1)
+- **作者:** T. B. Charikova, V. N. Neverov, M. R. Popov, S. D. Popov, N. G. Shelushinina, A. A. Ivanov
+- **研究目的:** 测量层状高温超导体 Nd$\_{2-x}$Ce$\_x$CuO$\_4$ 外延薄膜中 Josephson 涡旋在正交电磁场下的横向电压，分析本征钉扎效应。
+- **主要发现:** 确立了对比 Abrikosov 涡旋幂律依赖的 Josephson 涡旋临界去钉扎电流 $j\_c(B)$ 的指数依赖关系；观察到磁场去钉扎后涡旋蠕变 regime 的开始，并在 crossover 场 $B\_f$ 处演变为 flux-flow regime。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires](http://arxiv.org/abs/2609.16199v1)
+- **作者:** Shreyan Mitra, Mohammadreza Narimani, Parastoo Farajpoor
+- **研究目的:** 发布一个开放的图像数据集，用于开发和评估卫星图像中活跃火分割的深度学习算法。
+- **主要发现:** 包含来自 25 次加州野火的 2,148 个图像-掩码对，覆盖 2020 年至 2026 年；数据集包含细粒度的活跃火标签（占 0.0766\% 网格单元）和独立的测试集审查，支持罕见类分割和跨火事件迁移的研究。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware](http://arxiv.org/abs/2609.16172v1)
+- **作者:** Mara Lieberegts, Ye Wang
+- **研究目的:** 评估二维 (2D) 材料在面向 CMOS 兼容可扩展量子硬件中的应用机会和局限性。
+- **主要发现:** 2D 材料的原子级薄晶体和范德华界面有望解决制造过程中引入的化学残留、结构无序和非均匀界面等问题，但需要评估相关工艺是否能有效转移到量子芯片上，以实现 qubit 相干性的提升。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Multisource Remote Sensing and Geospatial Analysis of Vineyard Wildfire Impacts and Resilience: The 2019 Kincade Fire](http://arxiv.org/abs/2609.16168v1)
+- **作者:** Parastoo Farajpoor, Mahla Ardebili Pour, Mohammad Bagher Ghiasi, Mohammadreza Narimani
+- **研究目的:** 利用多源遥感数据和分析葡萄园在 2019 年 Kincade 野火中的影响和韧性。
+- **主要发现:** 葡萄园像素的 dNBR 显著低于野生植被，但这并未证明普遍的防火带效应；条件分析显示葡萄园分数与 dNBR 正相关；所有 mapped 葡萄园均 intersected overhead smoke，且内部葡萄园的绿色恢复率较低，表明低即时光谱影响并不意味着完整的韧性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Noise-induced classical phases in optimally-unraveled random quantum circuits](http://arxiv.org/abs/2609.16160v1)
+- **作者:** Lorenzo Fioroni, Filippo Ferrari, Emanuele Tirrito
+- **研究目的:** 研究掺杂非 Clifford 相位旋转并受局部噪声影响的随机 Clifford 电路的经典可模拟性。
+- **主要发现:** 通过优化随机 unraveling 识别出噪声诱导的经典相，其中动力学可由 Clifford 操作完全解纠缠；这些相的存在依赖于噪声模型和解纠缠方式，但在平均密度矩阵描述中消失，表明经典性的涌现取决于探测它的测量方案。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.80">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.80"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates](http://arxiv.org/abs/2609.16143v1)
+- **作者:** C. Alexander Baum, Jun Zhan, Congcong Le, Ronny Thomale, Xianxin Wu
+- **研究目的:** 调查电子-声子耦合 (EPC) 对三层镍酸盐磁性和超导性的影响，特别是平面外氧呼吸模式的作用。
+- **主要发现:** 识别出具有显著 EPC 的平面外氧呼吸模式，其在三层间的相对相位产生模式选择性增强或抑制自旋密度波序和 $s\_\pm$ 波超导；这种选择性源于 screening-mediated 自旋-声子相互作用，产生的负同位素系数与实验定性一致。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-14" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A deep dive into Tollmien-Schlichting wave control via passive wall deformations: The battle between local and downstream stabilization, lessons learned, and implications for phononic subsurfaces](http://arxiv.org/abs/2609.16144v1)
+- **作者:** H. Yousef, H. Hassan, I. Roy, T. Toki, C. Scalo, M. Nouh
+- **研究目的:** 深入调查通过被动壁面变形控制 Tollmien-Schlichting (TS) 波的机制，特别是局部稳定与下游稳定之间的竞争。
+- **主要发现:** 揭示了流场与弹性壁面相互作用沿流向平移的关键阈值，当超过该阈值时控制效果完全反转；概念化了一种二维声子亚表面，其针对法向和流向的非成比例响应可实现局部和下游稳定的结合。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Optical and magnetic signatures of drive-enhanced coherence in phase-disordered superconducting bilayers](http://arxiv.org/abs/2609.16137v1)
+- **作者:** Duilio De Santis, Sambuddha Chattopadhyay, Marios H. Michael, Andrea Cavalleri, Gil Refael, Patrick A. Lee, Eugene A. Demler
+- **研究目的:** 研究周期调制的超流刚度对相位无序超导体双层系统（如 YBCO）的光学和磁性 signatures 的影响。
+- **主要发现:** 层对称驱动和层反对称驱动均能增强层平均相关联和类超导光学电导率，但只有层对称驱动加强了相对相位锁定和反流响应；因此，增强的 $1/\omega$ 光学电导率本身并不暗示增强的磁屏蔽，为驱动 YBCO 提供了对称性诊断依据。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Goal-Oriented Communications for Physical AI: Design and Testbed](http://arxiv.org/abs/2609.15895v1)
+- **作者:** Shutong Chen, Wenkai Zhang, Adnan Aijaz, Miao Guo, Yansha Deng
+- **研究目的:** 开发并验证用于 Physical AI 的端到端目标导向通信 (GoC) 测试床，评估传输语义表示的有效性。
+- **主要发现:** 在 5G 测试床上，传输 3D 边界框、2D 场景图和 3D 场景图等语义表示的 GoC 框架，相比传统原始图像传输，将任务完成时间减少了高达 52.6\%，任务成功概率提高了 45\%，验证了 GoC 在实际 Physical AI 部署中的有效性。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Sharp Bounds on the Mean Efficiency of a Fluctuating Machine](http://arxiv.org/abs/2609.15443v1)
+- **作者:** Badr Farih
+- **研究目的:** 推导波动机器 exergetic 效率比 $\eta=W/(W+T\_0S)$ 的均值界限，仅基于能量预算。
+- **主要发现:** 建立了尖锐的下界和上界；下界由 Jensen 不等式给出，表明波动耗散总是使平均效率高于确定性值；上界由间歇可逆定律达到，并与热力学不确定性关系联系起来，将效率上限转化为精度-效率前沿。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-14" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.80">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-14</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.80"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Online local learning for generative thermodynamic computing](http://arxiv.org/abs/2609.15439v1)
+- **作者:** Huilin Wang, Weibing Deng
+- **研究目的:** 开发一种用于生成热力学计算机的在线局部学习方法，通过在每个积分步骤应用局部更新来训练系统。
+- **主要发现:** 在线训练和轨迹批处理训练在固定噪路径上达到相似的验证损失；在线训练模型释放的平均热量更少；更新时机、噪声结构和精度对生成热力学计算有重要影响，且存储训练耦合所需的精度远低于训练期间的确定性更新分辨率。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-13" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-13</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Information-Loss Location Estimation and Curvature-Scale Analysis of Physical Measurements: A Gaussian, Cauchy, and Logistic Neutron-Lifetime Benchmark](http://arxiv.org/abs/2609.14793v1)
+- **作者:** Victor V. Golovko
+- **研究目的:** 开发一种两步位置-尺度分析方法，用于分析底层分布未知的重复物理测量，并以中子寿命数据为基准进行测试。
+- **主要发现:** 提出了基于 Kullback-Leibler 信息损失平稳性的位置得分和 Steiner 曲率规则定义的比例；应用于 21 次中子寿命测量汇编，得到高斯、柯西和逻辑斯蒂位置估计值分别为 878.689 s、881.164 s 和 882.835 s。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-12" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-12</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Finite Asimov Sample Construction in Unbinned Neural Simulation-Based Inference](http://arxiv.org/abs/2609.14136v1)
+- **作者:** Rafael Coelho Lopes de Sa, Jay Sandesara
+- **研究目的:** 在基于神经网络的模拟推断中，构造有限的加权参考样本以近似无 binning Asimov 数据集，用于预期灵敏度计算。
+- **主要发现:** 对于五维可观测空间的玩具示例，仅由 256 个加权参考事件组成的 Asimov 数据集即可很好地复现使用两百万模拟参考事件获得的预期检验统计量扫描，显著减少了所需的模拟样本量。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-12" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-12</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.85"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Finite-Mask Gaussian-Process Reconstruction on a Periodic Sensor Ring: Mask-Geometry Dependence, Fourier-Mode Coupling, and Posterior Trace](http://arxiv.org/abs/2609.14007v1)
+- **作者:** Jun Tsuzurugi
+- **研究目的:** 分析有限周期传感器环上任意观测掩码对高斯过程重构的后验协方差、傅里叶模式耦合和后验迹的影响。
+- **主要发现:** 对于任意掩码，后验精度矩阵的非对角项是掩码实现的有限傅里叶分量，耦合了模式；具有相同不可用通道分数的掩码可能因几何形状不同而具有不同的归一化后验迹；这为风扇或压缩机导管中故障传感器的分析提供了有限维参考计算。
+
+---
 </section>
 
 ---
@@ -5057,6 +6303,1029 @@ title: ArXiv Summary Daily
 - 如有错误或遗漏请以原文为准
 </section>
 
+<section class="summary-day" data-summary-date="2026-09-07" markdown="1">
+<header class="summary-day-header"><h2>2026-09-07 研究摘要</h2><a href="summary_20260907_080112.html">打开当日独立页面 →</a></header>
+
+## 基本信息
+- 生成时间：2026-09-07 16:03:48
+- 使用模型：agnes-2.5-flash
+- 论文数量：77 篇
+
+---
+
+## 论文总结
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Parametric and feedback-controlled multiparameter quantum estimation in a double cavity optomechanics: steady and dynamical state](http://arxiv.org/abs/2609.05402v1)
+- **作者:** Hamza Harraf, Mohamed Amazioug, Amjad Sohail, Mojtaba Mazaheri, Rachid Ahl Laamara
+- **研究目的:** 研究双腔光机械系统中参量放大和相干反馈对光机耦合强度和腔损耗率同时估计的量子精度。
+- **主要发现:** 参量放大可显著降低多参数估计的不兼容性，而相干反馈作为可调资源，通过改变量子涨落和参数依赖关联以非单调方式调节估计精度。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Variable Charge State, Magnetic Excitations, and Kondo Effect of Sm/g/Ir(111)](http://arxiv.org/abs/2609.05394v1)
+- **作者:** Shixuan Shan, Tamara de Ara, Lina Liu, Zhipeng Wang, Marina Pivetta, François Patthey, Tadahiro Komeda, Daria Kývala, Jindřich Kolorenč, Harald Brune
+- **研究目的:** 利用低温扫描隧道显微镜研究石墨烯/Ir(111)上单个Sm吸附原子的电荷态、磁激发及Kondo效应。
+- **主要发现:** Sm吸附原子存在两种可逆切换的离散电荷态，仅其中一种 ($\mathrm{Sm}^+$) 显示磁激发，并首次观察到镧系吸附原子保留大气体相位g因子的Kondo共振。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube](http://arxiv.org/abs/2609.05392v1)
+- **作者:** H. T. Silva, L. C. S. Faria, C. Aguiar, T. A. Aversi-Ferreira, I. Camps
+- **研究目的:** 探究电离型草甘膦在不同pH状态下在羧基修饰碳纳米管上的吸附行为，以评估其环境修复潜力。
+- **主要发现:** 去质子化程度越高的草甘膦离子（如G4、G5）在COOH-CNT上结合能越强，体系呈现极小的HOMO-LUMO能隙，表明该材料可作为pH响应型吸附平台实现强捕获与可再生循环。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [A photonic source with half-a-GHz single-photon flux](http://arxiv.org/abs/2609.05387v1)
+- **作者:** P. Zahalka, S. Huijser, A. Pancaldi, S. Kruger, X. Zhao, Z. Liu, I. Suleiman, R. Jensen, L. Stefan, A. Ludwig, V. Remesh, J. C. Loredo, P. Lodahl
+- **研究目的:** 开发一种同时具备高激发速率和高系统效率的确定性单光子源，以满足先进光学量子技术的需求。
+- **主要发现:** 实现了超过500 MHz的光纤内单光子通量，输出光功率超过100 pW，为直接测量单光子源光纤效率提供了简单有效的方法。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Customized spin spirals in ferromagnetic thin films](http://arxiv.org/abs/2609.05383v1)
+- **作者:** Anjali Panchwanee, Kai Schlage, Dieter Lott, Sven Velten, Thomas Saerbeck, David L. Cortie, Sakshath Sadashivaiah, Ilya Sergeev, Guido Meier, Lars Bocklage, Ralf Röhlsberger
+- **研究目的:** 研究在无外磁场和室温条件下，通过倾斜入射沉积技术在磁性薄膜中设计和稳定垂直自旋螺旋结构。
+- **主要发现:** 通过在薄膜边界诱导两个交叉的单轴磁各向异性，实现了对垂直自旋螺旋角范围和深度剖面的精确控制，为全自旋器件设计提供了单薄膜工程方案。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Molecular interfacial rheology: Lipid membrane shear viscosity](http://arxiv.org/abs/2609.05373v1)
+- **作者:** Zhi-Xun Xu, Amaresh Sahu
+- **研究目的:** 开发一种从平衡分子动力学模拟中提取脂质膜剪切粘度的分子界面流变学方法。
+- **主要发现:** 基于Mori-Zwanzig形式论，从膜横向速度自相关函数的时间积分中成功提取了波矢依赖的膜粘度，结果与非平衡模拟验证一致，得出流体相双层膜的剪切粘度范围。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Remote epitaxy beyond polarity](http://arxiv.org/abs/2609.05365v1)
+- **作者:** Ching-Tai Fu, Pei-Jan Hung, Xudong Li, Xiaolong Zhu, Yu Han, Sayantan Mahapatra, Zhiheng Zhao, Qingsong Fan, Xubing Wu, Qizhang Li, Chenxi Sui, Zirui Zhou, Ting-Hsuan Chen, Cheng-Hao Lei, Ivan Kuzmenko, Xiaobing Zuo, Byeongdu Lee, Alexander S. Filatov, Jeffrey R. Guest, Fengyuan Shi, Yuzi Liu, Hua Zhou, Yunfeng Shi, Po-Chun Hsu
+- **研究目的:** 验证远程外延是否不仅限于离子材料，还能扩展至金属或共价键合基底。
+- **主要发现:** 实验证明了在非极性金属和半导体基底上均可实现远程同质和外延异质生长，表明远程外延是一种适用于离子、金属和共价材料的通用现象。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.85"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Infrared Memory and Scrambling in a Dynamically Opened Coupled-SYK Majorana Junction](http://arxiv.org/abs/2609.05336v1)
+- **作者:** Ali Vahedi
+- **研究目的:** 研究由两个耦合SYK系统形成的动态打开Majorana结中的红外记忆和多重体 scrambling 行为。
+- **主要发现:** 系统的打开过程保留了强烈的红外记忆，且异常响应对红外截断越来越敏感；有限尺寸模拟显示打开后扇区间纠缠、宇称传递和算子 scrambling 增强。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Breakdown of Anomalous Hall Scaling in Dilute Kondo System](http://arxiv.org/abs/2609.05319v1)
+- **作者:** Arnab Bhattacharya, Prashant Singh, Ajay Kumar, Afsar Ahmed, Yaroslav Mudryk, I. Das, Anis Biswas
+- **研究目的:** 探究稀释Kondo系统中由Berry曲率驱动的反常霍尔输运及其与Kondo相干性的关系。
+- **主要发现:** 在Ru$\_2$Mn$\_{0.5}$Ti$\_{0.5}$Ge中发现非单调的反常霍尔响应，违反了近磁转变处的费米液体标度关系，仅在低温Kondo相干性建立时恢复，归因于平带与自旋轨道耦合介导的反交叉的相互作用。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn,cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn, cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Connecting heterogeneous dynamics with local entropy](http://arxiv.org/abs/2609.05276v1)
+- **作者:** Jun Wu, Walter Kob, Yujie Wang, Zhen Zhang
+- **研究目的:** 建立玻璃物理学中静态结构与异构弛豫动力学之间 robust 且具物理解释性的联系。
+- **主要发现:** 引入了一种基于 conventional two-body excess entropy 的加权对熵描述符，通过引入物理相关的结构长度尺度，显著提高了对长时粒子级动力学倾向性的预测能力。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Thermoelectric properties of metal-semiconductor percolation composites](http://arxiv.org/abs/2609.05273v1)
+- **作者:** Oleksandr Porubaniyi, Sergii Tomko, Mihailo Cherkez, Viktor Podolskiy, Radion Cherkez
+- **研究目的:** 分析含有随机分布金属杂质的半导体复合材料的热电响应，特别是渗流跃迁附近的行为。
+- **主要发现:** 在渗流阈值附近，功率因子和热电优值强烈依赖于杂质的浓度和排列方式，并指出了在实际复合材料中增强功率因子的有利 regimes。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Diffusion under competing bulk and surface stopping mechanisms](http://arxiv.org/abs/2609.05247v1)
+- **作者:** Yilin Ye
+- **研究目的:** 研究在受指数分布体寿命和表面反应两种独立竞争停止机制约束的有界域中的反射扩散统计特性。
+- **主要发现:** 推导了停止时间和边界局部时间的边际分布及联合拉普拉斯变换，建立了恒等式 $p\langle T \rangle + q\langle L \rangle=1$，并证明累积风险服从指数分布。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [An Aeroelastic Solver Integrating Reformulated-Vortex-Particle and Finite-Element Methods across Non-Conforming Interfaces](http://arxiv.org/abs/2609.05243v1)
+- **作者:** Neeraj Balachandar, A. Padmaprabhan, Vishnu R. Unni
+- **研究目的:** 开发一个模块化流固耦合 aeroelastic 求解器，用于模拟柔性升力表面的双向流体-结构相互作用。
+- **主要发现:** 开发了 $\texttt{VarFlExI}$ 求解器，结合 rVPM 和 FEM 方法，通过显式交错分区方案确保非匹配界面功守恒，在水洞实验验证中展示了准确的耦合气动弹性响应及计算效率优势。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning interatomic potentials](http://arxiv.org/abs/2609.05233v1)
+- **作者:** Bumju Kwak, Jeonghee Jo
+- **研究目的:** 提出一种无需修改训练目标或扩展 autograd 图即可增强机器学习原子间势能（MLIP）Hessian 信息的异构构象数据增强方法。
+- **主要发现:** 提出了各向同性高斯位移（UniAug）和正则模式加权位移（ModeAug）两种基于Hessian的数据增强方案，无缝集成到现有架构中，显著提升了模型在非平衡和平衡数据集上的精度。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Robustness of RKKY interactions across a Weyl node-annihilation transition](http://arxiv.org/abs/2609.05219v1)
+- **作者:** João V. F. Alves, Joelson F. Silva, Luis G. G. V. Dias da Silva
+- **研究目的:** 研究时间反演对称性破缺的Weyl半金属中磁性杂质间RKKY相互作用在Weyl节点湮灭相变过程中的行为。
+- **主要发现:** RKKY交换耦合的空间分布、幅值和各向异性张量结构在节点湮灭相变中保持稳健，表明短程和中程相互作用由整个价带的全球量子度量介导，而非仅由低能Berry曲率单极子决定。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Screening bolt loosening in a four-bolt plate with global FRF correlation and local FRAC maps from full-field laser Doppler vibrometry](http://arxiv.org/abs/2609.05218v1)
+- **作者:** Berkay Kullukcu, Robin Pianowski, Mehmet Sait Özer, Ercan Altinsoy, Dina Hannebauer
+- **研究目的:** 利用全场激光多普勒测振技术建立的流程来筛选四螺栓铝板的螺栓松动情况。
+- **主要发现:** 通过将全局FRF失真与空间分辨解释相结合，成功区分了低、中、高畸变响应群以及局部紧凑关节中心变化与分布式FRF重分布，无需依赖训练分类器或 specimen-specific 节点标签。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Coarse-graining far-from-equilibrium dynamics using oblique projectors](http://arxiv.org/abs/2609.05217v1)
+- **作者:** Gerhard Jung
+- **研究目的:** 推广Mori-Zwanzig投影算子形式论，引入斜投影算子以粗粒化远离平衡态系统（如活性物质）的动力学。
+- **主要发现:** 斜投影算子正确地将粗粒化粒子的 Emergent 相互作用分解为系统性和随机性贡献，并成功预测了手性活性浴中被动示踪粒子的 Emergent 非平衡手性动力学及奇传输性质。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [FluxDisco: Symbolic Regression for Stoichiometric Dynamical Systems via Monte Carlo Graph Search](http://arxiv.org/abs/2609.05207v1)
+- **作者:** Cassandra Durr, Alvaro Köhn-Luque, Chris Jewell, Lloyd A. C. Chapman
+- **研究目的:** 开发一种物理信息框架 FluxDisco，用于从噪声数据中发现符合质量守恒的代谢通量动力学方程。
+- **主要发现:** 利用已知的化学计量矩阵减少表达式搜索空间，通过蒙特卡洛图搜索算法准确恢复了多种物理和生物系统的守恒动力学，生成的方程具有可解释性且遵守物理定律。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](http://arxiv.org/abs/2609.05202v1)
+- **作者:** Rita Cordeiro Mendes, Maria Rita Fonseca Verdelho, Carlos Santiago, Catarina Barata
+- **研究目的:** 介绍一个新的多中心、多模态和纵向肺癌数据集，以支持在现实条件下评估各种学习流水线。
+- **主要发现:** 该数据集包含1,365名患者的三种成像模态、临床数据和转录组数据，尽管存在严重的不均匀缺失，但多模态融合始终比单模态方法提高了生存预测性能。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Dynamical Reduction of Two Series Josephson Junctions to a Synthetic High-Transparency Josephson Element](http://arxiv.org/abs/2609.05192v1)
+- **作者:** Claudio Guarcello, Sergio Pagano, Carlo Barone, Alessandro Bruno, A. Mert Bozkurt, Giovanni Filatrella
+- **研究目的:** 研究两个串联约瑟夫森结在有限频率驱动下能否简化为一个具有可调透明度的单一合成高效约瑟夫森元件。
+- **主要发现:** 在低驱动频率下，完全电阻电容分流结方程与有效单元件描述高度一致；但随着驱动频率接近等离子体频率和幅度增大，出现显著偏差，给出了使用该简化描述的定量动力学准则。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Electrostatic splitting of an Edge Magnetoplasmon Resonator](http://arxiv.org/abs/2609.05188v1)
+- **作者:** Sloän Kouamé, Elric Frigerio, Giacomo Rebora, Suvankar Purkait, Yong Jin, Ulf Gennser, Antonella Cavanna, Jean-Marc Berroir, Emmanuel Baudin, Pascal Degiovanni, François D. Parmentier, Gwendal Fève, Gerbold C. Ménard
+- **研究目的:** 研究嵌入边缘磁等离子体谐振器中的量子点接触及其极化对传播磁等离子模式的影响。
+- **主要发现:** 通过静电门控确定了AlGaAs/GaAs二维电子气静电边缘的物理参数，提取了腔周长与量子点接触栅压的关系，并用几何模型完美表征了边缘磁等离子体的传播路径。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mtrl-sci, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La$\_3$Ni$\_2$O$\_7$: a DFT+RPA study](http://arxiv.org/abs/2609.05185v1)
+- **作者:** Lauro B. Braz, Daniel D. Rivera, Emmanuel V. C. Lopes, George B. Martins, Gustavo M. Dalpian, Luis G. G. V. Dias da Silva
+- **研究目的:** 探究全谱模型中远离费米面的电子态对La$\_3$Ni$\_2$O$\_7$磁涨落和超导配对对称性的影响。
+- **主要发现:** 与低能描述相比，全谱模型增强了层间自旋涨落和对易磁不稳定性，有利于符号改变的 $s^\pm$ 超导态，而低能模型倾向于稳定d波配对，表明全能量模型中的层间耦合对配对对称性起关键作用。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Dipolar and quadrupolar spin supersolid states in a spin-1 triangular antiferromagnet](http://arxiv.org/abs/2609.05181v1)
+- **作者:** Yixuan Huang, Yuan Gao, Wei Li, Seiji Yunoki, Sadamichi Maekawa
+- **研究目的:** 使用DMRG方法系统研究外磁场下自旋-1三角晶格反铁磁海森堡模型中的量子相图。
+- **主要发现:** 识别出不同的偶极和四极自旋超固态，其特征是自发U(1)对称性破缺与共存的纵向平移对称性破缺，并提供了与非弹性中子散射实验直接相关的特征光谱签名。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Transparency-engineered SQUID cells for Kerr-free three-wave-mixing Josephson metamaterials](http://arxiv.org/abs/2609.05177v1)
+- **作者:** Claudio Guarcello, A. Mert Bozkurt, Carlo Barone, Giovanni Filatrella, Alessandro Bruno, Sergio Pagano
+- **作者:** Claudio Guarcello, A. Mert Bozkurt, Carlo Barone, Giovanni Filatrella, Alessandro Bruno, Sergio Pagano
+- **研究目的:** 设计一种用于克尔自由三波混合约瑟夫森超材料的透明度高工程 rf-SQUID 单元。
+- **主要发现:** 通过串联结的非对称性和磁通偏置独立控制SQUID势的局部展开，实现了四阶克尔项抑制而三阶非线性保持的工作点，为约瑟夫森行波参量放大器提供了紧凑的单元设计原理。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [What Photocurrent Versus Effective Voltage Tells Us About Charge Generation in Organic Solar Cells](http://arxiv.org/abs/2609.05170v1)
+- **作者:** Ardalan Armin, Austin M. Kay, Drew B. Riley, Oskar J. Sandberg, Paul Meredith
+- **研究目的:** 重新评估有机太阳能电池中通过光电流对有效电压作图提取激子解离概率和电荷生成效率的有效性和物理含义。
+- **主要发现:** 显示该方法返回的表观解离概率远低于 unity 即使是完全解离，它实际上仅报告短路电荷收集效率而非生成产额，因此建议不再使用此构造，特别是在高效非富勒烯受体体系中。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Neural-field design of broadband Rayleigh-wave carpet cloaks under microstructure realisability constraints](http://arxiv.org/abs/2609.05163v1)
+- **作者:** David Aznaurov, Davit Piliposyan, Danila Rukhovich, Sebastien Guenneau
+- **研究目的:** 在微结构可实现性约束下，利用神经场设计用于2D瑞利波的宽带地毯隐身斗篷。
+- **主要发现:** 将设计表述为由偏微分方程控制的优化问题，通过条件扩散和逆设计选择均质微结构，优化的Cauchy材料设计逼近理想变换光学斗篷，投影后的均质表示恢复了约97%的参考表面位移幅值。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft,cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft, cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Glassy dynamics, crossover temperature and density scaling in fragile glass-formers](http://arxiv.org/abs/2609.05159v1)
+- **作者:** Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, Yashwant Singh
+- **研究目的:** 通过理论和大规模分子动力学模拟研究反向幂律势玻璃形成混合物中动力学的变慢行为。
+- **主要发现:** 识别出一个交叉温度 $T\_a$，证明弛豫动力学遵循密度-温度标度律，当以约化温度 $T/T\_a$ 绘图时，不同密度下的热力学和动力学量坍缩到主曲线，实现了从单状态点预测宽密度范围弛豫行为的统一描述。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery](http://arxiv.org/abs/2609.05140v1)
+- **作者:** Nazim-E-Alam
+- **研究目的:** 评估儿科肺炎分类深度学习模型在中国、孟加拉国和越南三个国家数据集间的跨数据集迁移能力。
+- **主要发现:** 跨国家数据集的偏移以不同方式影响了排名、概率校准和源定义决策行为；虽然少量标签校正可恢复敏感性，但特异性变化大，表明迁移研究应分别评估各个组件并量化操作负担。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Environment-assisted transport in a strongly correlated boundary-driven Fermi-Hubbard chain](http://arxiv.org/abs/2609.05137v1)
+- **作者:** Hakan Yeler, Özgür Çakır
+- **研究目的:** 研究与环境退相干耦合的一维Fermi-Hubbard链在非平衡稳态下的传输行为。
+- **主要发现:** 发现两种截然不同的退相干诱导传输增强 regimes：第一种涉及上Hubbard带内的重分布，第二种涉及Hubbard带间的跃迁，展示了多体关联如何塑造强关联开放系统中相干驱动、退相干和量子芝诺物理的相互作用。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.92"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Polarizable Embedding for Photoelectron Spectroscopy and Photoelectron Circular Dichroism in Solution: Core-Level Ionization of Aqueous Alanine](http://arxiv.org/abs/2609.05135v1)
+- **作者:** Giovanni Nottoli, Piero Decleva. Chiara Cappelli
+- **研究目的:** 开发用于计算溶液中分子光电离观测量的极化QM/MM公式，并应用于水溶液中的丙氨酸。
+- **主要发现:** 提出的方法与波动电荷力场自洽耦合，计算出的X射线光电子谱和圆二色谱与实验轮廓高度吻合，证明原子溶剂结构和环境极化必须同时处理才能可靠模拟水溶液中的光电离观测。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Coarse-Graining Hidden Representations: Unsupervised Neuron Selection via Mapping Entropy](http://arxiv.org/abs/2609.05126v1)
+- **作者:** Margherita Mele, Andrea Castagna, Roberto Menichetti, Raffaello Potestio, Alessandro Ingrosso
+- **研究目的:** 通过映射熵（ME）无监督地选择过参数化神经网络中重要的隐藏神经元。
+- **主要发现:** ME优化回收了最小教师一致表示，并在非高斯过程任务和MNIST上，ME选择的子网络在强压缩下优于同等大小的随机子集，将构型可区分性与预测性能联系起来。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Symmetry-protected triplet Weyl complexes](http://arxiv.org/abs/2609.05120v1)
+- **作者:** Yun-Yun Bai, Ke-Xin Pang, Yan Gao, Weikang Wu, Shengyuan A. Yang
+- **研究目的:** 系统研究实现最小三重Weyl复合体（TWC）所需的对称性条件及其实现在材料中的可能。
+- **主要发现:** 筛选出仅允许 $\{1,1,2\}$ 和 $\{1,2,3\}$ 电荷幅值的TWC，首次提出 $\{1,2,3\}$-TWC并证明其在紧束缚模型中的存在，同时在手性碳同素异形体DZQH-C$\_{36}$中实现了 $\{1,1,2\}$-TWC 的 Electronic realization。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Measurements of Diffusion Coefficients of CO$\_{2}$ in 1-Butanol with a New Laminar Jet Apparatus and PFG-NMR, Pointing to Interfacial Mass Transfer Effects](http://arxiv.org/abs/2609.05086v1)
+- **作者:** Oliver Großmann, Sarah Mross, Jens Wagner, Kerstin Munnemann, Fabian Jirasek, Hans Hasse
+- **研究目的:** 使用新型层流喷射装置（LJA）和脉冲场梯度NMR测量CO$\_{2}$在1-丁醇中的扩散系数，并检查界面传质效应。
+- **主要发现:** LJA测得的Fick扩散系数系统性低于PFG-NMR自扩散系数，偏差无法用实验误差解释，假设存在由界面CO$\_{2}$富集引起的气液界面传质阻力。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A locally ab initio computational framework for arbitrary incommensurate materials interfaces](http://arxiv.org/abs/2609.05082v1)
+- **作者:** Drake Niedzielski, Tomás A. Arias
+- **研究目的:** 构建一个可扩展的计算框架，用于任意非共格材料界面的局域第一性原理电子哈密顿量。
+- **主要发现:** 利用Wannier哈密顿量矩阵元的近视性，通过系统外推和插值跨层 registries，实现了无需庞大超胞即可保持第一性原理精度的转移性哈密顿量，成功复现了30°扭曲双层石墨烯的实验谱特征。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Engineering Giant Thermoelectric Performance through Electrode-Coupling Geometry and Magnetic Flux in Quasiperiodic Su-Schrieffer-Heeger Rings](http://arxiv.org/abs/2609.05078v1)
+- **作者:** Sridhar, Souvik Roy, Malay Bandyopadhyay
+- **研究目的:** 研究电极耦合几何和磁通对准周期SSH环相干热电输运的调控作用。
+- **主要发现:** 电极耦合几何作为调控量子干涉的有力参数，在最优磁通条件下，不对称耦合通过增强的能量过滤和抑制的电子热输运将热电优值ZT大幅提升至约90。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Impact of Data Loss in Postprocessing on Training and Inference of Quantum Neural Networks](http://arxiv.org/abs/2609.05060v1)
+- **作者:** Soraya V. Panambalom, Edoardo Altamura, Nick Chancellor, Jonte R. Hance
+- **研究目的:** 分析Qiskit中SamplerQNN后处理在大规模量子硬件上因假设错误导致的数据丢失对训练和推理的影响。
+- **主要发现:** 后处理滤波器在物理量子位空间导致85-99.6%的有效测量shots丢失，使推断准确度从0.94降至0.39，损失信号压缩22-27倍；提出的布局边际化修复已合并至代码库。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Bounds on Propagation Constants in Dielectric Gratings](http://arxiv.org/abs/2609.05052v1)
+- **作者:** Ehsan Faghihifar
+- **研究目的:** 建立无损介质衍射光栅模式归一化纵向传播常数的解析界限。
+- **主要发现:** 证明了正则模式的 $\beta^2 \le \varepsilon\_{\max}$，以及幽灵模式的 $\|\mathrm{Re}(\beta)\| \le \sqrt{\varepsilon\_{\max}}/2$，两者均由傅里叶级数形式的完全耦合矢量本征问题的性质直接导出。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries](http://arxiv.org/abs/2609.05030v1)
+- **作者:** A. Martinez-Garcia, J. J. Palacios, C. Sabater
+- **研究目的:** 开发一个Python图形界面ANT.UI，自动化构建用于NEGF-DFT量子输运计算的分子结几何结构。
+- **主要发现:** ANT.UI通过实时3D查看器和专用助手自动化了电极拉拔、表面扫描和旋转研究，将需要数天定制脚本的过程转变为点按工作流程，并兼容MD代码和可视化工具。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Fabrication-Aware Design of a Hybrid Metasurface-Bragg Mirror for Low-Noise Precision Optics](http://arxiv.org/abs/2609.05001v1)
+- **作者:** Mika Gaedtke, Christian Kranhold, Markus Walther, Falk Eilenberger, Stefanie Kroker, Thomas Siefke
+- **研究目的:** 设计一种结合制造鲁棒性、光学性能和热噪声降低的混合 metasurface-Bragg 反射镜。
+- **主要发现:** 引入的制造感知混合镜面设计在95%制造产率下非反射功率低于 $2.88\cdot10^{-4}$，对于ETpathfinder测试床，三层Bragg对将总堆栈非反射功率降至约6.4 ppm，热位移噪声谱密度估计为 $8.4\cdot10^{-21}\,\mathrm{m\,Hz^{-1/2}}$。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Fisher-information retention under local driving in non-Hermitian feed-forward chains](http://arxiv.org/abs/2609.04996v1)
+- **作者:** Qingrui Bai, Zhichao Li, Junlong Kou
+- **研究目的:** 量化非厄米前馈链中局部驱动硬件在定向建立过程中对费舍尔信息保留的权衡。
+- **主要发现:** 在共振前馈链中，各区间 site-local 保留因子之和精确为1；方向性将此单位向下游集中，导致单端口服务多站点时最坏站点保留指数衰减，为端口布局提供了准则。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Sub-2-Cycle, Terawatt Pulses via Double-Stage Multi-Pass Cell Compression of an Yb Laser](http://arxiv.org/abs/2609.04989v1)
+- **作者:** Victor Koltalo, Jaismeen Kaur, Louis Daniault, Antoine Cavagna, Mickael Allemand, Florent Pallas, Antoine Courjaud, Emilien Gontier, Cédric Sire, François Sylla, Rodrigo Lopez-Martens
+- **研究目的:** 报告一种基于Yb的太瓦级、亚2光学周期后压缩激光器系统。
+- **主要发现:** 通过双级多通池压缩，实现了6.2 fs脉冲（1.8光学周期）和1.4 TW峰值功率，这是迄今报道的 kHz 重复频率后压缩Yb激光器系统中的最高峰值功率。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Operando imaging of intercalation memory in MXenes](http://arxiv.org/abs/2609.04977v1)
+- **作者:** Franz Groebmeyer, Mohsen Beladi, Christoph G. Gruber, Ruocun Wang, Pol Salles, Nhu Quynh Nguyen, Jakub Drnec, Yury Gogotsi, Emiliano Cortes
+- **研究目的:** 利用原位成像技术揭示MXenes中层间嵌入动力学及循环诱导的结构记忆效应。
+- **主要发现:** 原位成像显示即使少量堆叠层也会引入显著动力学势垒，循环将纳米片分离为三种持久行为（可逆单层、恢复不全的重堆叠多层、自稳定 coherent 堆叠多层），揭示了控制后续嵌入的动力学记忆。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Nuclear quantum effects in the thermal conductivity of solid hydrogen](http://arxiv.org/abs/2609.04955v1)
+- **作者:** Hengtai Zheng, Zezhu Zeng, David E. Manolopoulos
+- **研究目的:** 计算固体正氢的热导率，并明确核量子效应在其中的作用。
+- **主要发现:** 仅当在平均力势中包含核量子效应、声子边界散射以及流体动力输运时，理论计算才能与实验热导率定量一致，低体温下热输运由集体 relaxon 模式主导。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Nonreciprocal plasmonic response of drift-biased two-dimensional metals](http://arxiv.org/abs/2609.04954v1)
+- **作者:** Gonzalo Álvarez-Pérez, Joel D. Cox
+- **研究目的:** 发展漂移偏置二维电子气的非局域电磁动力学框架，研究其等离子体色散和非互易性。
+- **主要发现:** 推导了Dirac和抛物线色散系统的漂移依赖电导率张量，发现抛物线2DEG在相同漂移参数下表现出比Dirac系统更强的非互易性，且响应由漂移与等离子体非局域性的相互作用决定。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Noise-Resilient Detection of Neuronal Spikes by a Hopf-Bifurcation Device](http://arxiv.org/abs/2609.04949v1)
+- **作者:** Jitendra Kumar, Roberto Fenollosa, Gonzalo Rivera-Sierra, So-Yeon Kim, Adam Armada-Moreira, Juan Bisquert, Michele Giugliano
+- **研究目的:** 演示基于工作在Hopf分叉附近的半导体负微分电阻（NDR）器件的物理弱信号检测器。
+- **主要发现:** 该器件能将弱模拟阈值穿越转换为全或无电压尖峰，在信噪比低至1/500时仍能可靠检测100 Hz分量，并在神经元记录中显著增强尖峰与背景噪声的区别，实现无时钟异步信号检测。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Global Fixed Point Potentials in the Abelian Higgs Model with $N$ flavors](http://arxiv.org/abs/2609.04938v1)
+- **作者:** Gergely Fejős, Shunsuke Yabunaka
+- **研究目的:** 使用功能重整化群研究 $d$ 维 $N$ 味阿贝尔Higgs模型中带电费固定点的存在性。
+- **主要发现:** 数值求解显示 $\epsilon$ 展开在 $d=3$ 时不可靠；全局固定点势表明临界风味数显著高于微扰处理结果，并在 $d=3$ 发现了富含多临界固定点的结构迹象。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft, physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions](http://arxiv.org/abs/2609.04929v1)
+- **作者:** Iason Andronis, Sharon Berkowicz, Mariia Filianina, Maddalena Bin, Robin Tyburski, Robert Bauer, Yuriy Chushkin, Federico Zontone, Michael Sprung, Wojciech Roseker, Fabian Westermeier, Felix Lehmkühler, Fivos Perakis
+- **研究目的:** 通过XPCS和WAXS区分过冷水-甘油溶液中液态转变与冰结晶过程。
+- **主要发现:** 观察到分子尺度液体结构的不连续变化和微区结构形成，动力学在此期间变慢并呈双曲线扩散，该液-液相分离转变发生在冰布拉格峰出现之前，支持旋节分解场景。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Relaxing Coherence Requirements on Laser Sources for Nanoscopy through Optical Fiber Technique](http://arxiv.org/abs/2609.04924v1)
+- **作者:** Kaifa Xin, Mengdie Hou, Ao Yang, Márton Gelléri, Hyun-Keun Lee, Antonio Virgilio Failla, Jiafeng Lu, Xianglong Zeng, Mischa Bonn, Jesper Lægsgaard, Xiaomin Liu
+- **研究目的:** 通过光纤技术降低纳米显像中对高相干性激光源的要求。
+- **主要发现:** 引入了光纤条件化矢量纳米聚焦，利用低成本二极管激光器和模式选择耦合器生成高质量的径向或方位角偏振CVB，其产生的焦点签名与参考激光器测量一致，降低了结构化光实验的门槛。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Derivation of the Sample-Size Scaling of TWO-NN Intrinsic-Dimension Estimates from Molecular Dynamics Trajectories](http://arxiv.org/abs/2609.04914v1)
+- **作者:** Riccardo Capelli
+- **研究目的:** 推导TWO-NN估计量在平滑流形数据上的大样本行为，以解释其样本量依赖性。
+- **主要发现:** 推导出最近邻距离随 $N^{-1/d}$ 缩放，平滑偏差产生 $N^{-2/d}$ 修正项；对丙氨酸二肽轨迹的测试表明，包含高阶修正的外推估计值紧密包围已知的几何维数24，解释了TWO-NN的强样本量依赖性。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Microkelvin resolution thermometry at the nanometre scale](http://arxiv.org/abs/2609.04907v1)
+- **作者:** Jack W. Hart, Soham Pal, Julien R. E. Roth, Katie Ninham, Abbie H. Aleksandrova, Xander Peetroons, Soumen Mandal, Oliver A. Williams, Gavin W. Morley, Mete Atature, Helena S. Knowles
+- **研究目的:** 开发高性能纳米温度计以在纳米尺度实现微开尔文分辨率的温度测量。
+- **主要发现:** 使用同位素纯化的双NV纳米金刚石和定制量子传感芯片，实现了682 $\mu$K的温度测量误差和低于50 mK/$\sqrt{\text{Hz}}$的灵敏度，直接观测到了DMSO在水中的放热混合引起的瞬态加热。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,physics.comp-ph" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Frugal Effective Models for Nanophotonic Scattering: Optimizing Global Polarizability Matrices for Metasurface Design](http://arxiv.org/abs/2609.04863v1)
+- **作者:** Sofia Ponomareva, Peter R. Wiecha
+- **研究目的:** 构建一种自动化框架，通过优化全局极化率矩阵（GPM）模型，以找到能以用户定义的精度重现散射体响应且最精简的有效偶极子模型。
+- **主要发现:** 该方法通过迭代移除冗余偶极子并利用梯度优化调整其位置，实现了通常比全波仿真高出两个数量级的压缩因子，并成功用于无需周期性近似的大规模超表面优化设计。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [The elasticity of semiflexible polymers with reversible spontaneous curvature in two dimensions](http://arxiv.org/abs/2609.04856v1)
+- **作者:** Donghyeon Kim, Panayotis Benetatos
+- **研究目的:** 在二维空间中建立一个可解析的修正蠕虫状链模型，以研究具有可逆自发曲率的半柔性聚合物在拉伸或弯曲下的弹性响应。
+- **主要发现:** 研究发现，即使在弯曲刚度不变的情况下，可逆自发曲率也能提供依赖于系综（吉布斯与亥姆霍兹）的弹性机制，拉伸或弯曲会引发从自发曲率主导到熵弹性的交叉，且在弯曲刚度增加时可能出现重入转变。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Dead-zone-free free-induction-decay alkali-metal atomic magnetometer](http://arxiv.org/abs/2609.04847v1)
+- **研究目的:** 消除标量原子磁力仪中的检测盲区，开发一种高灵敏度的无盲区自由感应衰减（FID）磁力仪。
+- **主要发现:**通过在多通道腔内的原子池中加入反射镜将光束折叠成正交通路，成功消除了盲区，实现了全空间灵敏度优于 $80 \text{ fT/Hz}^{1/2}$，并在闭合回路模式下成功表征了磁场 slew rate。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.dis-nn,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.dis-nn, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [On the Stability of the Polar Phase of Superfluid 3He in Nematic Aerogels](http://arxiv.org/abs/2609.04821v1)
+- **作者:** E. V. Surovtsev
+- **研究目的:** 研究向列型气凝胶中超流体 $^3\text{He}$ 的极性相在与磁性杂质散射引起的扰动下的稳定性。
+- **主要发现:** 当扰动同时破坏轴对称性和时间反演对称性时， realizes 具有最高转变温度的极性扭曲 A 相，并通过求解 Gor'kov 自洽方程的特征值问题揭示了这一现象。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Modulation-Frequency Dependence of Spatial Resolution in Optical Correlation-Domain Reflectometry](http://arxiv.org/abs/2609.04818v1)
+- **作者:** Keisuke Motoda, Takaki Kiyozumi, Yosuke Mizuno
+- **研究目的:** 建立包含光源线宽 $\delta\nu$ 和接收器分辨率带宽 RBW $B$ 的光学相关域反射计（OCDR）理论模型，以解释空间分辨率随调制频率 $f\_m$ 的变化。
+- **主要发现:** 模型预测了两个区域：低 $f\_m$ 下空间分辨率 $\Delta z$ 大致与 $1/f\_m$ 成正比，而高 $f\_m$ 下 $\Delta z$ 趋近于由调制幅度 $\Delta f$ 决定的常数，实验结果验证了这两个区域之间的过渡。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [A Piecewise-Linear Approximation-based Energy-Efficient Error-Optimized Unsigned Square Rooter for Accuracy-Critical Applications](http://arxiv.org/abs/2609.04783v1)
+- **作者:** Prateek Goyal, Sujit Kumar Sahoo
+- **研究目的:** 开发一种基于分段线性近似的节能误差优化无符号平方根单元（EOSQR），以在硬件成本和计算精度之间取得平衡。
+- **主要发现:** EOSQR 在 Artix-7 FPGA 上实现，相比最先进的近似平方根器实现了最低的误差，并相比精确恢复数组平方根器分别实现了 61.91% 的资源节省、77.54% 的功耗节省和 53.11% 的延迟降低。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Orientation selection and superconducting properties of epitaxial Al on ferromagnetic semiconductor (In,Fe)As](http://arxiv.org/abs/2609.04744v1)
+- **作者:** Hirotaka Hara, Keita Ishihara, Masaaki Tanaka, Le Duc Anh
+- **研究目的:** 研究分子束外延生长的 Al 薄膜在应变 Fe 掺杂铁磁半导体 (In,Fe)As 层上的结构和超导特性。
+- **主要发现:** Al 单晶层表现出外延生长，取向随 (In,Fe)As 的面内晶格常数增大从 (110) 变为 (111)，且 Al 的临界磁场在 0.5 K 以下表现出异常下降，可能反映了与底层铁磁半导体的磁耦合。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [FUSION: a skill-based research agent for publicly obtainable nuclear-physics codes](http://arxiv.org/abs/2609.04742v1)
+- **作者:** Jin Lei
+- **研究目的:** 开发 FUSION，一个基于代码特定技能的研究智能体，以自动化获取、构建、运行和验证公开的可获得核物理代码。
+- **主要发现:** FUSION 涵盖了二十种核物理代码，包括光学模型、反应、核结构、裂变等，并在报告结果前必须复现规定的基准测试，同时附带了一个包含 61,167 页核物理文献的离线可搜索集合。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph,physics.chem-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph, physics.chem-ph, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Activated carbon-assisted anionic dye decomposition using a dual-liquid post-double dielectric barrier discharge plasma reactor](http://arxiv.org/abs/2609.04734v1)
+- **作者:** Krishna V S, Surya, Mangilal Choudhary
+- **研究目的:** 利用双液后双介电屏障放电等离子体反应器和活性炭（AC）降解三元阴离子染料混合物。
+- **主要发现:** 活性炭颗粒在碱性溶液中而非酸性或中性溶液中显著提高了三元阴离子染料混合物的降解速率，降解机制涉及强氧化剂（羟基自由基）在活性炭表面的形成。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Thermodynamic learning](http://arxiv.org/abs/2609.04732v1)
+- **作者:** F. Corberi, S. dello Russo, G. Messuti, S. Scarpetta, L. Smaldone
+- **研究目的:** 探讨通过施加外部场（作为数据）来训练由哈密顿量完全确定的热力学系统以执行记忆和泛化任务的可能性。
+- **主要发现:** 在具有退火二分耦合的典型 Ising 系统中，结果表明系统即使在小尺寸下也具备优异的记忆能力和良好的泛化能力，且性能随系统尺寸增大而改善。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Voltage-embedded equivariant machine learning potential for open system simulations](http://arxiv.org/abs/2609.04696v1)
+- **作者:** Yiming Guan, Rongzhi Gao, ChiYung Yam, GuanHua Chen, Ziyang Hu
+- **研究目的:** 开发一种嵌入电压偏置的 E(3) 等变图神经网络，以模拟开放系统的非平衡电化学界面。
+- **主要发现:** 该模型将系统能量和力解耦为零偏置和偏置依赖贡献，仅用有限的离散偏置数据训练即可实现高预测精度和鲁棒的外推迁移性，成功捕捉了锂/水界面处水分子的场诱导动态重取向。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [A class of high-order discontinuous-Galerkin methods satisfying infinitely many entropy conditions with provable error estimates and strong convergence for general nonlinear conservation laws](http://arxiv.org/abs/2609.04687v1)
+- **作者:** Yuanzhe Wei, Chi-Wang Shu
+- **研究目的:** 提出基于算子半群的半离散不连续伽辽金（DG）方法新框架，以构造满足无限多个局部熵不等式的高阶方案。
+- **主要发现:** 证明了光滑解的最优误差估计，并通过紧性论证证明了严格凸守恒律的不连续解的强收敛性，将方案推广到了任意空间维度的守恒律系统。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [4 MV/cm (010) $\beta$-Ga$\_2$O$\_3$ Heterojunction Diodes Realized by Low-Damage e-Beam NiO$\_x$ Interlayers](http://arxiv.org/abs/2609.04655v1)
+- **作者:** Carl Peterson, Yizheng Liu, Chinmoy Nath Saha, Rachel Kahler, Akhila Mattapalli, Sriram Krishnamoorthy
+- **研究目的:** 利用低损伤电子束 NiO$\_x$ 沉积工艺实现 (010) $\beta$-Ga$\_2$O$\_3$ 上的场平板异质结二极管（FP-HJDs）。
+- **主要发现:** 器件实现了超过 4 MV/cm 的临界击穿场强和 >1 GW/cm$^2$ 的功率品质因数（PFOM），这是 MOCVD 生长的 (010) 漂移层二极管的领先水平，归功于 7 nm 电子束 NiO$\_x$ 阻挡层消除了溅射诱导的离子损伤。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Enhanced Multifractality Induced by Non-Hermitian Disorder in Quantum Percolation](http://arxiv.org/abs/2609.04625v1)
+- **作者:** W. S. Oliveira, Julian Faundez, Rodrigo Arouca, Welles Morgado
+- **研究目的:** 研究二维量子位点渗流模型中几何稀释与非厄米 disorder（随机虚 onsite 势能）的相互作用。
+- **主要发现:** 非厄米 disorder 将量子渗流阈值 $p\_q$ 推向更大的占据概率，抑制了完全离域相，这种抑制比同等强度的实势更强，并在经典阈值 $p\_c$ 和量子阈值之间增强了真实的多分形临界相，同时保持了量子渗流转变的普适类不变。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Elastic turbulence in straight confined geometries](http://arxiv.org/abs/2609.04617v1)
+- **作者:** Giulio Foggi Rota, Daulet Izbassarov, Aditya Tekriwal, Marco Edoardo Rosti
+- **研究目的:** 调查直 confined 几何结构（如管道和 ducts）中的弹性湍流（ET）现象及其 onset 机制。
+- **主要发现:** 报告了在 ducts 和管道中均观察到持续的混沌动力学，对应于理想化设置中识别的相同 ET 态，确立了 ET 作为一种几何无关的吸引子，并指出了管道中存在独特的转变机制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-04</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage](http://arxiv.org/abs/2609.04605v1)
+- **作者:** Gom Dorji, Sonam Peden, Syed Faraz Hasan, Kondo-Francois Aguey-Zinsou, Tanveer Hussain
+- **研究目的:** 通过密度泛函理论（DFT）研究 Li, Na, K 功能化的二维 C5N 单层用于储氢的性能。
+- **主要发现:** 碱金属功能化显著增强了 C5N 的储氢能力，每个掺杂剂可吸附多达 8 个 H$\_2$ 分子，Li-, Na-, K-功能化的 C5N 分别达到了 9.42, 8.61, 和 7.93 wt% 的重力储氢容量，且吸附能适宜于可逆存储。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [A discrete crack-tip theory for nonlinear lattice networks](http://arxiv.org/abs/2609.04568v1)
+- **作者:** Jiabin Liu, Shaoting Lin, Juntao Huang
+- **研究目的:** 为具有非线性链的晶格网络开发离散裂纹尖端的理论，以描述软材料和architected材料中的变形局域化。
+- **主要发现:** 建立了层依赖的应变放大因子 $k\_i$ 和离散 HRR 线上的双区域缩放定律，预测了与经典连续介质 HRR 不同的内层离散 regime ($\varepsilon\_i \sim i^{-1/p}$)，并通过光弹性水凝胶实验验证了该理论。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Structural tuning of reduced exciton mass in layered HOIP compounds: Causation vs. correlation](http://arxiv.org/abs/2609.04558v1)
+- **作者:** Isaac R. Burkholder, Cindy Y. Wong, André Schleife, Kameron R. Hansen, John S. Colton, Branton J. Campbell
+- **研究目的:** 区分层状 HOIP 化合物中框架畸变与还原激子质量 $\mu$ 之间的因果关系与相关性。
+- **主要发现:** 通过独立改变对称模式振幅并进行 DFT 计算，发现赤道卤素原子的键横向位移增加 $\mu$，而轴向卤素原子的键横向位移减少 $\mu$，键轴向位移影响甚微，揭示了新的结构-性质关系。
+</section>
+
+<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.atm-clus</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [X-ray photoelectron spectroscopy of Ar and Kr clusters formed in He nanodroplets](http://arxiv.org/abs/2609.04553v1)
+- **作者:** N. S. Blaj, N. Scheel, R. Rajni, A. Ø. Lægdsmand, J. Sadasivan, S. De, S. R. Krishnan, J. Bozek, A. R. Milosavljević, M. Mudrich
+- **研究目的:** 报告超流氦纳米液滴（HND）内形成的 Ar 和 Kr 团簇的首次软 X 射线光电子能谱（XPS）测量。
+- **主要发现:** 在高掺杂 regime 下，电子光谱显示出特征性的自由 Ar 和 Kr 原子及团簇特征，Kr 团簇光谱与裸 Kr 团簇的文献数据吻合良好，表明观察到的光谱源自几乎裸露的团簇，氦已在团簇聚集过程中蒸发。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates](http://arxiv.org/abs/2609.04532v1)
+- **作者:** W. He, X. Guo, X. Luo, J. Thomas, J. Sears, Sophia F. R. TenHuisen, Ziqiang Guan, Xinglong Chen, D. A. Dahlbom, B. Zager, J. Peliciari, Yi-Feng Zhao, H. LaBollita, Hong Zheng, M. K. Lajer, J. F. Mitchell, V. Bisogni, A. S. Botana, M. Mitrano, S. Johnston, M. P. M. Dean
+- **研究目的:** 比较 La$\_3$Ni$\_2$O$\_7$ 的两种多形体（单层-三层 LNO-1313 和双层 LNO-2222）及相关三层化合物 La$\_4$Ni$\_3$O$\_10$ 的电子、磁性和晶格相互作用。
+- **主要发现:** LNO-1313 和 La$\_4$Ni$\_3$O$\_10$ 表现出相似的电子、磁性和晶格激发，而 LNO-2222 具有独特特征；LNO-1313 具有较弱的轨道极化、增强的 3d$\_8\underline{L}$ 特征、减少的面外磁交换尺度以及更强的 EPC，为超导相关的低能物理提供了关键实验约束。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Crowding controls the scaling of bus frequency with demand](http://arxiv.org/abs/2609.04520v1)
+- **作者:** Siddharth Patwardhan, Şirag Erkol, Filippo Radicchi, Marc Barthelemy
+- **研究目的:** 分析全球城市公交路线频率与乘客需求之间的缩放关系，揭示拥挤对资源分配的影响。
+- **主要发现:** 发现了形式为 $f \sim (d/t)^\alpha$ 的稳健缩放定律，指数 $\alpha \in [1/2, 2/3]$，这是由于城市在固定运营预算下最小化总乘客等待时间并考虑拥挤所致，产生了频率主导（$\alpha=1/2$）和能力主导（$\alpha=2/3$）两个普遍 regime。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Explainable Multimodal Deep Learning Integrating Imaging and Clinical Data for Oral Potentially Malignant Disorder Detection](http://arxiv.org/abs/2609.04512v1)
+- **作者:** Ruilin You, Yihan Wang, Jiabin Chen, Cherie Wink, Petra Wilder-Smith, Rongguang Liang, Bofan Song
+- **研究目的:** 开发 M2-OPMDNet，一个整合白光和自发荧光口腔图像与结构化临床信息的可解释多模态深度学习框架，用于口腔潜在恶性疾病（OPMD）检测。
+- **主要发现:** M2-OPMDNet 取得了 0.952 的 AUC，优于单模态方法，SHAP 分析显示结构化临床变量对风险估计有实质性贡献并补充了成像特征，证明了可解释多模态学习在口腔癌症筛查中的潜力。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Fractional-Order Adaptive Motion Magnification: Phase-Reliability Weighting for Noise-Constrained Video Amplification](http://arxiv.org/abs/2609.04502v1)
+- **作者:** Alejandro Garnung Menéndez
+- **研究目的:** 提出 FrAM（分数阶自适应运动放大），通过分数阶格林瓦尔德-莱特尼科夫导数和单色信号局部振幅权重来改进视频放大，以减轻传感器噪声放大。
+- **主要发现:** FrAM 在保持纹理区域放大效果的同时，将平坦区域的 temporal 噪声保持在输入水平，在八倍输入噪声范围内有效，因果重构将每帧成本降低两个数量级，在 640×480 分辨率下达到 69 fps。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,physics.comp-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, physics.comp-ph, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Learning multistate kinetics with a variational multistate committor network](http://arxiv.org/abs/2609.04449v1)
+- **作者:** Chenyu Tang, Cheng Giuseppe Chen, Benoît Roux, Christophe Chipot
+- **研究目的:** 介绍变分多态 committor 网络（VMCN），一种从分子模拟数据中学习到达每个亚稳态概率的神经网络框架。
+- **主要发现:** VMCN 能够识别状态特异性承诺、候选转变区域以及 committor 一致的路径，并从有限时间滞后轨迹数据中估算态间动力学，成功应用于三重势阱、丙氨酸异构化和 V$\_{\text{o}}$ 结构域的 c-环旋转。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Development and Evaluation of Ultrasound Image Learning Pipelines for MASLD Risk Stratification](http://arxiv.org/abs/2609.04390v1)
+- **作者:** Guangyi Zhang, Xiaohong Wang, Eugene Cheah, Peng Guo, Brian A. Telfer, Theodore T. Pierce, Anthony E. Samir
+- **研究目的:** 开发并评估基于 B 模式和剪切波弹性成像（SWE）超声图像的深度学习流水线，用于代谢功能障碍相关脂肪性肝病（MASLD）的风险分层。
+- **主要发现:** 端到端 SWE 图像学习的性能与操作者引导的 SWE 相当，SWE 基于学习在纤维化分期方面 consistently 优于 B 模图像学习，对于 F≥3（进展性纤维化）的 AUROC 从 0.67 提高到 0.78（p=0.02）。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Ultrasound-Based Prediction of Cirrhosis Decompensation Using Large-Scale Computer Vision Models](http://arxiv.org/abs/2609.04365v1)
+- **作者:** Guangyi Zhang, Peiyun Ni, Eugene Cheah, Rajat Chandra, Peng Guo, Raymond T. Chung, Anthony E. Samir
+- **研究目的:** 利用大规模计算机视觉模型分析常规腹部超声图像，预测肝硬化失代偿的发生。
+- **主要发现:** 提出了一种结合自动化超声数据处理与现代深度学习架构的框架，能够识别传统实验室风险评分之外的预测特征，为失代偿前高危患者提供非侵入性策略，补充分现有的临床评分系统。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Cross-modal triage network: a multimodal deep learning framework for severity-based triage and visual explainability in chest radiographs](http://arxiv.org/abs/2609.04357v1)
+- **作者:** Zinah Ghulam, Richa Mittal, Eranga Ukwatta
+- **研究目的:** 开发跨模态分诊网络（CMTN），融合 Swin Transformer V2 视觉编码器和 PubMedBERT 文本编码器，用于胸部 X 光片（CXR）的严重性分诊和病理检测。
+- **主要发现:** CMTN 在四分位严重性分诊中实现了强大的 ordinal 一致性（QWK = 0.9341）和 0.9970 的 macro-AUROC，优于 BioViL 基线，但盲态临床审计显示其与放射科医生判断的一致性较低（QWK = 0.1399），强调了临床部署前需要放射科医生标注的真实地面真相。
+
+---
+</section>
+
+---
+
+## 生成说明
+- 本报告由AI模型自动生成
+- 每篇论文的总结包含研究目的和主要发现
+- 如有错误或遗漏请以原文为准
+</section>
+
 <section class="summary-day" data-summary-date="2026-09-09" markdown="1">
 <header class="summary-day-header"><h2>2026-09-09 研究摘要</h2><a href="summary_20260909_075704.html">打开当日独立页面 →</a></header>
 
@@ -6220,2066 +8489,6 @@ title: ArXiv Summary Daily
 </div>
 
 
-</section>
-
----
-
-## 生成说明
-- 本报告由AI模型自动生成
-- 每篇论文的总结包含研究目的和主要发现
-- 如有错误或遗漏请以原文为准
-</section>
-
-<section class="summary-day" data-summary-date="2026-09-07" markdown="1">
-<header class="summary-day-header"><h2>2026-09-07 研究摘要</h2><a href="summary_20260907_080112.html">打开当日独立页面 →</a></header>
-
-## 基本信息
-- 生成时间：2026-09-07 16:03:48
-- 使用模型：agnes-2.5-flash
-- 论文数量：77 篇
-
----
-
-## 论文总结
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Parametric and feedback-controlled multiparameter quantum estimation in a double cavity optomechanics: steady and dynamical state](http://arxiv.org/abs/2609.05402v1)
-- **作者:** Hamza Harraf, Mohamed Amazioug, Amjad Sohail, Mojtaba Mazaheri, Rachid Ahl Laamara
-- **研究目的:** 研究双腔光机械系统中参量放大和相干反馈对光机耦合强度和腔损耗率同时估计的量子精度。
-- **主要发现:** 参量放大可显著降低多参数估计的不兼容性，而相干反馈作为可调资源，通过改变量子涨落和参数依赖关联以非单调方式调节估计精度。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.98"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Variable Charge State, Magnetic Excitations, and Kondo Effect of Sm/g/Ir(111)](http://arxiv.org/abs/2609.05394v1)
-- **作者:** Shixuan Shan, Tamara de Ara, Lina Liu, Zhipeng Wang, Marina Pivetta, François Patthey, Tadahiro Komeda, Daria Kývala, Jindřich Kolorenč, Harald Brune
-- **研究目的:** 利用低温扫描隧道显微镜研究石墨烯/Ir(111)上单个Sm吸附原子的电荷态、磁激发及Kondo效应。
-- **主要发现:** Sm吸附原子存在两种可逆切换的离散电荷态，仅其中一种 ($\mathrm{Sm}^+$) 显示磁激发，并首次观察到镧系吸附原子保留大气体相位g因子的Kondo共振。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube](http://arxiv.org/abs/2609.05392v1)
-- **作者:** H. T. Silva, L. C. S. Faria, C. Aguiar, T. A. Aversi-Ferreira, I. Camps
-- **研究目的:** 探究电离型草甘膦在不同pH状态下在羧基修饰碳纳米管上的吸附行为，以评估其环境修复潜力。
-- **主要发现:** 去质子化程度越高的草甘膦离子（如G4、G5）在COOH-CNT上结合能越强，体系呈现极小的HOMO-LUMO能隙，表明该材料可作为pH响应型吸附平台实现强捕获与可再生循环。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [A photonic source with half-a-GHz single-photon flux](http://arxiv.org/abs/2609.05387v1)
-- **作者:** P. Zahalka, S. Huijser, A. Pancaldi, S. Kruger, X. Zhao, Z. Liu, I. Suleiman, R. Jensen, L. Stefan, A. Ludwig, V. Remesh, J. C. Loredo, P. Lodahl
-- **研究目的:** 开发一种同时具备高激发速率和高系统效率的确定性单光子源，以满足先进光学量子技术的需求。
-- **主要发现:** 实现了超过500 MHz的光纤内单光子通量，输出光功率超过100 pW，为直接测量单光子源光纤效率提供了简单有效的方法。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Customized spin spirals in ferromagnetic thin films](http://arxiv.org/abs/2609.05383v1)
-- **作者:** Anjali Panchwanee, Kai Schlage, Dieter Lott, Sven Velten, Thomas Saerbeck, David L. Cortie, Sakshath Sadashivaiah, Ilya Sergeev, Guido Meier, Lars Bocklage, Ralf Röhlsberger
-- **研究目的:** 研究在无外磁场和室温条件下，通过倾斜入射沉积技术在磁性薄膜中设计和稳定垂直自旋螺旋结构。
-- **主要发现:** 通过在薄膜边界诱导两个交叉的单轴磁各向异性，实现了对垂直自旋螺旋角范围和深度剖面的精确控制，为全自旋器件设计提供了单薄膜工程方案。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Molecular interfacial rheology: Lipid membrane shear viscosity](http://arxiv.org/abs/2609.05373v1)
-- **作者:** Zhi-Xun Xu, Amaresh Sahu
-- **研究目的:** 开发一种从平衡分子动力学模拟中提取脂质膜剪切粘度的分子界面流变学方法。
-- **主要发现:** 基于Mori-Zwanzig形式论，从膜横向速度自相关函数的时间积分中成功提取了波矢依赖的膜粘度，结果与非平衡模拟验证一致，得出流体相双层膜的剪切粘度范围。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Remote epitaxy beyond polarity](http://arxiv.org/abs/2609.05365v1)
-- **作者:** Ching-Tai Fu, Pei-Jan Hung, Xudong Li, Xiaolong Zhu, Yu Han, Sayantan Mahapatra, Zhiheng Zhao, Qingsong Fan, Xubing Wu, Qizhang Li, Chenxi Sui, Zirui Zhou, Ting-Hsuan Chen, Cheng-Hao Lei, Ivan Kuzmenko, Xiaobing Zuo, Byeongdu Lee, Alexander S. Filatov, Jeffrey R. Guest, Fengyuan Shi, Yuzi Liu, Hua Zhou, Yunfeng Shi, Po-Chun Hsu
-- **研究目的:** 验证远程外延是否不仅限于离子材料，还能扩展至金属或共价键合基底。
-- **主要发现:** 实验证明了在非极性金属和半导体基底上均可实现远程同质和外延异质生长，表明远程外延是一种适用于离子、金属和共价材料的通用现象。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.85"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Infrared Memory and Scrambling in a Dynamically Opened Coupled-SYK Majorana Junction](http://arxiv.org/abs/2609.05336v1)
-- **作者:** Ali Vahedi
-- **研究目的:** 研究由两个耦合SYK系统形成的动态打开Majorana结中的红外记忆和多重体 scrambling 行为。
-- **主要发现:** 系统的打开过程保留了强烈的红外记忆，且异常响应对红外截断越来越敏感；有限尺寸模拟显示打开后扇区间纠缠、宇称传递和算子 scrambling 增强。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Breakdown of Anomalous Hall Scaling in Dilute Kondo System](http://arxiv.org/abs/2609.05319v1)
-- **作者:** Arnab Bhattacharya, Prashant Singh, Ajay Kumar, Afsar Ahmed, Yaroslav Mudryk, I. Das, Anis Biswas
-- **研究目的:** 探究稀释Kondo系统中由Berry曲率驱动的反常霍尔输运及其与Kondo相干性的关系。
-- **主要发现:** 在Ru$\_2$Mn$\_{0.5}$Ti$\_{0.5}$Ge中发现非单调的反常霍尔响应，违反了近磁转变处的费米液体标度关系，仅在低温Kondo相干性建立时恢复，归因于平带与自旋轨道耦合介导的反交叉的相互作用。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn,cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn, cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Connecting heterogeneous dynamics with local entropy](http://arxiv.org/abs/2609.05276v1)
-- **作者:** Jun Wu, Walter Kob, Yujie Wang, Zhen Zhang
-- **研究目的:** 建立玻璃物理学中静态结构与异构弛豫动力学之间 robust 且具物理解释性的联系。
-- **主要发现:** 引入了一种基于 conventional two-body excess entropy 的加权对熵描述符，通过引入物理相关的结构长度尺度，显著提高了对长时粒子级动力学倾向性的预测能力。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Thermoelectric properties of metal-semiconductor percolation composites](http://arxiv.org/abs/2609.05273v1)
-- **作者:** Oleksandr Porubaniyi, Sergii Tomko, Mihailo Cherkez, Viktor Podolskiy, Radion Cherkez
-- **研究目的:** 分析含有随机分布金属杂质的半导体复合材料的热电响应，特别是渗流跃迁附近的行为。
-- **主要发现:** 在渗流阈值附近，功率因子和热电优值强烈依赖于杂质的浓度和排列方式，并指出了在实际复合材料中增强功率因子的有利 regimes。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Diffusion under competing bulk and surface stopping mechanisms](http://arxiv.org/abs/2609.05247v1)
-- **作者:** Yilin Ye
-- **研究目的:** 研究在受指数分布体寿命和表面反应两种独立竞争停止机制约束的有界域中的反射扩散统计特性。
-- **主要发现:** 推导了停止时间和边界局部时间的边际分布及联合拉普拉斯变换，建立了恒等式 $p\langle T \rangle + q\langle L \rangle=1$，并证明累积风险服从指数分布。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [An Aeroelastic Solver Integrating Reformulated-Vortex-Particle and Finite-Element Methods across Non-Conforming Interfaces](http://arxiv.org/abs/2609.05243v1)
-- **作者:** Neeraj Balachandar, A. Padmaprabhan, Vishnu R. Unni
-- **研究目的:** 开发一个模块化流固耦合 aeroelastic 求解器，用于模拟柔性升力表面的双向流体-结构相互作用。
-- **主要发现:** 开发了 $\texttt{VarFlExI}$ 求解器，结合 rVPM 和 FEM 方法，通过显式交错分区方案确保非匹配界面功守恒，在水洞实验验证中展示了准确的耦合气动弹性响应及计算效率优势。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning interatomic potentials](http://arxiv.org/abs/2609.05233v1)
-- **作者:** Bumju Kwak, Jeonghee Jo
-- **研究目的:** 提出一种无需修改训练目标或扩展 autograd 图即可增强机器学习原子间势能（MLIP）Hessian 信息的异构构象数据增强方法。
-- **主要发现:** 提出了各向同性高斯位移（UniAug）和正则模式加权位移（ModeAug）两种基于Hessian的数据增强方案，无缝集成到现有架构中，显著提升了模型在非平衡和平衡数据集上的精度。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Robustness of RKKY interactions across a Weyl node-annihilation transition](http://arxiv.org/abs/2609.05219v1)
-- **作者:** João V. F. Alves, Joelson F. Silva, Luis G. G. V. Dias da Silva
-- **研究目的:** 研究时间反演对称性破缺的Weyl半金属中磁性杂质间RKKY相互作用在Weyl节点湮灭相变过程中的行为。
-- **主要发现:** RKKY交换耦合的空间分布、幅值和各向异性张量结构在节点湮灭相变中保持稳健，表明短程和中程相互作用由整个价带的全球量子度量介导，而非仅由低能Berry曲率单极子决定。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Screening bolt loosening in a four-bolt plate with global FRF correlation and local FRAC maps from full-field laser Doppler vibrometry](http://arxiv.org/abs/2609.05218v1)
-- **作者:** Berkay Kullukcu, Robin Pianowski, Mehmet Sait Özer, Ercan Altinsoy, Dina Hannebauer
-- **研究目的:** 利用全场激光多普勒测振技术建立的流程来筛选四螺栓铝板的螺栓松动情况。
-- **主要发现:** 通过将全局FRF失真与空间分辨解释相结合，成功区分了低、中、高畸变响应群以及局部紧凑关节中心变化与分布式FRF重分布，无需依赖训练分类器或 specimen-specific 节点标签。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Coarse-graining far-from-equilibrium dynamics using oblique projectors](http://arxiv.org/abs/2609.05217v1)
-- **作者:** Gerhard Jung
-- **研究目的:** 推广Mori-Zwanzig投影算子形式论，引入斜投影算子以粗粒化远离平衡态系统（如活性物质）的动力学。
-- **主要发现:** 斜投影算子正确地将粗粒化粒子的 Emergent 相互作用分解为系统性和随机性贡献，并成功预测了手性活性浴中被动示踪粒子的 Emergent 非平衡手性动力学及奇传输性质。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [FluxDisco: Symbolic Regression for Stoichiometric Dynamical Systems via Monte Carlo Graph Search](http://arxiv.org/abs/2609.05207v1)
-- **作者:** Cassandra Durr, Alvaro Köhn-Luque, Chris Jewell, Lloyd A. C. Chapman
-- **研究目的:** 开发一种物理信息框架 FluxDisco，用于从噪声数据中发现符合质量守恒的代谢通量动力学方程。
-- **主要发现:** 利用已知的化学计量矩阵减少表达式搜索空间，通过蒙特卡洛图搜索算法准确恢复了多种物理和生物系统的守恒动力学，生成的方程具有可解释性且遵守物理定律。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](http://arxiv.org/abs/2609.05202v1)
-- **作者:** Rita Cordeiro Mendes, Maria Rita Fonseca Verdelho, Carlos Santiago, Catarina Barata
-- **研究目的:** 介绍一个新的多中心、多模态和纵向肺癌数据集，以支持在现实条件下评估各种学习流水线。
-- **主要发现:** 该数据集包含1,365名患者的三种成像模态、临床数据和转录组数据，尽管存在严重的不均匀缺失，但多模态融合始终比单模态方法提高了生存预测性能。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Dynamical Reduction of Two Series Josephson Junctions to a Synthetic High-Transparency Josephson Element](http://arxiv.org/abs/2609.05192v1)
-- **作者:** Claudio Guarcello, Sergio Pagano, Carlo Barone, Alessandro Bruno, A. Mert Bozkurt, Giovanni Filatrella
-- **研究目的:** 研究两个串联约瑟夫森结在有限频率驱动下能否简化为一个具有可调透明度的单一合成高效约瑟夫森元件。
-- **主要发现:** 在低驱动频率下，完全电阻电容分流结方程与有效单元件描述高度一致；但随着驱动频率接近等离子体频率和幅度增大，出现显著偏差，给出了使用该简化描述的定量动力学准则。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Electrostatic splitting of an Edge Magnetoplasmon Resonator](http://arxiv.org/abs/2609.05188v1)
-- **作者:** Sloän Kouamé, Elric Frigerio, Giacomo Rebora, Suvankar Purkait, Yong Jin, Ulf Gennser, Antonella Cavanna, Jean-Marc Berroir, Emmanuel Baudin, Pascal Degiovanni, François D. Parmentier, Gwendal Fève, Gerbold C. Ménard
-- **研究目的:** 研究嵌入边缘磁等离子体谐振器中的量子点接触及其极化对传播磁等离子模式的影响。
-- **主要发现:** 通过静电门控确定了AlGaAs/GaAs二维电子气静电边缘的物理参数，提取了腔周长与量子点接触栅压的关系，并用几何模型完美表征了边缘磁等离子体的传播路径。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mtrl-sci, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Ni-O hybridization as a stabilizer for $s^{\pm}$ superconductivity in La$\_3$Ni$\_2$O$\_7$: a DFT+RPA study](http://arxiv.org/abs/2609.05185v1)
-- **作者:** Lauro B. Braz, Daniel D. Rivera, Emmanuel V. C. Lopes, George B. Martins, Gustavo M. Dalpian, Luis G. G. V. Dias da Silva
-- **研究目的:** 探究全谱模型中远离费米面的电子态对La$\_3$Ni$\_2$O$\_7$磁涨落和超导配对对称性的影响。
-- **主要发现:** 与低能描述相比，全谱模型增强了层间自旋涨落和对易磁不稳定性，有利于符号改变的 $s^\pm$ 超导态，而低能模型倾向于稳定d波配对，表明全能量模型中的层间耦合对配对对称性起关键作用。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Dipolar and quadrupolar spin supersolid states in a spin-1 triangular antiferromagnet](http://arxiv.org/abs/2609.05181v1)
-- **作者:** Yixuan Huang, Yuan Gao, Wei Li, Seiji Yunoki, Sadamichi Maekawa
-- **研究目的:** 使用DMRG方法系统研究外磁场下自旋-1三角晶格反铁磁海森堡模型中的量子相图。
-- **主要发现:** 识别出不同的偶极和四极自旋超固态，其特征是自发U(1)对称性破缺与共存的纵向平移对称性破缺，并提供了与非弹性中子散射实验直接相关的特征光谱签名。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Transparency-engineered SQUID cells for Kerr-free three-wave-mixing Josephson metamaterials](http://arxiv.org/abs/2609.05177v1)
-- **作者:** Claudio Guarcello, A. Mert Bozkurt, Carlo Barone, Giovanni Filatrella, Alessandro Bruno, Sergio Pagano
-- **作者:** Claudio Guarcello, A. Mert Bozkurt, Carlo Barone, Giovanni Filatrella, Alessandro Bruno, Sergio Pagano
-- **研究目的:** 设计一种用于克尔自由三波混合约瑟夫森超材料的透明度高工程 rf-SQUID 单元。
-- **主要发现:** 通过串联结的非对称性和磁通偏置独立控制SQUID势的局部展开，实现了四阶克尔项抑制而三阶非线性保持的工作点，为约瑟夫森行波参量放大器提供了紧凑的单元设计原理。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [What Photocurrent Versus Effective Voltage Tells Us About Charge Generation in Organic Solar Cells](http://arxiv.org/abs/2609.05170v1)
-- **作者:** Ardalan Armin, Austin M. Kay, Drew B. Riley, Oskar J. Sandberg, Paul Meredith
-- **研究目的:** 重新评估有机太阳能电池中通过光电流对有效电压作图提取激子解离概率和电荷生成效率的有效性和物理含义。
-- **主要发现:** 显示该方法返回的表观解离概率远低于 unity 即使是完全解离，它实际上仅报告短路电荷收集效率而非生成产额，因此建议不再使用此构造，特别是在高效非富勒烯受体体系中。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Neural-field design of broadband Rayleigh-wave carpet cloaks under microstructure realisability constraints](http://arxiv.org/abs/2609.05163v1)
-- **作者:** David Aznaurov, Davit Piliposyan, Danila Rukhovich, Sebastien Guenneau
-- **研究目的:** 在微结构可实现性约束下，利用神经场设计用于2D瑞利波的宽带地毯隐身斗篷。
-- **主要发现:** 将设计表述为由偏微分方程控制的优化问题，通过条件扩散和逆设计选择均质微结构，优化的Cauchy材料设计逼近理想变换光学斗篷，投影后的均质表示恢复了约97%的参考表面位移幅值。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft,cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft, cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Glassy dynamics, crossover temperature and density scaling in fragile glass-formers](http://arxiv.org/abs/2609.05159v1)
-- **作者:** Ankit Singh, Vinay Vaibhav, Swarn Lata Singh, Yashwant Singh
-- **研究目的:** 通过理论和大规模分子动力学模拟研究反向幂律势玻璃形成混合物中动力学的变慢行为。
-- **主要发现:** 识别出一个交叉温度 $T\_a$，证明弛豫动力学遵循密度-温度标度律，当以约化温度 $T/T\_a$ 绘图时，不同密度下的热力学和动力学量坍缩到主曲线，实现了从单状态点预测宽密度范围弛豫行为的统一描述。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery](http://arxiv.org/abs/2609.05140v1)
-- **作者:** Nazim-E-Alam
-- **研究目的:** 评估儿科肺炎分类深度学习模型在中国、孟加拉国和越南三个国家数据集间的跨数据集迁移能力。
-- **主要发现:** 跨国家数据集的偏移以不同方式影响了排名、概率校准和源定义决策行为；虽然少量标签校正可恢复敏感性，但特异性变化大，表明迁移研究应分别评估各个组件并量化操作负担。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Environment-assisted transport in a strongly correlated boundary-driven Fermi-Hubbard chain](http://arxiv.org/abs/2609.05137v1)
-- **作者:** Hakan Yeler, Özgür Çakır
-- **研究目的:** 研究与环境退相干耦合的一维Fermi-Hubbard链在非平衡稳态下的传输行为。
-- **主要发现:** 发现两种截然不同的退相干诱导传输增强 regimes：第一种涉及上Hubbard带内的重分布，第二种涉及Hubbard带间的跃迁，展示了多体关联如何塑造强关联开放系统中相干驱动、退相干和量子芝诺物理的相互作用。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.92"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Polarizable Embedding for Photoelectron Spectroscopy and Photoelectron Circular Dichroism in Solution: Core-Level Ionization of Aqueous Alanine](http://arxiv.org/abs/2609.05135v1)
-- **作者:** Giovanni Nottoli, Piero Decleva. Chiara Cappelli
-- **研究目的:** 开发用于计算溶液中分子光电离观测量的极化QM/MM公式，并应用于水溶液中的丙氨酸。
-- **主要发现:** 提出的方法与波动电荷力场自洽耦合，计算出的X射线光电子谱和圆二色谱与实验轮廓高度吻合，证明原子溶剂结构和环境极化必须同时处理才能可靠模拟水溶液中的光电离观测。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Coarse-Graining Hidden Representations: Unsupervised Neuron Selection via Mapping Entropy](http://arxiv.org/abs/2609.05126v1)
-- **作者:** Margherita Mele, Andrea Castagna, Roberto Menichetti, Raffaello Potestio, Alessandro Ingrosso
-- **研究目的:** 通过映射熵（ME）无监督地选择过参数化神经网络中重要的隐藏神经元。
-- **主要发现:** ME优化回收了最小教师一致表示，并在非高斯过程任务和MNIST上，ME选择的子网络在强压缩下优于同等大小的随机子集，将构型可区分性与预测性能联系起来。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.85"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Symmetry-protected triplet Weyl complexes](http://arxiv.org/abs/2609.05120v1)
-- **作者:** Yun-Yun Bai, Ke-Xin Pang, Yan Gao, Weikang Wu, Shengyuan A. Yang
-- **研究目的:** 系统研究实现最小三重Weyl复合体（TWC）所需的对称性条件及其实现在材料中的可能。
-- **主要发现:** 筛选出仅允许 $\{1,1,2\}$ 和 $\{1,2,3\}$ 电荷幅值的TWC，首次提出 $\{1,2,3\}$-TWC并证明其在紧束缚模型中的存在，同时在手性碳同素异形体DZQH-C$\_{36}$中实现了 $\{1,1,2\}$-TWC 的 Electronic realization。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Measurements of Diffusion Coefficients of CO$\_{2}$ in 1-Butanol with a New Laminar Jet Apparatus and PFG-NMR, Pointing to Interfacial Mass Transfer Effects](http://arxiv.org/abs/2609.05086v1)
-- **作者:** Oliver Großmann, Sarah Mross, Jens Wagner, Kerstin Munnemann, Fabian Jirasek, Hans Hasse
-- **研究目的:** 使用新型层流喷射装置（LJA）和脉冲场梯度NMR测量CO$\_{2}$在1-丁醇中的扩散系数，并检查界面传质效应。
-- **主要发现:** LJA测得的Fick扩散系数系统性低于PFG-NMR自扩散系数，偏差无法用实验误差解释，假设存在由界面CO$\_{2}$富集引起的气液界面传质阻力。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [A locally ab initio computational framework for arbitrary incommensurate materials interfaces](http://arxiv.org/abs/2609.05082v1)
-- **作者:** Drake Niedzielski, Tomás A. Arias
-- **研究目的:** 构建一个可扩展的计算框架，用于任意非共格材料界面的局域第一性原理电子哈密顿量。
-- **主要发现:** 利用Wannier哈密顿量矩阵元的近视性，通过系统外推和插值跨层 registries，实现了无需庞大超胞即可保持第一性原理精度的转移性哈密顿量，成功复现了30°扭曲双层石墨烯的实验谱特征。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Engineering Giant Thermoelectric Performance through Electrode-Coupling Geometry and Magnetic Flux in Quasiperiodic Su-Schrieffer-Heeger Rings](http://arxiv.org/abs/2609.05078v1)
-- **作者:** Sridhar, Souvik Roy, Malay Bandyopadhyay
-- **研究目的:** 研究电极耦合几何和磁通对准周期SSH环相干热电输运的调控作用。
-- **主要发现:** 电极耦合几何作为调控量子干涉的有力参数，在最优磁通条件下，不对称耦合通过增强的能量过滤和抑制的电子热输运将热电优值ZT大幅提升至约90。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Impact of Data Loss in Postprocessing on Training and Inference of Quantum Neural Networks](http://arxiv.org/abs/2609.05060v1)
-- **作者:** Soraya V. Panambalom, Edoardo Altamura, Nick Chancellor, Jonte R. Hance
-- **研究目的:** 分析Qiskit中SamplerQNN后处理在大规模量子硬件上因假设错误导致的数据丢失对训练和推理的影响。
-- **主要发现:** 后处理滤波器在物理量子位空间导致85-99.6%的有效测量shots丢失，使推断准确度从0.94降至0.39，损失信号压缩22-27倍；提出的布局边际化修复已合并至代码库。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.98">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.98"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Bounds on Propagation Constants in Dielectric Gratings](http://arxiv.org/abs/2609.05052v1)
-- **作者:** Ehsan Faghihifar
-- **研究目的:** 建立无损介质衍射光栅模式归一化纵向传播常数的解析界限。
-- **主要发现:** 证明了正则模式的 $\beta^2 \le \varepsilon\_{\max}$，以及幽灵模式的 $\|\mathrm{Re}(\beta)\| \le \sqrt{\varepsilon\_{\max}}/2$，两者均由傅里叶级数形式的完全耦合矢量本征问题的性质直接导出。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries](http://arxiv.org/abs/2609.05030v1)
-- **作者:** A. Martinez-Garcia, J. J. Palacios, C. Sabater
-- **研究目的:** 开发一个Python图形界面ANT.UI，自动化构建用于NEGF-DFT量子输运计算的分子结几何结构。
-- **主要发现:** ANT.UI通过实时3D查看器和专用助手自动化了电极拉拔、表面扫描和旋转研究，将需要数天定制脚本的过程转变为点按工作流程，并兼容MD代码和可视化工具。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Fabrication-Aware Design of a Hybrid Metasurface-Bragg Mirror for Low-Noise Precision Optics](http://arxiv.org/abs/2609.05001v1)
-- **作者:** Mika Gaedtke, Christian Kranhold, Markus Walther, Falk Eilenberger, Stefanie Kroker, Thomas Siefke
-- **研究目的:** 设计一种结合制造鲁棒性、光学性能和热噪声降低的混合 metasurface-Bragg 反射镜。
-- **主要发现:** 引入的制造感知混合镜面设计在95%制造产率下非反射功率低于 $2.88\cdot10^{-4}$，对于ETpathfinder测试床，三层Bragg对将总堆栈非反射功率降至约6.4 ppm，热位移噪声谱密度估计为 $8.4\cdot10^{-21}\,\mathrm{m\,Hz^{-1/2}}$。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Fisher-information retention under local driving in non-Hermitian feed-forward chains](http://arxiv.org/abs/2609.04996v1)
-- **作者:** Qingrui Bai, Zhichao Li, Junlong Kou
-- **研究目的:** 量化非厄米前馈链中局部驱动硬件在定向建立过程中对费舍尔信息保留的权衡。
-- **主要发现:** 在共振前馈链中，各区间 site-local 保留因子之和精确为1；方向性将此单位向下游集中，导致单端口服务多站点时最坏站点保留指数衰减，为端口布局提供了准则。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Sub-2-Cycle, Terawatt Pulses via Double-Stage Multi-Pass Cell Compression of an Yb Laser](http://arxiv.org/abs/2609.04989v1)
-- **作者:** Victor Koltalo, Jaismeen Kaur, Louis Daniault, Antoine Cavagna, Mickael Allemand, Florent Pallas, Antoine Courjaud, Emilien Gontier, Cédric Sire, François Sylla, Rodrigo Lopez-Martens
-- **研究目的:** 报告一种基于Yb的太瓦级、亚2光学周期后压缩激光器系统。
-- **主要发现:** 通过双级多通池压缩，实现了6.2 fs脉冲（1.8光学周期）和1.4 TW峰值功率，这是迄今报道的 kHz 重复频率后压缩Yb激光器系统中的最高峰值功率。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci, physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Operando imaging of intercalation memory in MXenes](http://arxiv.org/abs/2609.04977v1)
-- **作者:** Franz Groebmeyer, Mohsen Beladi, Christoph G. Gruber, Ruocun Wang, Pol Salles, Nhu Quynh Nguyen, Jakub Drnec, Yury Gogotsi, Emiliano Cortes
-- **研究目的:** 利用原位成像技术揭示MXenes中层间嵌入动力学及循环诱导的结构记忆效应。
-- **主要发现:** 原位成像显示即使少量堆叠层也会引入显著动力学势垒，循环将纳米片分离为三种持久行为（可逆单层、恢复不全的重堆叠多层、自稳定 coherent 堆叠多层），揭示了控制后续嵌入的动力学记忆。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Nuclear quantum effects in the thermal conductivity of solid hydrogen](http://arxiv.org/abs/2609.04955v1)
-- **作者:** Hengtai Zheng, Zezhu Zeng, David E. Manolopoulos
-- **研究目的:** 计算固体正氢的热导率，并明确核量子效应在其中的作用。
-- **主要发现:** 仅当在平均力势中包含核量子效应、声子边界散射以及流体动力输运时，理论计算才能与实验热导率定量一致，低体温下热输运由集体 relaxon 模式主导。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Nonreciprocal plasmonic response of drift-biased two-dimensional metals](http://arxiv.org/abs/2609.04954v1)
-- **作者:** Gonzalo Álvarez-Pérez, Joel D. Cox
-- **研究目的:** 发展漂移偏置二维电子气的非局域电磁动力学框架，研究其等离子体色散和非互易性。
-- **主要发现:** 推导了Dirac和抛物线色散系统的漂移依赖电导率张量，发现抛物线2DEG在相同漂移参数下表现出比Dirac系统更强的非互易性，且响应由漂移与等离子体非局域性的相互作用决定。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Noise-Resilient Detection of Neuronal Spikes by a Hopf-Bifurcation Device](http://arxiv.org/abs/2609.04949v1)
-- **作者:** Jitendra Kumar, Roberto Fenollosa, Gonzalo Rivera-Sierra, So-Yeon Kim, Adam Armada-Moreira, Juan Bisquert, Michele Giugliano
-- **研究目的:** 演示基于工作在Hopf分叉附近的半导体负微分电阻（NDR）器件的物理弱信号检测器。
-- **主要发现:** 该器件能将弱模拟阈值穿越转换为全或无电压尖峰，在信噪比低至1/500时仍能可靠检测100 Hz分量，并在神经元记录中显著增强尖峰与背景噪声的区别，实现无时钟异步信号检测。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Global Fixed Point Potentials in the Abelian Higgs Model with $N$ flavors](http://arxiv.org/abs/2609.04938v1)
-- **作者:** Gergely Fejős, Shunsuke Yabunaka
-- **研究目的:** 使用功能重整化群研究 $d$ 维 $N$ 味阿贝尔Higgs模型中带电费固定点的存在性。
-- **主要发现:** 数值求解显示 $\epsilon$ 展开在 $d=3$ 时不可靠；全局固定点势表明临界风味数显著高于微扰处理结果，并在 $d=3$ 发现了富含多临界固定点的结构迹象。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft, physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions](http://arxiv.org/abs/2609.04929v1)
-- **作者:** Iason Andronis, Sharon Berkowicz, Mariia Filianina, Maddalena Bin, Robin Tyburski, Robert Bauer, Yuriy Chushkin, Federico Zontone, Michael Sprung, Wojciech Roseker, Fabian Westermeier, Felix Lehmkühler, Fivos Perakis
-- **研究目的:** 通过XPCS和WAXS区分过冷水-甘油溶液中液态转变与冰结晶过程。
-- **主要发现:** 观察到分子尺度液体结构的不连续变化和微区结构形成，动力学在此期间变慢并呈双曲线扩散，该液-液相分离转变发生在冰布拉格峰出现之前，支持旋节分解场景。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Relaxing Coherence Requirements on Laser Sources for Nanoscopy through Optical Fiber Technique](http://arxiv.org/abs/2609.04924v1)
-- **作者:** Kaifa Xin, Mengdie Hou, Ao Yang, Márton Gelléri, Hyun-Keun Lee, Antonio Virgilio Failla, Jiafeng Lu, Xianglong Zeng, Mischa Bonn, Jesper Lægsgaard, Xiaomin Liu
-- **研究目的:** 通过光纤技术降低纳米显像中对高相干性激光源的要求。
-- **主要发现:** 引入了光纤条件化矢量纳米聚焦，利用低成本二极管激光器和模式选择耦合器生成高质量的径向或方位角偏振CVB，其产生的焦点签名与参考激光器测量一致，降低了结构化光实验的门槛。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Derivation of the Sample-Size Scaling of TWO-NN Intrinsic-Dimension Estimates from Molecular Dynamics Trajectories](http://arxiv.org/abs/2609.04914v1)
-- **作者:** Riccardo Capelli
-- **研究目的:** 推导TWO-NN估计量在平滑流形数据上的大样本行为，以解释其样本量依赖性。
-- **主要发现:** 推导出最近邻距离随 $N^{-1/d}$ 缩放，平滑偏差产生 $N^{-2/d}$ 修正项；对丙氨酸二肽轨迹的测试表明，包含高阶修正的外推估计值紧密包围已知的几何维数24，解释了TWO-NN的强样本量依赖性。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Microkelvin resolution thermometry at the nanometre scale](http://arxiv.org/abs/2609.04907v1)
-- **作者:** Jack W. Hart, Soham Pal, Julien R. E. Roth, Katie Ninham, Abbie H. Aleksandrova, Xander Peetroons, Soumen Mandal, Oliver A. Williams, Gavin W. Morley, Mete Atature, Helena S. Knowles
-- **研究目的:** 开发高性能纳米温度计以在纳米尺度实现微开尔文分辨率的温度测量。
-- **主要发现:** 使用同位素纯化的双NV纳米金刚石和定制量子传感芯片，实现了682 $\mu$K的温度测量误差和低于50 mK/$\sqrt{\text{Hz}}$的灵敏度，直接观测到了DMSO在水中的放热混合引起的瞬态加热。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics,physics.comp-ph" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Frugal Effective Models for Nanophotonic Scattering: Optimizing Global Polarizability Matrices for Metasurface Design](http://arxiv.org/abs/2609.04863v1)
-- **作者:** Sofia Ponomareva, Peter R. Wiecha
-- **研究目的:** 构建一种自动化框架，通过优化全局极化率矩阵（GPM）模型，以找到能以用户定义的精度重现散射体响应且最精简的有效偶极子模型。
-- **主要发现:** 该方法通过迭代移除冗余偶极子并利用梯度优化调整其位置，实现了通常比全波仿真高出两个数量级的压缩因子，并成功用于无需周期性近似的大规模超表面优化设计。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [The elasticity of semiflexible polymers with reversible spontaneous curvature in two dimensions](http://arxiv.org/abs/2609.04856v1)
-- **作者:** Donghyeon Kim, Panayotis Benetatos
-- **研究目的:** 在二维空间中建立一个可解析的修正蠕虫状链模型，以研究具有可逆自发曲率的半柔性聚合物在拉伸或弯曲下的弹性响应。
-- **主要发现:** 研究发现，即使在弯曲刚度不变的情况下，可逆自发曲率也能提供依赖于系综（吉布斯与亥姆霍兹）的弹性机制，拉伸或弯曲会引发从自发曲率主导到熵弹性的交叉，且在弯曲刚度增加时可能出现重入转变。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Dead-zone-free free-induction-decay alkali-metal atomic magnetometer](http://arxiv.org/abs/2609.04847v1)
-- **研究目的:** 消除标量原子磁力仪中的检测盲区，开发一种高灵敏度的无盲区自由感应衰减（FID）磁力仪。
-- **主要发现:**通过在多通道腔内的原子池中加入反射镜将光束折叠成正交通路，成功消除了盲区，实现了全空间灵敏度优于 $80 \text{ fT/Hz}^{1/2}$，并在闭合回路模式下成功表征了磁场 slew rate。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.dis-nn,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.dis-nn, cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [On the Stability of the Polar Phase of Superfluid 3He in Nematic Aerogels](http://arxiv.org/abs/2609.04821v1)
-- **作者:** E. V. Surovtsev
-- **研究目的:** 研究向列型气凝胶中超流体 $^3\text{He}$ 的极性相在与磁性杂质散射引起的扰动下的稳定性。
-- **主要发现:** 当扰动同时破坏轴对称性和时间反演对称性时， realizes 具有最高转变温度的极性扭曲 A 相，并通过求解 Gor'kov 自洽方程的特征值问题揭示了这一现象。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics,physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics, physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [Modulation-Frequency Dependence of Spatial Resolution in Optical Correlation-Domain Reflectometry](http://arxiv.org/abs/2609.04818v1)
-- **作者:** Keisuke Motoda, Takaki Kiyozumi, Yosuke Mizuno
-- **研究目的:** 建立包含光源线宽 $\delta\nu$ 和接收器分辨率带宽 RBW $B$ 的光学相关域反射计（OCDR）理论模型，以解释空间分辨率随调制频率 $f\_m$ 的变化。
-- **主要发现:** 模型预测了两个区域：低 $f\_m$ 下空间分辨率 $\Delta z$ 大致与 $1/f\_m$ 成正比，而高 $f\_m$ 下 $\Delta z$ 趋近于由调制幅度 $\Delta f$ 决定的常数，实验结果验证了这两个区域之间的过渡。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [A Piecewise-Linear Approximation-based Energy-Efficient Error-Optimized Unsigned Square Rooter for Accuracy-Critical Applications](http://arxiv.org/abs/2609.04783v1)
-- **作者:** Prateek Goyal, Sujit Kumar Sahoo
-- **研究目的:** 开发一种基于分段线性近似的节能误差优化无符号平方根单元（EOSQR），以在硬件成本和计算精度之间取得平衡。
-- **主要发现:** EOSQR 在 Artix-7 FPGA 上实现，相比最先进的近似平方根器实现了最低的误差，并相比精确恢复数组平方根器分别实现了 61.91% 的资源节省、77.54% 的功耗节省和 53.11% 的延迟降低。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Orientation selection and superconducting properties of epitaxial Al on ferromagnetic semiconductor (In,Fe)As](http://arxiv.org/abs/2609.04744v1)
-- **作者:** Hirotaka Hara, Keita Ishihara, Masaaki Tanaka, Le Duc Anh
-- **研究目的:** 研究分子束外延生长的 Al 薄膜在应变 Fe 掺杂铁磁半导体 (In,Fe)As 层上的结构和超导特性。
-- **主要发现:** Al 单晶层表现出外延生长，取向随 (In,Fe)As 的面内晶格常数增大从 (110) 变为 (111)，且 Al 的临界磁场在 0.5 K 以下表现出异常下降，可能反映了与底层铁磁半导体的磁耦合。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [FUSION: a skill-based research agent for publicly obtainable nuclear-physics codes](http://arxiv.org/abs/2609.04742v1)
-- **作者:** Jin Lei
-- **研究目的:** 开发 FUSION，一个基于代码特定技能的研究智能体，以自动化获取、构建、运行和验证公开的可获得核物理代码。
-- **主要发现:** FUSION 涵盖了二十种核物理代码，包括光学模型、反应、核结构、裂变等，并在报告结果前必须复现规定的基准测试，同时附带了一个包含 61,167 页核物理文献的离线可搜索集合。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph,physics.chem-ph,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph, physics.chem-ph, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Activated carbon-assisted anionic dye decomposition using a dual-liquid post-double dielectric barrier discharge plasma reactor](http://arxiv.org/abs/2609.04734v1)
-- **作者:** Krishna V S, Surya, Mangilal Choudhary
-- **研究目的:** 利用双液后双介电屏障放电等离子体反应器和活性炭（AC）降解三元阴离子染料混合物。
-- **主要发现:** 活性炭颗粒在碱性溶液中而非酸性或中性溶液中显著提高了三元阴离子染料混合物的降解速率，降解机制涉及强氧化剂（羟基自由基）在活性炭表面的形成。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Thermodynamic learning](http://arxiv.org/abs/2609.04732v1)
-- **作者:** F. Corberi, S. dello Russo, G. Messuti, S. Scarpetta, L. Smaldone
-- **研究目的:** 探讨通过施加外部场（作为数据）来训练由哈密顿量完全确定的热力学系统以执行记忆和泛化任务的可能性。
-- **主要发现:** 在具有退火二分耦合的典型 Ising 系统中，结果表明系统即使在小尺寸下也具备优异的记忆能力和良好的泛化能力，且性能随系统尺寸增大而改善。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Voltage-embedded equivariant machine learning potential for open system simulations](http://arxiv.org/abs/2609.04696v1)
-- **作者:** Yiming Guan, Rongzhi Gao, ChiYung Yam, GuanHua Chen, Ziyang Hu
-- **研究目的:** 开发一种嵌入电压偏置的 E(3) 等变图神经网络，以模拟开放系统的非平衡电化学界面。
-- **主要发现:** 该模型将系统能量和力解耦为零偏置和偏置依赖贡献，仅用有限的离散偏置数据训练即可实现高预测精度和鲁棒的外推迁移性，成功捕捉了锂/水界面处水分子的场诱导动态重取向。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-04" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [A class of high-order discontinuous-Galerkin methods satisfying infinitely many entropy conditions with provable error estimates and strong convergence for general nonlinear conservation laws](http://arxiv.org/abs/2609.04687v1)
-- **作者:** Yuanzhe Wei, Chi-Wang Shu
-- **研究目的:** 提出基于算子半群的半离散不连续伽辽金（DG）方法新框架，以构造满足无限多个局部熵不等式的高阶方案。
-- **主要发现:** 证明了光滑解的最优误差估计，并通过紧性论证证明了严格凸守恒律的不连续解的强收敛性，将方案推广到了任意空间维度的守恒律系统。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.app-ph" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [4 MV/cm (010) $\beta$-Ga$\_2$O$\_3$ Heterojunction Diodes Realized by Low-Damage e-Beam NiO$\_x$ Interlayers](http://arxiv.org/abs/2609.04655v1)
-- **作者:** Carl Peterson, Yizheng Liu, Chinmoy Nath Saha, Rachel Kahler, Akhila Mattapalli, Sriram Krishnamoorthy
-- **研究目的:** 利用低损伤电子束 NiO$\_x$ 沉积工艺实现 (010) $\beta$-Ga$\_2$O$\_3$ 上的场平板异质结二极管（FP-HJDs）。
-- **主要发现:** 器件实现了超过 4 MV/cm 的临界击穿场强和 >1 GW/cm$^2$ 的功率品质因数（PFOM），这是 MOCVD 生长的 (010) 漂移层二极管的领先水平，归功于 7 nm 电子束 NiO$\_x$ 阻挡层消除了溅射诱导的离子损伤。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Enhanced Multifractality Induced by Non-Hermitian Disorder in Quantum Percolation](http://arxiv.org/abs/2609.04625v1)
-- **作者:** W. S. Oliveira, Julian Faundez, Rodrigo Arouca, Welles Morgado
-- **研究目的:** 研究二维量子位点渗流模型中几何稀释与非厄米 disorder（随机虚 onsite 势能）的相互作用。
-- **主要发现:** 非厄米 disorder 将量子渗流阈值 $p\_q$ 推向更大的占据概率，抑制了完全离域相，这种抑制比同等强度的实势更强，并在经典阈值 $p\_c$ 和量子阈值之间增强了真实的多分形临界相，同时保持了量子渗流转变的普适类不变。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Elastic turbulence in straight confined geometries](http://arxiv.org/abs/2609.04617v1)
-- **作者:** Giulio Foggi Rota, Daulet Izbassarov, Aditya Tekriwal, Marco Edoardo Rosti
-- **研究目的:** 调查直 confined 几何结构（如管道和 ducts）中的弹性湍流（ET）现象及其 onset 机制。
-- **主要发现:** 报告了在 ducts 和管道中均观察到持续的混沌动力学，对应于理想化设置中识别的相同 ET 态，确立了 ET 作为一种几何无关的吸引子，并指出了管道中存在独特的转变机制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-04" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-04</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage](http://arxiv.org/abs/2609.04605v1)
-- **作者:** Gom Dorji, Sonam Peden, Syed Faraz Hasan, Kondo-Francois Aguey-Zinsou, Tanveer Hussain
-- **研究目的:** 通过密度泛函理论（DFT）研究 Li, Na, K 功能化的二维 C5N 单层用于储氢的性能。
-- **主要发现:** 碱金属功能化显著增强了 C5N 的储氢能力，每个掺杂剂可吸附多达 8 个 H$\_2$ 分子，Li-, Na-, K-功能化的 C5N 分别达到了 9.42, 8.61, 和 7.93 wt% 的重力储氢容量，且吸附能适宜于可逆存储。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [A discrete crack-tip theory for nonlinear lattice networks](http://arxiv.org/abs/2609.04568v1)
-- **作者:** Jiabin Liu, Shaoting Lin, Juntao Huang
-- **研究目的:** 为具有非线性链的晶格网络开发离散裂纹尖端的理论，以描述软材料和architected材料中的变形局域化。
-- **主要发现:** 建立了层依赖的应变放大因子 $k\_i$ 和离散 HRR 线上的双区域缩放定律，预测了与经典连续介质 HRR 不同的内层离散 regime ($\varepsilon\_i \sim i^{-1/p}$)，并通过光弹性水凝胶实验验证了该理论。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Structural tuning of reduced exciton mass in layered HOIP compounds: Causation vs. correlation](http://arxiv.org/abs/2609.04558v1)
-- **作者:** Isaac R. Burkholder, Cindy Y. Wong, André Schleife, Kameron R. Hansen, John S. Colton, Branton J. Campbell
-- **研究目的:** 区分层状 HOIP 化合物中框架畸变与还原激子质量 $\mu$ 之间的因果关系与相关性。
-- **主要发现:** 通过独立改变对称模式振幅并进行 DFT 计算，发现赤道卤素原子的键横向位移增加 $\mu$，而轴向卤素原子的键横向位移减少 $\mu$，键轴向位移影响甚微，揭示了新的结构-性质关系。
-</section>
-
-<section class="paper-summary" data-categories="physics.atm-clus" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.atm-clus</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [X-ray photoelectron spectroscopy of Ar and Kr clusters formed in He nanodroplets](http://arxiv.org/abs/2609.04553v1)
-- **作者:** N. S. Blaj, N. Scheel, R. Rajni, A. Ø. Lægdsmand, J. Sadasivan, S. De, S. R. Krishnan, J. Bozek, A. R. Milosavljević, M. Mudrich
-- **研究目的:** 报告超流氦纳米液滴（HND）内形成的 Ar 和 Kr 团簇的首次软 X 射线光电子能谱（XPS）测量。
-- **主要发现:** 在高掺杂 regime 下，电子光谱显示出特征性的自由 Ar 和 Kr 原子及团簇特征，Kr 团簇光谱与裸 Kr 团簇的文献数据吻合良好，表明观察到的光谱源自几乎裸露的团簇，氦已在团簇聚集过程中蒸发。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates](http://arxiv.org/abs/2609.04532v1)
-- **作者:** W. He, X. Guo, X. Luo, J. Thomas, J. Sears, Sophia F. R. TenHuisen, Ziqiang Guan, Xinglong Chen, D. A. Dahlbom, B. Zager, J. Peliciari, Yi-Feng Zhao, H. LaBollita, Hong Zheng, M. K. Lajer, J. F. Mitchell, V. Bisogni, A. S. Botana, M. Mitrano, S. Johnston, M. P. M. Dean
-- **研究目的:** 比较 La$\_3$Ni$\_2$O$\_7$ 的两种多形体（单层-三层 LNO-1313 和双层 LNO-2222）及相关三层化合物 La$\_4$Ni$\_3$O$\_10$ 的电子、磁性和晶格相互作用。
-- **主要发现:** LNO-1313 和 La$\_4$Ni$\_3$O$\_10$ 表现出相似的电子、磁性和晶格激发，而 LNO-2222 具有独特特征；LNO-1313 具有较弱的轨道极化、增强的 3d$\_8\underline{L}$ 特征、减少的面外磁交换尺度以及更强的 EPC，为超导相关的低能物理提供了关键实验约束。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Crowding controls the scaling of bus frequency with demand](http://arxiv.org/abs/2609.04520v1)
-- **作者:** Siddharth Patwardhan, Şirag Erkol, Filippo Radicchi, Marc Barthelemy
-- **研究目的:** 分析全球城市公交路线频率与乘客需求之间的缩放关系，揭示拥挤对资源分配的影响。
-- **主要发现:** 发现了形式为 $f \sim (d/t)^\alpha$ 的稳健缩放定律，指数 $\alpha \in [1/2, 2/3]$，这是由于城市在固定运营预算下最小化总乘客等待时间并考虑拥挤所致，产生了频率主导（$\alpha=1/2$）和能力主导（$\alpha=2/3$）两个普遍 regime。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Explainable Multimodal Deep Learning Integrating Imaging and Clinical Data for Oral Potentially Malignant Disorder Detection](http://arxiv.org/abs/2609.04512v1)
-- **作者:** Ruilin You, Yihan Wang, Jiabin Chen, Cherie Wink, Petra Wilder-Smith, Rongguang Liang, Bofan Song
-- **研究目的:** 开发 M2-OPMDNet，一个整合白光和自发荧光口腔图像与结构化临床信息的可解释多模态深度学习框架，用于口腔潜在恶性疾病（OPMD）检测。
-- **主要发现:** M2-OPMDNet 取得了 0.952 的 AUC，优于单模态方法，SHAP 分析显示结构化临床变量对风险估计有实质性贡献并补充了成像特征，证明了可解释多模态学习在口腔癌症筛查中的潜力。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Fractional-Order Adaptive Motion Magnification: Phase-Reliability Weighting for Noise-Constrained Video Amplification](http://arxiv.org/abs/2609.04502v1)
-- **作者:** Alejandro Garnung Menéndez
-- **研究目的:** 提出 FrAM（分数阶自适应运动放大），通过分数阶格林瓦尔德-莱特尼科夫导数和单色信号局部振幅权重来改进视频放大，以减轻传感器噪声放大。
-- **主要发现:** FrAM 在保持纹理区域放大效果的同时，将平坦区域的 temporal 噪声保持在输入水平，在八倍输入噪声范围内有效，因果重构将每帧成本降低两个数量级，在 640×480 分辨率下达到 69 fps。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,physics.comp-ph,physics.data-an" data-topics="atomic\_scale\_materials\_and\_simulation,microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, physics.comp-ph, physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Learning multistate kinetics with a variational multistate committor network](http://arxiv.org/abs/2609.04449v1)
-- **作者:** Chenyu Tang, Cheng Giuseppe Chen, Benoît Roux, Christophe Chipot
-- **研究目的:** 介绍变分多态 committor 网络（VMCN），一种从分子模拟数据中学习到达每个亚稳态概率的神经网络框架。
-- **主要发现:** VMCN 能够识别状态特异性承诺、候选转变区域以及 committor 一致的路径，并从有限时间滞后轨迹数据中估算态间动力学，成功应用于三重势阱、丙氨酸异构化和 V$\_{\text{o}}$ 结构域的 c-环旋转。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Development and Evaluation of Ultrasound Image Learning Pipelines for MASLD Risk Stratification](http://arxiv.org/abs/2609.04390v1)
-- **作者:** Guangyi Zhang, Xiaohong Wang, Eugene Cheah, Peng Guo, Brian A. Telfer, Theodore T. Pierce, Anthony E. Samir
-- **研究目的:** 开发并评估基于 B 模式和剪切波弹性成像（SWE）超声图像的深度学习流水线，用于代谢功能障碍相关脂肪性肝病（MASLD）的风险分层。
-- **主要发现:** 端到端 SWE 图像学习的性能与操作者引导的 SWE 相当，SWE 基于学习在纤维化分期方面 consistently 优于 B 模图像学习，对于 F≥3（进展性纤维化）的 AUROC 从 0.67 提高到 0.78（p=0.02）。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Ultrasound-Based Prediction of Cirrhosis Decompensation Using Large-Scale Computer Vision Models](http://arxiv.org/abs/2609.04365v1)
-- **作者:** Guangyi Zhang, Peiyun Ni, Eugene Cheah, Rajat Chandra, Peng Guo, Raymond T. Chung, Anthony E. Samir
-- **研究目的:** 利用大规模计算机视觉模型分析常规腹部超声图像，预测肝硬化失代偿的发生。
-- **主要发现:** 提出了一种结合自动化超声数据处理与现代深度学习架构的框架，能够识别传统实验室风险评分之外的预测特征，为失代偿前高危患者提供非侵入性策略，补充分现有的临床评分系统。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Cross-modal triage network: a multimodal deep learning framework for severity-based triage and visual explainability in chest radiographs](http://arxiv.org/abs/2609.04357v1)
-- **作者:** Zinah Ghulam, Richa Mittal, Eranga Ukwatta
-- **研究目的:** 开发跨模态分诊网络（CMTN），融合 Swin Transformer V2 视觉编码器和 PubMedBERT 文本编码器，用于胸部 X 光片（CXR）的严重性分诊和病理检测。
-- **主要发现:** CMTN 在四分位严重性分诊中实现了强大的 ordinal 一致性（QWK = 0.9341）和 0.9970 的 macro-AUROC，优于 BioViL 基线，但盲态临床审计显示其与放射科医生判断的一致性较低（QWK = 0.1399），强调了临床部署前需要放射科医生标注的真实地面真相。
-
----
-</section>
-
----
-
-## 生成说明
-- 本报告由AI模型自动生成
-- 每篇论文的总结包含研究目的和主要发现
-- 如有错误或遗漏请以原文为准
-</section>
-
-<section class="summary-day" data-summary-date="2026-09-04" markdown="1">
-<header class="summary-day-header"><h2>2026-09-04 研究摘要</h2><a href="summary_20260904_074804.html">打开当日独立页面 →</a></header>
-
-## 基本信息
-- 生成时间：2026-09-04 15:50:04
-- 使用模型：agnes-2.5-flash
-- 论文数量：78 篇
-
----
-
-## 论文总结
-
-<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mes-hall, cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Wavefunctions for Anyon Superconductors](http://arxiv.org/abs/2609.04187v1)
-- **作者:** Donghae Seo, Taegon Lee, Gil Young Cho
-- **研究目的:** 建立源于母体拓扑序的超导态的系统波函数描述，以解决任意子超导缺乏系统性波函数描述的问题。
-- **主要发现:** 开发了层级波函数构造方法，识别了非对角长程序、凝聚电荷等物理量，并证明层级波函数自然涌现于任意子希尔伯特空间表述的稀薄极限中。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Twin-photon generation in a silicon nitride microresonator](http://arxiv.org/abs/2609.04171v1)
-- **作者:** Franz Pacher, Haochen Yan, Alekhya Ghosh, Arghadeep Pal, Toby Bi, Hao Zhang, Lixing You, Hao Li, Daniela Salvoni, Shuangyou Zhang, Pascal Del'Haye
-- **研究目的:** 在硅氮化物微环谐振器中实现通信波段频率简并的孪光子源。
-- **主要发现:** 通过逆四波混频过程实现了孪光子源，并展示了该器件同时作为带 heralded 单光子源的功能，证实了集成平台上多种光子生成方案的可行性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft,cond-mat.dis-nn,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft, cond-mat.dis-nn, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Reciprocity can halve what a mechanical network can learn](http://arxiv.org/abs/2609.04169v1)
-- **作者:** Thai-Son Vu, Hoang-Giang Nguyen, Quoc-Bao Nguyen, Sengaloun Keoalounxay, Bao-Viet Tran
-- **研究目的:** 量化麦克斯韦-贝蒂互易性对可调机械网络学习能力的影响。
-- **主要发现:** 证明互易性将可达响应空间的余维限制为 $p(p-1)/2$，导致训练误差至少为目标矩阵反对称部分的范数，且奇耦合可恢复丢失的自由度但需外部力矩源。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [A Superconducting Peierls Instability](http://arxiv.org/abs/2609.04164v1)
-- **作者:** Pramodh Senarath Yapa, Joseph Maciejko, Frank Marsiglio, Annica M. Black-Schaffer
-- **研究目的:** 探索二维超导体边缘处类似一维金属中 Peierls 不稳定性的一种新机制。
-- **主要发现:** 发现安德烈夫束缚态中的博戈留波夫费米点导致超导科恩异常，进而产生边缘电荷密度波（PDW）并打开能隙，这是一种无需零能平带的新对称性破缺机制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Thermodynamic Concentration Inequalities: Controlling Uncertainty in Finite-Time and Small-Sample Thermodynamic Inference](http://arxiv.org/abs/2609.04162v1)
-- **作者:** Rick Bebon, Aljaž Godec
-- **研究目的:** 推导扩散过程中广义电流在非渐近时间或样本下的集中不等式，以控制热力学推断中的不确定性。
-- **主要发现:** 建立了由弛豫时间和耗散率控制的非渐近置信区间，揭示了平衡态内外的波动差异，并给出了轨迹长度和样本大小的定量判断标准。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [Spectral and Eigenvector Crossovers in Random Mixed Graphs](http://arxiv.org/abs/2609.04152v1)
-- **作者:** Himanshu Shekhar, Hrishidev Unni, Santosh Kumar, Anirban Chakraborti
-- **研究目的:** 研究随机混合图（无向与有向边组合）的谱性质及从高斯正交系综到高斯酉系综的交叉行为。
-- **主要发现:** 发现连接度和方向性共同决定谱统计的交叉，稠密图中存在 GOE-to-GUE 交叉，而在稀疏图中仅表现为泊松统计，该框架成功揭示了标普500指数在市场崩溃期间的谱变化。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Non-uniform quantum geometry stabilizes generalized Wigner crystals](http://arxiv.org/abs/2609.04149v1)
-- **作者:** Nicolás Morales-Durán, Tobias M. R. Wolf, Jingtian Shi, Tomohiro Soejima, Andrew J. Millis, Jennifer Cano
-- **研究目的:** 阐明莫尔材料中分数陈绝缘体与电子晶体之间的竞争机制。
-- **主要发现:** 发现量子几何控制的广义维格纳晶体电荷密度零点涨落是决定其相对稳定性的机制，提出了晶体-液体相边界的量子林德曼判据。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems](http://arxiv.org/abs/2609.04146v1)
-- **作者:** Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao
-- **作者:** Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao
-- **研究目的:** 提出一种适用于强关联系统多相的无偏假设波函数（HyperDet）。
-- **主要发现:** HyperDet 波函数在整个分数陈绝缘体相及邻近竞争相中均能达到超过 $99.9\%$ 的重叠率，并能从部分子层级提取拓扑数据和对称性投影类。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Strengthened Silicate Glasses by Residual Stress: Depth of Compression and Surface Flaws Stability Conditions](http://arxiv.org/abs/2609.04109v1)
-- **作者:** Guglielmo Macrelli
-- **研究目的:** 基于断裂力学框架评估表面残余压应力对硅酸盐玻璃强度及表面缺陷稳定性的影响。
-- **主要发现:** 利用权重函数法评估了非均匀残余应力场下的应力强度因子，建立了零风险和中等风险设计下的缺陷稳定性准则。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Hydrodynamics of two-dimensional electrons due to scattering by disorder](http://arxiv.org/abs/2609.04097v1)
-- **作者:** D. R. Raskulov, K. A. Baryshnikov, P. S. Alekseev
-- **研究目的:** 解释极低温下电子-电子散射较弱时仍观察到的 giant negative magnetoresistance 现象。
-- **主要发现:** 建立了包含记忆效应和非常规粘滞性的混合输运理论，成功解释了高纯度 GaAs 量子阱中零磁场电阻极大值的起源。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Extrinsic orbital Edelstein effect from asymmetric scattering](http://arxiv.org/abs/2609.04093v1)
-- **作者:** Sankar Sarkar, Koushik Ghorai, Amit Agarwal
-- **研究目的:** 阐明无序诱导的非对称散射对轨道埃德尔斯坦效应（OEE）的贡献。
-- **主要发现:** 在磁化 Rashba 二维电子气中，本征、侧跳和斜散射机制可显著超越本征贡献，且轨道磁化强度比自旋磁化强度大一个数量级。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Effective Hamiltonian description on monitored Majorana chains: correlated power-law hoppings and unconventional entanglement scaling](http://arxiv.org/abs/2609.04091v1)
-- **作者:** Ken Mochizuki, Hisanori Oshima, Ryusuke Hamazaki, Yohei Fuji
-- **研究目的:** 研究监测下一维马约拉纳链的有效哈密顿量结构及其纠缠标度行为。
-- **主要发现:** 发现有效哈密顿量具有非高斯关联的随机长程幂律跃迁，这种关联导致纠缠熵呈现 $[\ln(L)]^2$ 的异常标度，而非传统的 $\ln(L)$ 标度。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Monitoring antiproton numbers with a CMOS detector in a dense-track environment](http://arxiv.org/abs/2609.04078v1)
-- **作者:** C. Regenfus, P. Adrich, I. Belosevic, F. Benkel, M. Chung, P. Cladé, P. Comini, P. Crivelli, P. Debu, A. Douillet, S. Geffroy, S. Guellati-Khelifa, P. Guichard, P. -A. Hervieux, L. Hilico, P. Indelicato, S. Jonsell, J. -P. Karr, B. Kim, S. Kim, E. -S. Kim, N. Kuroda, B. Lee, L. Liszkay, D. Lunney, G. Manfredi, B. Mansoulié, V. Martimort, M. Matusiak, V. Nesvizhevsky, F. Nez, K. Park, N. Paul, E. Perez, P. Pérez, C. Roumegou, J. -Y. Roussé, F. Schmidt-Kaler, K. Szymczyk, T. A. Tanaka, B. Tuchming, D. -P. van der Werf, D. Won, S. Wronka, P. Yzombard
-- **研究目的:** 利用 CMOS 相机在密集径迹环境中精确测量 GBAR 实验中的反质子数量。
-- **主要发现:** 通过重建反质子湮灭产生的带电粒子簇，实现了高效率和低本底的反质子计数，最终误差约为 $10\%$。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.89">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Synthesis and Characterization of Compositionally Complex (Gd/Ho/Er/Dy)2Zr2O7 Thin Film Combinatorial Library](http://arxiv.org/abs/2609.04074v1)
-- **作者:** Dalton A. Pearl, Jade Holliman, Reece Emory, Joshua Safin, Aditya Raghavan, Kamyar Barakati, Andrew H. Jones, Ethan A. Scott, Jack C. Lasseter, Adam Corrao, Daniel Olds, Bruce Ravel, Sergei K. Kalinin, Patrick E. Hopkins, Katharine Page, Philip D. Rack
-- **研究目的:** 通过高通量合成与表征寻找具有优异热机械性能的复杂成分陶瓷热障涂层材料。
-- **主要发现:** 发现热导率的最小值出现在 Dy/Gd 富集区，并与最大实验晶格参数相关，表明氟石晶格适应成分复杂性的方式比阳离子尺寸无序更能描述热输运性质。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.88"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Quantum-Enhanced Phase Estimation with Photon-Added Even and Odd Coherent States in an SU(1,1) Interferometer](http://arxiv.org/abs/2609.04064v1)
-- **作者:** Abdelmajid El Maaroufi, Mouad Ait Maskour, Bouchra Maroufi, Mohammed Daoud, Saeed Haddadi
-- **研究目的:** 研究光子添加的偶/奇相干态在 SU(1,1) 干涉仪中的相位估计性能。
-- **主要发现:** 光子添加显著提高了相位灵敏度并接近海森堡极限，且随着添加光子数增加，偶态与奇态的优势差异逐渐减弱。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Topological Mixing and Braiding Universality in Polar Active Matter](http://arxiv.org/abs/2609.04062v1)
-- **作者:** Wei Feng, Tianyu Ren, Zhihan Ye, Jonas Berx, Guangyin Jing
-- **研究目的:** 建立活性物质宏观输运与微观拓扑纠缠之间的联系。
-- **主要发现:** 发现有限时间编织指数（FTBE）与有效扩散系数之间存在平方根标度关系，并将活性流体的自维持混合归类于路径编织普适类。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.96">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.96"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [A simple derivation of the zero-temperature BCS functional from the reduced BCS Hamiltonian](http://arxiv.org/abs/2609.04060v1)
-- **作者:** Christian Hainzl, Riccardo Panza
-- **研究目的:** 从约化 BCS 哈密顿量严格推导零温 BCS 泛函的有效性。
-- **主要发现:** 证明了精确基态能量与 BCS 泛函最小值之间仅相差体积无关的误差，从而确立了热力学极限下 BCS 变分原理的精确性。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Testbeam characterization of a 3D silicon sensor read out by Timepix4](http://arxiv.org/abs/2609.04042v1)
-- **作者:** E. Chatzianagnostou, M. J. Madurai, K. Akiba, D. Bacher, R. Bates, M. van Beuzekom, T. Bischoff, V. Coco, R. Dumps, T. Evans, K. Heijhoff, D. Johnson, U. Krämer, E. Lemos Cid, D. Oppenhuis, T. Pajero, E. Rodríguez Rodríguez, D. Rolf
-- **研究目的:** 测试 3D 硅传感器结合 Timepix4 ASIC 的探测性能。
-- **主要发现:** 在垂直入射下实现了 $245\,\mathrm{ps}$ 的时间分辨率和 $97\%$ 的探测效率，并在 $8^\circ$ 最优角度下获得了更高的效率和约 $7\,\mu\mathrm{m}$ 的空间分辨率。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Cutting corners: exciting and magical bounds from the cusp bootstrap](http://arxiv.org/abs/2609.04041v1)
-- **作者:** Ryan A. Lanzetta, Ian Moult, Yifan Wang
-- **研究目的:** 利用共形自举方法研究共形场论中线缺陷尖角的临界异常维度界限。
-- **主要发现:** 证明了共轭缺陷间尖角的能级交叉被禁止，并找到了解析“魔法”泛函，给出了直角裸尖角维度的普适下界。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn,cond-mat.str-el,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.87">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn, cond-mat.str-el, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.87"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Discrete time crystals in disordered anisotropic Heisenberg chains](http://arxiv.org/abs/2609.04037v1)
-- **作者:** Francesco Formicola, Grazia Di Bello, Antonio De Candia, Giulio De Filippis, Carmine Antonio Perroni
-- **研究目的:** 探索无序各向异性海森堡链中的离散时间晶体行为。
-- **主要发现:** 在强无序驱动系统中观察到了半频倍周期响应，并发现存在一个由弱相关动力学主导的中间动力学区间。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications](http://arxiv.org/abs/2609.04035v1)
-- **作者:** Lorenzo Bianchi, Andrea Cavaglià, A. David Gutiérrez, Stefanos R. Kousvos, Marco Meineri
-- **研究目的:** 分析共形场论中嵌入尖角缺陷线的算子展开与共形性质。
-- **主要发现:** 证明了尖角标度算符在共形变换下表现为初级算符，并推导了基于穿越方程的解析约束。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft, physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Mechanistic Framework for Multicomponent Nanoparticle Assembly: Predicting RNA-lipid and PEI-DNA nanoparticle assembly](http://arxiv.org/abs/2609.04029v1)
-- **作者:** Turash Haque Pial, Tine Curk
-- **研究目的:** 建立预测多组分纳米颗粒组装分布的计算建模框架。
-- **主要发现:** 提出的 Kinetic Monte Carlo 框架成功预测了 mRNA 脂质纳米颗粒的尺寸-载荷相关性以及 PEI-DNA 聚电解质复合物的化学计量分布。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.89">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics, physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function](http://arxiv.org/abs/2609.04027v1)
-- **作者:** Rajesh Chell, Marcin Gibas, Szymon Wójtewicz, Jakub Łasocha, Daniel Lisak, Agata Cygan
-- **研究目的:** 通过系统级检测传递函数校正腔衰荡光谱（CRDS）中的仪器失真，达到亚千分之一精度。
-- **主要发现:** 校正后不同系统的吸收线面积偏差收敛至亚千分之一水平，精度提升了 41-87 倍。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.88"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Hierarchical automation of scanning probe microscopy through agentic orchestration and algorithmic control](http://arxiv.org/abs/2609.04015v1)
-- **作者:** Boris N. Slautin, Sheryl L. Sanchez, Aidan Swanger, Yu Liu, Gerd Duscher, Vladimir V. Shvartsman, Mahshid Ahmadi, Sergei V. Kalinin
-- **研究目的:** 开发结合智能体推理与确定性算法的分层扫描探针显微镜自动化架构。
-- **主要发现:** 该架构在压电响应力显微镜中成功实现了从科学目标解释到实验执行的自主闭环，并能识别极化状态与畴壁邻近度之间的混淆关系。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.87">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.87"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [Stochastic Operator Inference for reduced-order modeling of capillary wave turbulence using experimental measurements](http://arxiv.org/abs/2609.04008v1)
-- **作者:** Hyeonghun Kim, Lei Zhang, James Friend, Boris Kramer
-- **研究目的:** 从实验数据中学习毛细波湍流的低维随机微分方程模型。
-- **主要发现:** 提出的随机算子推断框架结合 Tikhonov 正则化，能够忠实捕捉毛细波湍流的关键物理特征，并提供了模型维度的选择策略。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.86">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.86"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Quenched complexity of marginal states in the Sherrington--Kirkpatrick spin glass](http://arxiv.org/abs/2609.04006v1)
-- **作者:** Tiziana De Chirico, Luca Leuzzi
-- **研究目的:** 计算 Sherrington-Kirkpatrick 自旋玻璃中边缘态的淬火复杂度。
-- **主要发现:** 在一阶 replica symmetry breaking 下计算出淬火复杂度，发现最低的边缘态可能就是平衡态本身。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Designing corrugated surfaces to guide colloidal self-assembly](http://arxiv.org/abs/2609.04001v1)
-- **作者:** Dinesh Kumar Sahu, Jude Ann Vishnu, Lisa Shafroth, Martin Lenz, Olivia du Roure, Julien Heuvingh
-- **研究目的:** 通过设计胶体颗粒表面的微观拓扑结构来引导自组装形态。
-- **主要发现:** 通过调节表面各向异性相互作用，实现了二聚体、链状、之字形和蜂窝状等多种结构的定向组装。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.93">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.93"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Evolution of electron spin resonance through a metallic quantum critical phase diagram](http://arxiv.org/abs/2609.03994v1)
-- **作者:** Marc Scheffler, Jörg Sichelschmidt, Conrad Clauss, Mojtaba Javaheri Rahim, Boris I. Kochelaev, Cornelius Krellner, Christoph Geibel, Frank Steglich, Martin Dressel
-- **研究目的:** 利用宽频段电子自旋共振（ESR）探测重费米子金属 YbRh$\_2$Si$\_2$ 的量子临界相图。
-- **主要发现:** ESR g 因子和线宽在顺磁费米液体、反铁磁有序和量子临界区表现出截然不同的行为，且 g 因子随场和温度调谐至量子临界点表现出良好的一致性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.86">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.86"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter](http://arxiv.org/abs/2609.03991v1)
-- **作者:** Kingshuk Panja, Günther Turk, Rajesh Singh
-- **研究目的:** 研究边界条件和化学屏蔽对自泳活性物质集体动力学的影响。
-- **主要发现:** 发现了由边界和屏蔽诱导的新 bubbly 相（沸腾和爆裂气泡），并绘制了相图以指导微流控环境中的活性组装。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.89">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [Strongly anisotropic non-Kramers electron spin as a quantum coherence probe of angular fluctuations](http://arxiv.org/abs/2609.03989v1)
-- **作者:** Achuthan Manoj Kumar, Remy Dassonneville, Guillaume Gerbaud, Nolwenn Le Breton, Athanassios K. Boudalis, Patrice Bertet, Philippe Goldner, Sylvain Bertaina
-- **研究目的:** 利用强各向异性非克朗珀斯自旋作为量子相干探针来检测角 fluctuations。
-- **主要发现:** 发现机械振动引起的晶体轴角涨落是导致 Tb$^{3+}$ 自旋退相干的主要原因，并建立了包含该噪声谱密度的参数模型。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.91">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.91"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks](http://arxiv.org/abs/2609.03977v1)
-- **作者:** Ahmad Halimi Razlighi, Mohammad Siddiqur Rahman, Maximilian H. V. Tillmann, Edgar Beck, Armin Dekorsy
-- **研究目的:** 将协同多任务语义通信（CMT-SemCom）扩展至异构分类与回归任务。
-- **主要发现:** 基于信息最大化原则的 CMT-SemCom 在 Cityscapes 数据集上显著优于独立单任务训练和传统数字传输基准。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Three-observable measurement of the critical velocity in a paraxial superfluid of light flowing past a mobile impurity](http://arxiv.org/abs/2609.03948v1)
-- **作者:** T. Aladjidi, M. Baker-Rasooli, T. D. Ferreira, A. Bramati, M. Albert, Q. Glorieux, P. -É. Larré
-- **研究目的:** 测量傍轴光超流体流过移动杂质时的临界速度。
-- **主要发现:** 通过监测涡旋数、流体动力学位移和杂质速度三个可观测量，获得了一致且低于朗道准则的临界速度值。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.92">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.92"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models](http://arxiv.org/abs/2609.03947v1)
-- **作者:** Jiaqi Lv, Yijie Zhu, Saki Okada, Maxwell Stanley Renna, Robert Goldin, Stefan Antonowicz, Shan E Ahmed Raza
-- **研究目的:** 利用基础模型的知识蒸馏实现计算高效的病理组织分割。
-- **主要发现:** 从 Virchow2 教师模型蒸馏知识后，紧凑的学生网络在保持接近最先进性能的同时，推理吞吐量提高了十倍。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Diabatic Seam Space Sampling for Hydrogen Tunneling Systems with Nuclear-Electronic Orbital Theory](http://arxiv.org/abs/2609.03942v1)
-- **作者:** Joseph A. Dickinson, Eno Paenurk, Sharon Hammes-Schiffer
-- **研究目的:** 开发基于核电子轨道理论的氢隧穿系统非绝热 seam 空间采样方法。
-- **主要发现:** 提出的 V-SHAKE 方法能够有效采样守恒能量的分子构型，揭示了振动耦合随给受体距离变化的显著特性。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Electromechanical Domain Wall Propagation in Dielectric Elastomers: An Exact Geometric Resolution via Conformal Mapping](http://arxiv.org/abs/2609.03913v1)
-- **作者:** Yu-Xin Xie
-- **研究目的:** 通过共形映射建立介电弹性体畴壁传播的精确几何框架。
-- **主要发现:** 消除了场奇点并推导出了严格的拓扑质量项，证明了畴壁是连接两个鞍点的不对称异宿轨道。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Spin-to-polarization mapping with a coherent quantum dot-cavity receiver](http://arxiv.org/abs/2609.03910v1)
-- **作者:** Adrià Medeiros, Vincent Vinel, Eliott Rambeau, Petr Steindl, Elham Mehdi, Manuel Gundín, Clément Millet, Petr Stepanov, Niccolo Somaschi, Aristide Lemaître, Isabelle Sagnes, Olivier Krebs, Pascale Senellart, Dario A. Fioretto, Loïc Lanco
-- **研究目的:** 演示量子点-腔器件中自旋与光子偏振之间的一对一映射。
-- **主要发现:** 通过时间分辨偏振测量，以 $95\pm2\%$ 的保真度将电子自旋投影到本征态，并生成了两个与其对应的正交偏振态。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Hierarchy of topological superconductivity generated via heterostructures of unconventional $p$-wave magnets](http://arxiv.org/abs/2609.03907v1)
-- **作者:** Koushik R. Das, Arijit Saha
-- **研究目的:** 设计基于非常规 $p$-波磁体异质结的一阶和二阶拓扑超导相。
-- **主要发现:** 揭示了 $p$-波磁体参数调控平凡与非平凡拓扑超导相变的能力，并确定了手性Majorana边缘模式的存在条件。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.88">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.88"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3](http://arxiv.org/abs/2609.03888v1)
-- **作者:** Virginie de Mestral, Lorenzo Bastonero, Petr Bednyakov, Fedir Borodavka, Simon Mellaerts, Tetyana Ostapchuk, Alex Pescaru, Jiri Hlinka, Mathieu Luisier
-- **研究目的:** 结合实验测量改进铌酸钾钽（KTN）等电光材料的 Pockels 效应预测。
-- **主要发现:** 通过用远红外测量的软模频率替换 DFT 计算值，显著提高了 Pockels 系数的预测精度，突显了 KTN 作为高性能电光调制器的潜力。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Performance of Nanoring-based Transparent Conductors: a Computational Investigation](http://arxiv.org/abs/2609.03876v1)
-- **作者:** Gijs Vanoppen, Jef Hooyberghs, Wim Deferme, Bart Cleuren
-- **研究目的:** 计算研究纳米环网络的导电性、光学性能及电损伤失效行为。
-- **主要发现:** 发现特定参数组合下的纳米环网络性能优于氧化铟锡（ITO），且不同填充因子的网络在电损伤下表现出通用的降解曲线。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.86">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.86"><strong>研究方法:</strong> 计算 · 实验</span>
-</div>
-
-### [Plant Growth Estimation with a Camera-Based Vegetation Index Mapping System for Agricultural Ground Vehicles](http://arxiv.org/abs/2609.03872v1)
-- **作者:** Lukas Pindl, Michael Maier, Timo Oksanen
-- **研究目的:** 开发基于相机的植被指数映射系统以估算田间植物生长。
-- **主要发现:** 该系统利用 RTK-GNSS 和透视投影实现实时处理，能够过滤地面区域并准确反映植物生长的空间趋势。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Tunable Chern superconductivity of PtBi$\_2$ in slab geometry](http://arxiv.org/abs/2609.03867v1)
-- **作者:** Luca Ketmaier, Jeroen van den Brink, Ion Cosma Fulga
-- **研究目的:** 研究 slab 几何下 PtBi$\_2$ 的拓扑超导相及手性Majorana边缘模。
-- **主要发现:** 区分了平庸间隙与非平庸间隙的竞争性机制，并绘制了准二维极限下的相图。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Design Principles for Reproducible Networks](http://arxiv.org/abs/2609.03852v1)
-- **作者:** Jasper van der Kolk, Cory Glover, Albert-Lásló Barabási
-- **研究目的:** 建立保证网络唯一可重复组装的数学框架与设计原则。
-- **主要发现:** 提出了无图设计定理和引导组装概念，并在蛋白质复合物、分子和机器人等 3,618 个系统中验证了多样性-冗余边界。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Thermal Noise in Optical Coatings: A Rigorous Opto-Mechanical Comparison of Nanolaminates and Isotropic Mixtures](http://arxiv.org/abs/2609.03850v1)
-- **作者:** Vincenzo Pierro, Vincenzo Fiumara, Veronica Granata, Guerino Avallone
-- **研究目的:** 严格比较纳米多层膜与同光学功能的各向同性混合物在热噪声（机械耗散）方面的性能。
-- **主要发现:** 尽管纳米多层膜存在机械各向异性惩罚，但其有序结构通过优化高耗散相的体积分数，系统性地表现出比各向同性混合物更低的机械耗散。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.soft</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Tailoring Mechanical and Acoustic Properties of Liquid-Filled Elastomers as Reusable Ultrasound Couplants](http://arxiv.org/abs/2609.03835v1)
-- **作者:** Surojit Ranoo, Romain Fayolle, Jean Baudry, Nicolas Bremond
-- **研究目的:** 开发可作为可复用超声耦合剂的液态填充弹性体复合材料。
-- **主要发现:** 通过微胶囊化二醇和三醇，实现了机械和声学性能的独立调控，其中含 70% 甘油的材料表现出类似皮肤的软度和匹配的软组织声学特性。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det,physics.comp-ph" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Optimisation of importance sampling implementation in rare-event shielding simulations using Geant4](http://arxiv.org/abs/2609.03822v1)
-- **作者:** P. Knights, L. J. Milligan, K. Nikolopoulos
-- **研究目的:** 优化 Geant4 中用于稀有事件屏蔽模拟的重要性分层技术。
-- **主要发现:** 确定了最优层厚与粒子平均自由程的关系，在平衡相对不确定度和执行时间后， computational efficiency 提升了约 $\mathcal{O}(20)$ 倍。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures](http://arxiv.org/abs/2609.03795v1)
-- **作者:** Indrajit Maity, Arash A. Mostofi, Johannes Lischner, Ángel Rubio
-- **研究目的:** 揭示激子多重极矩对范德华异质结中声子量子态的控制机制。
-- **主要发现:** 发现偶极激子耦合产生相干声子，而四极激子耦合产生压缩声子，且外电场可实现两者之间的开关控制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets](http://arxiv.org/abs/2609.03772v1)
-- **作者:** Xing-Yao Guo, Chung-Yuen Chan, Zi-Ting Sun, Kam Tuen Law
-- **研究目的:** 探索在不允许手性对称性的反铁磁体中出现的 Heesch 节点线。
-- **主要发现:** 当镜面对称或旋转反演对称恢复时，连接相反拓扑电荷的 Weyl 点的 doubly degenerate 线（Heesch 节点线）出现，并预测了三阶非线性反常霍尔效应。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials](http://arxiv.org/abs/2609.03768v1)
-- **作者:** Fumihiro Imoto
-- **研究目的:** 利用多指标贝尔多项式高效计算物理信息神经网络中的高阶混合导数。
-- **主要发现:** 该方法避免了嵌套计算图，在七阶精度下准确计算混合导数及梯度，且在 CPU 上运行时无内存失败，显著优于标准自动微分方法。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging](http://arxiv.org/abs/2609.03764v1)
-- **作者:** Dennis Scheidt, Charlotte Voß, Cristian Rosero Arias, Santiago Saavedra Castano, Felix Matuschke, Roxana Koojimans, Katrin Amunts, Arturo Susarrey-Arce, Markus Axer
-- **研究目的:** 从散射光成像的 1D 线轮廓中提取大脑神经纤维的 3D 取向。
-- **主要发现:** 引入了 Rayleigh-Gans 散射理论的近似框架，能够从 1D 测量中恢复完整的 3D 纤维取向，并在玻璃幻影和脑组织样本中得到了验证。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors](http://arxiv.org/abs/2609.03744v1)
-- **作者:** Sonu Verma, Bashab Dey, Akashdeep Kamra
-- **研究目的:** 构建描述层状磁性半导体中 Wannier-Mott 激子与磁序耦合的统一最小模型。
-- **主要发现:** 提出了类似 s-d 模型的通用框架，并在 CrSBr 双层结构中验证，揭示了由自旋和层赝自旋组合形成的量子数守恒规律及亮/暗激子态。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [What Do CAE Simulation Agents Really Need Beyond a Generic Harness?](http://arxiv.org/abs/2609.03718v1)
-- **作者:** Jiasheng Shi, Tianhan Zhang
-- **研究目的:** 探究在具备通用工具链的情况下，CAE 仿真代理（Agent）除多智能体分解、领域检索和脚本化反思外，还需要什么能力才能高效工作。
-- **主要发现:** 单一智能体的通用工具链在保持信息访问和修复预算固定的情况下，表现优于或等同于多智能体专门系统（FoamBench 准确率达 96.4%），其中执行反馈修复是最大的提升因素，而领域知识（求解器教程）提供了最大的增益。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Fermi-Point Topology Determines Emergent Conformal Criticality in Extended Quantum Spin Chains](http://arxiv.org/abs/2609.03708v1)
-- **作者:** Mohammad Abbasi, Saeed Mahdavifar
-- **研究目的:** 建立一维量子系统中准粒子谱的动量空间拓扑与涌现共形场论（CFT）中心荷之间的微观联系。
-- **主要发现:** 揭示了费米点拓扑、共形临界性和量子纠缠之间的直接对应关系，证明有效中心荷由考虑晶格对称性后的独立低能连续统扇区数量和共形内容决定，而非简单地由能隙闭合或费米点数量决定。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Cross-Dataset Transfer and Reliability of Explainable Artificial Intelligence for RhythmFormer Remote Photoplethysmography](http://arxiv.org/abs/2609.03663v1)
-- **作者:** Louis Chen, Torbjörn E. M. Nordling
-- **研究目的:** 量化 RhythmFormer 远程光电容积脉搏波（rPPG）模型的解释性，并评估其跨数据集的可迁移性及与模型性能的关联性。
-- **主要发现:** "Beyond Intuition" 方法在两数据集上均表现最佳，但皮肤覆盖度和 SaCo 指标携带的信息与性能指标互补而非代理：归因于皮肤并不保证估计准确，且在下述条件下解释的有效性受限，如低光照下覆盖率大幅下降。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation](http://arxiv.org/abs/2609.03644v1)
-- **作者:** Fawad Ali, Carlos García, Lapo Boschi
-- **研究目的:** 通过 spectral-element 方法（SpecFEM3D）和伪谱方法（k-Wave）数值验证高频弹性及声波在生物介质（宽吻海豚头部解剖结构）中的传播模型。
-- **主要发现:** 成功在高性能计算（HPC）集群上交叉验证了两个求解器，在最高分辨率下两种方法在整个 20--100 kHz 频率范围内显示出优异的一致性（归一化相关系数超过 0.99），为生物介质波传播提供了经过验证的 HPC 仿真框架。
-</section>
-
-<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.optics</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Machine learning-assisted design and explainable optimization of CdSnP2-based integrated solar-photodetector devices](http://arxiv.org/abs/2609.03642v1)
-- **作者:** Md. Alamin Hossain Pappu, Kazi Abrar Shafin, Mainul Hossain, Jaker Hossain
-- **研究目的:** 利用混合机器学习（ML）辅助的 SCAPS-1D 框架设计和优化基于 CdSnP2 的集成太阳能电池-光电探测器器件。
-- **主要发现:** ML 指导下的优化确定了 n-CdS/p-CdSnP2 (CTP)/p+-CGS 架构为最优配置，引入 200 nm CGS BSF 层将效率从 20.67% 提升至 32.69%，SHAP 分析表明带偏移工程是支配器件性能的关键因素。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Spectral properties of deterministic matrices multiplied by rotationally invariant random non-Hermitian ensembles](http://arxiv.org/abs/2609.03618v1)
-- **作者:** Pierre Bousseyroux, Marc Potters
-- **研究目的:** 研究非厄米随机矩阵乘法变形 $\mathbf{A}\mathbf{B}$ 的谱性质，其中 $\mathbf{A}$ 为确定性矩阵，$\mathbf{B}$ 为旋转不变随机矩阵。
-- **主要发现:** 证明了当 $N\to\infty$ 时，复特征值分布的边界由仅涉及 $\mathbf{B}$ 的 $\mathcal{R}\_1$ 和 $\mathcal{R}\_2$ 变换的简单方程控制。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Frenkel line of Yukawa fluids within the self-consistent relaxation theory](http://arxiv.org/abs/2609.03606v1)
-- **作者:** Ilnaz I. Fairushin, Anatolii V. Mokshin
-- **研究目的:** 在自洽弛豫理论框架下定义 Yukawa 流体的动态交叉条件，即 Frenkel 线。
-- **主要发现:** 确定了声子色散关系中旋转极小值消失的热力学状态，所得 Frenkel 线参数与分子动力学模拟结果一致，并表明该线可直接从静态结构因子这一结构特征确定。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV,physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV, physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Neural-Network Maxent: a general extension with learned nonlinearity, applied to time-series for Desert Locust distribution modelling](http://arxiv.org/abs/2609.03603v1)
-- **作者:** Alessandro Grassi, Edoardo Kimani Bellotto, Wassim El Azami, Sabrina Outmani, Maximilien Houel
-- **研究目的:** 引入 RNN Maxent 模型，通过将固定特征字典替换为 GRU 神经网络，利用时间序列环境变量改善沙漠蝗虫栖息地分布建模。
-- **主要发现:** RNN Maxent 在保留 Maxent 统计基础的同时，通过从数据中学习非线性关系，显著提高了预测性能（ROC AUC 从 0.792 提升至 0.862，F1 分数从 0.590 提升至 0.671）。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
-</div>
-
-### [Reduced latent leakage does not reliably predict lower likelihood bias in collider inference](http://arxiv.org/abs/2609.03599v1)
-- **作者:** Tong Pan
-- **研究目的:** 测试在 Collider 推断中，通过减少潜在噪声分支的物理标签可读性来降低隐式泄漏，是否能可靠地预测更小的轮廓似然偏差。
-- **主要发现:** 尽管下游区分能力和任务性能得以保持，但隐性泄漏的减少与最大绝对轮廓偏差之间无显著相关性，表明隐性可读性是有用的路由诊断指标，但并非似然稳健性的证书。
-</section>
-
-<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.data-an</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [The Greedy Bump Bias: Local Profiling Geometry and the Look-Elsewhere Effect](http://arxiv.org/abs/2609.03581v1)
-- **作者:** Tommaso Dorigo
-- **研究目的:** 从局部几何角度统一理解信号拟合中的正向偏差（贪婪隆起偏差）和“看别处”效应（Look-Elsewhere Effect）。
-- **主要发现:** 证明了 genuine 信号峰值的曲率和高背景峰值涨落的曲率由相同的模板度量控制，通过将全局偏差分解为局部轮廓贡献和远程峰值竞争贡献，建立了连接两者的显式渐近关系。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Low stray-field ion pump configuration for cold atom experiments](http://arxiv.org/abs/2609.03570v1)
-- **作者:** Preeti Sharma, Luisa Loranca Cruz, Leonardo Ricci, Andrea Bertoldi
-- **研究目的:** 数值调查一种紧凑的低杂散场离子泵配置，旨在减少通过超高真空端口的磁通泄漏，以服务于冷原子实验。
-- **主要发现:** 结合辅助永磁体和软磁蜂窝场限幅器的组合配置，使距端口 10 mm 处的磁场降低了 97.9%，同时有效抽速仅下降 17.9%，证明了工程磁补偿和支持结构可在保持抽速的同时大幅降低杂散场。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
-</div>
-
-### [Sample-specific rectification-like response in a boundary-driven exclusion process](http://arxiv.org/abs/2609.03560v1)
-- **作者:** Issei Sakai, Takuma Akimoto
-- **研究目的:** 研究具有淬火位点无序的边界驱动对称排除过程的电流响应，特别是其在个体无序实现中的整流行为。
-- **主要发现:** 发现了样本特异性整流行为，其必要条件为平衡密度分布的空间反射对称性破缺；尽管系综平均电流保持反对称，但在连续分布的位点无序下，几乎所有无序实现都在接近平衡时表现出整流行为。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.other</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Magnetic Couplings in Half-Filled Bipartite Graphs](http://arxiv.org/abs/2609.03548v1)
-- **作者:** Georges Bouzerar
-- **研究目的:** 建立半填充二分网络中磁交换相互作用的非微扰泛化理论，突破传统微扰框架的限制。
-- **主要发现:** 提出了一种普适机制，能够描述任意二分图上的交换相互作用，为复杂晶格中的磁性提供了分析预测工具，并为下一代 2D 自旋电子器件中稳定长程有序的工程设计提供了关键原则。
-</section>
-
-<section class="paper-summary" data-categories="physics.comp-ph,cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.comp-ph, cond-mat.soft, physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [BU-MBAR: A hybrid solution strategy for the MBAR equations](http://arxiv.org/abs/2609.03541v1)
-- **作者:** Fabio Müller, Francesco Alesiani, Henrik Christiansen
-- **研究目的:** 提出一种新的 MBAR 方程求解策略（BU-MBAR），将其解释为加权直方图分析（WHAM）在无限小bin宽度下的极限，以实现稳定高效的收敛。
-- **主要发现:** 通过动态调整 bin 宽度，BU-MBAR 方法能够确保向渐近解的稳定且高效收敛，解决了即使在使用 GPU 加速时传统方法收敛不稳定或缓慢的问题。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation](http://arxiv.org/abs/2609.03535v1)
-- **作者:** Yinan Liu, Jiankang Hong, Zhen Gao, Ye Lu
-- **研究目的:** 提出 FreNet 框架，通过在编码前进行像素级重配置和在编码期间进行特征级重配置，结合视觉先验解决医学病灶分割中背景干扰和形态多样性的挑战。
-- **主要发现:** FreNet 通过隐式先验神经网络（IPNN）和双域特征重配置（DFR）模块，在 9 个医学图像分割基准上显著优于最先进方法，在 ETIS 数据集上 Dice 系数分别比 SOTA 和 SAM 提高了 5.0% 和 7.2%。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Doping dependence of local moments in infinite layer nickelates](http://arxiv.org/abs/2609.03388v1)
-- **作者:** Martin Gonzalez, Andreas Suter, Michal Kiaba, Thomas Prokscha, Zaher Salman, Marc Gabay, Harold Y. Hwang, Jennifer Fowlie
-- **研究目的:** 使用 $\mu$SR 技术系统研究无限层镍酸盐（(La,Sr)NiO$\_2$）系列中局域矩随掺杂的变化及其与超导的关系。
-- **主要发现:** 发现无论掺杂水平如何，局域矩都会在数十开尔文的温度下自旋冻结成玻璃态，且随空穴掺杂增加玻璃态略有失稳，表明磁性和超导主要是解耦的现象。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
-</div>
-
-### [Cascade coalescence dynamically sustains bubble retention near gas-evolving surfaces](http://arxiv.org/abs/2609.03387v1)
-- **作者:** Tao Wu, Bo Liu, Haohao Hao, Xuehua Zhang, Fang Yuan, Huanshu Tan, Qiang Yang
-- **研究目的:** 揭示在高气体通量下气泡在气体析出表面附近异常滞留的物理机制。
-- **主要发现:** 发现气泡滞留源于不等大小气泡间的级联聚并：上升气泡与附着的小气泡合并时产生不对称界面回缩和非抵消粘性应力，形成向下的净冲量；反复的级联聚并积累了足以对抗数倍于静力学浮力的稳态滞留力。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-03</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Multi-Angle Beam Scanning Transmission Electron Microscopy for Diffraction-Contrast-Free Magnetic Imaging](http://arxiv.org/abs/2609.03303v1)
-- **作者:** Akira Yasuhara, Zentaro Akase, Takumi Sannomiya
-- **研究目的:** 利用多角束 4D-STEM 技术消除衍射对比度，实现高灵敏度的无衍射对比磁场成像。
-- **主要发现:** 通过在 4D-STEM 框架内使用多孔光阑生成角度分布的多电子束，抑制了相关的晶体衍射对比度，直接从样品中提取高灵敏度的磁信息，并成功提取和解释了磁畴结构和畴壁。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, physics.comp-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Stochastic Tensor Contraction for Efficient MP2 Exchange](http://arxiv.org/abs/2609.03168v1)
-- **作者:** Jiace Sun, Garnet Kin-Lic Chan
-- **研究目的:** 将随机张量收缩（STC）应用于拉普拉斯变换 MP2 交换项的计算，以降低传统的 $O(N^5)$ 计算成本。
-- **主要发现:** 所提出的 STC 交换算法具有 $O(N^3)$ 的确定性设置成本和固定绝对误差下的 $O(N^2)$ 随机成本；在包含约 7000 个基函数的基准分子上，随机交换评估时间仅为完整 DF-MP2 计算的 1/270，使得 $O(N^4)$ 的直接贡献成为唯一显著成本。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="theory,experiment" data-primary-method="theory" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 实验</span>
-</div>
-
-### [Overlimiting Ion Transport and Reaction Limitations in Charged Porous Media](http://arxiv.org/abs/2609.03146v1)
-- **作者:** Arjun V. Yennemadi, Junghyun Yoon, Martin Z. Bazant
-- **研究目的:** 研究带电多孔介质中表面传导（SC）与耦合离子-电子转移（CIET）动力学之间的相互作用，特别是在过极限条件下的传输和反应限制。
-- **主要发现:** 推导了中性、正电和负电多孔介质的极限电流表达式，映射了欠极限到过极限的过渡；发现 SC 防止了反应离子的耗尽，从而恢复了对电荷转移动力学的极化曲线灵敏度，并成功拟合了 Cu 电沉积数据。
-</section>
-
-<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-02" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.app-ph</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
-</div>
-
-### [A Langmuir-Like Adsorption Model for MoS2 Gas Sensors: Bridging Theory and Experiment](http://arxiv.org/abs/2609.03108v1)
-- **作者:** Z. Geng, M. Ziegler, F. Schwierz
-- **研究目的:** 开发并应用一种基于 Langmuir 的吸附模型，以连接 MoS2 基气体传感器的理论吸附机理与实验器件响应。
-- **主要发现:** 该模型能够利用已知的吸附能和电荷转移数据准确复现 MoS2 气体传感器的实验灵敏度，成功桥接了 TMDC 气体传感器理论描述与实验性能之间的差距。
-</section>
-
-<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> eess.IV</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Beyond Blur: A Semantic Tri-view Pipeline for Teledermatology Gradability via Skin Micro-relief](http://arxiv.org/abs/2609.03095v1)
-- **作者:** Robert Engel
-- **研究目的:** 提出语义三视图管道，通过计算表皮微起伏作为图像质量的生物标志物，实现远程皮肤病学的自动分级筛查。
-- **主要发现:** 该解释性架构利用多视图聚合和逻辑回归分类器，在 SCIN 数据集上将优等的、光学明确的病例分级性能提升至 AUC 0.96（97.7% PPV），并能提供实时反馈以过滤不可分级的照片。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
-</div>
-
-### [Flux noise without flux tunability in superconducting qubits](http://arxiv.org/abs/2609.03059v1)
-- **作者:** Daniel Kruti, Roman-Pascal Riwar
-- **研究目的:** 基于法拉第效应的量子几何描述，推导一般磁源与薄膜超导结构的耦合，分析即使在没有磁通环的超导量子比特中磁通噪声的影响。
-- **主要发现:** 证明磁通噪声不仅导致退相干，还为量子比特品质因数设定了基本限制，即使在没有环的量子比特中亦然；若磁通噪声源于表面自旋，该品质因数限制可能很快达到，并提出了保品质因数的最小安全距离。
-</section>
-
-<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
-</div>
-
-### [Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling](http://arxiv.org/abs/2609.03044v1)
-- **作者:** Eslam Ibrahim, Yury Lysogorskiy, Ralf Drautz, Pablo M. Piaggi
-- **研究目的:** 结合从头算原子簇展开（ACE）势能和增强采样方法，模拟近中性 pH 下碳酸钙沉淀早期阶段中质子转移和碳酸盐物种相互作用的反应性过程。
-- **主要发现:** 模拟显示离子缔合为质子转移提供了有利途径，促进了碳酸盐、碳酸氢盐和碳酸之间的相互转化；在多离子体系中，质子转移与聚集自发同时发生，表明在溶液成核早期阶段离子聚集和化学反应性可以强烈耦合。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.dis-nn</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Nanoscale magnetometry via collective many-body dynamics in diamond](http://arxiv.org/abs/2609.03039v1)
-- **作者:** Haoyang Gao, Piotr Put, Nathaniel T. Leitao, Nazlı U. Köylüoğlu, Andrew Maccabe, Mathew Mammen, Siddharth Dandavate, Lillian B. Hughes Wyatt, Leigh S. Martin, Ania C. Bleszynski Jayich, Hongkun Park, Mikhail D. Lukin
-- **研究目的:** 利用室温金刚石中强相互作用电子自旋的集体多体动力学，实现纳米尺度磁传感的实际计量增益。
-- **主要发现:** 通过对 $\sim 10^4$ 氮空位（NV）中心的偶极阵列进行相干控制，实现了用于磁信号检测的 $7.9(2)\,\mathrm{dB}$ 和用于磁噪声检测的 $8.8(3)\,\mathrm{dB}$ 的实用计量增益，并展示了动量空间分辨的传感模式，可检测空间相关磁噪声。
-</section>
-
-<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> cond-mat.supr-con</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Direct Validation of Superconductivity through Contact-Free Detection of Persistent Supercurrents Using Room-Temperature Quantum Magnetometry](http://arxiv.org/abs/2609.02995v1)
-- **作者:** Xinyi Zeng, Chengzhen Qin, Bowen Fan, Hammad Ahmed, Hui Fang, Stuart Long, Xiaonan Shan, Jiefu Chen, Shoujun Xu, Liangzi Deng, Ching W. Chu, Jiming Bao
-- **研究目的:** 展示一种在室温下进行、无需电气接触的单步直接超导验证方法，通过检测剩磁超电流来识别超导转变。
-- **主要发现:** 该技术利用低温无液氦光泵原子磁力仪检测皮特斯拉级磁场，成功验证了 YBCO 微晶和 REBCO 带材，能够检测由地磁场感应的超电流，为高通量筛选和验证超导性提供了可扩展的非侵入式平台。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-02</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Toward High-Resolution Detection of Target Fragmentation: TEA-Sensitized NIT for Proton Therapy Applications](http://arxiv.org/abs/2609.02337v2)
-- **作者:** V. Boccia, T. Asada, A. Alexandrov, G. Ambrosi, S. Argirò, M. Barbanera, N. Bartosik, G. Battistoni, A. Bigot, M. G. Bisogni, G. Butella, F. Cavanna, P. Cerello, E. Ciarrocchi, N. D'Ambrosio, G. De Lellis, A. Di Crescenzo, B. Di Ruzza, M. Dondi, M. Donetti, Y. Dong, M. Durante, R. Faccini, V. Ferrero, C. Finck, E. Fiorina, M. Francesconi, M. Franchini, G. Franciosini, L. Galli, A. Iuliano, K. Kanxheri, B. Kharpuse, M. Kimura, S. Kodaira, A. C. Kraan, A. Lauria, E. Lopez Torres, T. Maggipinto, M. Magi, A. Manna, M. Marafini, S. Masci, M. Massa, C. Massimi, I. Mattei, S. Mazzolani, A. Mengarelli, A. Mereghetti, R. Mirabelli, A. Moggi, M. C. Montesi, M. C. Morone, M. Morrocchi, S. Muraro, T. Naka, N. Pastrone, V. Patera, F. Pennazio, C. Pisanti, P. Placidi, M. Pullia, F. Quattrini, S. Rabaglia, L. Ramello, C. A. Reidel, R. Ridolfi, L. Rocchetti, L. Sabatini, L. Salvi, C. Sanelli, A. Sarti, O. Sato, S. Savazzi, A. Schiavi, C. Schuy, E. Scifoni, L. Servoli, G. Silvestre, M. Sitta, K. Someya, B. Spadavecchia, R. Spighi, E. Spiriti, L. Testa, V. Tioukov, S. Tomassini, F. Tommasino, M. Toppi, G. Traini, A. Trigilio, G. Ubaldi, S. Valentinetti, M. Vanstalle, M. Villa, U. Weber, R. Zarrella, A. Zoccoli, G. Galati
-- **研究目的:** 通过替代化学敏化方法（Au-S 和 TEA）结合 GR-1 显影剂，提高纳米成像追踪器（NIT）的灵敏度，以实现对质子治疗应用中靶碎裂事件的高分辨率检测。
-- **主要发现:** 评估了经伽马射线、碳离子和质子（包括临床相关能量）照射后的探测器响应，证明了 TEA 敏化等替代方法能有效增强 NIT 对初级质子轨迹和高能次级质子的重建效率。
-</section>
-
-<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-01" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
-<div class="paper-summary-meta">
-  <span><strong>分类:</strong> physics.ins-det</span>
-  <span><strong>发布日期:</strong> 2026-09-01</span>
-  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
-</div>
-
-### [Time performance of USTC-IME LGAD under synchrotron light source focused X-ray](http://arxiv.org/abs/2609.00972v2)
-- **作者:** Tianao Wang, De Zhang, Zheng Liang, Chaozhi Li, Jiaqi Luo, Yu Nie, Tianshuo Yue, Zebo Tang, Hao Liang, Tongpu Yu, Wanbing He, Yanwen Liu
-- **研究目的:** 在上海同步辐射设施（SSRF）的聚焦 X 射线束下表征 USTC-IME 设计的低增益雪崩二极管（LGAD）的时间性能。
-- **主要发现:** LGAD 成功解析了 SSRF 的 2 ns 重复周期，采用波形级全局模板拟合和组合轮廓似然方法估计的时间分辨率为 126.6 ps；模拟研究了随机光子吸收深度对时间分辨率的影响。
-
----
 </section>
 
 ---
@@ -10222,6 +10431,1043 @@ title: ArXiv Summary Daily
 - **作者:** Jörg König, Christian Cierpka
 - **研究目的:** 引入双折射显微镜 (DRM)，一种通过双折射显微镜载玻片实现被动成像的多维超分辨率方法。
 - **主要发现:** DRM 利用双焦成像将纳米探针光分裂为编码 3D 位置、取向和光谱特征的镜像，无需对标准宽场显微镜进行硬件修改即可实现高取向敏感性和光谱读取，并在 $10\,\mu\text{m}$ 间隙内成功进行了双色 3D 定位测量。
+
+---
+</section>
+
+---
+
+## 生成说明
+- 本报告由AI模型自动生成
+- 每篇论文的总结包含研究目的和主要发现
+- 如有错误或遗漏请以原文为准
+</section>
+
+<section class="summary-day" data-summary-date="2026-09-04" markdown="1">
+<header class="summary-day-header"><h2>2026-09-04 研究摘要</h2><a href="summary_20260904_074804.html">打开当日独立页面 →</a></header>
+
+## 基本信息
+- 生成时间：2026-09-04 15:50:04
+- 使用模型：agnes-2.5-flash
+- 论文数量：78 篇
+
+---
+
+## 论文总结
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mes-hall, cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Wavefunctions for Anyon Superconductors](http://arxiv.org/abs/2609.04187v1)
+- **作者:** Donghae Seo, Taegon Lee, Gil Young Cho
+- **研究目的:** 建立源于母体拓扑序的超导态的系统波函数描述，以解决任意子超导缺乏系统性波函数描述的问题。
+- **主要发现:** 开发了层级波函数构造方法，识别了非对角长程序、凝聚电荷等物理量，并证明层级波函数自然涌现于任意子希尔伯特空间表述的稀薄极限中。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.92"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Twin-photon generation in a silicon nitride microresonator](http://arxiv.org/abs/2609.04171v1)
+- **作者:** Franz Pacher, Haochen Yan, Alekhya Ghosh, Arghadeep Pal, Toby Bi, Hao Zhang, Lixing You, Hao Li, Daniela Salvoni, Shuangyou Zhang, Pascal Del'Haye
+- **研究目的:** 在硅氮化物微环谐振器中实现通信波段频率简并的孪光子源。
+- **主要发现:** 通过逆四波混频过程实现了孪光子源，并展示了该器件同时作为带 heralded 单光子源的功能，证实了集成平台上多种光子生成方案的可行性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft,cond-mat.dis-nn,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft, cond-mat.dis-nn, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Reciprocity can halve what a mechanical network can learn](http://arxiv.org/abs/2609.04169v1)
+- **作者:** Thai-Son Vu, Hoang-Giang Nguyen, Quoc-Bao Nguyen, Sengaloun Keoalounxay, Bao-Viet Tran
+- **研究目的:** 量化麦克斯韦-贝蒂互易性对可调机械网络学习能力的影响。
+- **主要发现:** 证明互易性将可达响应空间的余维限制为 $p(p-1)/2$，导致训练误差至少为目标矩阵反对称部分的范数，且奇耦合可恢复丢失的自由度但需外部力矩源。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [A Superconducting Peierls Instability](http://arxiv.org/abs/2609.04164v1)
+- **作者:** Pramodh Senarath Yapa, Joseph Maciejko, Frank Marsiglio, Annica M. Black-Schaffer
+- **研究目的:** 探索二维超导体边缘处类似一维金属中 Peierls 不稳定性的一种新机制。
+- **主要发现:** 发现安德烈夫束缚态中的博戈留波夫费米点导致超导科恩异常，进而产生边缘电荷密度波（PDW）并打开能隙，这是一种无需零能平带的新对称性破缺机制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Thermodynamic Concentration Inequalities: Controlling Uncertainty in Finite-Time and Small-Sample Thermodynamic Inference](http://arxiv.org/abs/2609.04162v1)
+- **作者:** Rick Bebon, Aljaž Godec
+- **研究目的:** 推导扩散过程中广义电流在非渐近时间或样本下的集中不等式，以控制热力学推断中的不确定性。
+- **主要发现:** 建立了由弛豫时间和耗散率控制的非渐近置信区间，揭示了平衡态内外的波动差异，并给出了轨迹长度和样本大小的定量判断标准。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Spectral and Eigenvector Crossovers in Random Mixed Graphs](http://arxiv.org/abs/2609.04152v1)
+- **作者:** Himanshu Shekhar, Hrishidev Unni, Santosh Kumar, Anirban Chakraborti
+- **研究目的:** 研究随机混合图（无向与有向边组合）的谱性质及从高斯正交系综到高斯酉系综的交叉行为。
+- **主要发现:** 发现连接度和方向性共同决定谱统计的交叉，稠密图中存在 GOE-to-GUE 交叉，而在稀疏图中仅表现为泊松统计，该框架成功揭示了标普500指数在市场崩溃期间的谱变化。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Non-uniform quantum geometry stabilizes generalized Wigner crystals](http://arxiv.org/abs/2609.04149v1)
+- **作者:** Nicolás Morales-Durán, Tobias M. R. Wolf, Jingtian Shi, Tomohiro Soejima, Andrew J. Millis, Jennifer Cano
+- **研究目的:** 阐明莫尔材料中分数陈绝缘体与电子晶体之间的竞争机制。
+- **主要发现:** 发现量子几何控制的广义维格纳晶体电荷密度零点涨落是决定其相对稳定性的机制，提出了晶体-液体相边界的量子林德曼判据。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems](http://arxiv.org/abs/2609.04146v1)
+- **作者:** Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao
+- **作者:** Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao
+- **研究目的:** 提出一种适用于强关联系统多相的无偏假设波函数（HyperDet）。
+- **主要发现:** HyperDet 波函数在整个分数陈绝缘体相及邻近竞争相中均能达到超过 $99.9\%$ 的重叠率，并能从部分子层级提取拓扑数据和对称性投影类。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.92"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Strengthened Silicate Glasses by Residual Stress: Depth of Compression and Surface Flaws Stability Conditions](http://arxiv.org/abs/2609.04109v1)
+- **作者:** Guglielmo Macrelli
+- **研究目的:** 基于断裂力学框架评估表面残余压应力对硅酸盐玻璃强度及表面缺陷稳定性的影响。
+- **主要发现:** 利用权重函数法评估了非均匀残余应力场下的应力强度因子，建立了零风险和中等风险设计下的缺陷稳定性准则。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Hydrodynamics of two-dimensional electrons due to scattering by disorder](http://arxiv.org/abs/2609.04097v1)
+- **作者:** D. R. Raskulov, K. A. Baryshnikov, P. S. Alekseev
+- **研究目的:** 解释极低温下电子-电子散射较弱时仍观察到的 giant negative magnetoresistance 现象。
+- **主要发现:** 建立了包含记忆效应和非常规粘滞性的混合输运理论，成功解释了高纯度 GaAs 量子阱中零磁场电阻极大值的起源。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Extrinsic orbital Edelstein effect from asymmetric scattering](http://arxiv.org/abs/2609.04093v1)
+- **作者:** Sankar Sarkar, Koushik Ghorai, Amit Agarwal
+- **研究目的:** 阐明无序诱导的非对称散射对轨道埃德尔斯坦效应（OEE）的贡献。
+- **主要发现:** 在磁化 Rashba 二维电子气中，本征、侧跳和斜散射机制可显著超越本征贡献，且轨道磁化强度比自旋磁化强度大一个数量级。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Effective Hamiltonian description on monitored Majorana chains: correlated power-law hoppings and unconventional entanglement scaling](http://arxiv.org/abs/2609.04091v1)
+- **作者:** Ken Mochizuki, Hisanori Oshima, Ryusuke Hamazaki, Yohei Fuji
+- **研究目的:** 研究监测下一维马约拉纳链的有效哈密顿量结构及其纠缠标度行为。
+- **主要发现:** 发现有效哈密顿量具有非高斯关联的随机长程幂律跃迁，这种关联导致纠缠熵呈现 $[\ln(L)]^2$ 的异常标度，而非传统的 $\ln(L)$ 标度。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Monitoring antiproton numbers with a CMOS detector in a dense-track environment](http://arxiv.org/abs/2609.04078v1)
+- **作者:** C. Regenfus, P. Adrich, I. Belosevic, F. Benkel, M. Chung, P. Cladé, P. Comini, P. Crivelli, P. Debu, A. Douillet, S. Geffroy, S. Guellati-Khelifa, P. Guichard, P. -A. Hervieux, L. Hilico, P. Indelicato, S. Jonsell, J. -P. Karr, B. Kim, S. Kim, E. -S. Kim, N. Kuroda, B. Lee, L. Liszkay, D. Lunney, G. Manfredi, B. Mansoulié, V. Martimort, M. Matusiak, V. Nesvizhevsky, F. Nez, K. Park, N. Paul, E. Perez, P. Pérez, C. Roumegou, J. -Y. Roussé, F. Schmidt-Kaler, K. Szymczyk, T. A. Tanaka, B. Tuchming, D. -P. van der Werf, D. Won, S. Wronka, P. Yzombard
+- **研究目的:** 利用 CMOS 相机在密集径迹环境中精确测量 GBAR 实验中的反质子数量。
+- **主要发现:** 通过重建反质子湮灭产生的带电粒子簇，实现了高效率和低本底的反质子计数，最终误差约为 $10\%$。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.89">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Synthesis and Characterization of Compositionally Complex (Gd/Ho/Er/Dy)2Zr2O7 Thin Film Combinatorial Library](http://arxiv.org/abs/2609.04074v1)
+- **作者:** Dalton A. Pearl, Jade Holliman, Reece Emory, Joshua Safin, Aditya Raghavan, Kamyar Barakati, Andrew H. Jones, Ethan A. Scott, Jack C. Lasseter, Adam Corrao, Daniel Olds, Bruce Ravel, Sergei K. Kalinin, Patrick E. Hopkins, Katharine Page, Philip D. Rack
+- **研究目的:** 通过高通量合成与表征寻找具有优异热机械性能的复杂成分陶瓷热障涂层材料。
+- **主要发现:** 发现热导率的最小值出现在 Dy/Gd 富集区，并与最大实验晶格参数相关，表明氟石晶格适应成分复杂性的方式比阳离子尺寸无序更能描述热输运性质。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.88"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Quantum-Enhanced Phase Estimation with Photon-Added Even and Odd Coherent States in an SU(1,1) Interferometer](http://arxiv.org/abs/2609.04064v1)
+- **作者:** Abdelmajid El Maaroufi, Mouad Ait Maskour, Bouchra Maroufi, Mohammed Daoud, Saeed Haddadi
+- **研究目的:** 研究光子添加的偶/奇相干态在 SU(1,1) 干涉仪中的相位估计性能。
+- **主要发现:** 光子添加显著提高了相位灵敏度并接近海森堡极限，且随着添加光子数增加，偶态与奇态的优势差异逐渐减弱。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Topological Mixing and Braiding Universality in Polar Active Matter](http://arxiv.org/abs/2609.04062v1)
+- **作者:** Wei Feng, Tianyu Ren, Zhihan Ye, Jonas Berx, Guangyin Jing
+- **研究目的:** 建立活性物质宏观输运与微观拓扑纠缠之间的联系。
+- **主要发现:** 发现有限时间编织指数（FTBE）与有效扩散系数之间存在平方根标度关系，并将活性流体的自维持混合归类于路径编织普适类。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.96">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.96"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [A simple derivation of the zero-temperature BCS functional from the reduced BCS Hamiltonian](http://arxiv.org/abs/2609.04060v1)
+- **作者:** Christian Hainzl, Riccardo Panza
+- **研究目的:** 从约化 BCS 哈密顿量严格推导零温 BCS 泛函的有效性。
+- **主要发现:** 证明了精确基态能量与 BCS 泛函最小值之间仅相差体积无关的误差，从而确立了热力学极限下 BCS 变分原理的精确性。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Testbeam characterization of a 3D silicon sensor read out by Timepix4](http://arxiv.org/abs/2609.04042v1)
+- **作者:** E. Chatzianagnostou, M. J. Madurai, K. Akiba, D. Bacher, R. Bates, M. van Beuzekom, T. Bischoff, V. Coco, R. Dumps, T. Evans, K. Heijhoff, D. Johnson, U. Krämer, E. Lemos Cid, D. Oppenhuis, T. Pajero, E. Rodríguez Rodríguez, D. Rolf
+- **研究目的:** 测试 3D 硅传感器结合 Timepix4 ASIC 的探测性能。
+- **主要发现:** 在垂直入射下实现了 $245\,\mathrm{ps}$ 的时间分辨率和 $97\%$ 的探测效率，并在 $8^\circ$ 最优角度下获得了更高的效率和约 $7\,\mu\mathrm{m}$ 的空间分辨率。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Cutting corners: exciting and magical bounds from the cusp bootstrap](http://arxiv.org/abs/2609.04041v1)
+- **作者:** Ryan A. Lanzetta, Ian Moult, Yifan Wang
+- **研究目的:** 利用共形自举方法研究共形场论中线缺陷尖角的临界异常维度界限。
+- **主要发现:** 证明了共轭缺陷间尖角的能级交叉被禁止，并找到了解析“魔法”泛函，给出了直角裸尖角维度的普适下界。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn,cond-mat.str-el,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.87">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn, cond-mat.str-el, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.87"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Discrete time crystals in disordered anisotropic Heisenberg chains](http://arxiv.org/abs/2609.04037v1)
+- **作者:** Francesco Formicola, Grazia Di Bello, Antonio De Candia, Giulio De Filippis, Carmine Antonio Perroni
+- **研究目的:** 探索无序各向异性海森堡链中的离散时间晶体行为。
+- **主要发现:** 在强无序驱动系统中观察到了半频倍周期响应，并发现存在一个由弱相关动力学主导的中间动力学区间。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.94"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications](http://arxiv.org/abs/2609.04035v1)
+- **作者:** Lorenzo Bianchi, Andrea Cavaglià, A. David Gutiérrez, Stefanos R. Kousvos, Marco Meineri
+- **研究目的:** 分析共形场论中嵌入尖角缺陷线的算子展开与共形性质。
+- **主要发现:** 证明了尖角标度算符在共形变换下表现为初级算符，并推导了基于穿越方程的解析约束。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft, physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Mechanistic Framework for Multicomponent Nanoparticle Assembly: Predicting RNA-lipid and PEI-DNA nanoparticle assembly](http://arxiv.org/abs/2609.04029v1)
+- **作者:** Turash Haque Pial, Tine Curk
+- **研究目的:** 建立预测多组分纳米颗粒组装分布的计算建模框架。
+- **主要发现:** 提出的 Kinetic Monte Carlo 框架成功预测了 mRNA 脂质纳米颗粒的尺寸-载荷相关性以及 PEI-DNA 聚电解质复合物的化学计量分布。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics,physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.89">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics, physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function](http://arxiv.org/abs/2609.04027v1)
+- **作者:** Rajesh Chell, Marcin Gibas, Szymon Wójtewicz, Jakub Łasocha, Daniel Lisak, Agata Cygan
+- **研究目的:** 通过系统级检测传递函数校正腔衰荡光谱（CRDS）中的仪器失真，达到亚千分之一精度。
+- **主要发现:** 校正后不同系统的吸收线面积偏差收敛至亚千分之一水平，精度提升了 41-87 倍。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.88"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Hierarchical automation of scanning probe microscopy through agentic orchestration and algorithmic control](http://arxiv.org/abs/2609.04015v1)
+- **作者:** Boris N. Slautin, Sheryl L. Sanchez, Aidan Swanger, Yu Liu, Gerd Duscher, Vladimir V. Shvartsman, Mahshid Ahmadi, Sergei V. Kalinin
+- **研究目的:** 开发结合智能体推理与确定性算法的分层扫描探针显微镜自动化架构。
+- **主要发现:** 该架构在压电响应力显微镜中成功实现了从科学目标解释到实验执行的自主闭环，并能识别极化状态与畴壁邻近度之间的混淆关系。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.87">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.87"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Stochastic Operator Inference for reduced-order modeling of capillary wave turbulence using experimental measurements](http://arxiv.org/abs/2609.04008v1)
+- **作者:** Hyeonghun Kim, Lei Zhang, James Friend, Boris Kramer
+- **研究目的:** 从实验数据中学习毛细波湍流的低维随机微分方程模型。
+- **主要发现:** 提出的随机算子推断框架结合 Tikhonov 正则化，能够忠实捕捉毛细波湍流的关键物理特征，并提供了模型维度的选择策略。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.86">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.86"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Quenched complexity of marginal states in the Sherrington--Kirkpatrick spin glass](http://arxiv.org/abs/2609.04006v1)
+- **作者:** Tiziana De Chirico, Luca Leuzzi
+- **研究目的:** 计算 Sherrington-Kirkpatrick 自旋玻璃中边缘态的淬火复杂度。
+- **主要发现:** 在一阶 replica symmetry breaking 下计算出淬火复杂度，发现最低的边缘态可能就是平衡态本身。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.85">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.85"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Designing corrugated surfaces to guide colloidal self-assembly](http://arxiv.org/abs/2609.04001v1)
+- **作者:** Dinesh Kumar Sahu, Jude Ann Vishnu, Lisa Shafroth, Martin Lenz, Olivia du Roure, Julien Heuvingh
+- **研究目的:** 通过设计胶体颗粒表面的微观拓扑结构来引导自组装形态。
+- **主要发现:** 通过调节表面各向异性相互作用，实现了二聚体、链状、之字形和蜂窝状等多种结构的定向组装。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.93"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Evolution of electron spin resonance through a metallic quantum critical phase diagram](http://arxiv.org/abs/2609.03994v1)
+- **作者:** Marc Scheffler, Jörg Sichelschmidt, Conrad Clauss, Mojtaba Javaheri Rahim, Boris I. Kochelaev, Cornelius Krellner, Christoph Geibel, Frank Steglich, Martin Dressel
+- **研究目的:** 利用宽频段电子自旋共振（ESR）探测重费米子金属 YbRh$\_2$Si$\_2$ 的量子临界相图。
+- **主要发现:** ESR g 因子和线宽在顺磁费米液体、反铁磁有序和量子临界区表现出截然不同的行为，且 g 因子随场和温度调谐至量子临界点表现出良好的一致性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.86">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.86"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter](http://arxiv.org/abs/2609.03991v1)
+- **作者:** Kingshuk Panja, Günther Turk, Rajesh Singh
+- **研究目的:** 研究边界条件和化学屏蔽对自泳活性物质集体动力学的影响。
+- **主要发现:** 发现了由边界和屏蔽诱导的新 bubbly 相（沸腾和爆裂气泡），并绘制了相图以指导微流控环境中的活性组装。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.89">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.89"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [Strongly anisotropic non-Kramers electron spin as a quantum coherence probe of angular fluctuations](http://arxiv.org/abs/2609.03989v1)
+- **作者:** Achuthan Manoj Kumar, Remy Dassonneville, Guillaume Gerbaud, Nolwenn Le Breton, Athanassios K. Boudalis, Patrice Bertet, Philippe Goldner, Sylvain Bertaina
+- **研究目的:** 利用强各向异性非克朗珀斯自旋作为量子相干探针来检测角 fluctuations。
+- **主要发现:** 发现机械振动引起的晶体轴角涨落是导致 Tb$^{3+}$ 自旋退相干的主要原因，并建立了包含该噪声谱密度的参数模型。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.91">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.91"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Cooperative Multi-Task Semantic Communication for Joint Classification and Regression Tasks](http://arxiv.org/abs/2609.03977v1)
+- **作者:** Ahmad Halimi Razlighi, Mohammad Siddiqur Rahman, Maximilian H. V. Tillmann, Edgar Beck, Armin Dekorsy
+- **研究目的:** 将协同多任务语义通信（CMT-SemCom）扩展至异构分类与回归任务。
+- **主要发现:** 基于信息最大化原则的 CMT-SemCom 在 Cityscapes 数据集上显著优于独立单任务训练和传统数字传输基准。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Three-observable measurement of the critical velocity in a paraxial superfluid of light flowing past a mobile impurity](http://arxiv.org/abs/2609.03948v1)
+- **作者:** T. Aladjidi, M. Baker-Rasooli, T. D. Ferreira, A. Bramati, M. Albert, Q. Glorieux, P. -É. Larré
+- **研究目的:** 测量傍轴光超流体流过移动杂质时的临界速度。
+- **主要发现:** 通过监测涡旋数、流体动力学位移和杂质速度三个可观测量，获得了一致且低于朗道准则的临界速度值。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.92">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.92"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models](http://arxiv.org/abs/2609.03947v1)
+- **作者:** Jiaqi Lv, Yijie Zhu, Saki Okada, Maxwell Stanley Renna, Robert Goldin, Stefan Antonowicz, Shan E Ahmed Raza
+- **研究目的:** 利用基础模型的知识蒸馏实现计算高效的病理组织分割。
+- **主要发现:** 从 Virchow2 教师模型蒸馏知识后，紧凑的学生网络在保持接近最先进性能的同时，推理吞吐量提高了十倍。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.88"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Diabatic Seam Space Sampling for Hydrogen Tunneling Systems with Nuclear-Electronic Orbital Theory](http://arxiv.org/abs/2609.03942v1)
+- **作者:** Joseph A. Dickinson, Eno Paenurk, Sharon Hammes-Schiffer
+- **研究目的:** 开发基于核电子轨道理论的氢隧穿系统非绝热 seam 空间采样方法。
+- **主要发现:** 提出的 V-SHAKE 方法能够有效采样守恒能量的分子构型，揭示了振动耦合随给受体距离变化的显著特性。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.93">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.93"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Electromechanical Domain Wall Propagation in Dielectric Elastomers: An Exact Geometric Resolution via Conformal Mapping](http://arxiv.org/abs/2609.03913v1)
+- **作者:** Yu-Xin Xie
+- **研究目的:** 通过共形映射建立介电弹性体畴壁传播的精确几何框架。
+- **主要发现:** 消除了场奇点并推导出了严格的拓扑质量项，证明了畴壁是连接两个鞍点的不对称异宿轨道。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.94">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.94"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Spin-to-polarization mapping with a coherent quantum dot-cavity receiver](http://arxiv.org/abs/2609.03910v1)
+- **作者:** Adrià Medeiros, Vincent Vinel, Eliott Rambeau, Petr Steindl, Elham Mehdi, Manuel Gundín, Clément Millet, Petr Stepanov, Niccolo Somaschi, Aristide Lemaître, Isabelle Sagnes, Olivier Krebs, Pascale Senellart, Dario A. Fioretto, Loïc Lanco
+- **研究目的:** 演示量子点-腔器件中自旋与光子偏振之间的一对一映射。
+- **主要发现:** 通过时间分辨偏振测量，以 $95\pm2\%$ 的保真度将电子自旋投影到本征态，并生成了两个与其对应的正交偏振态。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.91">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.91"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Hierarchy of topological superconductivity generated via heterostructures of unconventional $p$-wave magnets](http://arxiv.org/abs/2609.03907v1)
+- **作者:** Koushik R. Das, Arijit Saha
+- **研究目的:** 设计基于非常规 $p$-波磁体异质结的一阶和二阶拓扑超导相。
+- **主要发现:** 揭示了 $p$-波磁体参数调控平凡与非平凡拓扑超导相变的能力，并确定了手性Majorana边缘模式的存在条件。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.88">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.88"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3](http://arxiv.org/abs/2609.03888v1)
+- **作者:** Virginie de Mestral, Lorenzo Bastonero, Petr Bednyakov, Fedir Borodavka, Simon Mellaerts, Tetyana Ostapchuk, Alex Pescaru, Jiri Hlinka, Mathieu Luisier
+- **研究目的:** 结合实验测量改进铌酸钾钽（KTN）等电光材料的 Pockels 效应预测。
+- **主要发现:** 通过用远红外测量的软模频率替换 DFT 计算值，显著提高了 Pockels 系数的预测精度，突显了 KTN 作为高性能电光调制器的潜力。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Performance of Nanoring-based Transparent Conductors: a Computational Investigation](http://arxiv.org/abs/2609.03876v1)
+- **作者:** Gijs Vanoppen, Jef Hooyberghs, Wim Deferme, Bart Cleuren
+- **研究目的:** 计算研究纳米环网络的导电性、光学性能及电损伤失效行为。
+- **主要发现:** 发现特定参数组合下的纳米环网络性能优于氧化铟锡（ITO），且不同填充因子的网络在电损伤下表现出通用的降解曲线。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,experiment" data-primary-method="computation" data-method-confidence="0.86">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.86"><strong>研究方法:</strong> 计算 · 实验</span>
+</div>
+
+### [Plant Growth Estimation with a Camera-Based Vegetation Index Mapping System for Agricultural Ground Vehicles](http://arxiv.org/abs/2609.03872v1)
+- **作者:** Lukas Pindl, Michael Maier, Timo Oksanen
+- **研究目的:** 开发基于相机的植被指数映射系统以估算田间植物生长。
+- **主要发现:** 该系统利用 RTK-GNSS 和透视投影实现实时处理，能够过滤地面区域并准确反映植物生长的空间趋势。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con,cond-mat.mes-hall" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con, cond-mat.mes-hall</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Tunable Chern superconductivity of PtBi$\_2$ in slab geometry](http://arxiv.org/abs/2609.03867v1)
+- **作者:** Luca Ketmaier, Jeroen van den Brink, Ion Cosma Fulga
+- **研究目的:** 研究 slab 几何下 PtBi$\_2$ 的拓扑超导相及手性Majorana边缘模。
+- **主要发现:** 区分了平庸间隙与非平庸间隙的竞争性机制，并绘制了准二维极限下的相图。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Design Principles for Reproducible Networks](http://arxiv.org/abs/2609.03852v1)
+- **作者:** Jasper van der Kolk, Cory Glover, Albert-Lásló Barabási
+- **研究目的:** 建立保证网络唯一可重复组装的数学框架与设计原则。
+- **主要发现:** 提出了无图设计定理和引导组装概念，并在蛋白质复合物、分子和机器人等 3,618 个系统中验证了多样性-冗余边界。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Thermal Noise in Optical Coatings: A Rigorous Opto-Mechanical Comparison of Nanolaminates and Isotropic Mixtures](http://arxiv.org/abs/2609.03850v1)
+- **作者:** Vincenzo Pierro, Vincenzo Fiumara, Veronica Granata, Guerino Avallone
+- **研究目的:** 严格比较纳米多层膜与同光学功能的各向同性混合物在热噪声（机械耗散）方面的性能。
+- **主要发现:** 尽管纳米多层膜存在机械各向异性惩罚，但其有序结构通过优化高耗散相的体积分数，系统性地表现出比各向同性混合物更低的机械耗散。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.soft" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.soft</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Tailoring Mechanical and Acoustic Properties of Liquid-Filled Elastomers as Reusable Ultrasound Couplants](http://arxiv.org/abs/2609.03835v1)
+- **作者:** Surojit Ranoo, Romain Fayolle, Jean Baudry, Nicolas Bremond
+- **研究目的:** 开发可作为可复用超声耦合剂的液态填充弹性体复合材料。
+- **主要发现:** 通过微胶囊化二醇和三醇，实现了机械和声学性能的独立调控，其中含 70% 甘油的材料表现出类似皮肤的软度和匹配的软组织声学特性。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det,physics.comp-ph" data-topics="electron\_microscopy\_and\_instrumentation,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Optimisation of importance sampling implementation in rare-event shielding simulations using Geant4](http://arxiv.org/abs/2609.03822v1)
+- **作者:** P. Knights, L. J. Milligan, K. Nikolopoulos
+- **研究目的:** 优化 Geant4 中用于稀有事件屏蔽模拟的重要性分层技术。
+- **主要发现:** 确定了最优层厚与粒子平均自由程的关系，在平衡相对不确定度和执行时间后， computational efficiency 提升了约 $\mathcal{O}(20)$ 倍。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures](http://arxiv.org/abs/2609.03795v1)
+- **作者:** Indrajit Maity, Arash A. Mostofi, Johannes Lischner, Ángel Rubio
+- **研究目的:** 揭示激子多重极矩对范德华异质结中声子量子态的控制机制。
+- **主要发现:** 发现偶极激子耦合产生相干声子，而四极激子耦合产生压缩声子，且外电场可实现两者之间的开关控制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets](http://arxiv.org/abs/2609.03772v1)
+- **作者:** Xing-Yao Guo, Chung-Yuen Chan, Zi-Ting Sun, Kam Tuen Law
+- **研究目的:** 探索在不允许手性对称性的反铁磁体中出现的 Heesch 节点线。
+- **主要发现:** 当镜面对称或旋转反演对称恢复时，连接相反拓扑电荷的 Weyl 点的 doubly degenerate 线（Heesch 节点线）出现，并预测了三阶非线性反常霍尔效应。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Computing high-order mixed derivatives in physics-informed neural networks using multi-index Bell polynomials](http://arxiv.org/abs/2609.03768v1)
+- **作者:** Fumihiro Imoto
+- **研究目的:** 利用多指标贝尔多项式高效计算物理信息神经网络中的高阶混合导数。
+- **主要发现:** 该方法避免了嵌套计算图，在七阶精度下准确计算混合导数及梯度，且在 CPU 上运行时无内存失败，显著优于标准自动微分方法。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging](http://arxiv.org/abs/2609.03764v1)
+- **作者:** Dennis Scheidt, Charlotte Voß, Cristian Rosero Arias, Santiago Saavedra Castano, Felix Matuschke, Roxana Koojimans, Katrin Amunts, Arturo Susarrey-Arce, Markus Axer
+- **研究目的:** 从散射光成像的 1D 线轮廓中提取大脑神经纤维的 3D 取向。
+- **主要发现:** 引入了 Rayleigh-Gans 散射理论的近似框架，能够从 1D 测量中恢复完整的 3D 纤维取向，并在玻璃幻影和脑组织样本中得到了验证。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.mtrl-sci,physics.optics" data-topics="materials\_and\_condensed\_matter,electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.mtrl-sci, physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors](http://arxiv.org/abs/2609.03744v1)
+- **作者:** Sonu Verma, Bashab Dey, Akashdeep Kamra
+- **研究目的:** 构建描述层状磁性半导体中 Wannier-Mott 激子与磁序耦合的统一最小模型。
+- **主要发现:** 提出了类似 s-d 模型的通用框架，并在 CrSBr 双层结构中验证，揭示了由自旋和层赝自旋组合形成的量子数守恒规律及亮/暗激子态。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [What Do CAE Simulation Agents Really Need Beyond a Generic Harness?](http://arxiv.org/abs/2609.03718v1)
+- **作者:** Jiasheng Shi, Tianhan Zhang
+- **研究目的:** 探究在具备通用工具链的情况下，CAE 仿真代理（Agent）除多智能体分解、领域检索和脚本化反思外，还需要什么能力才能高效工作。
+- **主要发现:** 单一智能体的通用工具链在保持信息访问和修复预算固定的情况下，表现优于或等同于多智能体专门系统（FoamBench 准确率达 96.4%），其中执行反馈修复是最大的提升因素，而领域知识（求解器教程）提供了最大的增益。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.str-el,cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.str-el, cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Fermi-Point Topology Determines Emergent Conformal Criticality in Extended Quantum Spin Chains](http://arxiv.org/abs/2609.03708v1)
+- **作者:** Mohammad Abbasi, Saeed Mahdavifar
+- **研究目的:** 建立一维量子系统中准粒子谱的动量空间拓扑与涌现共形场论（CFT）中心荷之间的微观联系。
+- **主要发现:** 揭示了费米点拓扑、共形临界性和量子纠缠之间的直接对应关系，证明有效中心荷由考虑晶格对称性后的独立低能连续统扇区数量和共形内容决定，而非简单地由能隙闭合或费米点数量决定。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Cross-Dataset Transfer and Reliability of Explainable Artificial Intelligence for RhythmFormer Remote Photoplethysmography](http://arxiv.org/abs/2609.03663v1)
+- **作者:** Louis Chen, Torbjörn E. M. Nordling
+- **研究目的:** 量化 RhythmFormer 远程光电容积脉搏波（rPPG）模型的解释性，并评估其跨数据集的可迁移性及与模型性能的关联性。
+- **主要发现:** "Beyond Intuition" 方法在两数据集上均表现最佳，但皮肤覆盖度和 SaCo 指标携带的信息与性能指标互补而非代理：归因于皮肤并不保证估计准确，且在下述条件下解释的有效性受限，如低光照下覆盖率大幅下降。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation](http://arxiv.org/abs/2609.03644v1)
+- **作者:** Fawad Ali, Carlos García, Lapo Boschi
+- **研究目的:** 通过 spectral-element 方法（SpecFEM3D）和伪谱方法（k-Wave）数值验证高频弹性及声波在生物介质（宽吻海豚头部解剖结构）中的传播模型。
+- **主要发现:** 成功在高性能计算（HPC）集群上交叉验证了两个求解器，在最高分辨率下两种方法在整个 20--100 kHz 频率范围内显示出优异的一致性（归一化相关系数超过 0.99），为生物介质波传播提供了经过验证的 HPC 仿真框架。
+</section>
+
+<section class="paper-summary" data-categories="physics.optics" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.optics</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Machine learning-assisted design and explainable optimization of CdSnP2-based integrated solar-photodetector devices](http://arxiv.org/abs/2609.03642v1)
+- **作者:** Md. Alamin Hossain Pappu, Kazi Abrar Shafin, Mainul Hossain, Jaker Hossain
+- **研究目的:** 利用混合机器学习（ML）辅助的 SCAPS-1D 框架设计和优化基于 CdSnP2 的集成太阳能电池-光电探测器器件。
+- **主要发现:** ML 指导下的优化确定了 n-CdS/p-CdSnP2 (CTP)/p+-CGS 架构为最优配置，引入 200 nm CGS BSF 层将效率从 20.67% 提升至 32.69%，SHAP 分析表明带偏移工程是支配器件性能的关键因素。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Spectral properties of deterministic matrices multiplied by rotationally invariant random non-Hermitian ensembles](http://arxiv.org/abs/2609.03618v1)
+- **作者:** Pierre Bousseyroux, Marc Potters
+- **研究目的:** 研究非厄米随机矩阵乘法变形 $\mathbf{A}\mathbf{B}$ 的谱性质，其中 $\mathbf{A}$ 为确定性矩阵，$\mathbf{B}$ 为旋转不变随机矩阵。
+- **主要发现:** 证明了当 $N\to\infty$ 时，复特征值分布的边界由仅涉及 $\mathbf{B}$ 的 $\mathcal{R}\_1$ 和 $\mathcal{R}\_2$ 变换的简单方程控制。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mtrl-sci,physics.chem-ph,physics.comp-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mtrl-sci, physics.chem-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Frenkel line of Yukawa fluids within the self-consistent relaxation theory](http://arxiv.org/abs/2609.03606v1)
+- **作者:** Ilnaz I. Fairushin, Anatolii V. Mokshin
+- **研究目的:** 在自洽弛豫理论框架下定义 Yukawa 流体的动态交叉条件，即 Frenkel 线。
+- **主要发现:** 确定了声子色散关系中旋转极小值消失的热力学状态，所得 Frenkel 线参数与分子动力学模拟结果一致，并表明该线可直接从静态结构因子这一结构特征确定。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV,physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV, physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Neural-Network Maxent: a general extension with learned nonlinearity, applied to time-series for Desert Locust distribution modelling](http://arxiv.org/abs/2609.03603v1)
+- **作者:** Alessandro Grassi, Edoardo Kimani Bellotto, Wassim El Azami, Sabrina Outmani, Maximilien Houel
+- **研究目的:** 引入 RNN Maxent 模型，通过将固定特征字典替换为 GRU 神经网络，利用时间序列环境变量改善沙漠蝗虫栖息地分布建模。
+- **主要发现:** RNN Maxent 在保留 Maxent 统计基础的同时，通过从数据中学习非线性关系，显著提高了预测性能（ROC AUC 从 0.792 提升至 0.862，F1 分数从 0.590 提升至 0.671）。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation,theory" data-primary-method="computation" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.90"><strong>研究方法:</strong> 计算 · 理论</span>
+</div>
+
+### [Reduced latent leakage does not reliably predict lower likelihood bias in collider inference](http://arxiv.org/abs/2609.03599v1)
+- **作者:** Tong Pan
+- **研究目的:** 测试在 Collider 推断中，通过减少潜在噪声分支的物理标签可读性来降低隐式泄漏，是否能可靠地预测更小的轮廓似然偏差。
+- **主要发现:** 尽管下游区分能力和任务性能得以保持，但隐性泄漏的减少与最大绝对轮廓偏差之间无显著相关性，表明隐性可读性是有用的路由诊断指标，但并非似然稳健性的证书。
+</section>
+
+<section class="paper-summary" data-categories="physics.data-an" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.data-an</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [The Greedy Bump Bias: Local Profiling Geometry and the Look-Elsewhere Effect](http://arxiv.org/abs/2609.03581v1)
+- **作者:** Tommaso Dorigo
+- **研究目的:** 从局部几何角度统一理解信号拟合中的正向偏差（贪婪隆起偏差）和“看别处”效应（Look-Elsewhere Effect）。
+- **主要发现:** 证明了 genuine 信号峰值的曲率和高背景峰值涨落的曲率由相同的模板度量控制，通过将全局偏差分解为局部轮廓贡献和远程峰值竞争贡献，建立了连接两者的显式渐近关系。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Low stray-field ion pump configuration for cold atom experiments](http://arxiv.org/abs/2609.03570v1)
+- **作者:** Preeti Sharma, Luisa Loranca Cruz, Leonardo Ricci, Andrea Bertoldi
+- **研究目的:** 数值调查一种紧凑的低杂散场离子泵配置，旨在减少通过超高真空端口的磁通泄漏，以服务于冷原子实验。
+- **主要发现:** 结合辅助永磁体和软磁蜂窝场限幅器的组合配置，使距端口 10 mm 处的磁场降低了 97.9%，同时有效抽速仅下降 17.9%，证明了工程磁补偿和支持结构可在保持抽速的同时大幅降低杂散场。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory,computation" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 计算</span>
+</div>
+
+### [Sample-specific rectification-like response in a boundary-driven exclusion process](http://arxiv.org/abs/2609.03560v1)
+- **作者:** Issei Sakai, Takuma Akimoto
+- **研究目的:** 研究具有淬火位点无序的边界驱动对称排除过程的电流响应，特别是其在个体无序实现中的整流行为。
+- **主要发现:** 发现了样本特异性整流行为，其必要条件为平衡密度分布的空间反射对称性破缺；尽管系综平均电流保持反对称，但在连续分布的位点无序下，几乎所有无序实现都在接近平衡时表现出整流行为。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.other" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.other</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Magnetic Couplings in Half-Filled Bipartite Graphs](http://arxiv.org/abs/2609.03548v1)
+- **作者:** Georges Bouzerar
+- **研究目的:** 建立半填充二分网络中磁交换相互作用的非微扰泛化理论，突破传统微扰框架的限制。
+- **主要发现:** 提出了一种普适机制，能够描述任意二分图上的交换相互作用，为复杂晶格中的磁性提供了分析预测工具，并为下一代 2D 自旋电子器件中稳定长程有序的工程设计提供了关键原则。
+</section>
+
+<section class="paper-summary" data-categories="physics.comp-ph,cond-mat.soft,physics.chem-ph" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.comp-ph, cond-mat.soft, physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [BU-MBAR: A hybrid solution strategy for the MBAR equations](http://arxiv.org/abs/2609.03541v1)
+- **作者:** Fabio Müller, Francesco Alesiani, Henrik Christiansen
+- **研究目的:** 提出一种新的 MBAR 方程求解策略（BU-MBAR），将其解释为加权直方图分析（WHAM）在无限小bin宽度下的极限，以实现稳定高效的收敛。
+- **主要发现:** 通过动态调整 bin 宽度，BU-MBAR 方法能够确保向渐近解的稳定且高效收敛，解决了即使在使用 GPU 加速时传统方法收敛不稳定或缓慢的问题。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-03" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation](http://arxiv.org/abs/2609.03535v1)
+- **作者:** Yinan Liu, Jiankang Hong, Zhen Gao, Ye Lu
+- **研究目的:** 提出 FreNet 框架，通过在编码前进行像素级重配置和在编码期间进行特征级重配置，结合视觉先验解决医学病灶分割中背景干扰和形态多样性的挑战。
+- **主要发现:** FreNet 通过隐式先验神经网络（IPNN）和双域特征重配置（DFR）模块，在 9 个医学图像分割基准上显著优于最先进方法，在 ETIS 数据集上 Dice 系数分别比 SOTA 和 SAM 提高了 5.0% 和 7.2%。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Doping dependence of local moments in infinite layer nickelates](http://arxiv.org/abs/2609.03388v1)
+- **作者:** Martin Gonzalez, Andreas Suter, Michal Kiaba, Thomas Prokscha, Zaher Salman, Marc Gabay, Harold Y. Hwang, Jennifer Fowlie
+- **研究目的:** 使用 $\mu$SR 技术系统研究无限层镍酸盐（(La,Sr)NiO$\_2$）系列中局域矩随掺杂的变化及其与超导的关系。
+- **主要发现:** 发现无论掺杂水平如何，局域矩都会在数十开尔文的温度下自旋冻结成玻璃态，且随空穴掺杂增加玻璃态略有失稳，表明磁性和超导主要是解耦的现象。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-03" markdown="1" data-methods="experiment,computation" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 计算</span>
+</div>
+
+### [Cascade coalescence dynamically sustains bubble retention near gas-evolving surfaces](http://arxiv.org/abs/2609.03387v1)
+- **作者:** Tao Wu, Bo Liu, Haohao Hao, Xuehua Zhang, Fang Yuan, Huanshu Tan, Qiang Yang
+- **研究目的:** 揭示在高气体通量下气泡在气体析出表面附近异常滞留的物理机制。
+- **主要发现:** 发现气泡滞留源于不等大小气泡间的级联聚并：上升气泡与附着的小气泡合并时产生不对称界面回缩和非抵消粘性应力，形成向下的净冲量；反复的级联聚并积累了足以对抗数倍于静力学浮力的稳态滞留力。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-03" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-03</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Multi-Angle Beam Scanning Transmission Electron Microscopy for Diffraction-Contrast-Free Magnetic Imaging](http://arxiv.org/abs/2609.03303v1)
+- **作者:** Akira Yasuhara, Zentaro Akase, Takumi Sannomiya
+- **研究目的:** 利用多角束 4D-STEM 技术消除衍射对比度，实现高灵敏度的无衍射对比磁场成像。
+- **主要发现:** 通过在 4D-STEM 框架内使用多孔光阑生成角度分布的多电子束，抑制了相关的晶体衍射对比度，直接从样品中提取高灵敏度的磁信息，并成功提取和解释了磁畴结构和畴壁。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,physics.comp-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, physics.comp-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Stochastic Tensor Contraction for Efficient MP2 Exchange](http://arxiv.org/abs/2609.03168v1)
+- **作者:** Jiace Sun, Garnet Kin-Lic Chan
+- **研究目的:** 将随机张量收缩（STC）应用于拉普拉斯变换 MP2 交换项的计算，以降低传统的 $O(N^5)$ 计算成本。
+- **主要发现:** 所提出的 STC 交换算法具有 $O(N^3)$ 的确定性设置成本和固定绝对误差下的 $O(N^2)$ 随机成本；在包含约 7000 个基函数的基准分子上，随机交换评估时间仅为完整 DF-MP2 计算的 1/270，使得 $O(N^4)$ 的直接贡献成为唯一显著成本。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph" data-topics="atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="theory,experiment" data-primary-method="theory" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.90"><strong>研究方法:</strong> 理论 · 实验</span>
+</div>
+
+### [Overlimiting Ion Transport and Reaction Limitations in Charged Porous Media](http://arxiv.org/abs/2609.03146v1)
+- **作者:** Arjun V. Yennemadi, Junghyun Yoon, Martin Z. Bazant
+- **研究目的:** 研究带电多孔介质中表面传导（SC）与耦合离子-电子转移（CIET）动力学之间的相互作用，特别是在过极限条件下的传输和反应限制。
+- **主要发现:** 推导了中性、正电和负电多孔介质的极限电流表达式，映射了欠极限到过极限的过渡；发现 SC 防止了反应离子的耗尽，从而恢复了对电荷转移动力学的极化曲线灵敏度，并成功拟合了 Cu 电沉积数据。
+</section>
+
+<section class="paper-summary" data-categories="physics.app-ph" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-02" markdown="1" data-methods="experiment,theory" data-primary-method="experiment" data-method-confidence="0.90">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.app-ph</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.90"><strong>研究方法:</strong> 实验 · 理论</span>
+</div>
+
+### [A Langmuir-Like Adsorption Model for MoS2 Gas Sensors: Bridging Theory and Experiment](http://arxiv.org/abs/2609.03108v1)
+- **作者:** Z. Geng, M. Ziegler, F. Schwierz
+- **研究目的:** 开发并应用一种基于 Langmuir 的吸附模型，以连接 MoS2 基气体传感器的理论吸附机理与实验器件响应。
+- **主要发现:** 该模型能够利用已知的吸附能和电荷转移数据准确复现 MoS2 气体传感器的实验灵敏度，成功桥接了 TMDC 气体传感器理论描述与实验性能之间的差距。
+</section>
+
+<section class="paper-summary" data-categories="eess.IV" data-topics="microscopy\_data\_analysis" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> eess.IV</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Beyond Blur: A Semantic Tri-view Pipeline for Teledermatology Gradability via Skin Micro-relief](http://arxiv.org/abs/2609.03095v1)
+- **作者:** Robert Engel
+- **研究目的:** 提出语义三视图管道，通过计算表皮微起伏作为图像质量的生物标志物，实现远程皮肤病学的自动分级筛查。
+- **主要发现:** 该解释性架构利用多视图聚合和逻辑回归分类器，在 SCIN 数据集上将优等的、光学明确的病例分级性能提升至 AUC 0.96（97.7% PPV），并能提供实时反馈以过滤不可分级的照片。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.mes-hall,cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="theory" data-primary-method="theory" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.mes-hall, cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="theory" title="分类置信度 0.95"><strong>研究方法:</strong> 理论</span>
+</div>
+
+### [Flux noise without flux tunability in superconducting qubits](http://arxiv.org/abs/2609.03059v1)
+- **作者:** Daniel Kruti, Roman-Pascal Riwar
+- **研究目的:** 基于法拉第效应的量子几何描述，推导一般磁源与薄膜超导结构的耦合，分析即使在没有磁通环的超导量子比特中磁通噪声的影响。
+- **主要发现:** 证明磁通噪声不仅导致退相干，还为量子比特品质因数设定了基本限制，即使在没有环的量子比特中亦然；若磁通噪声源于表面自旋，该品质因数限制可能很快达到，并提出了保品质因数的最小安全距离。
+</section>
+
+<section class="paper-summary" data-categories="physics.chem-ph,cond-mat.mtrl-sci" data-topics="materials\_and\_condensed\_matter,atomic\_scale\_materials\_and\_simulation" data-published="2026-09-02" markdown="1" data-methods="computation" data-primary-method="computation" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.chem-ph, cond-mat.mtrl-sci</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="computation" title="分类置信度 0.95"><strong>研究方法:</strong> 计算</span>
+</div>
+
+### [Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling](http://arxiv.org/abs/2609.03044v1)
+- **作者:** Eslam Ibrahim, Yury Lysogorskiy, Ralf Drautz, Pablo M. Piaggi
+- **研究目的:** 结合从头算原子簇展开（ACE）势能和增强采样方法，模拟近中性 pH 下碳酸钙沉淀早期阶段中质子转移和碳酸盐物种相互作用的反应性过程。
+- **主要发现:** 模拟显示离子缔合为质子转移提供了有利途径，促进了碳酸盐、碳酸氢盐和碳酸之间的相互转化；在多离子体系中，质子转移与聚集自发同时发生，表明在溶液成核早期阶段离子聚集和化学反应性可以强烈耦合。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.dis-nn" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.dis-nn</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Nanoscale magnetometry via collective many-body dynamics in diamond](http://arxiv.org/abs/2609.03039v1)
+- **作者:** Haoyang Gao, Piotr Put, Nathaniel T. Leitao, Nazlı U. Köylüoğlu, Andrew Maccabe, Mathew Mammen, Siddharth Dandavate, Lillian B. Hughes Wyatt, Leigh S. Martin, Ania C. Bleszynski Jayich, Hongkun Park, Mikhail D. Lukin
+- **研究目的:** 利用室温金刚石中强相互作用电子自旋的集体多体动力学，实现纳米尺度磁传感的实际计量增益。
+- **主要发现:** 通过对 $\sim 10^4$ 氮空位（NV）中心的偶极阵列进行相干控制，实现了用于磁信号检测的 $7.9(2)\,\mathrm{dB}$ 和用于磁噪声检测的 $8.8(3)\,\mathrm{dB}$ 的实用计量增益，并展示了动量空间分辨的传感模式，可检测空间相关磁噪声。
+</section>
+
+<section class="paper-summary" data-categories="cond-mat.supr-con" data-topics="materials\_and\_condensed\_matter" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> cond-mat.supr-con</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Direct Validation of Superconductivity through Contact-Free Detection of Persistent Supercurrents Using Room-Temperature Quantum Magnetometry](http://arxiv.org/abs/2609.02995v1)
+- **作者:** Xinyi Zeng, Chengzhen Qin, Bowen Fan, Hammad Ahmed, Hui Fang, Stuart Long, Xiaonan Shan, Jiefu Chen, Shoujun Xu, Liangzi Deng, Ching W. Chu, Jiming Bao
+- **研究目的:** 展示一种在室温下进行、无需电气接触的单步直接超导验证方法，通过检测剩磁超电流来识别超导转变。
+- **主要发现:** 该技术利用低温无液氦光泵原子磁力仪检测皮特斯拉级磁场，成功验证了 YBCO 微晶和 REBCO 带材，能够检测由地磁场感应的超电流，为高通量筛选和验证超导性提供了可扩展的非侵入式平台。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-02" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-02</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Toward High-Resolution Detection of Target Fragmentation: TEA-Sensitized NIT for Proton Therapy Applications](http://arxiv.org/abs/2609.02337v2)
+- **作者:** V. Boccia, T. Asada, A. Alexandrov, G. Ambrosi, S. Argirò, M. Barbanera, N. Bartosik, G. Battistoni, A. Bigot, M. G. Bisogni, G. Butella, F. Cavanna, P. Cerello, E. Ciarrocchi, N. D'Ambrosio, G. De Lellis, A. Di Crescenzo, B. Di Ruzza, M. Dondi, M. Donetti, Y. Dong, M. Durante, R. Faccini, V. Ferrero, C. Finck, E. Fiorina, M. Francesconi, M. Franchini, G. Franciosini, L. Galli, A. Iuliano, K. Kanxheri, B. Kharpuse, M. Kimura, S. Kodaira, A. C. Kraan, A. Lauria, E. Lopez Torres, T. Maggipinto, M. Magi, A. Manna, M. Marafini, S. Masci, M. Massa, C. Massimi, I. Mattei, S. Mazzolani, A. Mengarelli, A. Mereghetti, R. Mirabelli, A. Moggi, M. C. Montesi, M. C. Morone, M. Morrocchi, S. Muraro, T. Naka, N. Pastrone, V. Patera, F. Pennazio, C. Pisanti, P. Placidi, M. Pullia, F. Quattrini, S. Rabaglia, L. Ramello, C. A. Reidel, R. Ridolfi, L. Rocchetti, L. Sabatini, L. Salvi, C. Sanelli, A. Sarti, O. Sato, S. Savazzi, A. Schiavi, C. Schuy, E. Scifoni, L. Servoli, G. Silvestre, M. Sitta, K. Someya, B. Spadavecchia, R. Spighi, E. Spiriti, L. Testa, V. Tioukov, S. Tomassini, F. Tommasino, M. Toppi, G. Traini, A. Trigilio, G. Ubaldi, S. Valentinetti, M. Vanstalle, M. Villa, U. Weber, R. Zarrella, A. Zoccoli, G. Galati
+- **研究目的:** 通过替代化学敏化方法（Au-S 和 TEA）结合 GR-1 显影剂，提高纳米成像追踪器（NIT）的灵敏度，以实现对质子治疗应用中靶碎裂事件的高分辨率检测。
+- **主要发现:** 评估了经伽马射线、碳离子和质子（包括临床相关能量）照射后的探测器响应，证明了 TEA 敏化等替代方法能有效增强 NIT 对初级质子轨迹和高能次级质子的重建效率。
+</section>
+
+<section class="paper-summary" data-categories="physics.ins-det" data-topics="electron\_microscopy\_and\_instrumentation" data-published="2026-09-01" markdown="1" data-methods="experiment" data-primary-method="experiment" data-method-confidence="0.95">
+<div class="paper-summary-meta">
+  <span><strong>分类:</strong> physics.ins-det</span>
+  <span><strong>发布日期:</strong> 2026-09-01</span>
+  <span class="paper-method-meta" data-primary-method="experiment" title="分类置信度 0.95"><strong>研究方法:</strong> 实验</span>
+</div>
+
+### [Time performance of USTC-IME LGAD under synchrotron light source focused X-ray](http://arxiv.org/abs/2609.00972v2)
+- **作者:** Tianao Wang, De Zhang, Zheng Liang, Chaozhi Li, Jiaqi Luo, Yu Nie, Tianshuo Yue, Zebo Tang, Hao Liang, Tongpu Yu, Wanbing He, Yanwen Liu
+- **研究目的:** 在上海同步辐射设施（SSRF）的聚焦 X 射线束下表征 USTC-IME 设计的低增益雪崩二极管（LGAD）的时间性能。
+- **主要发现:** LGAD 成功解析了 SSRF 的 2 ns 重复周期，采用波形级全局模板拟合和组合轮廓似然方法估计的时间分辨率为 126.6 ps；模拟研究了随机光子吸收深度对时间分辨率的影响。
 
 ---
 </section>
