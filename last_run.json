@@ -2,64 +2,64 @@
   "version": 2,
   "categories": {
     "cond-mat.mtrl-sci": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22030v1",
-      "timestamp": "2026-09-21T08:38:06.399995"
+      "latest_entry_id": "http://arxiv.org/abs/2609.25000v1",
+      "timestamp": "2026-09-22T08:17:15.052013"
     },
     "cond-mat.mes-hall": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22079v1",
-      "timestamp": "2026-09-21T08:38:16.709577"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24975v1",
+      "timestamp": "2026-09-22T08:17:26.463348"
     },
     "cond-mat.str-el": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22051v1",
-      "timestamp": "2026-09-21T08:38:27.121133"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24897v1",
+      "timestamp": "2026-09-22T08:17:37.953401"
     },
     "cond-mat.supr-con": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22051v1",
-      "timestamp": "2026-09-21T08:38:38.184466"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24857v1",
+      "timestamp": "2026-09-22T08:17:48.297307"
     },
     "cond-mat.dis-nn": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21613v1",
-      "timestamp": "2026-09-21T08:38:48.786316"
+      "latest_entry_id": "http://arxiv.org/abs/2609.25000v1",
+      "timestamp": "2026-09-22T08:17:58.631249"
     },
     "cond-mat.soft": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21999v1",
-      "timestamp": "2026-09-21T08:38:59.134536"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24907v1",
+      "timestamp": "2026-09-22T08:18:08.964057"
     },
     "cond-mat.other": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22023v1",
-      "timestamp": "2026-09-21T08:39:09.479014"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24975v1",
+      "timestamp": "2026-09-22T08:18:19.264375"
     },
     "physics.ins-det": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21864v1",
-      "timestamp": "2026-09-21T08:39:19.895436"
+      "latest_entry_id": "http://arxiv.org/abs/2609.25003v1",
+      "timestamp": "2026-09-22T08:18:29.598029"
     },
     "physics.app-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21639v1",
-      "timestamp": "2026-09-21T08:39:30.197747"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24808v1",
+      "timestamp": "2026-09-22T08:18:39.891277"
     },
     "physics.optics": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22025v1",
-      "timestamp": "2026-09-21T08:39:40.651147"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24915v1",
+      "timestamp": "2026-09-22T08:18:50.165783"
     },
     "physics.chem-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22022v1",
-      "timestamp": "2026-09-21T08:39:51.927777"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24606v1",
+      "timestamp": "2026-09-22T08:19:00.530954"
     },
     "physics.atm-clus": {
       "latest_entry_id": "http://arxiv.org/abs/2609.19901v1",
-      "timestamp": "2026-09-21T08:40:03.077261"
+      "timestamp": "2026-09-22T08:19:10.812651"
     },
     "physics.comp-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21882v1",
-      "timestamp": "2026-09-21T08:40:13.357149"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24785v1",
+      "timestamp": "2026-09-22T08:19:21.092097"
     },
     "physics.data-an": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.21694v1",
-      "timestamp": "2026-09-21T08:40:23.622277"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24796v1",
+      "timestamp": "2026-09-22T08:19:31.615539"
     },
     "eess.IV": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.22032v1",
-      "timestamp": "2026-09-21T08:40:33.911579"
+      "latest_entry_id": "http://arxiv.org/abs/2609.24819v1",
+      "timestamp": "2026-09-22T08:19:41.995882"
     }
   },
   "seen_entry_ids": [
@@ -1449,8 +1449,100 @@
     "2609.22030v1",
     "2609.22032v1",
     "2609.22051v1",
-    "2609.22079v1"
+    "2609.22079v1",
+    "2609.22461v1",
+    "2609.22502v1",
+    "2609.22533v1",
+    "2609.22645v1",
+    "2609.22663v1",
+    "2609.22915v1",
+    "2609.23110v1",
+    "2609.23160v1",
+    "2609.23329v1",
+    "2609.23385v1",
+    "2609.23505v1",
+    "2609.23611v1",
+    "2609.23615v1",
+    "2609.23620v1",
+    "2609.23621v1",
+    "2609.23626v1",
+    "2609.23647v1",
+    "2609.23649v1",
+    "2609.23783v1",
+    "2609.23787v1",
+    "2609.23814v1",
+    "2609.23818v1",
+    "2609.23919v1",
+    "2609.23930v1",
+    "2609.23950v1",
+    "2609.24015v1",
+    "2609.24038v1",
+    "2609.24063v1",
+    "2609.24073v1",
+    "2609.24100v1",
+    "2609.24182v1",
+    "2609.24244v1",
+    "2609.24257v1",
+    "2609.24268v1",
+    "2609.24304v1",
+    "2609.24306v1",
+    "2609.24326v1",
+    "2609.24327v1",
+    "2609.24334v1",
+    "2609.24342v1",
+    "2609.24371v1",
+    "2609.24383v1",
+    "2609.24395v1",
+    "2609.24402v1",
+    "2609.24459v1",
+    "2609.24529v1",
+    "2609.24533v1",
+    "2609.24572v1",
+    "2609.24585v1",
+    "2609.24596v1",
+    "2609.24599v1",
+    "2609.24602v1",
+    "2609.24603v1",
+    "2609.24606v1",
+    "2609.24607v1",
+    "2609.24643v1",
+    "2609.24685v1",
+    "2609.24696v1",
+    "2609.24705v1",
+    "2609.24709v1",
+    "2609.24712v1",
+    "2609.24721v1",
+    "2609.24722v1",
+    "2609.24728v1",
+    "2609.24732v1",
+    "2609.24734v1",
+    "2609.24756v1",
+    "2609.24759v1",
+    "2609.24772v1",
+    "2609.24785v1",
+    "2609.24792v1",
+    "2609.24796v1",
+    "2609.24798v1",
+    "2609.24800v1",
+    "2609.24803v1",
+    "2609.24808v1",
+    "2609.24819v1",
+    "2609.24827v1",
+    "2609.24843v1",
+    "2609.24854v1",
+    "2609.24856v1",
+    "2609.24857v1",
+    "2609.24858v1",
+    "2609.24893v1",
+    "2609.24897v1",
+    "2609.24907v1",
+    "2609.24915v1",
+    "2609.24916v1",
+    "2609.24959v1",
+    "2609.24975v1",
+    "2609.25000v1",
+    "2609.25003v1"
   ],
-  "timestamp": "2026-09-21T08:42:52.508878",
-  "total_results": 79
+  "timestamp": "2026-09-22T08:24:15.548939",
+  "total_results": 92
 }
