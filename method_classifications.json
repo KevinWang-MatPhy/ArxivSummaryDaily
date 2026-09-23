@@ -18071,7 +18071,955 @@
       "confidence": 0.95,
       "reason": "通过脉冲激光沉积(PLD)实验制备Au薄膜并表征其晶体结构和界面特性。",
       "retryable": false
+    },
+    "2609.26759v1": {
+      "paper_id": "2609.26759v1",
+      "source_hash": "e9ed8e421326886dbb727c81c07527e62d53dc0fdf327428136a985c194c4ea4",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "基于特征谱统计属性的理论推导，无数值模拟或实验测量。",
+      "retryable": false
+    },
+    "2609.26734v1": {
+      "paper_id": "2609.26734v1",
+      "source_hash": "4e466300551c2ad10fbdc0c1905bc7b722c7cabb50ebc51f94d0916590932995",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "在Onsager变分框架下建立热力学动力学模型并进行解析推导。",
+      "retryable": false
+    },
+    "2609.26730v1": {
+      "paper_id": "2609.26730v1",
+      "source_hash": "c1f9695faee718e8f1a96d96772c8baee5e18624de2fc6a568adc72d72277b26",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.98,
+      "reason": "利用电子伪影术对超导薄膜进行实际三维成像和缺陷观测。",
+      "retryable": false
+    },
+    "2609.26722v1": {
+      "paper_id": "2609.26722v1",
+      "source_hash": "6340b69cd9c3350d89ca62d3b28035c87c30bb744fe799e0e633c315c2c52098",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "应用非平衡格林函数方法进行电子结构计算，评估电子关联效应。",
+      "retryable": false
+    },
+    "2609.26714v1": {
+      "paper_id": "2609.26714v1",
+      "source_hash": "c63f21bbb7ee3cb53428fa034a652ae89d7f1f7bd3b820e64e0bd261c48ffac8",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "对压应力Nb薄膜进行微波响应输运测量，发现低能隙分量。",
+      "retryable": false
+    },
+    "2609.26709v1": {
+      "paper_id": "2609.26709v1",
+      "source_hash": "e98bba32e3d3976c87d2cc44178f63ce6363281f32beed0e8a1841f78ca031b1",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "建立非线性自旋极化理论模型，证明Néel序翻转机制。",
+      "retryable": false
+    },
+    "2609.26703v1": {
+      "paper_id": "2609.26703v1",
+      "source_hash": "0fa0d0489710bd272867eccf1031832ad8758b077113c95c99707503f4acc784",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发并在量子杂质问题和均匀电子气中验证实频率图解方法。",
+      "retryable": false
+    },
+    "2609.26694v1": {
+      "paper_id": "2609.26694v1",
+      "source_hash": "b579e15eba46bc2d9c73c7980f4d8dd6d71a4fd381038f73dee239d6c0437c3d",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "数值比较GKBA和二阶绝热展开在不同自旋电子效应中的准确性。",
+      "retryable": false
+    },
+    "2609.26690v1": {
+      "paper_id": "2609.26690v1",
+      "source_hash": "59e75f5585fdb6d3960f25c4b2cb2d08e264f7c17979af860a43786a695c71f6",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "证明结构化检测数学原理并通过四波混频数值模拟验证成像性能。",
+      "retryable": false
+    },
+    "2609.26685v1": {
+      "paper_id": "2609.26685v1",
+      "source_hash": "d070abee908045b8da1310b10c421f360dedb5ccb01a97409dccc67d825631dd",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过分子动力学模拟分离表面电荷和电解质效应对界面水结构的影响。",
+      "retryable": false
+    },
+    "2609.26683v1": {
+      "paper_id": "2609.26683v1",
+      "source_hash": "28fc52b4d2d2af323e4770762696b04dabe11798ccb46c606c95c3f4bf71f4cf",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发基于太阳图像的概率深度学习模型预测太阳风速度。",
+      "retryable": false
+    },
+    "2609.26681v1": {
+      "paper_id": "2609.26681v1",
+      "source_hash": "d5fd452b7aee5e33255acabcedea77b77110cd5724ff7ad0ac99d1533e7868c3",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过粗粒化计算模型研究蛋白质水凝胶的介观尺度结构异质性。",
+      "retryable": false
+    },
+    "2609.26676v1": {
+      "paper_id": "2609.26676v1",
+      "source_hash": "501341463898b0fc38ef482abbbe44d52e00fc2d55eb7a761901d9b821b121b7",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "在半经典玻尔兹曼形式下推导磁电电导率理论，分析Berry曲率影响。",
+      "retryable": false
+    },
+    "2609.26674v1": {
+      "paper_id": "2609.26674v1",
+      "source_hash": "bc5ca85b027492477d79819c5fb98edb3fd31e66a6fb0de060e84497f5643425",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "利用自发四波混频实验观察量子统计的非线性放大效应。",
+      "retryable": false
+    },
+    "2609.26661v1": {
+      "paper_id": "2609.26661v1",
+      "source_hash": "02b963b9fca538e7ada4ef34d6b3b60b20d38ea4ecf95152cbab522e3656de42",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "AI智能体自主执行MoS2器件量子输运实验测量并分析数据。",
+      "retryable": false
+    },
+    "2609.26657v1": {
+      "paper_id": "2609.26657v1",
+      "source_hash": "e7a2bcced1901a1be6680a0c1f4129b25c4f612484019c76d23b097774617315",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发智能体工作流将原子间势能方程转化为LAMMPS分子动力学模拟代码。",
+      "retryable": false
+    },
+    "2609.26653v1": {
+      "paper_id": "2609.26653v1",
+      "source_hash": "eda0f44ec04778ea0af8746a391a2c70f77aab20eb1a84b2c65d19c6be4f3f0f",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出分布式算法解决地震走时层析成像的大规模贝叶斯逆问题。",
+      "retryable": false
+    },
+    "2609.26648v1": {
+      "paper_id": "2609.26648v1",
+      "source_hash": "c612c7f985e0847557ff0b4ec401a1f83c37c7031c77cd136de35b74975c82ea",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发多模态深度学习框架进行主动说话人检测并在基准上验证性能。",
+      "retryable": false
+    },
+    "2609.26639v1": {
+      "paper_id": "2609.26639v1",
+      "source_hash": "7817e5ada8d1b6035334a5b01f4067d8e9e0dd3ca151be7e4454a38be65ecc35",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "理论分析节点线半金属中Drude响应的各向异性和自洽等离激元色散。",
+      "retryable": false
+    },
+    "2609.26636v1": {
+      "paper_id": "2609.26636v1",
+      "source_hash": "ebe27d0b684d0e030b2e8af8aad5801d4b7de3853db02891865da8cfdf3071cd",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "训练U-Net模型分割高速喉视频内镜图像，并验证于实际医学影像。",
+      "retryable": false
+    },
+    "2609.26632v1": {
+      "paper_id": "2609.26632v1",
+      "source_hash": "15b6569c56a3dbd73fcf9b6694617cee34e14bffb17f194729096df602c303ba",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "建立包含Berry相位和量子度量的Berry-Landau费米液体理论框架。",
+      "retryable": false
+    },
+    "2609.26628v1": {
+      "paper_id": "2609.26628v1",
+      "source_hash": "57007b16f2cb24871a7253522b7691b258f76df281f3157a9e8c4ecd297c0ec3",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "高压下测量ReO3超导转变并结合DFT计算研究结构与物性关系。",
+      "retryable": false
+    },
+    "2609.26627v1": {
+      "paper_id": "2609.26627v1",
+      "source_hash": "45ad3d0c8944de59389f64758ed9c7e77b72a51342ba3199c4e4f80dbaf3836e",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "研究正四面体在圆柱内堆积的解析分类和对称性破缺分叉。",
+      "retryable": false
+    },
+    "2609.26613v1": {
+      "paper_id": "2609.26613v1",
+      "source_hash": "255d92c155dfb562f79a23ec1ed94894e832ee2c7a6c6815916a5c9585edba0d",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过计算机模拟研究LDL在聚合物刷上的吸附行为和效率。",
+      "retryable": false
+    },
+    "2609.26599v1": {
+      "paper_id": "2609.26599v1",
+      "source_hash": "8c6872c31d376facc54864ecddfa863feb8168706c8509c281f2405a4f77c4fa",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "建立U(1)格点规范理论与自由费米子模型的映射并进行动力学分析。",
+      "retryable": false
+    },
+    "2609.26587v1": {
+      "paper_id": "2609.26587v1",
+      "source_hash": "561af0f0d156a55aa3033145fd084622c7a92ca840406e99c00d5f9d771a1def",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "theory"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "测量CeRu2Ge2单晶电阻率、磁阻和比热，并结合晶体场分析解释磁各向异性。",
+      "retryable": false
+    },
+    "2609.26586v1": {
+      "paper_id": "2609.26586v1",
+      "source_hash": "d79a520bc6016254b2837bc323a1c7a132911f9c9545398b7d4b8ffe15b6985a",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "理论研究生on-Wales缺陷驱动的拓扑相变和Chern数反转机制。",
+      "retryable": false
+    },
+    "2609.26582v1": {
+      "paper_id": "2609.26582v1",
+      "source_hash": "ad629a0f0cf4c7da8b98f380199b70d16b91e4c378d3ef3cb64624f795d182f5",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "制备并测试Zn基合金丝的微观结构、拉伸性能和循环弯曲性能。",
+      "retryable": false
+    },
+    "2609.26554v1": {
+      "paper_id": "2609.26554v1",
+      "source_hash": "3ed3c09c6f365ee263fdbceaa34276468762e7312313ea67190e3a3403b45504",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "观察铁电钙钛矿薄膜中超荧光偏振特性，验证合作放大机制。",
+      "retryable": false
+    },
+    "2609.26544v1": {
+      "paper_id": "2609.26544v1",
+      "source_hash": "b0a018402f14babeb2743df222a86ae3cbe91b06ff63454a64a9635abf482c2b",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "结合神经网络反流和变分蒙特卡洛模拟Hubbard模型强关联费米子系统。",
+      "retryable": false
+    },
+    "2609.26485v1": {
+      "paper_id": "2609.26485v1",
+      "source_hash": "abfb0a0aa65ccf0f502b934c9ceacd542ad30ce0660287785c8ff1c6fc9b7abd",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "通过相干声子谱测量表征Ta2Pd3Te5激子绝缘体相的振幅模式寿命。",
+      "retryable": false
+    },
+    "2609.26474v1": {
+      "paper_id": "2609.26474v1",
+      "source_hash": "cec360aa7c8481d10376757be23d1982feaf104fddd7397f9335ab6cb2104f8d",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出并部署物理先验神经网络用于 biomedical 图像散射光去除。",
+      "retryable": false
+    },
+    "2609.26453v1": {
+      "paper_id": "2609.26453v1",
+      "source_hash": "3bd15f870da117cdbc693fadf87c9f27236e05a9b134971f75f24d97810e0146",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "理论证明希尔伯特空间片段化对强到弱自发对称破缺通道选择的影响。",
+      "retryable": false
+    },
+    "2609.26446v1": {
+      "paper_id": "2609.26446v1",
+      "source_hash": "b7fb80bde8ad6eb4746ca15c46cdb179fd0f1bc5447b1a3f53732c1e02546abb",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "theory"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "在hBN中实验实现拓扑Jackiw-Rebbi态并验证其对加工误差的容忍度。",
+      "retryable": false
+    },
+    "2609.26443v1": {
+      "paper_id": "2609.26443v1",
+      "source_hash": "330779df5075fd8545962426a25f3f63c24534f59da5c501a22cd46f870452f8",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "开发多模态深度学习框架结合纵向乳腺X光影像和临床变量预测放疗预后。",
+      "retryable": false
+    },
+    "2609.26442v1": {
+      "paper_id": "2609.26442v1",
+      "source_hash": "72fc1f285bcb6605fdb4b5e48f83061f73e4c31ebf5b8e8c24646c9810f3ceb3",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "使用机器学习势和玻璃化转变模型重新解释过冷水超快实验数据。",
+      "retryable": false
+    },
+    "2609.26431v1": {
+      "paper_id": "2609.26431v1",
+      "source_hash": "c67d0cf00131654df42bebdde780c80f6fb5326c804899cdd4dc0ea11065c3fa",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过流体粒子动力学模拟研究探针颗粒在非牛顿介质中的非线性响应。",
+      "retryable": false
+    },
+    "2609.26393v1": {
+      "paper_id": "2609.26393v1",
+      "source_hash": "a7f07fca712ef882277342eeb8716b3d6676b16ed3dd823c191ee8bc1dfdd69e",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "扩展Frenkel激子模型并计算分子聚集体中的交换相互作用效应。",
+      "retryable": false
+    },
+    "2609.26392v1": {
+      "paper_id": "2609.26392v1",
+      "source_hash": "704f018cea4e7f18e0055cdc90dd010e68ea8277f3560aaec6a51f134af33457",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "结合U-Net实验和随机特征模型理论分析扩散模型中的恶性过拟合。",
+      "retryable": false
+    },
+    "2609.26383v1": {
+      "paper_id": "2609.26383v1",
+      "source_hash": "e7620512aa0bd4ee5ab982744b7621598d89b1751cee45db8badc525973a9e03",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发CMS实验新追踪算法并通过模拟和GPU优化验证性能提升。",
+      "retryable": false
+    },
+    "2609.26376v1": {
+      "paper_id": "2609.26376v1",
+      "source_hash": "a0f5067e9c6edebaf71a7b8412680223a508746abb3e68de6cd7b5c3d03dd064",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "研究基于mkFit、Patatrack等算法进行粒子轨迹重建模拟，核心证据来自数值算法实现与性能评估。",
+      "retryable": false
+    },
+    "2609.26372v1": {
+      "paper_id": "2609.26372v1",
+      "source_hash": "95b18ae921b22fb2572f029a8c131e7429da2583b1f97016a4635531c9acaae4",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.9,
+      "reason": "核心证据来自推导量子算法的门计数复杂度上界，属于形式化证明与理论分析。",
+      "retryable": false
+    },
+    "2609.26362v1": {
+      "paper_id": "2609.26362v1",
+      "source_hash": "280e65d52d67e2264f3b980c50c48c9658559a6c6e53625d54cb8cd5fdf84026",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究通过随机态分析和随机电路动力学推导纠缠借用的解析标度律，属于理论证明。",
+      "retryable": false
+    },
+    "2609.26344v1": {
+      "paper_id": "2609.26344v1",
+      "source_hash": "e151f5599e990e3a10d635738294c81270fff52e5972d06cbe935c7c071487c1",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "在紧束缚框架下利用非平衡格林函数和Hartree-Fock平均场进行数值计算以分析电流特性。",
+      "retryable": false
+    },
+    "2609.26343v1": {
+      "paper_id": "2609.26343v1",
+      "source_hash": "1bd125e871968333b110cc4b3998f01ce36b13b57a67bf960f23b1e06a367b05",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "通过阵列换能器获取超声反射矩阵并实验验证多晶材料弹性常数的无损表征。",
+      "retryable": false
+    },
+    "2609.26322v1": {
+      "paper_id": "2609.26322v1",
+      "source_hash": "c8fd49966c3ba4b8a0c44664e136d38accbe8e680e5b7974aa0d1f302e13d41f",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.8,
+      "reason": "主要基于被动镜头支撑的图像采集实验数据，辅以统计协议分析图像稳定性。",
+      "retryable": false
+    },
+    "2609.26320v1": {
+      "paper_id": "2609.26320v1",
+      "source_hash": "bfea61b4c4196c433ae0ca76efa18e217ba9be84125b922e03c8fd293c78edf0",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发基于物理先验的计算启发式算法以抑制Wiener反卷积中的振铃伪影。",
+      "retryable": false
+    },
+    "2609.26291v1": {
+      "paper_id": "2609.26291v1",
+      "source_hash": "4b81cce6f4a82a09f2b9f98ca0d9f3769ae35737ebc087306249b192e3da2b0b",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "通过定义和计算多束伪影术在不同重叠条件下的测量增益，结合理论分析确定性能边界。",
+      "retryable": false
+    },
+    "2609.26032v1": {
+      "paper_id": "2609.26032v1",
+      "source_hash": "3428f3f5d13534c7bd31d0e146f7ae1304a7ae12853c604a6892aff0ae07d209",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "构建神经量子态并在量子Sherrington-Kirkpatrick模型中进行基态能量优化和熵重构的数值测试。",
+      "retryable": false
+    },
+    "2609.26005v1": {
+      "paper_id": "2609.26005v1",
+      "source_hash": "135e34338b9d17ebce3d299f74b6f96aee10ca3087da35a69bdc337b2337e26b",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "通过自洽数值求解耦合Bogoliubov-de Gennes和Maxwell方程来微观模拟异质结构中的物理效应。",
+      "retryable": false
+    },
+    "2609.25978v1": {
+      "paper_id": "2609.25978v1",
+      "source_hash": "36c50cd2a12cef7bf6697181b0fa2ff28ac9ed38b6ca3babea46d46ceebbc46f",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "基于Vision Transformer分类器对乳腺MRI数据进行显著性分析和扰动实验，评估解释方法的忠实性。",
+      "retryable": false
+    },
+    "2609.25946v1": {
+      "paper_id": "2609.25946v1",
+      "source_hash": "7a2be32370b346e0cfedf063acba392aa37af2308ce622a3d6a39ef6ff34605b",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "通过蒙特卡洛模拟验证从转移函数重构扩散参数的算法精度，结合Fisher信息理论分析。",
+      "retryable": false
+    },
+    "2609.25902v1": {
+      "paper_id": "2609.25902v1",
+      "source_hash": "6168063dbda2047ee0238e98038674a9d505314aa10c0e513baab1eb832be9dc",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "提出微波超表面设计并通过仿真验证其能带折叠和Fano共振特性，可能包含电磁仿真计算。",
+      "retryable": false
+    },
+    "2609.25899v1": {
+      "paper_id": "2609.25899v1",
+      "source_hash": "e87c6d52e6d99c02a6b9a3e738458d8ad91c7e481adbf7ced0b16c201bfe42fa",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "结合高压电学测量实验与第一性原理计算，研究外尔半金属在高压下的超导转变路径。",
+      "retryable": false
+    },
+    "2609.25877v1": {
+      "paper_id": "2609.25877v1",
+      "source_hash": "4e9bdf2570254a3df970b59d3a1d55f4ea2fa39628dbfd1bad01220b8bc43b6f",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "研究非厄米晶格模型中的安德森局域化相图，推导复能量平面内的迁移率边解析性质。",
+      "retryable": false
+    },
+    "2609.25849v1": {
+      "paper_id": "2609.25849v1",
+      "source_hash": "30c11a4e6dd1d34f6308622dd4e9c47dbe89c5119e81fdbe9a768506307e318b",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发自适应几何精化算法工作流程，通过稀疏秩和条件测试进行分子结构的计算优化。",
+      "retryable": false
+    },
+    "2609.25796v1": {
+      "paper_id": "2609.25796v1",
+      "source_hash": "52d28aa44a0d8a1dbed100e298c13d8d2d8be2bf61f77ea87fc969775fefb002",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "theory"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.9,
+      "reason": "提出基于离散正弦变换的算子离散化数值方案，旨在实现对高指标特征值的均匀谱逼近。",
+      "retryable": false
+    },
+    "2609.25751v1": {
+      "paper_id": "2609.25751v1",
+      "source_hash": "72ae74cd8a552a8056f022ed6a39a55ed7ea74a998f9cf0053c18b5da7a37eb8",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "基于克拉默斯模型建立约瑟夫森结开关概率的理论关系，分析单微波光子探测效率。",
+      "retryable": false
+    },
+    "2609.25744v1": {
+      "paper_id": "2609.25744v1",
+      "source_hash": "3f73f2ec3d7a16f080b09abefa7110e138fbe2953446c172dc393b60413223e2",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "实验演示YIG球与微波光子晶体波导耦合，在室温下观测磁子-光子束缚态。",
+      "retryable": false
+    },
+    "2609.25708v1": {
+      "paper_id": "2609.25708v1",
+      "source_hash": "d7c9ab964e8b68767ab60292a5beeddb447f1a2532a4bf1018aa09e805f98c94",
+      "classifier_version": 1,
+      "methods": [
+        "theory",
+        "computation"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.85,
+      "reason": "提出T细胞受体响应的小分子最小模型，通过解析推导和数值模拟研究配体检测机制。",
+      "retryable": false
+    },
+    "2609.25707v1": {
+      "paper_id": "2609.25707v1",
+      "source_hash": "3d8035ba9dfce6d56c00b22d331052a162b7cc1cc2853defb9e1a0ea743205ed",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发Interactive TTS框架，通过迭代拒绝采样微调和偏好优化训练深度学习语音生成模型。",
+      "retryable": false
+    },
+    "2609.25663v1": {
+      "paper_id": "2609.25663v1",
+      "source_hash": "ee3b11d80c9a57aa0a09bf14cce8f1f0c26206bb6a0130a46acdf2fe980c843a",
+      "classifier_version": 1,
+      "methods": [
+        "computation",
+        "experiment"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.85,
+      "reason": "结合光学映射与 velocimetry 实验数据，通过数值重构算法解决粘弹性流体应力场反问题。",
+      "retryable": false
+    },
+    "2609.25634v1": {
+      "paper_id": "2609.25634v1",
+      "source_hash": "331e57efacc5201633b28e84cd9993f928c9627f2b358cdecc2a230402425302",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.8,
+      "reason": "训练神经网络并分析权重重叠分布以探索grokking过渡，属于机器学习实验性研究。",
+      "retryable": false
+    },
+    "2609.25534v1": {
+      "paper_id": "2609.25534v1",
+      "source_hash": "17806238a939d0e3eab7075cdb0c4fd88a15a42741b5557cc2b32395dd633307",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "实验表征SiPM阵列在液体闪烁体中的温度依赖性操作性能，包括暗计数和光产额测量。",
+      "retryable": false
+    },
+    "2609.25532v1": {
+      "paper_id": "2609.25532v1",
+      "source_hash": "1d11fb9bdf11b8662bae040d0f93e8ae2685e9c719c772641687702f4289fcee",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "通过实验验证浸没式SiPM阵列重构带电粒子径迹拓扑的可行性，并训练CNN进行数据分析。",
+      "retryable": false
+    },
+    "2609.25523v1": {
+      "paper_id": "2609.25523v1",
+      "source_hash": "2e0a64ec1a8c55b42fcae4803df5229c77d56d134c8d17a2786e6ada3ec78c5f",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "引入MARC-TS深度学习框架学习反应路径并预测过渡态结构，属于计算化学方法学。",
+      "retryable": false
+    },
+    "2609.25430v1": {
+      "paper_id": "2609.25430v1",
+      "source_hash": "66e46d6f9dad2d02ef7d639c4e529575d7b05e7f97c73e9b7a1349033ab7e37a",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "调查高斯过程、MC dropout等不确定性量化方法在神经代理模型中的数值行为和性能。",
+      "retryable": false
+    },
+    "2609.25426v1": {
+      "paper_id": "2609.25426v1",
+      "source_hash": "021558f29f4165234ddc7c587290f8f65e4eca0f42eb0e3c0c819396b313194b",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "利用超快X射线衍射实验研究AuPt超晶格中电子能量的飞秒尺度耗散局域化动力学。",
+      "retryable": false
+    },
+    "2609.25403v1": {
+      "paper_id": "2609.25403v1",
+      "source_hash": "16edb05e7d21f83f0dd3928e1cc9e0a3684bc816d44b97e1b37fcf958f3c9389",
+      "classifier_version": 1,
+      "methods": [
+        "experiment",
+        "computation"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.9,
+      "reason": "通过视频显微镜实验记录微生物运动轨迹，并开发随机模型拟合其动力学特征。",
+      "retryable": false
+    },
+    "2609.25357v1": {
+      "paper_id": "2609.25357v1",
+      "source_hash": "1b918063d359dcf233423b9b58edf4e7c2161c9a94385a8ea68f1519df8e8b27",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "基于对称性要求和理论分析质疑安德烈夫反射测量结果的物理合理性。",
+      "retryable": false
+    },
+    "2609.25355v1": {
+      "paper_id": "2609.25355v1",
+      "source_hash": "8cb6ad91f225114eb9eda6cdde971451a117c480dd5303d2a5bea404605792a0",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发结合Morgan指纹和XGBoost模型的分子属性预测工具，并进行可解释性分析。",
+      "retryable": false
+    },
+    "2609.25330v1": {
+      "paper_id": "2609.25330v1",
+      "source_hash": "d146749ceb5e5a906ae2535756d4fbfe2fbe0bd686ba7d40890c228234245f8a",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "提出新的量子化学计算方法SSD-OPMP3，在W4-17数据集上进行高精度能量计算验证。",
+      "retryable": false
+    },
+    "2609.25293v1": {
+      "paper_id": "2609.25293v1",
+      "source_hash": "dd7e56677a18eaf77d9f77396df45b95d1ca7a20fb79a7a2d2dd8bf5ebecc649",
+      "classifier_version": 1,
+      "methods": [
+        "experiment"
+      ],
+      "primary_method": "experiment",
+      "confidence": 0.95,
+      "reason": "实验制备丝模板MOF纳米带纤维传感器，测量其质子导电性并进行实际生物监测应用。",
+      "retryable": false
+    },
+    "2609.25278v1": {
+      "paper_id": "2609.25278v1",
+      "source_hash": "4ab69ef6e1c81adaa977e7471ce332782b5d3a5aa4d833e0498aabf5bfdfface",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "应用Bargmann不变量的几何表述，通过解析推导探测外尔哈密顿量和Kitaev链的拓扑性质。",
+      "retryable": false
+    },
+    "2609.25276v1": {
+      "paper_id": "2609.25276v1",
+      "source_hash": "435f8608791715dfc0a20e956135a04a8a66edbaa69540369dedf955ca78cbde",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "利用有限状态自动机构建精确矩阵乘积算子，进行大规模光谱性质的数值计算。",
+      "retryable": false
+    },
+    "2609.25229v1": {
+      "paper_id": "2609.25229v1",
+      "source_hash": "ad0aea64d06f7d8cbeca270e5296676daf6d074b2c655614c68eb41c1bc32a1b",
+      "classifier_version": 1,
+      "methods": [
+        "computation"
+      ],
+      "primary_method": "computation",
+      "confidence": 0.95,
+      "reason": "开发基于残差卷积神经网络的深度学习代理模型，快速近似太阳中微子的地球物质效应。",
+      "retryable": false
+    },
+    "2609.25219v1": {
+      "paper_id": "2609.25219v1",
+      "source_hash": "59f7df366b1cd63de5db6cc67de0504f51601897f7afde6bdcb589bdf22c6df3",
+      "classifier_version": 1,
+      "methods": [
+        "theory"
+      ],
+      "primary_method": "theory",
+      "confidence": 0.95,
+      "reason": "在非相对论系统中通过重整化群演化和有效场论形式化推导强混合下的幺正性恢复机制。",
+      "retryable": false
     }
   },
-  "updated_at": "2026-09-22T08:25:53.226865+00:00"
+  "updated_at": "2026-09-23T08:25:34.456786+00:00"
 }
