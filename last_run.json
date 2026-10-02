@@ -30,8 +30,8 @@
       "timestamp": "2026-10-01T09:50:07.356909"
     },
     "physics.ins-det": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.40318v1",
-      "timestamp": "2026-10-01T09:50:17.674118"
+      "latest_entry_id": "http://arxiv.org/abs/2610.01266v1",
+      "timestamp": "2026-10-02T10:27:18.108629"
     },
     "physics.app-ph": {
       "latest_entry_id": "http://arxiv.org/abs/2609.40354v1",
@@ -47,19 +47,19 @@
     },
     "physics.atm-clus": {
       "latest_entry_id": "http://arxiv.org/abs/2609.37032v1",
-      "timestamp": "2026-10-01T09:50:58.790233"
+      "timestamp": "2026-10-02T10:37:42.359051"
     },
     "physics.comp-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.40349v1",
-      "timestamp": "2026-10-01T09:51:09.070936"
+      "latest_entry_id": "http://arxiv.org/abs/2610.02013v1",
+      "timestamp": "2026-10-02T10:41:44.209230"
     },
     "physics.data-an": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.39519v1",
-      "timestamp": "2026-10-01T09:51:19.400317"
+      "latest_entry_id": "http://arxiv.org/abs/2610.01493v1",
+      "timestamp": "2026-10-02T10:42:03.097945"
     },
     "eess.IV": {
-      "latest_entry_id": "http://arxiv.org/abs/2609.40083v1",
-      "timestamp": "2026-10-01T09:51:29.729480"
+      "latest_entry_id": "http://arxiv.org/abs/2610.02136v1",
+      "timestamp": "2026-10-02T10:42:13.456854"
     }
   },
   "seen_entry_ids": [
@@ -2113,8 +2113,29 @@
     "2609.40345v1",
     "2609.40346v1",
     "2609.40349v1",
-    "2609.40354v1"
+    "2609.40354v1",
+    "2610.00569v1",
+    "2610.00824v1",
+    "2610.00860v1",
+    "2610.00876v1",
+    "2610.00878v1",
+    "2610.00943v1",
+    "2610.01056v1",
+    "2610.01060v1",
+    "2610.01144v1",
+    "2610.01251v1",
+    "2610.01266v1",
+    "2610.01429v1",
+    "2610.01493v1",
+    "2610.01593v1",
+    "2610.01655v1",
+    "2610.01840v1",
+    "2610.01894v1",
+    "2610.01930v1",
+    "2610.02013v1",
+    "2610.02112v1",
+    "2610.02136v1"
   ],
-  "timestamp": "2026-10-01T09:53:23.753303",
-  "total_results": 79
+  "timestamp": "2026-10-02T10:42:45.609653",
+  "total_results": 21
 }

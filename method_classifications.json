@@ -25064,7 +25064,259 @@
       "confidence": 0.95,
       "reason": "提出基于能量距离的两样本检验统计方法。",
       "retryable": false
+    },
+    "2610.02136v1": {
+      "paper_id": "2610.02136v1",
+      "source_hash": "022ad911b28ff66b74fc9013b6b0b6fc24d6e13d81a9285dc2453b6f69c7209d",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.02112v1": {
+      "paper_id": "2610.02112v1",
+      "source_hash": "6a9efae43b195f4415b413eefdf8bd576b1400cb14c15362765915e031a25ed1",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.02013v1": {
+      "paper_id": "2610.02013v1",
+      "source_hash": "adb8fca2f58add8eb0f070d9cebe620942e30070d06a58eb392d261fa9b2f1c7",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01930v1": {
+      "paper_id": "2610.01930v1",
+      "source_hash": "96ef52ca2602b253f69428d1668a3f5665f5bf87439b5efdb6337c3ebf37bf4a",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01894v1": {
+      "paper_id": "2610.01894v1",
+      "source_hash": "e64e63436a59762da8e2d121dc838071f840142fbaef93735cf9be6586b7e9ef",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01840v1": {
+      "paper_id": "2610.01840v1",
+      "source_hash": "d211e40f08cce854b16683e7de66ccd2375e4c9399059922d878615e4fb47141",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01655v1": {
+      "paper_id": "2610.01655v1",
+      "source_hash": "b3b3fd013d453647209a2335ebf7f3e957118e3302fa4adb7cb8f7d277d3e7fd",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01593v1": {
+      "paper_id": "2610.01593v1",
+      "source_hash": "75298c27269ca6925b8c2c4915ac1192219e6c9cad23eb9dd30bdce524eb7ba9",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01493v1": {
+      "paper_id": "2610.01493v1",
+      "source_hash": "433c30457bc93e5e08331305ce2810001cbe18a8b79a286b8dd0cccbbbd4a5cd",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01429v1": {
+      "paper_id": "2610.01429v1",
+      "source_hash": "7f1ffa4cfdfe4aec282f11332ee3f617ea0461a89de0ba2d79b100ee3bfe24c5",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01266v1": {
+      "paper_id": "2610.01266v1",
+      "source_hash": "513495fd631f94c4b908771bec1eed58f4ed6cc19a8125cd15c2a752c92c5806",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01251v1": {
+      "paper_id": "2610.01251v1",
+      "source_hash": "c36d89a1c293c6c89c56ed69d797c81b901c4c6adb01db36b15e8484f41ed1dc",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01144v1": {
+      "paper_id": "2610.01144v1",
+      "source_hash": "33b0db439d6fa0e2e48cd5b5d01e7f83d22b91e34225ff90195efaf3df2afbf6",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01060v1": {
+      "paper_id": "2610.01060v1",
+      "source_hash": "79b2faa3fa355d2400816c78560ce0da80466ecac4e35f4a042bf2739dbcf04b",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.01056v1": {
+      "paper_id": "2610.01056v1",
+      "source_hash": "caf224911df4abf4bca4f778620980d3fa9ae867be906ef6060f4ab5ec24afce",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00943v1": {
+      "paper_id": "2610.00943v1",
+      "source_hash": "70a0ea933db42741570cb9afe00f5fbd297a157ed0e03d7afc52399f605b10c8",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00878v1": {
+      "paper_id": "2610.00878v1",
+      "source_hash": "b9aa3089c1fe542e9115ebb6cf674f17547e70309752c0dc3e75dacfae38c901",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00876v1": {
+      "paper_id": "2610.00876v1",
+      "source_hash": "6518702b4f1d1ae60749ae893399f99ef347c481e051eec4ffe5d59a9d194aad",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00860v1": {
+      "paper_id": "2610.00860v1",
+      "source_hash": "a94671f7b55ebf5d0790708aa4885a95e1ba03378b19f6c4d1b790f2813bea40",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00824v1": {
+      "paper_id": "2610.00824v1",
+      "source_hash": "0bb11f7697c6203cbfd00582304c16f5c2c3a070f77b7af06cc45cc6b5f09d18",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
+    },
+    "2610.00569v1": {
+      "paper_id": "2610.00569v1",
+      "source_hash": "f9e0c1a5b4b20020de42139545886c045a509e7e88ad1c8b5b14b094c611f5b8",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.01060v1",
+      "retryable": true
     }
   },
-  "updated_at": "2026-10-01T09:54:41.873447+00:00"
+  "updated_at": "2026-10-02T10:43:03.130506+00:00"
 }
