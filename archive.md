@@ -7,12 +7,13 @@ title: ArXiv Summary 归档
 
 <section class="archive-heading"><p class="section-kicker">Archive</p><h1>ArXiv 摘要归档</h1><p>按日期浏览所有已生成的研究摘要，最新内容排列在前。</p></section>
 
-<script type="application/json" id="summary-archive-data">[{"filename": "summary_20261005_100625.md", "date": "2026-10-05", "timestamp": "2026-10-05T10:06:25"}, {"filename": "summary_20261002_104213.md", "date": "2026-10-02", "timestamp": "2026-10-02T10:42:13"}, {"filename": "summary_20260930_092446.md", "date": "2026-09-30", "timestamp": "2026-09-30T09:24:46"}, {"filename": "summary_20261001_095129.md", "date": "2026-10-01", "timestamp": "2026-10-01T09:51:29"}, {"filename": "summary_20260928_092740.md", "date": "2026-09-28", "timestamp": "2026-09-28T09:27:40"}, {"filename": "summary_20260929_093306.md", "date": "2026-09-29", "timestamp": "2026-09-29T09:33:06"}, {"filename": "summary_20260924_081356.md", "date": "2026-09-24", "timestamp": "2026-09-24T08:13:56"}, {"filename": "summary_20260925_083643.md", "date": "2026-09-25", "timestamp": "2026-09-25T08:36:43"}, {"filename": "summary_20260921_084033.md", "date": "2026-09-21", "timestamp": "2026-09-21T08:40:33"}, {"filename": "summary_20260923_082150.md", "date": "2026-09-23", "timestamp": "2026-09-23T08:21:50"}, {"filename": "summary_20260922_081941.md", "date": "2026-09-22", "timestamp": "2026-09-22T08:19:41"}, {"filename": "summary_20260918_080251.md", "date": "2026-09-18", "timestamp": "2026-09-18T08:02:51"}, {"filename": "summary_20260916_082151.md", "date": "2026-09-16", "timestamp": "2026-09-16T08:21:51"}, {"filename": "summary_20260917_082750.md", "date": "2026-09-17", "timestamp": "2026-09-17T08:27:50"}, {"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260915_090110.md", "date": "2026-09-15", "timestamp": "2026-09-15T09:01:10"}, {"filename": "summary_20260914_090905.md", "date": "2026-09-14", "timestamp": "2026-09-14T09:09:05"}, {"filename": "summary_20260914_071528.md", "date": "2026-09-14", "timestamp": "2026-09-14T07:15:28"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}]</script>
+<script type="application/json" id="summary-archive-data">[{"filename": "summary_20261006_095131.md", "date": "2026-10-06", "timestamp": "2026-10-06T09:51:31"}, {"filename": "summary_20261002_104213.md", "date": "2026-10-02", "timestamp": "2026-10-02T10:42:13"}, {"filename": "summary_20260930_092446.md", "date": "2026-09-30", "timestamp": "2026-09-30T09:24:46"}, {"filename": "summary_20261001_095129.md", "date": "2026-10-01", "timestamp": "2026-10-01T09:51:29"}, {"filename": "summary_20261005_100625.md", "date": "2026-10-05", "timestamp": "2026-10-05T10:06:25"}, {"filename": "summary_20260928_092740.md", "date": "2026-09-28", "timestamp": "2026-09-28T09:27:40"}, {"filename": "summary_20260929_093306.md", "date": "2026-09-29", "timestamp": "2026-09-29T09:33:06"}, {"filename": "summary_20260924_081356.md", "date": "2026-09-24", "timestamp": "2026-09-24T08:13:56"}, {"filename": "summary_20260925_083643.md", "date": "2026-09-25", "timestamp": "2026-09-25T08:36:43"}, {"filename": "summary_20260921_084033.md", "date": "2026-09-21", "timestamp": "2026-09-21T08:40:33"}, {"filename": "summary_20260923_082150.md", "date": "2026-09-23", "timestamp": "2026-09-23T08:21:50"}, {"filename": "summary_20260922_081941.md", "date": "2026-09-22", "timestamp": "2026-09-22T08:19:41"}, {"filename": "summary_20260918_080251.md", "date": "2026-09-18", "timestamp": "2026-09-18T08:02:51"}, {"filename": "summary_20260917_082750.md", "date": "2026-09-17", "timestamp": "2026-09-17T08:27:50"}, {"filename": "summary_20260915_090110.md", "date": "2026-09-15", "timestamp": "2026-09-15T09:01:10"}, {"filename": "summary_20260914_090905.md", "date": "2026-09-14", "timestamp": "2026-09-14T09:09:05"}, {"filename": "summary_20260916_082151.md", "date": "2026-09-16", "timestamp": "2026-09-16T08:21:51"}, {"filename": "summary_20260911_075302.md", "date": "2026-09-11", "timestamp": "2026-09-11T07:53:02"}, {"filename": "summary_20260910_075727.md", "date": "2026-09-10", "timestamp": "2026-09-10T07:57:27"}, {"filename": "summary_20260914_071528.md", "date": "2026-09-14", "timestamp": "2026-09-14T07:15:28"}, {"filename": "summary_20260909_075704.md", "date": "2026-09-09", "timestamp": "2026-09-09T07:57:04"}, {"filename": "summary_20260907_080112.md", "date": "2026-09-07", "timestamp": "2026-09-07T08:01:12"}]</script>
 
-- [2026-10-05 摘要](summary_20261005_100625.html)
+- [2026-10-06 摘要](summary_20261006_095131.html)
 - [2026-10-02 摘要](summary_20261002_104213.html)
 - [2026-09-30 摘要](summary_20260930_092446.html)
 - [2026-10-01 摘要](summary_20261001_095129.html)
+- [2026-10-05 摘要](summary_20261005_100625.html)
 - [2026-09-28 摘要](summary_20260928_092740.html)
 - [2026-09-29 摘要](summary_20260929_093306.html)
 - [2026-09-24 摘要](summary_20260924_081356.html)
@@ -21,12 +22,12 @@ title: ArXiv Summary 归档
 - [2026-09-23 摘要](summary_20260923_082150.html)
 - [2026-09-22 摘要](summary_20260922_081941.html)
 - [2026-09-18 摘要](summary_20260918_080251.html)
-- [2026-09-16 摘要](summary_20260916_082151.html)
 - [2026-09-17 摘要](summary_20260917_082750.html)
-- [2026-09-11 摘要](summary_20260911_075302.html)
 - [2026-09-15 摘要](summary_20260915_090110.html)
 - [2026-09-14 摘要](summary_20260914_090905.html)
+- [2026-09-16 摘要](summary_20260916_082151.html)
+- [2026-09-11 摘要](summary_20260911_075302.html)
+- [2026-09-10 摘要](summary_20260910_075727.html)
 - [2026-09-14 摘要](summary_20260914_071528.html)
 - [2026-09-09 摘要](summary_20260909_075704.html)
-- [2026-09-10 摘要](summary_20260910_075727.html)
 - [2026-09-07 摘要](summary_20260907_080112.html)
