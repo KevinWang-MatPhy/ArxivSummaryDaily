@@ -3,63 +3,63 @@
   "categories": {
     "cond-mat.mtrl-sci": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13885v1",
-      "timestamp": "2026-10-12T10:18:56.672430"
+      "timestamp": "2026-10-13T10:09:23.288425"
     },
     "cond-mat.mes-hall": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13638v1",
-      "timestamp": "2026-10-12T10:19:07.065206"
+      "timestamp": "2026-10-13T10:09:33.739837"
     },
     "cond-mat.str-el": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13946v1",
-      "timestamp": "2026-10-12T10:19:17.375332"
+      "timestamp": "2026-10-13T10:09:44.003979"
     },
     "cond-mat.supr-con": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13727v1",
-      "timestamp": "2026-10-12T10:19:29.223005"
+      "timestamp": "2026-10-13T10:09:54.339594"
     },
     "cond-mat.dis-nn": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13621v1",
-      "timestamp": "2026-10-12T10:19:39.526461"
+      "timestamp": "2026-10-13T10:10:04.670701"
     },
     "cond-mat.soft": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13874v1",
-      "timestamp": "2026-10-12T10:19:51.971083"
+      "timestamp": "2026-10-13T10:10:15.729665"
     },
     "cond-mat.other": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13251v1",
-      "timestamp": "2026-10-12T10:20:03.223645"
+      "timestamp": "2026-10-13T10:10:26.064829"
     },
     "physics.ins-det": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13634v1",
-      "timestamp": "2026-10-12T10:20:14.882901"
+      "timestamp": "2026-10-13T10:10:36.430666"
     },
     "physics.app-ph": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13525v1",
-      "timestamp": "2026-10-12T10:20:25.252050"
+      "timestamp": "2026-10-13T10:10:46.843911"
     },
     "physics.optics": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13861v1",
-      "timestamp": "2026-10-12T10:20:38.714547"
+      "timestamp": "2026-10-13T10:10:57.305157"
     },
     "physics.chem-ph": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13922v1",
-      "timestamp": "2026-10-12T10:20:49.243060"
+      "timestamp": "2026-10-13T10:11:07.675738"
     },
     "physics.atm-clus": {
       "latest_entry_id": "http://arxiv.org/abs/2610.12077v1",
-      "timestamp": "2026-10-12T10:20:59.579675"
+      "timestamp": "2026-10-13T10:11:18.222956"
     },
     "physics.comp-ph": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13828v1",
-      "timestamp": "2026-10-12T10:21:09.864735"
+      "timestamp": "2026-10-13T10:11:28.536604"
     },
     "physics.data-an": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13876v1",
-      "timestamp": "2026-10-12T10:21:20.113897"
+      "timestamp": "2026-10-13T10:11:38.970068"
     },
     "eess.IV": {
       "latest_entry_id": "http://arxiv.org/abs/2610.13815v1",
-      "timestamp": "2026-10-12T10:21:30.545103"
+      "timestamp": "2026-10-13T10:11:49.240035"
     }
   },
   "seen_entry_ids": [
@@ -2650,6 +2650,6 @@
     "2610.13922v1",
     "2610.13946v1"
   ],
-  "timestamp": "2026-10-12T10:23:43.921272",
-  "total_results": 84
+  "timestamp": "2026-10-13T10:11:49.240587",
+  "total_results": 0
 }
