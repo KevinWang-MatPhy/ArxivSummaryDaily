@@ -33726,7 +33726,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22348v1": {
@@ -33738,7 +33738,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22309v1": {
@@ -33750,7 +33750,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22307v1": {
@@ -33762,7 +33762,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22286v1": {
@@ -33774,7 +33774,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22284v1": {
@@ -33786,7 +33786,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22283v1": {
@@ -33798,7 +33798,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22258v1": {
@@ -33810,7 +33810,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22257v1": {
@@ -33822,7 +33822,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22253v1": {
@@ -33834,7 +33834,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22212v1": {
@@ -33846,7 +33846,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22204v1": {
@@ -33858,7 +33858,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22191v1": {
@@ -33870,7 +33870,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22189v1": {
@@ -33882,7 +33882,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22164v1": {
@@ -33894,7 +33894,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22157v1": {
@@ -33906,7 +33906,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22147v1": {
@@ -33918,7 +33918,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22145v1": {
@@ -33930,7 +33930,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22140v1": {
@@ -33942,7 +33942,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22134v1": {
@@ -33954,7 +33954,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22129v1": {
@@ -33966,7 +33966,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22095v1": {
@@ -33978,7 +33978,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22038v1": {
@@ -33990,7 +33990,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22037v1": {
@@ -34002,7 +34002,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22024v1": {
@@ -34014,7 +34014,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.22006v1": {
@@ -34026,7 +34026,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21996v1": {
@@ -34038,7 +34038,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21973v1": {
@@ -34050,7 +34050,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21939v1": {
@@ -34062,7 +34062,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21917v1": {
@@ -34074,7 +34074,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21911v1": {
@@ -34086,7 +34086,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21897v1": {
@@ -34098,7 +34098,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21876v1": {
@@ -34110,7 +34110,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21875v1": {
@@ -34122,7 +34122,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21856v1": {
@@ -34134,7 +34134,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21854v1": {
@@ -34146,7 +34146,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21839v1": {
@@ -34158,7 +34158,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21835v1": {
@@ -34170,7 +34170,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21816v1": {
@@ -34182,7 +34182,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21771v1": {
@@ -34194,7 +34194,7 @@
       ],
       "primary_method": "unclassified",
       "confidence": 0.0,
-      "reason": "批量分类失败: 未知或重复的论文 ID: 2610.221996v1",
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134835340890767QmTCpRS0)\",\"type\":\"AgnesAI_error\"}}",
       "retryable": true
     },
     "2610.21770v1": {
@@ -39358,7 +39358,355 @@
       "confidence": 0.92,
       "reason": "研究应用顺序模拟后推断(SBI)及数值仿真训练迭代优化统计推断，核心证据来自计算方法。",
       "retryable": false
+    },
+    "2611.31242v1": {
+      "paper_id": "2611.31242v1",
+      "source_hash": "e8602e2b3b5c755015cf71370218631ba41f7331bc55be53a1ca2c6b5ef3ab32",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.31234v1": {
+      "paper_id": "2611.31234v1",
+      "source_hash": "c5f0116bfbf42a478883c95cb5e8907d598a036ed0ef566af7d3ad86aa353d98",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.31206v1": {
+      "paper_id": "2611.31206v1",
+      "source_hash": "583c27e1142ced5148115d88d11349192c894e89431f06d87f7b664bb8cb7f4f",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.31137v1": {
+      "paper_id": "2611.31137v1",
+      "source_hash": "6cdb6c41058e2b1ef9362beac92ad7bf7d749f61f98baa20335d05c7f18d9db7",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.31102v1": {
+      "paper_id": "2611.31102v1",
+      "source_hash": "05927ca82bd0713de692e6872eb46c8e47b066eaf3c354fe1e71f288dea2fc6c",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.31093v1": {
+      "paper_id": "2611.31093v1",
+      "source_hash": "9a199298481b5227a2dac44ea187ac35b69818b8508faa4be166539f746513ae",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30996v1": {
+      "paper_id": "2611.30996v1",
+      "source_hash": "0e4536ac4621e713054b58ad442d316e71934e39c27f70ec6820dad5f05cbdea",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30992v1": {
+      "paper_id": "2611.30992v1",
+      "source_hash": "6cb4d5f53eadb5b1c7dc581e5b13670cd1e17120c5db173c697efff709a6a189",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30974v1": {
+      "paper_id": "2611.30974v1",
+      "source_hash": "6ce5810d45431866be1e1ca30b63d6e1d010616e6600463cc437dae1709d37da",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30968v1": {
+      "paper_id": "2611.30968v1",
+      "source_hash": "4bce9ff2f2f2387aab7c794229dbbb947d7629c9d43c9d045f53761380a67675",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30930v1": {
+      "paper_id": "2611.30930v1",
+      "source_hash": "3a78d012ef0596412fcbe005115346d5284c9908ac36a8c6a107612e64268089",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30917v1": {
+      "paper_id": "2611.30917v1",
+      "source_hash": "8d2c7e7cb6368db7f52d4a493b04bfc5bedf11e9b2a41c1bfde3227504774d73",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30876v1": {
+      "paper_id": "2611.30876v1",
+      "source_hash": "6ab846bb9b5f02d0da7fd73ae59daf484f42849d878cc48e3c04db95ab9a3848",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30865v1": {
+      "paper_id": "2611.30865v1",
+      "source_hash": "c3500332ee924c0b38efdf42fcc6536a0d243f0e28dbd224df7f1d672450ab48",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30809v1": {
+      "paper_id": "2611.30809v1",
+      "source_hash": "272ddba8bb133f510e4a35983e2b9caaafa336f95364025b3c66447615c56a68",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30781v1": {
+      "paper_id": "2611.30781v1",
+      "source_hash": "222e52929bad3ebb7287082d87c10172ab7c09eba8f787d2893ed7257a947ada",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30767v1": {
+      "paper_id": "2611.30767v1",
+      "source_hash": "99ccd46caa0e9b326641cdf1c0534f02974b3fd1ee95ab989641c4f54e7db301",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30614v1": {
+      "paper_id": "2611.30614v1",
+      "source_hash": "465806dcf22f902365b746a6d841d4add6a4157dc9302317a3d1cf4640156912",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30395v1": {
+      "paper_id": "2611.30395v1",
+      "source_hash": "4a7941df33ff7379cd48d263bab199a487c638a0f0442dc7182876b6e470e4c9",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30315v1": {
+      "paper_id": "2611.30315v1",
+      "source_hash": "e66230f13bda4dc445319023abfe07dad822714e35a61372088c45e8f0967706",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30276v1": {
+      "paper_id": "2611.30276v1",
+      "source_hash": "957f4dc57212b6fd2ccd328c99d33a0d812f9bfc0d4f6d302ab79ef4ef37f72c",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30108v1": {
+      "paper_id": "2611.30108v1",
+      "source_hash": "6f680ee2b0881e34e89b6733217f2121f07a3033ef88ec400b32f574195618ec",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30088v1": {
+      "paper_id": "2611.30088v1",
+      "source_hash": "adb7da5778141612f3cc9b4913ae9ae4449bb0e51601287c05093cc2dd990f7d",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.30079v1": {
+      "paper_id": "2611.30079v1",
+      "source_hash": "0659ad982db41bb3480e18d3b4b15e869e8bdfeb67f73149ef11929abe24ccb6",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.29928v1": {
+      "paper_id": "2611.29928v1",
+      "source_hash": "41b72b19ddae4708da22ea64c41d051cae550f3a575390e2eb6273fd5be11898",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.29817v1": {
+      "paper_id": "2611.29817v1",
+      "source_hash": "6534c619186fc9f6a9052348cf0a3c723fbf978817871e64c0fe15d22a0260b1",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.29671v1": {
+      "paper_id": "2611.29671v1",
+      "source_hash": "41ecf8607f7cca1f8957da8f0495109b6531f11d3768da7b762cf564c0a59e6e",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.29204v1": {
+      "paper_id": "2611.29204v1",
+      "source_hash": "5d44d52a2daf5b34456d16f4e2573b7c8ad631c21579dfb1ca88d0bfa8bd2582",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
+    },
+    "2611.29200v1": {
+      "paper_id": "2611.29200v1",
+      "source_hash": "5df2027280b463379f00b3cd499946280a1374d46a1daf87a371a930a70c557a",
+      "classifier_version": 1,
+      "methods": [
+        "unclassified"
+      ],
+      "primary_method": "unclassified",
+      "confidence": 0.0,
+      "reason": "批量分类失败: API 调用失败（HTTP 429）: {\"error\":{\"code\":\"\",\"message\":\"请登录platform进行实名认证以获取更高rpm (request id: 20261124134842981799311SYZQdaY6)\",\"type\":\"AgnesAI_error\"}}",
+      "retryable": true
     }
   },
-  "updated_at": "2026-10-23T08:26:00.901775+00:00"
+  "updated_at": "2026-11-24T13:48:43.184967+00:00"
 }

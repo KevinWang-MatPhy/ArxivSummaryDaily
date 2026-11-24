@@ -2,20 +2,20 @@
   "version": 2,
   "categories": {
     "cond-mat.mtrl-sci": {
-      "latest_entry_id": "http://arxiv.org/abs/2610.31591v1",
-      "timestamp": "2026-10-23T08:17:00.653739"
+      "latest_entry_id": "http://arxiv.org/abs/2611.31206v1",
+      "timestamp": "2026-11-24T13:23:00.994254"
     },
     "cond-mat.mes-hall": {
       "latest_entry_id": "http://arxiv.org/abs/2610.31508v1",
       "timestamp": "2026-10-23T08:17:10.975258"
     },
     "cond-mat.str-el": {
-      "latest_entry_id": "http://arxiv.org/abs/2610.31653v1",
-      "timestamp": "2026-10-23T08:17:21.418417"
+      "latest_entry_id": "http://arxiv.org/abs/2611.31242v1",
+      "timestamp": "2026-11-24T13:27:45.343978"
     },
     "cond-mat.supr-con": {
-      "latest_entry_id": "http://arxiv.org/abs/2610.31031v1",
-      "timestamp": "2026-10-23T08:17:33.025221"
+      "latest_entry_id": "http://arxiv.org/abs/2611.31242v1",
+      "timestamp": "2026-11-24T13:28:56.007469"
     },
     "cond-mat.dis-nn": {
       "latest_entry_id": "http://arxiv.org/abs/2610.31580v1",
@@ -34,8 +34,8 @@
       "timestamp": "2026-10-23T08:18:14.565543"
     },
     "physics.app-ph": {
-      "latest_entry_id": "http://arxiv.org/abs/2610.31643v1",
-      "timestamp": "2026-10-23T08:18:25.017262"
+      "latest_entry_id": "http://arxiv.org/abs/2611.31206v1",
+      "timestamp": "2026-11-24T13:36:33.701608"
     },
     "physics.optics": {
       "latest_entry_id": "http://arxiv.org/abs/2610.31643v1",
@@ -3285,8 +3285,37 @@
     "2610.31591v1",
     "2610.31622v1",
     "2610.31643v1",
-    "2610.31653v1"
+    "2610.31653v1",
+    "2611.29200v1",
+    "2611.29204v1",
+    "2611.29671v1",
+    "2611.29817v1",
+    "2611.29928v1",
+    "2611.30079v1",
+    "2611.30088v1",
+    "2611.30108v1",
+    "2611.30276v1",
+    "2611.30315v1",
+    "2611.30395v1",
+    "2611.30614v1",
+    "2611.30767v1",
+    "2611.30781v1",
+    "2611.30809v1",
+    "2611.30865v1",
+    "2611.30876v1",
+    "2611.30917v1",
+    "2611.30930v1",
+    "2611.30968v1",
+    "2611.30974v1",
+    "2611.30992v1",
+    "2611.30996v1",
+    "2611.31093v1",
+    "2611.31102v1",
+    "2611.31137v1",
+    "2611.31206v1",
+    "2611.31234v1",
+    "2611.31242v1"
   ],
-  "timestamp": "2026-10-23T08:22:07.278081",
-  "total_results": 82
+  "timestamp": "2026-11-24T13:48:27.233912",
+  "total_results": 29
 }
